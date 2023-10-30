@@ -1,0 +1,9 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "trashOption": "local",
+  "showUnsupportedFiles": true,
+  "promptDelete": true,
+  "attachmentFolderPath": "./assets"
+}
