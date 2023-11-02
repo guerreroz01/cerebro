@@ -1,27 +1,12 @@
 {
   "collapse-filter": false,
-  "search": "tag:#estudios/ortodoncia2  ",
+  "search": "",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:\"Estudios UCAM\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 5780443
-      }
-    },
-    {
-      "query": "path:Libros  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -32,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6607228784692403,
+  "scale": 0.28604214279228063,
   "close": true
 }

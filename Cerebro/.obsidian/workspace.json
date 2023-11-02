@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ec468de48b444dc9",
+        "id": "e5dfd15130171179",
         "type": "tabs",
         "children": [
           {
-            "id": "b7f2bba8a5c8f82a",
+            "id": "ba4fab25ebac2f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/01-11-2023.md",
+                "file": "daily/02-11-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/01-11-2023.md",
+                "file": "daily/02-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/01-11-2023.md",
+                "file": "daily/02-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/01-11-2023.md"
+                "file": "daily/02-11-2023.md"
               }
             }
           },
@@ -166,16 +166,29 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "b7f2bba8a5c8f82a",
+  "active": "ba4fab25ebac2f7b",
   "lastOpenFiles": [
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-    "daily/01-11-2023.md",
-    "assets/Pasted image 20231030225207.png",
-    "assets/Pasted image 20231030224313.png",
-    "assets/Pasted image 20231030223625.png",
-    "assets/Pasted image 20231030223007.png",
-    "assets",
+    "daily/02-11-2023.md",
+    "general knowledge/propelentes nitrocelulósicos.md",
+    "general knowledge/Pólvora.md",
+    "general knowledge/nitrato de potasio.md",
+    "general knowledge/azufre.md",
+    "general knowledge/assets/Pasted image 20231101162824.png",
+    "general knowledge/assets/assets",
+    "general knowledge/carbón vegetal.md",
+    "general knowledge/assets/Pasted image 20231101162639.png",
+    "general knowledge/assets",
+    "general knowledge/mezcla deflagrante.md",
     "daily/30-10-2023.md",
+    "general knowledge",
+    "daily/01-11-2023.md",
+    "daily/27-10-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231030225207.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231030224313.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231030223625.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231030223007.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
     "Estudios UCAM/Ortodoncia/PDF Temas/Tema 7. Cirugía ortognática.pdf",
     "Estudios UCAM/Ortodoncia/PDF Temas/Tema 9. Localización de estructuras.pdf",
@@ -183,11 +196,7 @@
     "Estudios UCAM/Ortodoncia/PDF Temas/tema 5. ANÁLISIS FACIAL.pdf",
     "Estudios UCAM/Ortodoncia/PDF Temas/Tema 4. Desarrollo de la oclusión.pdf",
     "Estudios UCAM/Ortodoncia/PDF Temas/Tema 3. Oclusión normal y maloclusión.pdf",
-    "Estudios UCAM/Ortodoncia/PDF Temas/Tema 2. Crecimiento Craneofacial.pdf",
-    "Estudios UCAM/Ortodoncia/PDF Temas/Seminario 1. Terminología Ortodóncica.pdf",
-    "Estudios UCAM/Ortodoncia/PDF Temas/TEMA 1 PRESENTACIÓN historia ortodoncia.pdf",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/8 Dientes incluidos.md",
-    "daily/27-10-2023.md",
     "daily/29-10-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/2 Aparatología fija a dos bandas, aparatos auxiliares.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/3 Aparatología funcional.md",
@@ -204,17 +213,8 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231028123740.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231028123633.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231028123038.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231028122852.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231028122806.png",
     "daily/26-10-2023.md",
     "hialinización.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Crecimiento y Desarrollo.md",
-    "Estudios UCAM/Ortodoncia/Canvas ortodoncia.canvas",
-    "daily/25-10-2023.md",
-    "Libros/Dinero/Your Money or Your Life.md",
-    "Clase II.md",
-    "daily/22-10-2023.md",
-    "daily/21-10-2023.md",
-    "Clase II división I.md"
+    "Estudios UCAM/Ortodoncia/Canvas ortodoncia.canvas"
   ]
 }
