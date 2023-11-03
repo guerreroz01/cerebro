@@ -108,6 +108,19 @@ Se forma uniendo los puntos [[#Punto Ai (_apical inferior_)|Ai]] y [[#Punto Ii (
 
 ![[Pasted image 20231030225207.png]]
 
+## Análisis del maxilar con respecto a la base del cráneo:
 
+### SNA: 82º +/- 2º
+Steiner utiliza el ángulo SNA para establecer la **posición anteroposterior del maxilar**. está formado por las líneas [[#Línea d85d6f SN|SN]] y NA. Valores por encima de 84º indicarían una posición anterior del maxilar y valores inferiores a 80º una posición del maxilar más posterior de la norma.
 
+### SNB: 80º +/- 2º
+Formado por las líneas [[#Línea d85d6f SN|SN]] y NB localiza la posición anteroposterior de la mandíbula, un valor por encima de 82º indicaría un prognatismo mandibular y un valor menor a 78º un retrognatismo mandibular. ❗Un retrognatismo mandibular a edades tempranas puede reducirse o incluso llegar a compensarse por el crecimiento. ❗
 
+### ANB: 2º +/- 2º
+Es la diferencia entre [[#SNA 82º +/- 2º|SNA]] y [[#SNB 80º +/- 2º|SNB]] e indica la relación anteroposterior de entre ambos maxilares -> indica la clase esquelética: valores superiores a 4º indicaría un [[Clase II]] esquelética y valores negativos menores a 0º indicaría una [[Clase III]] 
+
+### SND: 76º +/- 2º
+Ubica la posición de la mandíbula y el centro del mentón en sentido anteroposterior. <span style="color: red;">Se utiliza el punto D porque el punto B está influenciado por la posición de los incisivos</span>
+
+### Distancia SE: 51 mm
+Esta medida representa la localización sagital del cóndilo mandibular en relación a la base craneal.
