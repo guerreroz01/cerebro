@@ -3,6 +3,8 @@ type: estudios
 tags:
   - estudios/ortodoncia2
 tema: "3"
+banner: "![[ucam.jpg]]"
+banner_y: 0.81333
 ---
 # Aparatología de tracción extraoral:
 Kingsley (1866) y Angle (1888) ya describierón aparatos que se colocaban fuera de la boca con el objetivo de tener un apoyo extraoral para mover los dientes. 

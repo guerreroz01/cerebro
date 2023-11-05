@@ -3,6 +3,9 @@ type: estudios
 tema: "11"
 tags:
   - estudios/ortodoncia1
+banner: "![[ucam.jpg]]"
+banner_y: 0.83333
+banner_icon: 📕
 ---
 # Análisis de cefalométrico de Ricketts
 ## Conceptos a definir dados en clase

@@ -3,6 +3,8 @@ type: estudios
 tags:
   - estudios/ortodoncia2
 tema: "6.2"
+banner: "![[ucam.jpg]]"
+banner_y: 0.82667
 ---
 # Dientes Incluidos
 Un diente incluido es aquel que no ha aparecido en la cavidad oral y permanece retenido en los huesos maxilares más allá de la época en la cual debería haber hecho emergencia normalmente, a pesar de tener un importante grado de formación radicular. _**por tanto se encontrará rodeado del saco pericoronario.**_ 

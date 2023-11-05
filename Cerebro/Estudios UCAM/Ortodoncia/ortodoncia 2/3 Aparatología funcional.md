@@ -3,6 +3,8 @@ tags:
   - estudios/ortodoncia2
 type: estudios
 tema: "3"
+banner: "![[ucam.jpg]]"
+banner_y: 0.80667
 ---
 ## Aparatología funcional:
 - Wolf y Roux primeros en introducir los conceptos

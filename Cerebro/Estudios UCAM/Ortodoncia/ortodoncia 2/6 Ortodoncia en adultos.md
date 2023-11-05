@@ -3,6 +3,8 @@ type: estudios
 tags:
   - estudios/ortodoncia2
 tema: "6"
+banner: "![[ucam.jpg]]"
+banner_y: 0.80334
 ---
 # Ortodoncia en pacientes adultos
 

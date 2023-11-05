@@ -3,6 +3,8 @@ type: estudios
 tags:
   - estudios/ortodoncia2
 tema: "4"
+banner: "![[ucam.jpg]]"
+banner_y: 0.82
 ---
 # Aparatología fija (Brackets)
 En el slot se encuentra toda la información de la prescripción

@@ -4,6 +4,8 @@ tags:
   - estudios/ortodoncia2
   - estudios
 tema: "5"
+banner: "![[ucam.jpg]]"
+banner_y: 0.81666
 ---
 # Retención y Recidiva
 Tanto retención como recidiva son conceptos que van unidos, ya que la retención se lleva a cabo con el objetivo de evitar la recidiva.
