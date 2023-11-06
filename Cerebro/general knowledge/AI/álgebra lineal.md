@@ -32,6 +32,10 @@ La álgebra lineal es una rama de las matemáticas que estudia conceptos tales c
 
 [[Clasificación de los números]]
 
+[[Leyes de potencia]]
+
+
+
 
 ## 1. Sistemas de ecuaciones lineales:
 ### 1.1 Sistemas con dos incógnitas:

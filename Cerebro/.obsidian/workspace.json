@@ -4,51 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d60825c9d0fb46ea",
+        "id": "9ed9864abae7281e",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe5ee66aa8d0383",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "general knowledge/AI/álgebra lineal.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "8d94203fd0e4dbb8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "general knowledge/AI/Leyes de potencia.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "a9b91cdea6ce78eb",
+            "id": "74ee187fc0234470",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/05-11-2023.md",
+                "file": "daily/06-11-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -126,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/05-11-2023.md",
+                "file": "daily/06-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/05-11-2023.md",
+                "file": "daily/06-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/05-11-2023.md"
+                "file": "daily/06-11-2023.md"
               }
             }
           },
@@ -180,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5,
-    "collapsed": true
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,9 +165,11 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "a9b91cdea6ce78eb",
+  "active": "74ee187fc0234470",
   "lastOpenFiles": [
+    "daily/06-11-2023.md",
     "general knowledge/AI/Leyes de potencia.md",
+    "daily/05-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
@@ -214,7 +185,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
-    "daily/05-11-2023.md",
     "general knowledge/AI/álgebra lineal.md",
     "general knowledge/AI/Clasificación de los números.md",
     "general knowledge/AI/explicación de raíz cuadrada y número al cuadrado.md",
