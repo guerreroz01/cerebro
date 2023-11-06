@@ -41,6 +41,7 @@ Son dispositivos que se pueden retirar en situaciones determinadas o durante la 
 #### Base conectora
 Generalmente suele ser de acrílico. Se apoya en los cuellos dentarios ocupando generalmente todo el paladar en la arcada inferior y todo el reborde alveolar en la arcada inferior.
 
+
 ##### Funciones Principales
 1. Sirve como anclaje de retención de la placa.
 2. Sujeción de los elementos activos y pasivos.
