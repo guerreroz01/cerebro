@@ -26,16 +26,24 @@ banner_icon: 📕
 
 ## Campos de la cefalometría de Ricketts:
 1. Campo I
-	- [[#Campo I problema dentario|Problema dentario]] 
-2. Campo II
-	- **Relación maxilomandibular**
-3. Campo III
-	 - **Problema dentoesqueletal**
-4. Campo IV
+	- [[#Campo I problema dentario|Problema dentario]]
+		- [[#Extrusión del incisivo inferior 1.25 mm +/- 2|Extrusión del incisivo inferior]]
+		- [[#Ángulo interincisivo 130º +/- 10º|Ángulo interincisivo]]
+		- [[#Correspondencia del incisivo superior y el eje facial]]
+1. Campo II
+	- [[#Campo II Relación maxilomandibular|Relación maxilomandibular]]
+		- [[#Convexidad 2 mm a los 9 años +/- 2 disminuye 0.2 mm por año|Convexidad]]
+		- [[#Altura facial inferior 47º +/-4º constante con la edad|Altura facial inferior]]
+1. Campo III
+	 - [[#Campo III problema dentoesqueletal|Problema dentoesqueletal]]
+		 - [[#Protrusión del incisivo inferior 1 mm +/-2 mm|Protrusión del incisivo inferior]]
+		 - [[#Inclinación del incisivo inferior 22º +/- 4º|Inclinación del incisivo inferior]]
+		 - [[#Posición del molar superior Edad del paciente +3 mm +/- 3 mm con un máximo de 21 mm|Posición del molar superior]]
+1. Campo IV
 	- **Problema estético**
-5. Campo V
+2. Campo V
 	- **Relación craneofacial**
-6. Campo VI
+3. Campo VI
 	- **Problema estructural interno**
 
 ## Campo I problema dentario:
@@ -64,3 +72,50 @@ Por lo tanto, cuanto más dolicofacial sea el paciente, más vertical suele ser 
 
 ![[Pasted image 20231106230822.png]]
 
+## Campo II Relación maxilomandibular:
+
+### Convexidad: 2 mm a los 9 años +/- 2 disminuye 0.2 mm por año
+Es la distancia entre el [[10 Análisis de Steiner#Punto A|punto A]] y el plano facial línea Na-Pg. Esta medida es modificable por el tratamiento ortopédico y ortodóncico.
+
+La alteración de esta medida nos habla solamente de una mala relación entre el maxilar y la mandíbula sin aclararnos cuál es el responsable del problema.
+
+Valores mayores que la norma definen un **patrón de [[Clase II]]** y menores de[[Clase III]]
+
+>[!danger] ❗
+>Para un diagnóstico más profundo habría que evaluar la posición del punto A y Pg independientemente, con las medidas de la [[#Profundidad maxilar]] y [[#Profundidad facial]]
+
+![[Pasted image 20231107124010.png]]
+
+### Altura facial inferior: 47º +/-4º constante con la edad
+Es un ángulo formado por los planos Xi-ENA y Xi-Pm
+
+Variaciones en su valor deben atribuirse al tratamiento.
+⚠️ Todas las maniobras que tienden a abrir el eje facial harán lo mismo con la altura facial inferior y viceversa.
+
+Valores altos indican divergencia entre la mandíbula y el maxilar superior, corresponden a patrones dolicofaciales con musculatura débil, además pueden indicar mordida abierta. Valores menores corresponden a un patrón braquifacial.
+![[Pasted image 20231107124557.png]]
+
+## Campo III problema dentoesqueletal:
+
+### Protrusión del incisivo inferior: 1 mm +/-2 mm
+Se mide como la distancia entre el borde incisal del incisivo inferior y el plano A-Pg ==medida paralela al plano oclusal==.
+
+Esta medida describe la posición del Incisivo inferior en el plano sagital. +1 mm con respecto al plano dentario A-Pg está asociada con la estética y la estabilidad y constituye un objetivo de tratamiento.
+
+**Indica el límite anterior de la arcada dentaria inferior.**
+![[Pasted image 20231107125216.png]]
+
+### Inclinación del incisivo inferior: 22º +/- 4º
+Se mide como el ángulo formado por el eje del incisivo inferior y el plano A-Pg.
+
+Esta medida está relacionada con la estabilidad del incisivo inferior. Indicándonos las limitaciones de tratamiento referente al cambio de posición de este diente.
+
+![[Pasted image 20231107125449.png]]
+
+### Posición del molar superior: Edad del paciente +3 mm +/- 3 mm con un máximo de 21 mm
+Se mide desde la cara distal del 1 er molar a la línea vertical pterigoidea PTv medida de forma perpendicular a la misma.
+
+>[!warning] Ptv
+>La vertical pterigoidea indica el límite posterior del maxilar superior. Esta medida determina si la relación molar alterada es debida a la posición del molar superior o inferior.
+
+21 mm para un paciente adulto indica el suficiente espacio para la correcta erupción del segundo molar y tercer molar, esta medida alerta sobre la posibilidad de impactación de los cordales superiores y puede ayudar en la decisión de extracciones.
