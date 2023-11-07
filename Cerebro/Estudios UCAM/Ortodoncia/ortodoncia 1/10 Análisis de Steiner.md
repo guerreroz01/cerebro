@@ -4,7 +4,7 @@ tema: "10"
 tags:
   - estudios/ortodoncia1
 banner: "![[ucam.jpg]]"
-banner_y: 0.81333
+banner_y: 0.88
 banner_icon:
 ---
 # Análisis cefalométrico de Steiner
@@ -111,7 +111,7 @@ Se forma uniendo los puntos [[#Punto Ai (_apical inferior_)|Ai]] y [[#Punto Ii (
 
 ![[Pasted image 20231030225207.png]]
 
-## Análisis del maxilar con respecto a la base del cráneo:
+## Análisis del maxilar y mandíbula con respecto a la base del cráneo:
 
 ### SNA: 82º +/- 2º
 Steiner utiliza el ángulo SNA para establecer la **posición anteroposterior del maxilar**. está formado por las líneas [[#Línea d85d6f SN|SN]] y NA. Valores por encima de 84º indicarían una posición anterior del maxilar y valores inferiores a 80º una posición del maxilar más posterior de la norma.
@@ -125,5 +125,64 @@ Es la diferencia entre [[#SNA 82º +/- 2º|SNA]] y [[#SNB 80º +/- 2º|SNB]] e i
 ### SND: 76º +/- 2º
 Ubica la posición de la mandíbula y el centro del mentón en sentido anteroposterior. <span style="color: red;">Se utiliza el punto D porque el punto B está influenciado por la posición de los incisivos</span>
 
-### Distancia SE: 51 mm
+### Distancia SE: 22 mm
 Esta medida representa la localización sagital del cóndilo mandibular en relación a la base craneal.
+
+### Distancia SL: 51 mm
+Nos indica el tamaño del cuerpo mandibular.
+
+### Ángulo del plano mandibular: 32º
+Nos indica la inclinación de la mandíbula con respecto a la base del cráneo. Cuanto mayor sea este ángulo tendremos un crecimiento **más vertical** y una distancia SL más pequeña
+
+> [!warning] SL, SE y ángulo del plano mandibular
+>En conjunto estos tres valores nos darán información sobre la dirección del crecimiento. 
+
+![[Pasted image 20231106222046.png]]
+
+
+
+
+
+## Análisis de los dientes con respecto a sus bases apicales:
+
+### Incisivo superior:
+Para situar el incisivo superior en relación a su base ósea, Steiner utiliza una medida lineal y otra angular.
+
+#### Distancia del punto Cs a la [[#Línea <span style="color red;">NA</span>|línea NA]]: +4 mm
+El punto Cs debe ubicarse por delante de la línea SN 4 mm.
+
+#### Ángulo del incisivo superior: 22º
+Se mide el ángulo formado entre el eje del incisivo superior y la [[#Línea <span style="color red;">NA</span>|línea NA]] dando como resultado el valor de la inclinación del incisivo superior con respecto a su base apical.
+
+### Incisivo inferior:
+Igual que el incisivo superior Steiner también utiliza dos valores para situar el incisivo inferior
+
+#### Distancia del punto Ci a la [[#Línea <span style="color green">NB</span>|línea NB]]: +4 mm
+Indica el valor de protrusión del incisivo inferior y su correcta posición de equilibrio.
+
+### Ángulo del incisivo inferior: 25º
+Sitúa el la proinclinación o retroinclinación del incisivo inferior con respecto a su base mandibular.
+
+### Relación de Holdaway: 1:1
+Steiner usa la relación de Holdaway como una relación estética y de equilibrio entre la posición del incisivo inferior y el relieve del mentón. Para Holdaway la distancia del punto más anterior del incisivo inferior a la [[#Línea <span style="color green">NB</span>|línea NB]] **debe ser igual (_guardar relación 1:1_) a la distancia del punto Pg a la misma línea**.
+
+Holdaway no da valores absolutos a estas distancias, solamente considera que deben ser iguales en condiciones de normalidad. 
+
+>[!danger] Relación de Holdaway
+>Steiner utiliza la relación de Holdaway para la planificación del tratamiento (_cajetín de Steiner_).
+
+### Ángulo interincisivo: 131º
+Para completar el estudio de la inclinación de los incisivos, Steiner utiliza el ángulo interincisivo descrito por Downs.
+
+### Plano oclusal: 14º
+El ángulo del plano oclusal de Steiner con la [[#Línea d85d6f SN|línea SN]] situaría los dientes en oclusión y nos daría información de la inclinación del plano oclusal con respecto a la base del cráneo. ==Cuando es correcto se recomienda no modificarlo para conseguir una mayor estabilidad==.
+
+![[Pasted image 20231106224221.png]]
+
+## Análisis de los tejidos blandos:
+Steiner consideraba que en condiciones normales ambos labios debían tocar la línea S, que iba desde el punto más prominente de la barbilla (Pg') al punto medio de la columela nasal (Cm).
+
+Por tanto los puntos Ls y Li deben situarse sobre la Línea S. Si quedasen por delante de dicha línea tendríamos unos labios protruidos, mientras que si quedaran por detrás indicarían retrusión labial.
+
+![[Pasted image 20231106224615.png]]
+
