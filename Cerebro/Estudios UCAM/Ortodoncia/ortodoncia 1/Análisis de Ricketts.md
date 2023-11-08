@@ -5,9 +5,10 @@ tags:
   - estudios/ortodoncia1
 banner: "![[ucam.jpg]]"
 banner_y: 0.83333
-banner_icon: 📕
+banner_icon:
 ---
 # Análisis de cefalométrico de Ricketts
+___
 ## Conceptos a definir dados en clase
 - [x] Definir los campos de la cefalometría 
 - [x] Relación maxilomandibular -> _convexidad,_ el [[10 Análisis de Steiner|ANB de Steiner]] 
