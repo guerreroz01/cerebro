@@ -19,3 +19,8 @@
 >Un número cuyo cuadrado genera un número negativo.
 >Ej: raíz cuadrada de -5 si lo elevas al cuadrado te da -5 porque la raíz se cancela con el cuadrado.
 >[[explicación de raíz cuadrada y número al cuadrado|¿por qué una raíz cuadrada se cancela cuando el número se eleva al cuadrado?]]
+
+
+___ 
+# Referencias
+- [[El origen de los número imaginarios]]

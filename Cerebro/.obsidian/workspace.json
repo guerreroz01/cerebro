@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f7adc06060937fce",
+        "id": "899dc097751ba838",
         "type": "tabs",
         "children": [
           {
-            "id": "57e358b38a9b79e5",
+            "id": "2772868670729037",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+                "file": "general knowledge/AI/El origen de los número imaginarios.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+                "file": "general knowledge/AI/El origen de los número imaginarios.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+                "file": "general knowledge/AI/El origen de los número imaginarios.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md"
+                "file": "general knowledge/AI/El origen de los número imaginarios.md"
               }
             }
           },
@@ -147,12 +147,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 306.5,
-    "collapsed": true
+    "width": 645.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,8 +166,23 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "57e358b38a9b79e5",
+  "active": "2772868670729037",
   "lastOpenFiles": [
+    "general knowledge/AI/Integrales.md",
+    "general knowledge/AI/Leyes de potencia.md",
+    "general knowledge/AI/cálculo.md",
+    "general knowledge/AI/álgebra lineal.md",
+    "general knowledge/AI/El origen de los número imaginarios.md",
+    "general knowledge/AI/Clasificación de los números.md",
+    "general knowledge/AI/Ecuaciones de segundo grado.md",
+    "general knowledge/AI/método de reducción gaussiana.md",
+    "daily/03-11-2023.md",
+    "daily/23-10-2023.md",
+    "daily/20-10-2023.md",
+    "daily/07-11-2023.md",
+    "daily/08-11-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108175911.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108174853.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108162009.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108161307.png",
@@ -178,34 +192,19 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108153510.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108153208.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108151712.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108145519.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108145117.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
-    "daily/08-11-2023.md",
-    "daily/07-11-2023.md",
-    "Marketing explicado por salomondrin.md",
-    "general knowledge/AI/Integrales.md",
+    "general knowledge/Marketing explicado por salomondrin.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "daily/06-11-2023.md",
     "general knowledge/azufre.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
-    "daily/03-11-2023.md",
     "daily/04-11-2023.md",
     "daily/05-11-2023.md",
-    "daily/20-10-2023.md",
-    "daily/23-10-2023.md",
     "daily/27-10-2023.md",
     "daily/30-10-2023.md",
-    "general knowledge/AI/Leyes de potencia.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/2 Aparatología fija a dos bandas, aparatos auxiliares.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/8 Dientes incluidos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/7 Retención y Recidiva.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/6 Ortodoncia en adultos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/5 Aparatología fija técnicas.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/4 Aparatología de tracción extraoral.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/3 Aparatología funcional.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
     "general knowledge/AI/assets",

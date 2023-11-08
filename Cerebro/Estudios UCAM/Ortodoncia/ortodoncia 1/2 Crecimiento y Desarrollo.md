@@ -170,4 +170,35 @@ Podemos distinguir 2 tipos de osificación:
 
 ![[Pasted image 20231108174853.png]]
 
-A los 4 meses de vida intrauterina llegan elementos v
+A los 4 meses de vida intrauterina llegan elementos vasculares a puntos del crondrocráneo y resto de partes del primitivo esqueleto cartilaginoso. Estas zonas se convierten en **centros de osificación**.
+
+❗El cartílago puede crecer intersticialmente, pero el hueso no. El cartílago se transforma en hueso, apareciendo islas de hueso en un mar de cartílago. El cartílago sigue creciendo rápidamente y a la vez es reemplazado por hueso. La cantidad de hueso va aumentando mientras que la cantidad relativa de cartílago disminuye.
+
+Con el paso del tiempo, en el antiguo condrocráneo veremos pequeñas áreas de cartílago (_sincondrosis_) y el reto hueso. 
+
+Existen tres sincondrosis:
+1. Esfeno-etmoidea
+2. Interesfenoidea
+3. Esfeno-occipital.
+
+![[Pasted image 20231108175911.png]]
+
+#### Osificación intramembranosa:
+Consiste en la secreción de matriz ósea directamente en el tejido conjuntivo, _sin la formación intermedia de cartílago_.
+
+Se puede encontrar osificación intramembranosa en:
+1. Bóveda craneal.
+2. Huesos de la cara, maxilar y mandíbula.
+3. Crecimiento a nivel de las suturas que unen los huesos de la cara y bóveda craneal en respuestas a las fuerzas tensionales originadas por el crecimiento de los tejidos blandos circundantes.
+
+En este tipo de osificación también existen los procesos de:
+- Actividad perióstica:
+	- Aposición de nuevo hueso en la superficie externa.
+	- Cierta reabsorción superficial _remodelado_ para mantener la forma mientras crece.
+- Actividad endóstica:
+	- Mantener la arquitectura interna _grosor de las paredes de los huesos largos_.
+
+>[!tip] Huesos largos
+>Los huesos largos crecen en longitud mediante _osificación endocondral_ localizada en la placa epifisaria _zona de cartílago no calcificado_ y en anchura por osificación intramembranosa mediante los procesos de aposición-reabsorción en el periostio-endostio.
+
+## Lugares y tipos de crecimiento en el complejo craneofacial.

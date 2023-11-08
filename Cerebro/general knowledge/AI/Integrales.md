@@ -1,4 +1,4 @@
-<iframe width="860" height="540" src="https://www.youtube.com/embed/M3Zx9a9gO0c?si=rk5okNE54_yeSMR6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M3Zx9a9gO0c?si=rk5okNE54_yeSMR6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Funciones Integrales
 

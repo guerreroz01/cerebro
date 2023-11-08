@@ -18,3 +18,7 @@ El cálculo es una parte fundamental para entender los algoritmos de inteligenci
 - [ ] Series y secuencias
 - [ ] Optimización
 - [ ] Funciones multivariables
+
+___
+# Referencias
+- [[Integrales]]
