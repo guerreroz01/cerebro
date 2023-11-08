@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "177553e0117a9562",
+        "id": "f7adc06060937fce",
         "type": "tabs",
         "children": [
           {
-            "id": "f401dbe2908e4702",
+            "id": "57e358b38a9b79e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
-                "mode": "preview",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md"
               }
             }
           },
@@ -146,11 +147,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 521.5
+    "width": 306.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,28 +167,29 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "f401dbe2908e4702",
+  "active": "57e358b38a9b79e5",
   "lastOpenFiles": [
-    "daily/08-11-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108174853.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108162009.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108161307.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108160901.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108155958.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108155631.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108153510.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108153208.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108151712.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108145519.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108145117.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107220946.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107220130.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107215437.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107215358.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107215345.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107214536.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107214456.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107211421.png",
+    "daily/08-11-2023.md",
     "daily/07-11-2023.md",
     "Marketing explicado por salomondrin.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107125449.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107125216.png",
     "general knowledge/AI/Integrales.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "daily/06-11-2023.md",
     "general knowledge/azufre.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Crecimiento y Desarrollo.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "daily/03-11-2023.md",
     "daily/04-11-2023.md",
     "daily/05-11-2023.md",
@@ -205,7 +208,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/3 Aparatología funcional.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
-    "general knowledge/AI/álgebra lineal.md",
     "general knowledge/AI/assets",
     "general knowledge/AI",
     "general knowledge/assets/assets",
