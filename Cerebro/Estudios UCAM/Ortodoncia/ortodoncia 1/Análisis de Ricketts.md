@@ -10,16 +10,16 @@ banner_icon: 📕
 # Análisis de cefalométrico de Ricketts
 ## Conceptos a definir dados en clase
 - [x] Definir los campos de la cefalometría 
-- [ ] Relación maxilomandibular -> _convexidad,_ el [[10 Análisis de Steiner|ANB de Steiner]] 
-- [ ] Relación maxilomandibular _vertical_ -> _altura facial inferior_ : patrón facial, el [[10 Análisis de Steiner|PM a SN de Steiner]] 
-- [ ] Problema estético -> _protrusión labial_
-- [ ] Relación craneofacial -> _profundidad maxilar_ [[10 Análisis de Steiner#SNA|SNA Steiner]]
-- [ ] Problema craneofacial -> _profundidad facial_ : localiza el mentón en sentido sagital [[10 Análisis de Steiner#SNB|SNB Steiner]] 
-- [ ] Problema esquelético -> Relacionar: _Convexidad_, _profundidad maxilar_, _profundidad facial_
-- [ ] Ángulo del plano mandibular
-- [ ] Arco mandibular -> significa forma mandibular cierre o apertura del ángulo goníaco
-- [ ] Problema dentoesqueletal -> _protrusión del incisivo inferior_,  _angulo del incisivo inf_
-- [ ]  _posición del molar superior_ valora la posición de la arcada superior en relación anteroposterior
+- [x] Relación maxilomandibular -> _convexidad,_ el [[10 Análisis de Steiner|ANB de Steiner]] 
+- [x] Relación maxilomandibular _vertical_ -> _altura facial inferior_ : patrón facial, el [[10 Análisis de Steiner|PM a SN de Steiner]] 
+- [x] Problema estético -> _protrusión labial_
+- [x] Relación craneofacial -> _profundidad maxilar_ [[10 Análisis de Steiner#SNA|SNA Steiner]]
+- [x] Problema craneofacial -> _profundidad facial_ : localiza el mentón en sentido sagital [[10 Análisis de Steiner#SNB|SNB Steiner]] 
+- [x] Problema esquelético -> Relacionar: _Convexidad_, _profundidad maxilar_, _profundidad facial_
+- [x] Ángulo del plano mandibular
+- [x] Arco mandibular -> significa forma mandibular cierre o apertura del ángulo goníaco
+- [x] Problema dentoesqueletal -> _protrusión del incisivo inferior_,  _angulo del incisivo inf_
+- [x]  _posición del molar superior_ valora la posición de la arcada superior en relación anteroposterior
 - [x] _extrusión del incisivo inferior_
 - [x] _ángulo interincisivo_ 
 - [x] Correspondencia del incisivo superior y el eje facial
@@ -40,11 +40,17 @@ banner_icon: 📕
 		 - [[#Inclinación del incisivo inferior 22º +/- 4º|Inclinación del incisivo inferior]]
 		 - [[#Posición del molar superior Edad del paciente +3 mm +/- 3 mm con un máximo de 21 mm|Posición del molar superior]]
 1. Campo IV
-	- **Problema estético**
-2. Campo V
-	- **Relación craneofacial**
-3. Campo VI
-	- **Problema estructural interno**
+	- [[#Campo IV problema estético|Problema estético]]
+		- [[#Protrusión labial -2 mm a los 8.5 años +/- 2 disminuye 0.2 mm x año|Protrusión labial]]
+1. Campo V
+	- [[#Campo V relación craneofacial 90º +/- 3º no varía con el crecimiento|Relación craneofacial]]
+		- [[#Profundidad maxilar 90º +/- 3º no varía con el crecimiento|Profundidad maxilar]]
+		- [[#Profundidad facial 87º a los 9 años +/- 3º y aumenta 0.33º por año|Profundidad facial]]
+		- [[#Ángulo del plano mandibular 26º a los 9 años +/- 4º disminuye 0,3 º x año.|Ángulo del plano mandibular]]
+		- [[#Eje facial 90º +/- 3º constante con el crecimiento|Eje facial]]
+1. Campo VI
+	- [[#Campo VI estructuras internas|Estructuras internas]]
+		- [[#Arco mandibular 26º a los 8.5 años +/- 4º aumenta 0.5º|Arco mandibular]]
 
 ## Campo I problema dentario:
 ### Extrusión del incisivo inferior: 1.25 mm +/- 2
@@ -119,3 +125,60 @@ Se mide desde la cara distal del 1 er molar a la línea vertical pterigoidea PTv
 >La vertical pterigoidea indica el límite posterior del maxilar superior. Esta medida determina si la relación molar alterada es debida a la posición del molar superior o inferior.
 
 21 mm para un paciente adulto indica el suficiente espacio para la correcta erupción del segundo molar y tercer molar, esta medida alerta sobre la posibilidad de impactación de los cordales superiores y puede ayudar en la decisión de extracciones.
+
+## Campo IV problema estético
+
+### Protrusión labial: -2 mm a los 8.5 años +/- 2 disminuye 0.2 mm x año
+Se mide como la distancia desde la parte más anterior del labio inferior al plano estético. Indica la relación entre los labios por una parte y la nariz y el mentón por otra.
+
+![[Pasted image 20231107211421.png]]
+
+## Campo V relación craneofacial: 
+
+### Profundidad maxilar: 90º +/- 3º no varía con el crecimiento
+Es el ángulo formado por el plano de Frankfort y la línea Na-A
+
+Un cambio sólo puede deberse a la mecánica del tratamiento o estar asociado a un hábito como la succión digital. Indica la posición del maxilar superior en sentido sagital. (_Protrusión o retrusión esqueletal del maxilar superior._)
+
+![[Pasted image 20231107214456.png]]
+
+### Profundidad facial: 87º a los 9 años +/- 3º y aumenta 0.33º por año
+Es el ángulo formado por el plano facial (_Na-Pg_) y el plano de Frankfort
+
+El aumento de 0.33º por año corresponde al aumento de tamaño de la mandíbula más que la base craneal con el crecimiento normal. La mandíbula crece 1.6 mm por año y la base craneal 0.8 mm por año
+
+|Crecimiento Mandíbula |Crecimiento Base Craneal |
+|:-----------:|:-------------:|
+|1.6 mm por año|0.8 mm por año|
+![[Pasted image 20231107214536.png]]
+
+
+### Ángulo del plano mandibular: 26º a los 9 años +/- 4º disminuye 0,3 º x año.
+Está formado por el plano mandibular y el plano de Frankfort
+
+Aumenta 0,3º por año como resultado arquial de la mandíbula
+
+Valores bajos corresponden a los pacientes braquifaciales, con mandíbula cuadrada, musculatura potente y sobremordida profunda. 
+
+Un valor alto corresponde a un biotipo dolicofacial y está indicando una morfología mandibular con un ángulo muy obtuso, una implantación mandibular rotada en sentido de las agujas del reloj o una combinación de ambas cosas.
+
+![[Pasted image 20231107215437.png]]
+
+
+### Eje facial: 90º +/- 3º constante con el crecimiento
+Es el ángulo formado por el eje facial _línea CC-Gn_ y el plano Ba-Na
+
+Si hubiera cambio significativo en el tiempo en este valor se debe atribuir al tratamiento. Indica la dirección de crecimiento del mentón. Importante en la determinación del biotipo facial.
+
+![[Pasted image 20231107220130.png]]
+
+
+## Campo VI  estructuras internas
+
+### Arco mandibular: 26º a los 8.5 años +/- 4º aumenta 0.5º
+Ángulo formado por el eje del cuerpo (_Xi-Pm_) y el eje condilar (_DC-Xi_)
+
+Aumenta 0.5º al año como consecuencia del crecimiento arquial de la mandíbula. Es un indicador de la forma de la mandíbula y de las características musculares del paciente (_Biotipo facial._)
+
+![[Pasted image 20231107220946.png]]
+

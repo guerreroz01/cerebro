@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5e7f2a50641c919c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Marketing explicado por salomondrin.md",
+                "file": "daily/08-11-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marketing explicado por salomondrin.md",
+                "file": "daily/08-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marketing explicado por salomondrin.md",
+                "file": "daily/08-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marketing explicado por salomondrin.md"
+                "file": "daily/08-11-2023.md"
               }
             }
           },
@@ -180,22 +167,24 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "5e7f2a50641c919c",
+  "active": "78d28ab53f1cdc9d",
   "lastOpenFiles": [
-    "Marketing explicado por salomondrin.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+    "daily/08-11-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107220946.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107220130.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107215437.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107215358.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107215345.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107214536.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107214456.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107211421.png",
+    "daily/07-11-2023.md",
+    "Marketing explicado por salomondrin.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107125449.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107125216.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107124557.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107124010.png",
     "general knowledge/AI/Integrales.md",
-    "daily/07-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231106230822.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231106225802.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231106224615.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231106224221.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231106222046.png",
     "daily/06-11-2023.md",
     "general knowledge/azufre.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
@@ -216,11 +205,9 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/5 Aparatología fija técnicas.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/4 Aparatología de tracción extraoral.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/3 Aparatología funcional.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
     "general knowledge/AI/álgebra lineal.md",
-    "general knowledge/AI/Clasificación de los números.md",
     "general knowledge/AI/assets",
     "general knowledge/AI",
     "general knowledge/assets/assets",
