@@ -12,7 +12,7 @@ ___
 Presentado por Cecil C. Steiner en 1953 y revisado en 1959, incluye elementos de otros autores como Downs o Holdaway.
 
 > [!note] Plano de referencia
-> Steiner utiliza como plano de referencia el la línea SN, que representa la fosa craneal anterior, motivado por la facilidad de su localización a diferencia de los puntos del plano de Frankfort.
+> Steiner utiliza como plano de referencia es la línea SN, que representa la fosa craneal anterior, motivado por la facilidad de su localización a diferencia de los puntos del plano de Frankfort.
 
 ^d85d6f
 

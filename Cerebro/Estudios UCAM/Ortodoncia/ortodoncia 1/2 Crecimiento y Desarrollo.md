@@ -202,3 +202,111 @@ En este tipo de osificación también existen los procesos de:
 >Los huesos largos crecen en longitud mediante _osificación endocondral_ localizada en la placa epifisaria _zona de cartílago no calcificado_ y en anchura por osificación intramembranosa mediante los procesos de aposición-reabsorción en el periostio-endostio.
 
 ## Lugares y tipos de crecimiento en el complejo craneofacial.
+1. [[#Bóveda craneal]]: Huesos que cubren la superficie superior y lateral del cerebro.
+2. [[#Base craneal]]: Suelo óseo del cerebro. Línea que divide el neurocráneo de la cara _esplacnocráneo_.
+3. [[#Complejo nasomaxilar]]: Maxilar superior, huesos asociados a él y la dentición maxilar.
+4. [[#Mandíbula]]: Hueso mandibular y la dentición.
+
+![[Pasted image 20231109132527.png]]
+
+### Bóveda craneal:
+Conformada por el hueso frontal, parietales, porción escamosa de los huesos temporales y el occipital.
+
+- El crecimiento es a nivel de las suturas. En mayor medida.
+- Se produce cierto remodelado superficial. Reabsorción interna-aposición externa en menor medida.
+
+> [!tip] Formación
+> La bóveda craneal la forman los huesos planos que se forman directamente de hueso intramembranoso, sin precursor cartílaginoso.
+
+👀 Sigue el patrón neural, siendo desplazados por el crecimiento del cerebro.
+
+En el momento del nacimiento, estos huesos están desplazados mediante un tejido conectivo laxo (_fontanelas_), las cuales permiten la deformación del cráneo durante el parto.
+
+#### Fontanelas:
+En total existen 6 fontanelas:
+- 2 esfenoideas
+- 2 mastoideas
+- 1 fontanela anterior o _bregmática_
+- 1 fontanela posterior o _lambdoidea_
+
+![[Pasted image 20231109133404.png]]
+
+Tras el nacimiento, la aposición de nuevo hueso en los bordes de las fontanelas va eliminando estos espacios abiertos (_18 meses vida intrauterina_) terminando de fusionarse en la edad adulta.
+
+En torno a los 6 años de vida, en la bóveda craneal se ha desarrollado claramente las corticales externa-interna que delimitan la esponjosa [[diploe]][^1].
+
+### Base craneal
+Se produce una en ella osificación endocondral, existe un cartílago inicial que se transforma en hueso.
+
+- Los centros de osificación durante la vida embrionaria marcan la ubicación definitiva del [[etmoides]], cuerpo del [[esfenoides]] y porción basilar [[occipital]].
+
+- Va formándose hueso y entre ellos queda una banda de cartílago denominado _sincondrosis_.
+	- Sincondrosis esfeno-etmoidal
+	- Sincondrosis interesfenoidal
+	- [[#Sincondrosis esfeno-occipital]].
+
+- Son uniones sin movilidad, a diferencia de las articulaciones de las extremidades, siendo la mandíbula la única excepción.
+
+- Está influenciada por el [[#Patrón de crecimiento neural]] y [[#Patrón de crecimiento general o somático|somático]].
+
+- Según nos vamos alejando de la línea media el crecimiento sutural y remodelado se va haciendo más importante.
+
+- El cartílago de la base del cráneo es más complejo que el de las placas epifisárias de un hueso largo. Histológicamente tiene el aspecto de un placa doble.
+
+![[Pasted image 20231109135849.png]]
+
+>[!danger] Importante
+>La sincondrosis más importante es la **Esfeno-occipital** por su crecimiento hasta los 15 años, fusionando definitivamente alrededor de los 20 años. Las otras sincondrosis cierran entre los 6 - 7 años.
+
+#### Sincondrosis esfeno-occipital:
+Se encuentra localizada por delante del complejo temporo-mandibular ❗☠️ y por detrás de la fosa craneal anterior.
+
+Su crecimiento es importante porque influye en el patrón de crecimiento facial. Su crecimiento condiciona la relación del maxilar y la mandíbula, ya que el complejo nasomaxilar se encuentra debajo de la fosa craneal anterior y la mandíbula se articula con el cráneo a través del complejo temporo-mandibular que se encuentra por detrás y lateralmente a la sincondrosis esfeno-occipital.
+
+> [!tip] Una base craneal larga predispone a una [[Clase II]]
+
+![[Pasted image 20231109140951.png]]
+
+> [!tip] El ángulo también influye
+> Un ángulo más cerrado -> [[Clase III]]
+> Un ángulo más abierto -> [[Clase II]]
+
+![[Pasted image 20231109141114.png]]
+
+Se considera que la parte anterior de la base del cráneo _(comprendida entre la parte anterior de la silla turca y la cortical interna del hueso frontal)_ permanece estable a partir de los 7 años, siendo utilizada como referencia en los análisis cefalométricos [[10 Análisis de Steiner#^d85d6f|Sella-Nasion]]  
+
+No obstante la distancia entre los 2 puntos [[10 Análisis de Steiner#Punto S (_sella_)|punto S]] y [[10 Análisis de Steiner#Punto N (_nasión_)|punto N]] sigue aumentando hasta los 7 años por:
+- Desplazamiento hacia adelante y abajo del [[10 Análisis de Steiner#Punto N (_nasión_)|punto N]] por aposición ósea externa en el hueso frontal.
+- Aumento del volumen del seno frontal.
+- Reabsorción de la parte **posterior** de la silla turca, por lo que [[10 Análisis de Steiner#Punto S (_sella_)|punto S]]  se va desplazando hacia atrás.
+
+![[Pasted image 20231109142120.png]]
+
+
+## Complejo nasomaxilar:
+Está compuesto por diferentes huesos:
+- Huesos palatinos.
+- Huesos malares.
+- Etmoides.
+- Vómer.
+- Huesos Nasales.
+- Huesos Maxilares.
+
+### Crecimiento del complejo nasomaxilar:
+El crecimiento se da por 2 mecanismos principalmente.
+
+#### Desplazamiento pasivo:
+Desplazamiento pasivo de toda la zona debido al crecimiento de la base del cráneo que desplaza el complejo nasomaxilar hacia delante. <span style="color:red;">Especialmente importante hasta los 7 años de vida</span>. Entre los 7 - 15 años de vida solo se encuentra activa la [[#Sincondrosis esfeno-occipital]] por lo que sólo 1/3 del movimiento anterior del maxilar superior durante este periodo es por desplazamiento pasivo.
+
+#### Crecimiento activo:
+Del propio maxilar superior y de la nariz mediante crecimiento de las suturas y remodelado superficial.
+
+![[Pasted image 20231109143219.png]]
+
+
+### Crecimiento del Maxilar superior:
+Se desarrolla en la vida postnatal enteramente mediante [[#Osificación intramembranosa]], lateralmente a la capsula nasal cartilaginosa y deriva de los procesos maxilares del primer  arco branquial y del proceso frontal.
+
+
+# Referencias
+[^1]: diploe: [[diploe]]
