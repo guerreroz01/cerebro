@@ -4,22 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "899dc097751ba838",
+        "id": "a02173f9846f79fa",
         "type": "tabs",
         "children": [
           {
-            "id": "2772868670729037",
+            "id": "9ac9bea1552af711",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general knowledge/AI/Red Neuronal.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "c7721e767e7f5376",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "general knowledge/AI/El origen de los número imaginarios.md",
+                "file": "daily/09-11-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -97,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general knowledge/AI/El origen de los número imaginarios.md",
+                "file": "daily/09-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "general knowledge/AI/El origen de los número imaginarios.md",
+                "file": "daily/09-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "general knowledge/AI/El origen de los número imaginarios.md"
+                "file": "daily/09-11-2023.md"
               }
             }
           },
@@ -166,13 +180,21 @@
       "copilot:Copilot Chat": false
     }
   },
-  "active": "2772868670729037",
+  "active": "c7721e767e7f5376",
   "lastOpenFiles": [
+    "general knowledge/AI/Red Neuronal.md",
+    "daily/09-11-2023.md",
+    "general knowledge/AI/Red Neuronal.canvas",
+    "general knowledge/AI/función de pérdida.md",
+    "general knowledge/AI/descenso de gradiente.md",
+    "general knowledge/AI/assets/Pasted image 20231108230233.png",
+    "general knowledge/AI/assets/Pasted image 20231108224524.png",
+    "general knowledge/AI/explicación de raíz cuadrada y número al cuadrado.md",
+    "general knowledge/AI/El origen de los número imaginarios.md",
     "general knowledge/AI/Integrales.md",
     "general knowledge/AI/Leyes de potencia.md",
     "general knowledge/AI/cálculo.md",
     "general knowledge/AI/álgebra lineal.md",
-    "general knowledge/AI/El origen de los número imaginarios.md",
     "general knowledge/AI/Clasificación de los números.md",
     "general knowledge/AI/Ecuaciones de segundo grado.md",
     "general knowledge/AI/método de reducción gaussiana.md",
@@ -190,8 +212,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108155958.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108155631.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108153510.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108153208.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231108151712.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
     "general knowledge/Marketing explicado por salomondrin.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
@@ -199,12 +219,7 @@
     "general knowledge/azufre.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
     "daily/04-11-2023.md",
-    "daily/05-11-2023.md",
-    "daily/27-10-2023.md",
-    "daily/30-10-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/2 Aparatología fija a dos bandas, aparatos auxiliares.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/8 Dientes incluidos.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
     "general knowledge/AI/assets",
