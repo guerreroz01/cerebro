@@ -4,37 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "f001b73e82e108b2",
+        "id": "9c83ec7df165cdf0",
         "type": "tabs",
         "children": [
           {
-            "id": "f09eaddd486eed0f",
+            "id": "02e25d89144163d8",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
                 "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "15fe43b9ef37a5c1",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ca1cb68279718f1e",
+            "id": "cd6e2317ca16e0e3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/10-11-2023.md",
-                "mode": "source",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -63,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,8 +85,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -113,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/10-11-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/10-11-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/10-11-2023.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md"
               }
             }
           },
@@ -163,7 +167,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,9 +188,18 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "ca1cb68279718f1e",
+  "active": "02e25d89144163d8",
   "lastOpenFiles": [
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "general knowledge/AI/Red Neuronal.md",
+    "general knowledge/AI/función de pérdida.md",
+    "general knowledge/AI/descenso de gradiente.md",
+    "general knowledge/AI/Clasificación de los números.md",
+    "general knowledge/AI/álgebra lineal.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
     "daily/10-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/5 Aparatología fija técnicas.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/4 Aparatología de tracción extraoral.md",
@@ -204,26 +217,17 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231109181231.png",
     "daily/09-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231109143219.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/diploe.md",
     "daily/03-11-2023.md",
     "daily/06-11-2023.md",
     "daily/07-11-2023.md",
-    "general knowledge/AI/Red Neuronal.md",
     "general knowledge/AI/Red Neuronal.canvas",
-    "general knowledge/AI/función de pérdida.md",
-    "general knowledge/AI/descenso de gradiente.md",
     "general knowledge/AI/explicación de raíz cuadrada y número al cuadrado.md",
     "general knowledge/AI/El origen de los número imaginarios.md",
     "general knowledge/AI/Integrales.md",
     "general knowledge/AI/Leyes de potencia.md",
     "general knowledge/AI/cálculo.md",
-    "general knowledge/AI/álgebra lineal.md",
-    "general knowledge/AI/Clasificación de los números.md",
     "general knowledge/AI/Ecuaciones de segundo grado.md",
-    "general knowledge/AI/método de reducción gaussiana.md",
-    "daily/23-10-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
     "general knowledge/AI/assets",
