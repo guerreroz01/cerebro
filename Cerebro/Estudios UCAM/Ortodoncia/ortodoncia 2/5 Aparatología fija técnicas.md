@@ -187,5 +187,3 @@ El gran problema de la técnica lingual es la anatomía lingual y palatina de lo
 > Necesitan **arcos individualizados** con dobleces controlados informáticamente.
 
 
-
-#InserciónDelArcoDeAlambre #Bracket #ArcosIndividualizados #DoblenzasControladosInformáticamente #BracketsEstéticosZirconio #ResistentesAlRayado #FrágilesALaFractura #AlternativaBracketsCerámicos #TratamientosEndurecimientoSuperficie #ÓxidoDeZirconio #ResistenciaFractura #NoSeTiñen #BracketsEstéticosPolicarbonato #MEBRestosDesprendidos #DañosSuperficieAlambre #BuenaAdherencia 

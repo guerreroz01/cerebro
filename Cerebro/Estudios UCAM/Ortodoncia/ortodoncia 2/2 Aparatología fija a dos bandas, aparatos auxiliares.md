@@ -233,5 +233,3 @@ Es un aparato dentosoportado con acción ortopédica que pretende aumentar la di
 - Mantener el aparato de forma pasiva durante 4 - 6 meses para permitir la neoformación de ósea y evitar la recidiva de la expansión.
 - Observaremos una mejora del alineamiento anterior y cierre del diastema. 
 ![[Pasted image 20231019183037.png]]
-
-#Estudios #Ortodoncia #AparatologíaFija #AparatosAuxiliares #ArcoLingual #BotónDeNance #DisyuntorACuatroBandas #BarraTranspalatinaDeGoshgarian

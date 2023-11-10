@@ -126,5 +126,3 @@ Existen otros aparatos que utilizan el apoyo extraoral para llevar a cabo su fun
 ![[Pasted image 20231021204841.png]]
 
 ![[Pasted image 20231021204920.png]]
-
-#Ortodoncia #Aparatología #TracciónExtraoral #ArcoIntraoral #ArcoExtraoral #MedioDeApoyo #FuerzaOrtopédica #MecanismosDeFuerza #TracciónAlta #TracciónBaja #TracciónHorizontal #ApoyoCervical #ApoyoOccipital #ApoyoParietal #AnclajeOrtodoncia #DistalizaciónMolar

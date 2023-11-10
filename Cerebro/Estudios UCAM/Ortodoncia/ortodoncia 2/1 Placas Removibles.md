@@ -237,5 +237,3 @@ Este mismo fundamento se puede aplicar en el resto de musculatura oral, añadien
 - Los movimientos son limitados.
 - Muy difíciles de manejar casos que requieran extracciones dentarias.
 
-
-#Resina #ElementoActivo #Acrílico #Tornillo #CuellosDentarios #PresiónDental #AnclajeDiferencial #Retenedores #Ganchos #ZonasRetentivas #GanchoDeAdams #Bucles #CorrecciónMordidaCruzada #Helicoide #TornillosExpansión #ArcadaSuperior #ArcadaInferior #MovimientoDental #TornilloTripleBertoni

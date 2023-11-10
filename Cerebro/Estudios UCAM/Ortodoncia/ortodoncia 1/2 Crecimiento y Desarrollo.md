@@ -205,7 +205,7 @@ En este tipo de osificación también existen los procesos de:
 1. [[#Bóveda craneal]]: Huesos que cubren la superficie superior y lateral del cerebro.
 2. [[#Base craneal]]: Suelo óseo del cerebro. Línea que divide el neurocráneo de la cara _esplacnocráneo_.
 3. [[#Complejo nasomaxilar]]: Maxilar superior, huesos asociados a él y la dentición maxilar.
-4. [[#Mandíbula]]: Hueso mandibular y la dentición.
+4. [[#Crecimiento mandibular|Mandíbula]]: Hueso mandibular y la dentición.
 
 ![[Pasted image 20231109132527.png]]
 
@@ -306,6 +306,134 @@ Del propio maxilar superior y de la nariz mediante crecimiento de las suturas y 
 
 ### Crecimiento del Maxilar superior:
 Se desarrolla en la vida postnatal enteramente mediante [[#Osificación intramembranosa]], lateralmente a la capsula nasal cartilaginosa y deriva de los procesos maxilares del primer  arco branquial y del proceso frontal.
+
+Su crecimiento tiene lugar de 2 modos:
+1. Por aposición ósea en las suturas que conectan el maxilar superior con el resto del cráneo y a nivel de la sutura media palatina.
+2. Mediante remodelado superficial
+
+#### Patrón de crecimiento del maxilar superior:
+##### Crecimiento sutural:
+- La dirección de desplazamiento es hacia abajo y adelante.
+- Las posiciones de las suturas condicionan y permiten el movimiento en esa dirección.
+- La proliferación ósea a ambos lados de las suturas permiten mantener la misma anchura.
+- Los procesos alveolares van aumentando de tamaño.
+- En la parte posterior del maxilar (_tuberosidad_) se va añadiendo nuevo hueso para permitir erupción de molares temporales y permanentes.
+
+![[Pasted image 20231109181231.png]]
+
+##### Remodelado:
+Ocurre por reabsorción y aposición:
+
+- Reabsorción:
+	- Ocurre en la cara anterior del maxilar (_proceso que va anulando-remodelando parte del crecimiento hacia delante del maxilar_)
+	- Parte anterior del proceso alveolar.
+	- Lado nasal del paladar.
+
+- Aposición
+	- Bóveda palatina (_proceso aditivo a la dirección del crecimiento._)
+
+![[Pasted image 20231109182133.png]]
+
+##### En sentido transversal
+- Aposición de hueso en la sutura palatina media hasta el final de crecimiento.
+- Aposición en la zona vestibular de las apófisis alveolares.
+- Reabsorción en la zona palatina de las apófisis alveolares.
+Esta combinación va a permitir el agrandamiento de los senos paranasales y fosas nasales.
+
+### Estructuras Nasales
+- Tiene el mismo desplazamiento pasivo que el maxilar.
+- La nariz crece con mayor rapidez, especialmente durante el pico de crecimiento.
+- Gran variabilidad individual.
+- Existe un remodelado interno del maxilar superior que conduce al agrandamiento de los senos paranasales y las fosas nasales.
+- También presentan importancia los efectos del cartílago del septum nasal y los cartílagos laterales.
+
+👓 El crecimiento esquelético del maxilar superior cesa en promedio:
+- 15 años ♀️👩‍💼
+- 17 años ♂️👨‍💼
+
+## Crecimiento mandibular
+- La mandíbula deriva del primer arco branquial.
+- Su osificación es membranosa lateralmente al cartílago de Meckel.
+	
+- Su crecimiento se da por 2 fenómenos:
+	- Actividad perióstica en mayor medida (_aposición superficial y remodelado_).
+	- Actividad endocondral, en menor medida. Localizada a nivel del cartílago del cóndilo y sínfisis mandibular (sólo activa hasta los 8 meses de vida extrauterina.)
+
+👀 El cartílago del cóndilo es un <span style="color:red; font-size: 20px;">Cartílago Secundario</span>, no se considera un centro primario de crecimiento como pueden ser las placas epifisarias o las sincondrosis. Es un cartílago que no posee crecimiento autónomo, si no que presenta un crecimiento intersticial en respuesta a factores determinantes del proceso.
+
+### Patrón general de crecimiento de la mandíbula:
+Si usamos la base del cráneo como zona de referencia:
+
+- Existe un desplazamiento hacia abajo y adelante del mentón
+![[Pasted image 20231109184555.png]]
+
+- Si analizamos los estudios con tinciones vitales o cefalometría con implantes (_zonas de crecimiento_):
+	- Superficie posterior de la rama ascendente
+	- Cóndilo
+	- Apófisis coronoides
+	- Pocos cambios en la parte anterior de la mandíbula
+
+![[Pasted image 20231109184809.png]]
+
+>[!warning] Concepto correcto:
+>La mandíbula se ve desplazada en el crecimiento hacia abajo y hacia delante impulsada por el crecimiento de los tejidos blandos. En respuesta a esto el cóndilo y la rama ascendente crecen hacia atrás y arriba para ocupar el _"espacio"_ que se crea durante el proceso de desplazamiento.
+>![[Pasted image 20231109185054.png]]
+
+#### Mentón:
+Prácticamente inactivo como lugar de crecimiento.
+
+Se desplaza hacia abajo y adelante por:
+- Crecimiento a nivel del cóndilo.
+- Aposición de nuevo hueso en la parte posterior de la rama ascendente.
+
+![[Pasted image 20231109185247.png]]
+
+#### Cuerpo mandibular
+Aumenta de longitud por:
+- Aposición perióstica de hueso en su superficie posterior de la rama ascendente.
+- Reabsorción a nivel del borde anterior de la rama ascendente.
+
+![[Pasted image 20231109185420.png]]
+
+#### Rama mandibular
+##### Crecimiento en anchura:
+- Ocurre por aposición en el borde posterior.
+- Reabsorción borde anterior que dará espacio para la erupción de los molares.
+
+##### Crecimiento en altura:
+- Sustitución endocondral a nivel del cartílago condilar.
+- Posterior remodelación.
+
+Durante la infancia (12 meses) el borde anterior de la rama ascendente coincide aproximadamente con el lugar donde erupcionará el primer molar temporal. A medida que se va produciendo el remodelado, se irá generando el espacio suficiente para albergar el segundo molar temporal y para la posterior erupción de los molares temporales. Sin embargo, en muchos casos este crecimiento cesa antes de que se haya generado el suficiente espacio para albergar a los terceros molares, los cuales quedarán impactados en la rama ascendente.
+
+![[Pasted image 20231109190026.png]]
+
+##### Crecimiento transversal de la mandíbula
+- La sincondrosis mandibular se fusiona definitivamente a los 8 meses de vida extrauterina aproximadamente.
+- El incremento en la anchura bicondilar y la región molar son debidos al crecimiento antero-posterior y vertical, del mismo modo que los extremos libres de un "V" se van alejando entre sí a medida que aumenta la longitud de las ramas.
+
+![[Pasted image 20231109190337.png]]
+
+👀 El crecimiento mandibular cesa más tarde que el maxilar:
+- 17 años ♀️👩‍💼
+- 19 años ♂️👨‍💼
+
+
+## Rotación de los maxilares durante el crecimiento
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # Referencias

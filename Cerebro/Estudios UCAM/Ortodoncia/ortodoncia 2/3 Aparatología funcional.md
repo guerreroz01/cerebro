@@ -378,5 +378,3 @@ No se construyen con avance mandibular, sino con retracción, siempre que sea po
 4. Maloclusiones de [[Clase II]] severas con retrusión de incisivos superiores y protrusión de incisivos inferiores.
 5. Pacientes con escaso potencial de crecimiento o en edad adulta.
 6. Pacientes poco colaboradores.
-
-#Odontología #MordidaConstructiva #AparatosFuncionales #TwinBlocks #Maloclusiones #Levante #Avance #UCAM #Polivinilsiloxano #Asimetrías #ClaseIIDivisión1 #ClaseIIDivisión2 #ClaseIII #Caries #Higiene #RelaciónCéntrica #AccionDentaria #AccionMuscular #AccionEsqueletica #MordidaAbiertaAnterior #SobremordidaAumentada
