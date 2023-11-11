@@ -4,36 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9c83ec7df165cdf0",
+        "id": "9a15b970bd385bbc",
         "type": "tabs",
         "children": [
           {
-            "id": "02e25d89144163d8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
-        "id": "15fe43b9ef37a5c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cd6e2317ca16e0e3",
+            "id": "89634de9b5bc35b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "mode": "preview",
                 "source": false
               }
@@ -117,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md"
               }
             }
           },
@@ -188,11 +168,12 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "cd6e2317ca16e0e3",
+  "active": "89634de9b5bc35b5",
   "lastOpenFiles": [
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231110122315.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "daily/11-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231110122315.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
     "general knowledge/AI/Red Neuronal.md",
@@ -217,7 +198,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231109182133.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231109181231.png",
     "daily/09-11-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231109143219.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/diploe.md",
     "daily/03-11-2023.md",
     "daily/06-11-2023.md",
