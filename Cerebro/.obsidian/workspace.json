@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md"
               }
             }
           },
@@ -188,10 +188,11 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "02e25d89144163d8",
+  "active": "cd6e2317ca16e0e3",
   "lastOpenFiles": [
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231110122315.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
     "general knowledge/AI/Red Neuronal.md",
@@ -227,7 +228,6 @@
     "general knowledge/AI/Integrales.md",
     "general knowledge/AI/Leyes de potencia.md",
     "general knowledge/AI/cálculo.md",
-    "general knowledge/AI/Ecuaciones de segundo grado.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
     "general knowledge/AI/assets",

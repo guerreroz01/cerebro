@@ -183,3 +183,5 @@ Aumenta 0.5º al año como consecuencia del crecimiento arquial de la mandíbula
 
 ![[Pasted image 20231107220946.png]]
 
+## Análisis terminado
+![[Pasted image 20231110122315.png]]
