@@ -420,10 +420,38 @@ Durante la infancia (12 meses) el borde anterior de la rama ascendente coincide 
 
 
 ## Rotación de los maxilares durante el crecimiento
+La mandíbula experimenta una mayor rotación durante el crecimiento de la que realmente muestra. Esto se debe al remodelado del borde inferior mandibular, el cual actúa enmascarando parte de esa rotación mandibular.
 
+Björk superponiendo implantes en el cuerpo mandibular concluyó que esta rotación mandibular implicaba una marcada reabsorción del borde inferior mandibular en la región del ángulo mandibular y tenía el efecto neto de mantener el ángulo del plano mandibular invariable en relación con la base del cráneo.
 
+Posteriormente en la década de los ochenta Björk y Skieller introdujeron los conceptos de [[#Rotación mandibular verdadera _"rotación total o rotación interna"_|rotación total]], [[rotación matricial]] y [[rotación intramatricial]]
 
+### Rotación:
+Se define como el movimiento angular de un cuerpo rígido en relación a otro. 
 
+Un diente puede rotar durante el crecimiento en relación a estructuras fijas de referencia, así como determinados huesos de la cabeza, que son desplazados en relación a otros pueden experimentar rotación, debido al crecimiento óseo diferencial necesario para el aumento de volumen de las cavidades craneofaciales.
+
+### Cambio angular:
+Es cuando un cuerpo cambia de forma debido a la aposición o reabsorción de materia en su superficie, como sucede en los huesos de la cara. 
+
+Estos cambios de forma pueden provocar cambios en la orientación de líneas de referencia establecidas en el contorno de ese cuerpo.
+
+### Rotación mandibular verdadera _"rotación total o rotación interna"_
+Es la rotación de la mandíbula en **sentido estricto**, entendiendo como tal la porción de la misma no afectada por crecimiento articular o remodelado óseo y que, por lo tanto, puede ser considerada como un cuerpo rígido.
+
+**El núcleo mandibular sería el hueso que rodea al nervio alveolar inferior.**
+
+La mandíbula vendría representada por implantes o estructuras mandibulares óseas estables que servirían de referencia y la rotación de la misma se mediría con respecto a la **base del cráneo.**
+
+Al colocar implantes en zonas de hueso estable, se puede observar que el núcleo mandibular de la mayoría de los individuos rota durante el crecimiento hacia arriba anteriormente y hacia abajo posteriormente.
+
+![[Pasted image 20231112113634.png]]
+
+<span style="color:red;">Cuando la rotación es anterior o signo (-)</span> = en el sentido contrario a las agujas del reloj (el perfil del sujeto está a la derecha) o en sentido horario (perfil del sujeto está a la izquierda.)
+
+<span style="color: green;">Cuando la rotación es posterior o signo (+)</span> = en el sentido de las agujas del reloj (perfil está a la derecha) o en sentido antihorario (perfil está a la izquierda).
+
+### Remodelado angular del borde inferior de la mandíbula _"rotación intramatricial o rotación externa"_
 
 
 

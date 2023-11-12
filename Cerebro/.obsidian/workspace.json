@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9a15b970bd385bbc",
+        "id": "d0ab5beeaff9974f",
         "type": "tabs",
         "children": [
           {
-            "id": "89634de9b5bc35b5",
+            "id": "033c57874135164a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -168,13 +168,15 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "89634de9b5bc35b5",
+  "active": "033c57874135164a",
   "lastOpenFiles": [
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231112113634.png",
+    "daily/12-11-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "daily/11-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Análisis de Ricketts.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231110122315.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
     "general knowledge/AI/Red Neuronal.md",
     "general knowledge/AI/función de pérdida.md",
@@ -206,8 +208,6 @@
     "general knowledge/AI/explicación de raíz cuadrada y número al cuadrado.md",
     "general knowledge/AI/El origen de los número imaginarios.md",
     "general knowledge/AI/Integrales.md",
-    "general knowledge/AI/Leyes de potencia.md",
-    "general knowledge/AI/cálculo.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
     "general knowledge/AI/assets",
