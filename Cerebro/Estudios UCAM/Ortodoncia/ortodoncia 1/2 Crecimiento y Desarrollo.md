@@ -424,7 +424,7 @@ La mandíbula experimenta una mayor rotación durante el crecimiento de la que r
 
 Björk superponiendo implantes en el cuerpo mandibular concluyó que esta rotación mandibular implicaba una marcada reabsorción del borde inferior mandibular en la región del ángulo mandibular y tenía el efecto neto de mantener el ángulo del plano mandibular invariable en relación con la base del cráneo.
 
-Posteriormente en la década de los ochenta Björk y Skieller introdujeron los conceptos de [[#Rotación mandibular verdadera _"rotación total o rotación interna"_|rotación total]], [[rotación matricial]] y [[rotación intramatricial]]
+Posteriormente en la década de los ochenta Björk y Skieller introdujeron los conceptos de [[#Rotación mandibular verdadera _"rotación total o rotación interna"_|rotación total]], [[#Rotación mandibular aparente _"Rotación matricial"_|rotación matricial]] y [[#Remodelado angular del borde inferior de la mandíbula _"rotación intramatricial o rotación externa"_|rotación intramatricial]]
 
 ### Rotación:
 Se define como el movimiento angular de un cuerpo rígido en relación a otro. 
@@ -452,15 +452,105 @@ Al colocar implantes en zonas de hueso estable, se puede observar que el núcleo
 <span style="color: green;">Cuando la rotación es posterior o signo (+)</span> = en el sentido de las agujas del reloj (perfil está a la derecha) o en sentido antihorario (perfil está a la izquierda).
 
 ### Remodelado angular del borde inferior de la mandíbula _"rotación intramatricial o rotación externa"_
+Es el cambio angular del borde inferior de la mandíbula observado cuando superponemos la mandíbula sobre implantes o estructuras internas estables. 
 
+- Este cambio es una medida de la intensidad del remodelado que se produce a nivel del borde inferior de la mandíbula
 
+![[Pasted image 20231113164719.png]]
 
+Desde un punto de vista etiológico, este fenómeno se produce cuando los mecanismos que dan lugar a la rotación mandibular verdadera (generalmente en sentido anterior) fuerzan la región gonial contra la cinta muscular del ángulo mandibular produciéndose reabsorción en esta zona y elevan la parte anterior del borde inferior mandibular provocando la aposición ósea bajo la sínfisis y la porción anterior del borde inferior.
 
+### Rotación mandibular aparente _"Rotación matricial"_
+Es el cambio angular que experimenta el plano mandibular (borde inferior mandibular) con respecto a la base craneal anterior (S - N). Es lo que nosotros vemos, el cambio final en el plano mandibular respecto a la base craneal anterior.
 
+Es la suma de los efectos debidos a la rotación mandibular verdadera y al remodelado que sufre el borde inferior de la mandíbula.
 
+Por tanto, al superponer en las estructuras estables de la base craneal, se observa una rotación aparente (rotación mandibular anterior) mucho menor a nivel del plano mandibular, debido al efecto de enmascaramiento del remodelado del borde inferior.
 
+![[Pasted image 20231113165453.png]]
 
+![[Pasted image 20231113165519.png]]
 
+## Maxilar
+El crecimiento del maxilar se da hacia adelante y abajo y se asocia con una gran variabilidad rotacional, aunque más frecuentemente se produce un rotación anterior del mismo. Lo que ocurre en estos casos con una rotación anterior del maxilar es una mayor reabsorción del suelo nasal en la parte anterior que en la posterior. 
+
+El objetivo tal como ocurre en el plano mandibular es mantener estable el ángulo del plano palatino en relación a la base del cráneo.
+
+![[Pasted image 20231113170102.png]]
+
+>[!abstract] Nota
+>Por estos cambios de remodelado, los autores sugieren que no se tome como estructura de referencia para el análisis cefalométrico radiográfico del crecimiento del maxilar ni el plano palatino, ni el plano mandibular para el crecimiento mandibular.
+
+Los fenómenos rotacionales que se producen durante el crecimiento son muy diferentes en individuos de cara corta o de cara larga.
+
+- Los individuos de **cara corta** con altura facial anterior disminuida y una sobremordida aumentada presentan una excesiva rotación verdadera anterior de la mandíbula, junto con una disminución en el remodelado angular del borde inferior de la mandíbula. Esto da lugar a una mandíbula "_cuadrada_" con un ángulo del plano mandibular muy disminuido y un ángulo mandibular cerrado.
+![[Pasted image 20231113170648.png]]
+
+- Los individuos de **_cara larga_** con altura facial anterior excesiva y reducción de la sobremordida. En estos sujetos no se produce una rotación verdadera en el sentido habitual (_anterior_) o incluso produce una rotación posterior del maxilar superior y de la mandíbula, dando lugar a un **incremento en el ángulo del plano mandibular**, lo cual agravaría aún más la mordida abierta.
+![[Pasted image 20231113171030.png]]
+
+La rotación de los maxilares durante el crecimiento tiene importantes efectos esqueléticos. Por ejemplo:
+
+- Una [[Clase II]] se verá favorecida por una rotación anterior de la mandíbula durante el crecimiento y empeorado por una rotación posterior. De manera inversa podríamos aplicar el mismo razonamiento para las [[Clase III]]
+
+### Relación entre la rotación de los maxilares y la erupción dental
+A medida que el maxilar y la mandíbula de acuerdo a sus necesidades funcionales van creando espacio en su crecimiento, los dientes en su erupción van _rellenando_ este espacio.
+
+1. En el maxilar superior la dirección de erupción es:
+	- Hacia oclusal y ligeramente mesial.
+
+	En una rotación maxilar anterior tendería a inclinar los incisivos hacia vestibular mientras que una rotación posterior conduciría a los incisivos hacia palatino. Sin embargo, esto no siempre es así.
+
+2. En la mandíbula la via de erupción:
+	- Es hacia oclusal y ligeramente mesial.
+	- Los molares presentan una mayor capacidad de migración mesial, erupcionando en una trayectoria más larga para compensar la rotación mandibular anterior (_fenómeno habitual_). Esto conlleva en una disminución de la longitud de arcada.
+
+	Como la rotación mandibular anterior es de casi el doble de intensidad que la del maxilar, no es sorprendente que la disminución de la longitud de arcada sea de mayor intensidad en la arcada inferior.
+
+![[Pasted image 20231113172105.png]]
+
+Por tanto podemos afirmar que la característica principal compensatoria de la rotación anterior de la mandíbula es la migración mesial de molares e incisivos. En el caso de los incisivos, pueden llegar a producirse apiñamientos por colapso de la arcada debido a no poder sobrepasar unos límites y también a la musculatura labial y perioral que actuaría como freno de esta inclinación mesial.
+
+En los individuos con rotación posterior y cara larga, los incisivos serían trasladados hacia una posición labial y protruida en relación a un mentón que se desplaza hacia abajo y atrás. Sin embargo, también hay casos de inclinación lingual compensatoria que provocaría apiñamiento.
+
+![[Pasted image 20231113172610.png]]
+
+## Cambios en el alineamiento y la oclusión de los dientes durante la juventud y edad adulta
+En las poblaciones modernas existe una gran tendencia a desarrollarse un apiñamiento en la zona de los incisivos mandibulares en torno a los 20 años, independiente de si había o no apiñamiento previo. Si los incisivos estaban bien alineados suelen apiñarse ligeramente mientras que si ya existía apiñamiento este se agravaría. Actualmente, existen 3 teorías para explicar este fenómeno.
+
+### 1. Falta de "desgaste dentario normal"
+Esto es un fenómeno derivado de las dietas modernas. En las sociedades primitivas la prevalencia de maloclusión es menor que las poblaciones actuales. Raymond Begg, en los años cincuenta indicó que los aborígenes australianos raramente presentaban maloclusiones, mientras era frecuente encontrar importantes abrasiones dentarias tanto oclusales como interproximales.
+
+Este espacio ayudaría a evitar la reducción en la longitud de arcada derivada del proceso natural de migración mesial de los molares durante el crecimiento, evitando así el apiñamiento mandibular.
+
+Sin embargo, el paso de los aborígenes a una dieta moderna no condujo a una mayor prevalencia de maloclusión. Además, se ha observado un apiñamiento tardío en otros grupos donde se realizó la extracción de premolares con el consiguiente tratamiento ortodóncico.
+
+**Por tanto esta teoría NO SIRVE para explicar el desarrollo del apiñamiento tardío.
+
+### 2. Presión ejercida por los terceros molares.
+Esta teoría se basa en la presión que pudieran ejercer los terceros molares en la arcada mandibular durante la erupción, que a demás coincide aproximadamente en la misma época, en torno a los 20 años.
+
+Sin embargo, en la mayor parte de los casos, los terceros molares quedan impactados en la parte posterior de la rama sin entrar en contacto con los segundos molares.
+
+Esto es debido a la falta de reabsorción de la rama anterior mandibular durante el crecimiento. Además, sólo se han podido cuantificar fuerzas de algunos gramos, por lo que parecería difícil que una presión tan ligera pudiese desplazar una arcada dentaria completamente.
+
+Desgraciadamente para esta teoría, también se ha desarrollado apiñamiento incisivo inferior tardío en sujetos con ausencia de los terceros molares.
+
+### 3. Crecimiento mandibular tardío
+La relación incisiva existente en torno a la pubertad puede modificarse posteriormente coincidiendo con el crecimiento diferencial mandibular (_la mandíbula crece durante más tiempo que el maxilar, incluso hasta los veinte años._) tardío hacia adelante , con rotación anterior por uno de los siguientes mecanismos:
+
+1. Inclinación hacia vestibular de los incisivos superiores, abriéndose diastemas entre ellos.
+2. Insuficiente migración mesial e inclinación vestibular de los incisivos inferiores para compensar la rotación verdadera anterior de la mandíbula, con el consiguiente apiñamiento.
+3. Combinación de las anteriores.
+4. Casos de sobremordida profunda donde la migración mesial quede impedida, puede que si inicialmente no existía apiñamiento no se desarrolle a pesar del aumento de la sobremordida.
+
+**_La explicación actual_**: Para entender por qué se produce un apiñamiento tardío de los incisivos inferiores en torno a los 20 años se basa en la incapacidad absoluta o relativa de los incisivos mandibulares (_y quizá de toda la arcada inferior_) para compensar con su mesialización el crecimiento con rotación (_generalmente anterior_) que se produce tardíamente en la mandíbula. Esto desembocaría en un desplazamiento de los incisivos hacia distal y por tanto desarrollando o agravando el apiñamiento.
+
+En esta explicación el papel de los terceros molares impactados contra la cara distal de los segundos molares mandibulares impediría que, ante un crecimiento mandibular tardío con insuficiente migración mesial, la arcada mandibular compensase con una ligera migración distal permitiendo a los incisivos enderezarse sin apiñarse. Además, en muchos casos, los terceros molares originan interferencias posteriores que provocan un posicionamiento mandibular anómalo pudiendo llegar a producir apiñamientos. 
+
+Por tanto, deberían considerarse como la "gota que colmaría el vaso", pero no como una variable fundamental en el desencadenamiento del apiñamiento mandibular tardío.
+
+## Crecimiento de los tejidos blandos faciales.
 
 
 
