@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ea990c65e31d395",
+        "id": "57f31281dbfc3a90",
         "type": "tabs",
         "children": [
           {
-            "id": "76fc8ae0c974c46d",
+            "id": "19ea80166251dff8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/14-11-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,13 +64,21 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "1297d5af37727b7f",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 269.5,
-    "collapsed": true
+    "width": 269.5
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -97,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/14-11-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/14-11-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/14-11-2023.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md"
               }
             }
           },
@@ -168,10 +176,16 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "76fc8ae0c974c46d",
+  "active": "19ea80166251dff8",
   "lastOpenFiles": [
-    "general knowledge/AI/Regresión lineal.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+    "Spaces/Home",
+    "Spaces",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231114144524.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231114141721.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231114140728.png",
     "daily/14-11-2023.md",
+    "general knowledge/AI/Regresión lineal.md",
     "general knowledge/AI/backpropagation.md",
     "general knowledge/AI/Red Neuronal.md",
     "general knowledge/AI/Función de activación.md",
@@ -183,12 +197,8 @@
     "general knowledge/AI/La neurona.md",
     "general knowledge/AI/assets/Pasted image 20231113204845.png",
     "función de activación.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "daily/13-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231113172610.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231113172549.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231113172105.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231113171030.png",
     "daily/12-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "daily/11-11-2023.md",
@@ -206,7 +216,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/3 Aparatología funcional.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/2 Aparatología fija a dos bandas, aparatos auxiliares.md",
     "daily/09-11-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/diploe.md",
     "general knowledge/AI/Red Neuronal.canvas",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
@@ -216,8 +225,6 @@
     "general knowledge/assets",
     "general knowledge",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets",
-    "Estudios UCAM/Ortodoncia/PDF Temas/Tema 7. Cirugía ortognática.pdf",
-    "Estudios UCAM/Ortodoncia/PDF Temas/Tema 9. Localización de estructuras.pdf",
     "Estudios UCAM/Ortodoncia/Canvas ortodoncia.canvas"
   ]
 }

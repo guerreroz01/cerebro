@@ -551,6 +551,132 @@ En esta explicación el papel de los terceros molares impactados contra la cara 
 Por tanto, deberían considerarse como la "gota que colmaría el vaso", pero no como una variable fundamental en el desencadenamiento del apiñamiento mandibular tardío.
 
 ## Crecimiento de los tejidos blandos faciales.
+### Crecimiento de los labios
+Los labios se retrasan es su crecimiento respecto al crecimiento maxilo-mandibular antes de la adolescencia para luego experimentar un brote de crecimiento e igualarse.
+
+La altura de los labios es corta durante la dentición mixta, dando una incompetencia labial máxima durante la infancia.
+
+Los labios descienden durante el crecimiento hacia abajo durante la adolescencia y continúa con el envejecimiento de la cara. Lo que podía parecer una sonrisa gingival en una temprana edad, desaparece con la madurez del niño.
+
+**Los labios alcanzan su grosor máximo en la adolescencia para después disminuir.**
+
+### Crecimiento de la nariz
+El crecimiento del hueso nasal se completa a los 10 años.
+
+Posteriormente el crecimiento se hace a expensas del cartílago y los tejidos blandos experimentando un brote importante durante la adolescencia siendo mayor en los chicos.
+
+## Teorías del control de crecimiento
+Factores que determinan o controlan dicho crecimiento:
+- Influencias genéticas
+- Medio ambiente y entorno
+- Factores nutricionales-metabolismo
+- Potencial de crecimiento orgánico
+- Actividad física
+- Estado de salud
+
+_**Sigue sin estar claro que es lo que determina exactamente el crecimiento de los maxilares**_
+
+Actualmente existen tres teorías principales que han tratado de explicar qué es lo que determina el crecimiento esquelético cráneo-facial:
+
+1. Sutural: WeinMann y Harry Sicher 1955. Como otros tejidos, el hueso es el principal factor determinante de su propio crecimiento.
+2. El cartílago: James Scott 1953. El cartílago es el principal factor determinante del crecimiento óseo, mientras que el hueso responde de manera secundaria y pasiva.
+3. La matriz funcional: Melvin Moss 1962. La matriz de tejido blando en la que se encuentran los elementos esqueléticos es el principal determinante del crecimiento, y tanto el hueso como el cartílago son seguidores secundarios.
+
+La principal diferencia principal entre estas teorías radica en el nivel en el que se expresa el control genético.
+
+La primera teoría implica que el control genético se expresa directamente a nivel óseo, por lo que su lugar de actuación sería el periostio.
+
+La segunda teoría, la del cartílago, sugiere que el control genético se expresa a nivel del cartílago, mientras que el hueso responde pasivamente al verse desplazado. ==Este control genético indirecto se denomina epigenético.==
+
+La teoría de la matriz de los tejidos blandos postula que el control genético actúa en gran medida fuera del sistema esquelético y que el crecimiento del hueso y del cartílago está controlado epigenéticamente, produciéndose sólo como respuesta a una señal de otros tejidos.
+
+La primera teoría queda descartada en la actualidad, se considera una síntesis entre la segunda y la tercera teoría.
+
+### Lugares de crecimiento frente a centros de crecimiento
+|Lugar de crecimiento|Centro de crecimiento|
+|:------------------:|:-------------------------:|
+|Zona en la que se produce un crecimiento|Zona en la que se produce crecimiento independientemente controlado (control genético)|
+
+**Todos los centros de crecimiento son lugares de crecimiento pero no a la inversa.**
+
+### Teoría de Sicher o del predominio sutural
+Propone que los tejidos que originan el hueso llevan consigo sus propios estímulos, para poder hacerlo se basa sobre todo en la observación de que el crecimiento craneofacial sigue un patrón generalmente constante. 
+
+Esto se interpreto erróneamente como una prueba de que los lugares de crecimiento eran también centros de crecimiento.
+
+Se consideró que las suturas entre los huesos membranosos del cráneo y los maxilares eran también centros de crecimiento, junto con los puntos de osificación del endocondral de la base del cráneo y del cóndilo mandibular.
+
+Desde este punto de vista, el crecimiento era el resultado de la expresión de un programa genético en todos estos lugares. Por lo tanto, el desplazamiento del maxilar superior era el resultado de la presión ejercida por el crecimiento de las suturas, de tal forma que los huesos se veían literalmente empujados hacia abajo y hacia arriba.
+
+En la actualidad sabemos que las suturas y los tejidos periósticos en general no son determinantes primarios del crecimiento craneofacial. A esta conclusión se llegó mediante dos líneas deductivas. 
+
+1. La primera es que cuando se trasplanta una zona correspondiente a una sutura en crecimiento entre dos huesos faciales a otro lugar del cuerpo, esta no continúa su crecimiento. _Esto indica una falta de crecimiento innato en las suturas._
+
+2.  En segundo lugar, cuando separamos mecánicamente los huesos craneofaciales a nivel de las suturas, en esa zona se producirá relleno de nuevo hueso haciéndose éstos mayores de lo que hubieran sido sin tal estímulo. Lo mismo ocurre cuando comprimimos una sutura, el crecimiento en ese lugar se verá impedido.
+
+**_Por tanto, las suturas del maxilar superior son lugares de crecimiento, NO CENTROS DE CRECIMIENTO._**
+
+### Teoría de Scott o teoría del crecimiento regido por cartílago
+Postula que el determinante del crecimiento craneofacial es el crecimiento de los cartílagos. El cartílago crece mientras que el hueso meramente lo reemplaza.
+
+#### Implicación clínica en la mandíbula
+Si el crecimiento condral fuese la influencia fundamental, se podría considerar al cartílago del cóndilo como regulador del crecimiento mandibular, y que la remodelación de la rama en conjunto con otros cambios superficiales son fenómenos secundarios. Por tanto, se debiese considerar al cóndilo como centro de crecimiento.
+
+![[Pasted image 20231114140728.png]]
+
+#### Implicación clínica en el maxilar
+Aunque no existe cartílago en el maxilar, sí existe cartílago en el tabique nasal, y el complejo nasomaxilar crece como una unidad
+
+Por tanto, se postula que el cartílago del tabique nasal actúa como marcapasos. Además se encuentra situado de tal modo que su crecimiento podría producir facialmente desplazamiento anterior del maxilar. 
+
+Entonces las suturas actuarían como zonas reactivas, respondiendo a este desplazamiento formando hueso por las fuerzas del cartílago en crecimiento.
+
+![[Pasted image 20231114141721.png]]
+
+#### Evidencia científica
+Con el objetivo de confirmar esta teoría se llevaron a cabo dos estudios de tipo experimental, basados en el análisis de los resultados de los trasplantes de cartílago y los efectos sobre el crecimiento tras su eliminación a edades tempranas.
+
+Los experimentos con trasplantes demuestran que no todos los cartílagos son iguales y por tanto no actúan del mismo modo al ser trasplantados:
+
+1. La placa epifisaria de huesos largos continúa creciendo del mismo modo al ser trasplantado, implicando que estos poseen una capacidad innata de crecimiento.
+
+2. El cartílago de la sincondrosis de la base craneal se comportaría de manera similar, pero es difícil su obtención, particularmente a edad temprana y los datos disponibles son escasos.
+
+3. El cartílago del septum nasal a veces se observa crecimiento y a veces no, dando resultados equívocos.
+
+4. El cartílago del cóndilo mandibular mostró muy poco crecimiento o ninguno.
+
+Con estos resultados podemos afirmar que los cartílagos epifisarios y las sincondrosis de la base del cráneo pueden actuar como centros primarios de crecimiento, mientras que el septum nasal muestra menor potencial y el cóndilo mandibular poco o ninguno. Por tanto, el cartílago condilar NO parece que sea un centro de crecimiento.
+
+En los experimentos basados en la eliminación de los cartílagos, se encontró que al eliminar el tabique de un conejo joven, se provocaba una deficiencia considerable en el crecimiento de la región mesofacial. Estos resultados no confirman que el efecto de estos experimentos sobre el crecimiento se deba totalmente a la pérdida de cartílago, ya que se podrían explicar por la propia cirugía con sus consiguientes alteraciones del aporte sanguíneo en esa zona. Sin embargo, hay muy poca evidencia científica publicada de estos estudios acerca de la pérdida precoz del tabique nasal en los seres humanos. 
+
+No obstante la merma del crecimiento en los animales experimentales a los que se le ha extirpado el cartílago es lo bastante llamativa como para deducir que el cartílago del septum tiene algún potencial innato y que su pérdida se traduce en algunas consecuencias para el crecimiento maxilar.
+
+![[Pasted image 20231114144524.png]]
+
+Esto ha sido refutado por dos estudios (Gilhuss-Moe 1969 y Lund k. 1974), demostrando que al ocurrir una fractura de la zona condilar en un niño, existían muchas posibilidades de que la apófisis condilar se regenerase y alcanzase aproximadamente su tamaño original, así como una pequeña posibilidad de que se hipertrofiase tras su lesión. Sin embargo, dentro del mismo estudio en torno a un 15-20% de casos se observó una disminución del crecimiento tras la fractura, la cual parece estar relacionada con el grado de traumatismo sufrido por los tejido blandos y con la cicatriz que aparece en la zona.
+
+En resumen, parece ser que los cartílagos epifisarios y probablemente las sincondrosis de la base del cráneo pueden actuar y lo hacen como centros de crecimiento independientes, al igual que el tabique nasal (_tal vez en menor medida_). EL crecimiento del cartílago condilar se asemeja más al crecimiento sutural del maxilar superior (_de naturaleza reactiva o secundaria._)
+
+El cartílago condilar comienza a crecer cuando la mandíbula es sometida a presiones ya que, si no la mandíbula no podría seguir creciendo, porque el crecimiento intramembranoso no lo puede hacer bajo presiones. Es un proceso adaptativo.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
