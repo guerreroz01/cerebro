@@ -1,10 +1,9 @@
 ---
-type: estudios
 tema: "2"
 tags:
   - estudios/ortodoncia1
-banner: "![[ucam.jpg]]"
-banner_y: 0.8
+type: estudios
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 ---
 # Crecimiento y desarrollo 
 ___
@@ -660,7 +659,65 @@ En resumen, parece ser que los cartílagos epifisarios y probablemente las sinco
 
 El cartílago condilar comienza a crecer cuando la mandíbula es sometida a presiones ya que, si no la mandíbula no podría seguir creciendo, porque el crecimiento intramembranoso no lo puede hacer bajo presiones. Es un proceso adaptativo.
 
+### Teoría de la matriz funcional, Melvin Moss 1962
+Si ni el hueso ni el cartílago son los factores determinantes para el crecimiento de los maxilares, parecería que el control debería radicar en los tejidos blandos adyacentes.
 
+Mientras que esta teoría sostiene el potencial de crecimiento innato de los cartílagos en los huesos largos, también indica que ni el cartílago del septum nasal ni el cartílago del cóndilo mandibular son determinantes del crecimiento de los maxilares. 
+
+Este autor, en su lugar especula con la idea de que el crecimiento de la cara sucede como respuesta a necesidades funcionales y es mediado por los tejidos blandos que rodean a los maxilares. Serían los tejidos blandos los que crecen y el hueso y el cartílago los que reaccionan o responden.
+
+Esta teoría se ilustra muy bien con el crecimiento del cráneo. El crecimiento de la bóveda craneal se produce como respuesta directa al crecimiento del cerebro. Este fenómeno puede observarse en los casos de microcefalia e hidrocefalia.
+
+![[Pasted image 20231114234007.png]]
+
+Otro excelente ejemplo lo tenemos en la relación entre el tamaño del ojo y el tamaño de la órbita, donde el ojo sería la matriz funcional cuyo crecimiento en mayor o menor medida determinaría el crecimiento de la cavidad orbitaria.
+
+Moss especula que el determinante principal de crecimiento del maxilar y la mandíbula es el agrandamiento de las cavidades oral y nasal, las cuales crecen en respuesta a necesidades funcionales. Lo que no aclara esta teoría es cómo estas necesidades funcionales se transmiten a los tejidos blandos.
+
+Desde el punto de vista de esta teoría, la ausencia de una función normal sí tendría amplios efectos en el crecimiento, aunque se mantuviesen los cartílagos del septum y condilar intactos. Como hemos indicado anteriormente, en torno al 15-20% de los niños con fractura condilar sufren un defecto en el crecimiento. Según esta teoría, esto podría deberse a una alteración de la función.
+
+Parece que la restricción mecánica causada por la cicatriz impediría el desplazamiento mandibular hacia abajo y adelante al tiempo que los tejidos blandos adyacentes crecen, aun cuando el movimiento de bisagra que permite el movimiento de apertura en rotación restringida se encuentre conservado.
+
+La teoría de la matriz funcional, atendiendo a sus premisas, apoya la ortopedia de los maxilares.
+
+
+## Resumen del crecimiento craneofacial
+
+![![Estudios UCAM/Ortodoncia/ortodoncia 1/#^Table]]
+## Crecimiento facial en adultos
+Aunque la magnitud de los cambios faciales producidos por el crecimiento durante la edad adulta es bastante pequeña, los resultados de los estudios muestran que el crecimiento facial continuaba durante la edad adulta. Los resultados indicaban básicamente que todas las dimensiones de la cara aumentaban y que tanto el tamaño como la forma de la cara se modificaban con el tiempo, provocando que el efecto acumulativo durante décadas fuese notable:
+
+- Cambios en la anchura eran los menos evidentes.
+- Cambios verticales más evidentes que los cambios anteroposteriores.
+- Se seguía el mismo patrón de rotación de los maxilares con una tendencia a rotación anterior en varones y rotación posterior en mujeres.
+- Cambios oclusales compensatorios para no modificar las relaciones oclusales.
+- Alargamiento de la nariz.
+- Hundimiento de los labios.
+- Disminución de la exposición de incisivos superiores tanto en reposo como en sonrisa.
+- Mayor exposición de incisivos inferiores tanto en reposo como en sonrisa.
+- Aumento de la prominencia del mentón.
+
+## Evaluación de la maduración esquelética
+Para la planificación ortodóncica, es muy importante el conocimiento de la velocidad del crecimiento, así como el porcentaje de crecimiento restante para llevar a cabo intervenciones eficaces en la modificación del crecimiento.
+
+Este crecimiento restante puede ser utilizado para la predicción del posible retroceso tras el tratamiento ortodóncico.
+
+La madurez esquelética individual puede ser evaluada a través de varios indicadores biológicos como:
+- Edad cronológica.
+- El desarrollo y la erupción dental.
+- Menarquía en mujeres.
+- Cambios en la voz en los hombres.
+- Desarrollo mamario
+- Aparición de vello púbico y axilar.
+- Aumento de la altura corporal.
+- Maduración esquelética de la mano-muñeca.
+- Maduración de las vértebras cervicales.
+
+La edad cronológica ha sido identificada como un mal indicador del crecimiento, debido a la gran variación en la edad con la que se produce el estirón puberal.
+
+La cantidad de crecimiento facial, fundamentalmente genética, se escapa prácticamente de nuestro control, pero su dirección sí puede ser modificada en mayor o menor medida por nosotros. Además, la tasa y ritmo del mismo pueden ser conocidos en un paciente determinado y así poder actuar en los momentos más favorables, en los que exista una mayor cantidad de crecimiento por unidad de tiempo. Por tanto, es importante conocer dónde se encuentra un paciente determinado en relación con el brote de crecimiento puberal y en qué fase de crecimiento se encuentra el paciente.
+
+Para esto nos valemos de métodos para determinar el grado de maduración ósea basado en vértebras cervicales y osificación de los huesos de la mano-muñeca.
 
 
 

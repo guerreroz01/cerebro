@@ -3,13 +3,12 @@ tags:
   - estudios/ortodoncia2
 type: estudios
 tema: "1"
-banner: "![[ucam.jpg]]"
-banner_y: 0.84533
-banner_icon: 📕
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231114230628.png
 ---
 # Placas Removibles
 Son dispositivos que se pueden retirar en situaciones determinadas o durante la higiene bucal. Se pueden fabricar en el laboratorio y no directamente sobre la boca del paciente.
 
+Pasted image 20231114230628.png
 ## Dos modalidades de placas removibles:
 - **Placas Pasivas**: no generan fuerzas para inducir el movimiento dentario, sólo mantiene la posición dental final generada después de un tratamiento de ortodoncia. **Como mantenedor**.
 - **Placas Activas**: debidamente sujetos a los dientes y apoyados en la mucosa alveolar, son capaces de generar movimientos dentarios debido a resortes o tornillos que actúan sobre los dientes que se desean mover.

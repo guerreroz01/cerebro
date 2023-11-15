@@ -1,15 +1,15 @@
 {
 	"nodes":[
-		{"id":"c8f0fa7681233234","x":-520,"y":35,"width":285,"height":60,"type":"text","text":"Una red neuronal tiene capas"},
-		{"id":"483b75b131507136","x":-105,"y":-418,"width":660,"height":453,"type":"file","file":"general knowledge/AI/assets/Pasted image 20231108224524.png"},
-		{"id":"3ed003ac767e13c7","x":-200,"y":220,"width":250,"height":60,"type":"text","text":"Capa de entrada"},
-		{"id":"9070addb51b8ab2c","x":125,"y":220,"width":250,"height":60,"type":"text","text":"Capas ocultas"},
-		{"id":"485645b05acb93a9","x":430,"y":220,"width":250,"height":60,"type":"text","text":"Capa de salida"},
-		{"id":"b4e87158a1b4c123","x":-435,"y":405,"width":360,"height":120,"color":"1","type":"text","text":"Entre las capas existen pesos\nLos cuales son utilizados para entrenar el modelo"},
-		{"id":"4338f004ada09a87","x":25,"y":400,"width":330,"height":130,"type":"text","text":"Se presenta a la red una serie de ejemplos con entradas y salidas conocidas"},
-		{"id":"8232478fd97afdd3","x":430,"y":400,"width":340,"height":130,"type":"text","text":"La red comienza a hacer predicciones y luego compara sus predicciones con los resultados reales"},
-		{"id":"639b985a480645da","x":-60,"y":600,"width":490,"height":80,"color":"4","type":"text","text":"Los pesos se ajustan con una función de optimización o [[función de pérdida]] como [[descenso de gradiente]]"},
-		{"id":"9d8ed119dde23dd6","x":100,"y":95,"width":250,"height":60,"color":"6","type":"text","text":"[[Red Neuronal]]"}
+		{"id":"c8f0fa7681233234","type":"text","text":"Una red neuronal tiene capas","x":-520,"y":35,"width":285,"height":60},
+		{"id":"483b75b131507136","type":"file","file":"general knowledge/AI/assets/Pasted image 20231108224524.png","x":-105,"y":-418,"width":660,"height":453},
+		{"id":"3ed003ac767e13c7","type":"text","text":"Capa de entrada","x":-200,"y":220,"width":250,"height":60},
+		{"id":"9070addb51b8ab2c","type":"text","text":"Capas ocultas","x":125,"y":220,"width":250,"height":60},
+		{"id":"485645b05acb93a9","type":"text","text":"Capa de salida","x":430,"y":220,"width":250,"height":60},
+		{"id":"b4e87158a1b4c123","type":"text","text":"Entre las capas existen pesos\nLos cuales son utilizados para entrenar el modelo","x":-435,"y":405,"width":360,"height":120,"color":"1"},
+		{"id":"4338f004ada09a87","type":"text","text":"Se presenta a la red una serie de ejemplos con entradas y salidas conocidas","x":25,"y":400,"width":330,"height":130},
+		{"id":"8232478fd97afdd3","type":"text","text":"La red comienza a hacer predicciones y luego compara sus predicciones con los resultados reales","x":430,"y":400,"width":340,"height":130},
+		{"id":"639b985a480645da","type":"text","text":"Los pesos se ajustan con una función de optimización o [[función de pérdida]] como [[descenso de gradiente]]","x":-60,"y":600,"width":490,"height":80,"color":"4"},
+		{"id":"9d8ed119dde23dd6","type":"text","text":"[[Red Neuronal]]","x":100,"y":95,"width":250,"height":60,"color":"6"}
 	],
 	"edges":[
 		{"id":"7389fb16e49c4415","fromNode":"483b75b131507136","fromSide":"left","toNode":"c8f0fa7681233234","toSide":"top"},

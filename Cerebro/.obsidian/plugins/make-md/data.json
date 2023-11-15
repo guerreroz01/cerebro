@@ -35,7 +35,17 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "/"
+    "//Estudios UCAM/Estudios UCAM/Ortodoncia",
+    "//Estudios UCAM/Estudios UCAM/Ortodoncia",
+    "//Estudios UCAM/Estudios UCAM/Ortodoncia/Estudios UCAM/Ortodoncia/ortodoncia 2",
+    "//Estudios UCAM/Estudios UCAM/Ortodoncia/Estudios UCAM/Ortodoncia/ortodoncia 2",
+    "Spaces/Home/Spaces/Home/TODO",
+    "//Spaces/Spaces/Home",
+    "Spaces/Home/Spaces/Home/TODO",
+    "Spaces/Home/Spaces/Home/TODO",
+    "Spaces/Home/Spaces/Home/TODO",
+    "Spaces/Home/Spaces/Home/TODO",
+    "Spaces/Home/Spaces/Home/TODO"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",
@@ -57,10 +67,12 @@
   "inlineContextNameLayout": "vertical",
   "waypoints": [
     "Spaces/Home",
-    "/",
-    "spaces://$tags"
+    "spaces://$tags",
+    "/"
   ],
-  "rootSpaces": [],
+  "rootSpaces": [
+    "Spaces/Home/TODO"
+  ],
   "spacesUseAlias": false,
   "fmKeyAlias": "aliases",
   "fmKeyBanner": "banner",
