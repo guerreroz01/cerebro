@@ -719,18 +719,97 @@ La cantidad de crecimiento facial, fundamentalmente genética, se escapa prácti
 
 Para esto nos valemos de métodos para determinar el grado de maduración ósea basado en vértebras cervicales y osificación de los huesos de la mano-muñeca.
 
+### Radiografía de mano como determinación esquelética
+Análisis de maduración ósea en la  radiografía de mano-muñeca por Grave-Brown
+
+_**9 estadios de maduración esquelética.**_
+![[Pasted image 20231115133417.png]]
+
+#### Fase 1 - Espera
+- Primer estadio de maduración:
+	La diáfisis de la falange proximal del dedo índice (FP2), muestra la misma anchura que la epífisis. Este estadio comienza aproximadamente 3 años antes del brote de crecimiento puberal.
+		![[Pasted image 20231115133717.png]]
+
+- Segundo estadio de maduración
+	La diáfisis de la segunda falange del dedo medio (FM3) muestra la misma anchura que la epífisis.
+	![[Pasted image 20231115133904.png]]
+
+#### Fase 2 - Aceleración
+- Tercer estadio de maduración
+	(Pisi) Osificación visible del hueso pisiforme.
+	(H-1) Comienza a observarse delimitación de la apófisis unciforme del ganchoso.
+	(R) Igual anchura entre la diáfisis y epífisis del Radio.
+	![[Pasted image 20231115134157.png]]
+
+- Cuarto estadio de maduración
+	(S) inicio de mineralización del hueso sesamoideo.
+	(H-2) Buena delimitación de la apófisis unciforme del ganchoso.
+	Este estadio se alcanza poco antes o al inicio del brote de crecimiento puberal.
+	![[Pasted image 20231115134416.png]]
+
+#### Fase 3 - Crecimiento máximo
+- Quinto estadio de maduración
+	(FM3 cap) La epífisis rodea a modo de capuchón a la diáfisis, a nivel de la segunda falange del dedo medio.
+	(FP1 cap) La epífisis rodea a modo de capuchón a la diáfisis, a nivel de la falange proximal del pulgar.
+	(R cap) La epífisis rodea a modo de capuchón a la diáfisis del Radio.
+
+	**Este estadio de osificación coincide con el brote máximo de crecimiento puberal**
+	![[Pasted image 20231115134827.png]]
+
+#### Fase 4 - Decreciente
+- Sexto estadio de maduración
+	(FD3 u) Fusión visible de la diáfisis y epífisis de la falange distal del dedo medio
+	Al alcanzarse este estadio de maduración, termina el brote de crecimiento puberal.
+	![[Pasted image 20231115135223.png]]
+
+- Séptimo estadio de maduración
+	(FP3 u) Fusión visible de la diáfisis y epífisis de la falange proximal del dedo medio.
+	![[Pasted image 20231115135522.png]]
+	
+
+- Octavo estadio de maduración
+	(FM3 u) Fusión visible de la diáfisis y epífisis de la segunda falange del dedo medio.
+	![[Pasted image 20231115135602.png]]
+
+#### Fase 5 - Fin del crecimiento
+- Noveno estadio de maduración
+	(Ru) Osificación total de la diáfisis y epífisis del Radio.
+
+	Al llegar a este estadio, termina la osificación de todos los huesos de la mano y, al mismo tiempo, el crecimiento óseo.
+	![[Pasted image 20231115135801.png]]
+
+En el estadio 3 o 4 es el momento oportuno de poner un aparato funcional porque la pubertad tardará 1 año
+
+![[Pasted image 20231115135936.png]]
 
 
+### Análisis de maduración ósea basada en el análisis de las vértebras cervicales en la telerradiografía lateral de cráneo
 
+![[Pasted image 20231115140212.png]]
 
+#### Etapa cervical 1 (CS1) 
+Los bordes inferiores de las tres vertebras (C2-C4) son planos.  Los cuerpos de C3 y C4 tienen forma trapezoidal. El pico de crecimiento mandibular ocurrirá 2 años después.
+![[Pasted image 20231115140431.png]]
 
+#### Etapa cervical 2 (CS2)
+Se observa una concavidad en el borde inferior de C2. Los cuerpos de C3 y C4 todavía tienen forma trapezoidal. El pico de crecimiento mandibular ocurrirá 1 año después.
+![[Pasted image 20231115140606.png]]
 
+#### Etapa cervical 3 (CS3)
+Se observa una concavidad en el borde inferior tanto de C2 como de C3. Los cuerpos de C3 y C4  pueden ser trapezoidales o rectangular-horizontal. El pico de crecimiento mandibular ocurrirá durante el año después de esta etapa.
+![[Pasted image 20231115141232.png]]
 
+#### Etapa cervical 4 (CS4)
+Concavidad en bordes inferiores C2, C3 y C4. Los cuerpos de C3 y C4 son de forma rectangular horizontal. El pico de crecimiento mandibular pasó hace uno o dos años.
+![[Pasted image 20231115141420.png]]
 
+#### Etapa cervical 5 (CS5)
+Las concavidades en bordes inferiores de C2, C3 y C4 siguen estando presentes. Al menos uno de los cuerpos (C3 o C4) tiene forma cuadrada. El pico de crecimiento mandibular ha terminado al menos un año antes.
+![[Pasted image 20231115141640.png]]
 
-
-
-
+#### Etapa cervical 6 (CS6)
+Las concavidades en bordes inferiores de C2, C3 y C4 siguen estando presentes. Al menos uno de los cuerpos C3 o C4 tiene forma rectangular vertical. El pico de crecimiento mandibular ha terminado al menos dos años antes.
+![[Pasted image 20231115141827.png]]
 
 
 
