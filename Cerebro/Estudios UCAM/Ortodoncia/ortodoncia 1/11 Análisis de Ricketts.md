@@ -3,9 +3,10 @@ type: estudios
 tema: "11"
 tags:
   - estudios/ortodoncia1
-banner: "![[ucam.jpg]]"
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 banner_y: 0.83333
-banner_icon:
+banner_icon: 
+sticker: lucide//check
 ---
 # Análisis de cefalométrico de Ricketts
 ___

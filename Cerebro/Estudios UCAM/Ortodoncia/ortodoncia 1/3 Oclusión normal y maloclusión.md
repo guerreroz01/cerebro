@@ -4,6 +4,7 @@ type: estudios
 tema: "3"
 tags:
   - estudios/ortodoncia1
+sticker: emoji//1f6a7
 ---
 # Oclusión normal y maloclusión
 ___

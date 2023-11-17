@@ -728,7 +728,7 @@ _**9 estadios de maduración esquelética.**_
 #### Fase 1 - Espera
 - Primer estadio de maduración:
 	La diáfisis de la falange proximal del dedo índice (FP2), muestra la misma anchura que la epífisis. Este estadio comienza aproximadamente 3 años antes del brote de crecimiento puberal.
-		![[Pasted image 20231115133717.png]]
+	![[Pasted image 20231115133717.png]]
 
 - Segundo estadio de maduración
 	La diáfisis de la segunda falange del dedo medio (FM3) muestra la misma anchura que la epífisis.

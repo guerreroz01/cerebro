@@ -35,8 +35,6 @@
   "showRibbon": true,
   "deleteFileOption": "trash",
   "expandedSpaces": [
-    "//Estudios UCAM/Estudios UCAM/Ortodoncia",
-    "//Estudios UCAM/Estudios UCAM/Ortodoncia",
     "Spaces/Home/Spaces/Home/TODO",
     "//Spaces/Spaces/Home",
     "Spaces/Home/Spaces/Home/TODO",
@@ -44,8 +42,6 @@
     "Spaces/Home/Spaces/Home/TODO",
     "Spaces/Home/Spaces/Home/TODO",
     "Spaces/Home/Spaces/Home/TODO",
-    "//Estudios UCAM",
-    "//Estudios UCAM/Estudios UCAM/Ortodoncia/Estudios UCAM/Ortodoncia/ortodoncia 1",
     "//Spaces/Spaces/Home"
   ],
   "expandFolderOnClick": true,

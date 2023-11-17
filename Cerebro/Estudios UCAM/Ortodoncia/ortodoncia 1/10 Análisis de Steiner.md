@@ -3,9 +3,10 @@ type: estudios
 tema: "10"
 tags:
   - estudios/ortodoncia1
-banner: "![[ucam.jpg]]"
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 banner_y: 0.88
-banner_icon:
+banner_icon: 
+sticker: lucide//check
 ---
 # Análisis cefalométrico de Steiner
 ___
