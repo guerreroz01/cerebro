@@ -3,8 +3,9 @@ type: estudios
 tags:
   - estudios/ortodoncia1
 tema: "6"
-banner: "![[ucam.jpg]]"
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 banner_y: 0.82
+sticker: emoji//1f6a7
 ---
 # Hábitos y disfunciones orales
 
@@ -25,7 +26,7 @@ banner_y: 0.82
 - [ ] ❗**Facies adenoideas** síntomas y signos
 - [ ] Participación de la lengua el equilibrio bucal, cuando los molares superiores se extruyen la mandíbula posterorrota y el paciente desarrolla una [[Clase II]]
 - [ ] Hipo-desarrollo del maxilar, latero desviaciones y mordida abierta.
-- [ ] [[Clase II división 1]] ¿por qué puede ocurrir en estos pacientes?
+- [ ] [[Clase II#División 1$ a$|Clase II división 1]] ¿por qué puede ocurrir en estos pacientes?
 - [ ] [[Clase III]] con respiración oral consecuencias
 - [ ] Las [[Clase II]] con respiración oral **_nunca serán por causa maxilar_** porque la lengua no avanza el maxilar, sino la mandíbula.
 - [ ] Maduración de la función de la deglución 

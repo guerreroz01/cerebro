@@ -142,7 +142,167 @@ Una curva de Spee **profunda** provoca alteraciones en el plano oclusal impidien
 La curva de Spee **invertida** determina un exceso del espacio disponible en el maxilar superior, incorrecta intercuspidación y falta de guía incisiva.
 ![[Pasted image 20231115232102.png]]
 
+## Los objetivos funcionales oclusales
+
+**El esquema oclusal ideal corresponde a las características de la oclusión mutuamente protegida.**
+
+### 1. Contactos bilaterales simultáneos y estables
+Contactos bilaterales, simultáneos y estables de los dientes posteriores en una oclusión de posición de [[Máxima intercuspidación]] coincidente con [[Relación céntrica]].
+
+### 2. Espacio libre de 0,012 mm
+En esta posición debe existir un espacio libre de 0,012 mm entre los bordes incisales de los incisivos y caninos inferiores y las caras palatinas de los caninos e incisivos superiores.
+
+![[Pasted image 20231118125148.png]]
+
+### 3. OVERBITE y OVERJET
+- Overbite de 3 a 4 mm
+- Overjet de 2 a 3 mm, medido desde los bordes incisales de los incisivos superiores a la cara vestibular de los incisivos inferiores.
+
+![[Pasted image 20231118125502.png]]
+
+Tanto el overbite como el overjet deben ser suficientes para asegurar una correcta funcionalidad de la [[Guía Anterior]] y [[Guía Canina]], evitando los contactos posteriores.
+
+### 4. Excursiones laterales
+En tas excursiones laterales, los caninos deben ocluir y el resto desocluir.
+![[Pasted image 20231118130018.png]]
+
+### 5. Protrusiva
+En protrusiva los incisivos deberán acoplar y todos los posteriores desocluir.
+![[Pasted image 20231118125930.png]]
+
+## Maloclusión funcional
+Es cuando los movimientos excursivos no presentan las relaciones oclusales adecuadas y no hay una función normal de los complejos articulares temporomandibulares. ^[3: Bravo LA. Manual de Ortodoncia 2003].
+
+También puede hablarse de maloclusión funcional si la oclusión habitual en [[Máxima intercuspidación]] (_que puede ser correcta_) no coincide, dentro de ciertos límites, con una [[Relación céntrica]] condilar. ^[4: Bravo LA. Manual de Ortodoncia 2003].
+
+![[Pasted image 20231118130805.png]]
+
+## Maloclusión Estructural
+Aún en el caso de que la [[Máxima intercuspidación]] se produzca en [[Relación céntrica]] condilar, esto es, que se trata de una oclusión céntrica, pueden estar presentes relaciones dentarias interproximales y oclusales anómalas, que es lo que denominamos MALOCLUSIÓN en sentido estricto.
+
+## Clasificación de las maloclusiones:
+Este sistema de clasificación se basa en las relaciones anteroposteriores de las arcadas dentarias.
+
+| Clase I | Clase II | Clase III |
+|:-------:|:--------:|:--------:|
+|No tiene subdivisión| División 1$^a$ |Subdivisión derecha o izquierda|
+|    | División 2$^a$ |  |
+|  | Subdivisión derecha o izquierda |
+
+![[Clase I]]
+
+![[Clase II]]
+
+![[Clase III]]
+
+A raíz del uso de cefalometrías radiologícas tras la Segunda Guerra Mundial, se vio claramente que muchas maloclusiones [[Clase II]] y [[Clase III]] se debían a alteraciones en las relaciones intermaxilares, y no sólo a una mala posición de los dientes.
+
+La mayor parte de los sistemas de clasificación (_no sólo el de Angle_) omite dimensiones, con poco o ningún énfasis en la contribución vertical o transversal de la maloclusión.
+
+Debemos atender a los tres planos del espacio para una completa clasificación de los tipos de maloclusiones.
+![[Pasted image 20231118140634.png]]
+
+### Oclusión Sagital:
+1. Clase Molar/Canina
+	1. Normal _Clase I_
+	2. Clase II
+	3. Clase III
+2. Resalte anterior:
+	1. Normal
+	2. Aumentado
+	3. Disminuido, Borde a borde, Invertido.
+![[Pasted image 20231118141317.png]]
+
+### Oclusión Transversal:
+1. Resalte molar, premolar y canino
+	1. Normal.
+	2. Mordida cruzada.
+	3. Mordida en tijera.
+![[Pasted image 20231118141435.png]]
+
+### Oclusión Vertical:
+1. Sobremordida anterior
+	1. Normal.
+	2. Disminuida, Abierta.
+	3. Aumentada, Profunda.
+2. Mordida lateral
+	1. Normal.
+	2. Abierta.
+	3. Proceso dentoalveolar posterior sobreerupcionado.
+![[Pasted image 20231118141555.png]]
 
 
+### Maloclusión de Clase I
+- En la maloclusión clase I de Angle, los molares se encuentran en una relación correcta y **_el problema se presenta en los incisivos, caninos y premolares_**.
 
-# Referencias
+- La [[Clase I]] molar suele ir acompañada de una clase I esquelética, aunque puede haber una clase II o clase III esquelética.
+
+- Teniendo en cuenta los diferentes [[patrón de crecimiento|patrones de crecimiento]] que puede representar el paciente, finalmente es posible estar frente a múltiples combinaciones de maloclusiones.
+
+- La maloclusión puede afectar también a otros planos del espacio, como en el caso de las mordidas cruzadas, las mordidas abiertas o las sobremordidas aumentadas.
+
+#### Clase I con apiñamiento
+La causa más frecuente de esta maloclusión es la [[Discrepancias Oseo Dentarias]] negativa, con un exceso de material dental o falta de espacio.
+
+Las características más habituales son el **apiñamiento anterior y los caninos elevados o retenidos**.
+
+También puede haber apiñamiento lateral en los 2 premolares inferiores que a menudo quedan linguoversionados.
+
+#### Clase I con Biprotrusión o birretrusión
+1. Dental: posición de los incisivos por detrás (birretrusión) o por delante (biprotrusión) de sus bases óseas.
+
+2. Esquelético: Los maxilares están por detrás (birretrusión) o por delante (biprotrusión) de la base del cráneo.
+
+3. Biprotrusión: No se encuentra apiñamiento pero suele haber ***mordida abierta anterior*** y una lengua protrusiva apoyada en el sector anterior.
+
+4. Birretrusión: Suele haber ***apiñamiento***, más marcado en la arcada inferior y ***sobremordida***.
+
+### Maloclusión de clase II div 1$^a$ : 
+**Característico de una Clase II molar y canina y resalte extremo.**
+
+Puede haber sobremordida por extrusión de los incisivos inferiores al perder el contacto con los antagonistas debido al resalte.
+
+En la zona incisiva, el hábito de interposición labial provoca liguoversión de los incisivos inferiores y labioversión de los incisivos superiores.
+
+El problema óseo de clase II puede estar presente o no.
+
+Estéticamente, se observa u  perfil convexo que presenta u escalón a nivel del plano oclusal y de la comisura labial, el surco sublabial es muy marcado.
+
+![[Pasted image 20231118153406.png]]
+
+### Maloclusión de clase II div 2$^a$ : 
+**Se caracteriza por una clase II molar y canina**.
+
+Los incisivos centrales superiores se encuentran verticalizados o palatinizados y con **AUSENCIA DE RESALTE** 👀 muy importante -> (_en la división 2 no debe haber resalte_). Incisivos laterales superiores labioversionados. Incisivos inferiores lingualizados.
+
+Sobremordida anterior aumentada.
+
+Las características esqueléticas no son tan marcadas como en otras maloclusiones. ==Cuando hay clase II esquelética, es de causa mandibular.==
+
+El patrón facial de crecimiento es [[braquifacial]] #error se da en pacientes con un tono muscular fuerte.
+
+Estéticamente, se observa un perfil cóncavo, retrusión labial, labios finos e hipertónicos y ángulo goniaco cerrado.
+
+![[Pasted image 20231118154731.png]]
+
+### Maloclusión Sagital de clase III
+Se caracteriza por tener clase III tanto molar como canina y mordida cruzada anterior.
+
+- Linguoversión de los incisivos inferiores y apiñamiento en la arcada superior debido a la mordida cruzada anterior.
+
+- Mordida cruzada posterior por maxilar hipoplásico. Al ser la arcada superior de menor tamaño que la arcada inferior hay deficiencia transversal.
+
+- Existe generalmente un cuerpo mandibular largo.
+
+- Rasgos estéticos: hundimiento de los pómulos y del tercio medio de la cara, labio superior corto y replegado detrás del inferior, labio inferior grueso y mentón prominente.
+![[Pasted image 20231118155447.png]]
+
+En caso de que la mordida cruzada anterior sea unilateral, también hay un desvío funcional de la mandíbula, y con los años, se producirá una asimetría condilar (estructural).
+
+Cuando buscamos la [[Relación céntrica]] al paciente, en general encontramos contactos borde a borde en los incisivos y mordida abierta posterior.
+
+Es en la posición de [[Máxima intercuspidación]] cuando el paciente realiza la protrusión mandibular y aparecen la mordida cruzada anterior y los contactos oclusales.
+
+![[Pasted image 20231118155944.png]]
+
+### Maloclusión Transversal. Mordida Cruzada Posterior.

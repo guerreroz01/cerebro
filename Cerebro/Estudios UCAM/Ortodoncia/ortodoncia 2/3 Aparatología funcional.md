@@ -3,8 +3,9 @@ tags:
   - estudios/ortodoncia2
 type: estudios
 tema: "3"
-banner: "![[ucam.jpg]]"
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 banner_y: 0.80667
+sticker: lucide//check
 ---
 ## Aparatología funcional:
 - Wolf y Roux primeros en introducir los conceptos
@@ -209,12 +210,12 @@ Está formado por dos escudos laterales de acrílico, dos almohadillas en la zon
 
 **Existen tres tipos de reguladores de Fränkel:**
 ###### 1. El Fränkel tipo I:
-Para el tratamiento de la [[Clase II división 1]] en el que las almohadillas anteriores se sitúan a nivel del labio inferior y el arco vestibular en la zona superior.
+Para el tratamiento de la [[Clase II#División 1$ a$|Clase II división 1]] en el que las almohadillas anteriores se sitúan a nivel del labio inferior y el arco vestibular en la zona superior.
 
 ![[Pasted image 20231021123819.png]]
 
 ###### 2. El Fränkel tipo II:
-Utilizado para tratar la [[Clase II división 2]], similar al anterior, pero con un resorte de protrusión para los incisivos superiores.
+Utilizado para tratar la [[Clase II#División 2$ a$|Clase II división 2]], similar al anterior, pero con un resorte de protrusión para los incisivos superiores.
 
 ###### 3. El Fränkel tipo III:
 Diseñado para el tratamiento de la [[Clase III]], en el que las almohadillas anteriores actúan sobre el labio superior y el arco vestibular apoya en los incisivos inferiores.
@@ -272,9 +273,9 @@ La mitad superior e inferior se conectan por un alambre que mantiene el avance y
 
 **Existen tres tipos de aparatos de Bimler**
 ###### Tipo A:
-Para el tratamiento de la [[Clase II división 1| Clase II división 1]].
+Para el tratamiento de la [[Clase II#División 1$ a$|Clase II división 1]].
 ###### Tipo B:
-Para el tratamiento de la [[Clase II división 2 | Clase II división 2]].
+Para el tratamiento de la [[Clase II#División 2$ a$|Clase II división 2]].
 ###### Tipo C:
 Para el tratamiento de la [[Clase III | Clase III]].
 
@@ -293,9 +294,9 @@ Es un aparato similar al anterior en elasticidad y en que la unión entre ambas 
 
 
 #### Aplicación clínica:
-El uso más frecuente de los aparatos funcionales es para tratar la maloclusión de [[Clase II división 1| Clase II división 1]], siendo esta ademas la más frecuente en clínica.
+El uso más frecuente de los aparatos funcionales es para tratar la maloclusión de [[Clase II#División 1$ a$| Clase II división 1]], siendo esta ademas la más frecuente en clínica.
 
-Existen variantes de aparatos para tratar la maloclusión de [[Clase II división 2 | Clase II división 2]] realizando un efecto sobre la retroinclinación de incisivos superiores típica de esta maloclusión; pero es habitual en casos de gran sobremordida realizar una primera fase y **convertir la maloclusión** en una [[Clase II división 1 | Clase II división 1]] 
+Existen variantes de aparatos para tratar la maloclusión de [[Clase II#División 2$ a$| Clase II división 2]] realizando un efecto sobre la retroinclinación de incisivos superiores típica de esta maloclusión; pero es habitual en casos de gran sobremordida realizar una primera fase y **convertir la maloclusión** en una [[Clase II#División 1$ a$| Clase II división 1]] 
 
 > [!Success] 
 > La mayor parte de las maloclusiones esqueléticas de Clase II son de origen mandibular, por lo que este tipo de aparatos serían el tratamiento de elección en pacientes en crecimiento.
@@ -362,8 +363,8 @@ No se construyen con avance mandibular, sino con retracción, siempre que sea po
 
 #### Indicaciones de los aparatos funcionales:
 1. Pacientes en fase activa de crecimiento o con buen potencial de crecimiento.
-2. Maloclusiones de [[Clase II división 1| Clase II división 1]]  de mayor o menor severidad, sin apiñamiento o apiñamiento leve, patrón de crecimiento [[mesofacial]] o [[braquifacial]] y sobre todo si presentan alteraciones funcionales.
-3. Maloclusiones de [[Clase II división 2]] con mayor o menor sobremordida, sin apiñamiento o apiñamiento leve y en edad temprana.
+2. Maloclusiones de [[Clase II#División 1$ a$|Clase II división 1]]  de mayor o menor severidad, sin apiñamiento o apiñamiento leve, patrón de crecimiento [[mesofacial]] o [[braquifacial]] y sobre todo si presentan alteraciones funcionales.
+3. Maloclusiones de [[Clase II#División 2$ a$|Clase II división 2]] con mayor o menor sobremordida, sin apiñamiento o apiñamiento leve y en edad temprana.
 4. Maloclusiones de [[Clase III]] en edad temprana, sin apiñamiento o apiñamiento leve y patrón de crecimiento [[mesofacial]] o [[braquifacial]].
 5. Como aparato para una primera fase de corrección esquelética y funcional, de un tratamiento programado en dos fases.
 6. Como aparato de mantenimiento de un problema esquelético, después de una primera fase de tratamiento, hasta el comienzo de la segunda fase.

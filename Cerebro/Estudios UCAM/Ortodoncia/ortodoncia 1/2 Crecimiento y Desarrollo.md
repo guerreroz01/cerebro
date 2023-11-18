@@ -4,6 +4,7 @@ tags:
   - estudios/ortodoncia1
 type: estudios
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
+sticker: lucide//check
 ---
 # Crecimiento y desarrollo 
 ___

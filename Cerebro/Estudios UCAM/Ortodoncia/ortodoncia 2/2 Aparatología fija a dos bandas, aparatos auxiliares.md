@@ -3,8 +3,9 @@ type: estudios
 tags:
   - estudios/ortodoncia2
 tema: "2"
-banner: "![[ucam.jpg]]"
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 banner_y: 0.83333
+sticker: lucide//check
 ---
 # Aparatología fija a dos bandas, aparatos auxiliares
 
