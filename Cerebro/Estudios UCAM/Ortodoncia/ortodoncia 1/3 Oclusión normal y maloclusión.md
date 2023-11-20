@@ -306,3 +306,102 @@ Es en la posición de [[Máxima intercuspidación]] cuando el paciente realiza l
 ![[Pasted image 20231118155944.png]]
 
 ### Maloclusión Transversal. Mordida Cruzada Posterior.
+El resalte posterior es negativo y las cúspides vestibulares de premolares y molares superiores ocluyen en las fosas de los inferiores.
+
+Esto trae como consecuencia:
+1. Aumento de la longitud de la rama mandibular del lado no cruzado.
+2. Engrosamiento y expansión del cuerpo mandibular del lado de la mordida cruzada.
+3. Cambio en la angulación de los procesos alveolares del lado cruzado.
+4. Comportamientos musculares atípicos.
+5. Desviación hacia el lado de trabajo de la línea mandibular.
+6. Asimetría condilar.
+![[Pasted image 20231118221532.png]]
+#### Etiología de la mordida cruzada posterior
+- Factores genéticos:
+	- Hipoplasia maxilar.
+	- Hiperplasia mandibular.
+	- Asimetría maxilar o mandibular.
+	- Síndromes.
+- Respiración oral
+- Succión digital.
+- Chupete.
+- Alteraciones funcionales:
+	- Hipertrofia amigdalar.
+	- Limitación del frenillo lingual.
+- Interferencias oclusales: En maxilares comprimidos se produce una intercuspidación incorrecta y para evitarla, la mandíbula se desplaza lateralmente.
+
+### Maloclusión vertical mordida abierta.
+#### Etiología
+- Factores hereditarios:
+	- Malformaciones congénitas y cromosomopatías.
+- Hábitos: también pueden ser adaptativos:
+	- Deglución atípica.
+	- Hábitos de succión.
+	- Protracción o empuje lingual.
+	- Respiración oral.
+![[Pasted image 20231118222317.png]]
+
+### Maloclusión vertical sobremordida aumentada
+En la visión frontal, los incisivos superiores cubren un exceso de la corona clínica de los incisivos inferiores.
+
+Puede ser **Dental o Esquelética.**
+#### Dental:
+- Se debe a un exceso de erupción de los incisivos inferiores (_curva de Spee aumentada_) por resalte anterior aumentado.
+- O por déficit en la erupción de los dientes del sector posterior, con coronas clínicas cortas, patrones musculares fuertes en los que la dimensión vertical posterior está reducida.
+
+#### Esquelética:
+Se asocia con un marcado patrón braquicefálico.  Suele haber rotación horaria del maxilar superior y antihoraria mandibular.
+![[Pasted image 20231118224018.png]]
+
+## Epidemiología de las maloclusiones
+- La oclusión más frecuente es la:
+
+| Más frecuente | % |
+|:--------------:|:----:| 
+|[[Clase I]] | 52% - 53% |
+|[[Clase II]]| 24% - 37% |
+| [[Clase III]] | 6,5% - 10% |
+
+- Considerando las demás anomalías, el **apiñamiento** fue uno de los más frecuentes con una prevalencia de hasta 30 - 84,4%, seguido del **espaciado** con una frecuencia del 15,3 - 60%.
+
+- La prevalencia de **mordida cruzada anterior, mordida cruzada posterior y mordida cruzada con desplazamiento funcional** fue del 6,3% - 7,8% (De 6,5), el 7% - 9% (De 7,34) y el 12,2% (De 7,8%) respectivamente.
+
+|Más frecuente|%|De población|
+|:----------|:---------:|:-----------:|
+|Mordida cruzada anterior|6,3% - 7,8%| 6,5% |
+|Mordida cruzada posterior|7% - 9%| 7,34% |
+|Mordida cruzada con desplazamiento funcional|12,2%|7,8%|
+
+- Para dientes impactados, erupción ectópica y transposición, se encontraron medias de 4,9% (De 3,7%), 5,4% (De 3,8%) y 0,5% (De 0,5%) respectivamente.
+
+|Más frecuente|%|De población|
+|:----------|:--------:|:---------:|
+|Dientes impactados|4,9%|3,7%|
+|Erupción ectópica|5,4%|3,8%|
+|Transposición|0,5%|0,5%|
+
+La prevalencia varió ampliamente para la mayoría de los tipos de maloclusión en relación con las diferentes poblaciones, razas, nacionalidades y etnias; lo que sugiere un papel de la genética y las influencias ambientales, propias de cada población, en la determinación de los problemas dentales.
+
+- Las [[Clase I]] son más frecuentes en las raza negra.
+
+- Las [[Clase II]] son cuatro veces más frecuentes en la raza caucásica.
+
+- Los niños (_tanto de raza negra como caucásica_) tienen más frecuentemente clase III molar que las niñas.
+
+### Herencia:
+La herencia como causa de maloclusión se puede manifestar de:
+- Ausencia congénita de dientes.
+- Dientes supernumerarios.
+- Dientes con anomalía de forma y/o tamaño.
+- Erupción ectópica.
+
+☠️ La influencia de la herencia es particularmente intensa para el <span style="color:yellow;">prognatismo mandibular</span>. 
+
+A partir de mediciones cefalométricas, se ha encontrado coeficientes de correlación entre las estructuras esqueléticas de padres e hijos de alrededor de 0,5. Para las características dentarias, la herencia de las relaciones entre padres e hijos es menor.
+
+Lo mismo ocurre en estudios a largo plazo sobre el crecimiento en cuanto a la herencia de las características dentarias y esqueléticas. Las características y puramente dentarias están más influenciadas por factores ambientales.
+
+## Etiología de las maloclusiones:
+😃
+
+
