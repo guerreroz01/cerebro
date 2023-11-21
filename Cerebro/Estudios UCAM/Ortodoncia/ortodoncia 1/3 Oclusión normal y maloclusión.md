@@ -420,3 +420,35 @@ Lo mismo ocurre en estudios a largo plazo sobre el crecimiento en cuanto a la he
 |Virus de la rubeola|Microftalmia, cataratas y sordera|
 |Citomegalovirus|Microcefalia, hidrocefalia y microftalmia|
 
+### Malformaciones genéticas (Cromosomopatías)
+- Síndrome de Down
+- Disostosis cleidocraneal
+- Displasia esquelética anhidrótica
+- Síndrome de Beckwith-Wiedeman
+- Síndrome de Sotos
+- Síndrome de Turner
+- Síndrome de Marfan
+- Síndrome de Prader-Willi
+
+### Ambientales intrauterinos (Malformaciones congénitas)
+- Síndrome de Pierre Robin
+- Agentes teratógenos
+
+### Ambientales postnatales
+- Fracturas maxilares durante la infancia principalmente del cuello del cóndilo
+- Enfermedades neurológicas y musculares
+- Enfermedades endocrinas
+- Pérdida prematura de un diente temporal
+- Traumatismos de dientes temporales
+- Hábitos y disfunciones
+
+- Fracturas maxilares durante la infancia, principalmente del cóndilo que se puede producir cicatrización en la zona que impida los movimiento mandibulares que permitan el normal crecimiento, produciéndose crecimiento mandibular asimétrico y desplazamiento del mentón hacia el lado afectado.
+
+- Enfermedades neurológicas y musculares como la distrofia muscular alguna parálisis cerebrales, y síndromes de debilidad muscular. El efecto de la gravedad permite excesiva apertura bucal en reposo, erupción excesiva de los dientes posteriores, rotación posterior mandibular, aumento de la dimensión vertical del tercio inferior y mordida abierta esquelética.
+
+- Enfermedades endocrinas: 
+	- Retraso del crecimiento (_hipotiroidismo_), alteraciones del desarrollo dentario y biprotrusión con mordida abierta por macroglosia.
+	- Acromegalia, exceso de hormona de crecimiento, maloclusión esquelética en edad adulta por excesivo crecimiento mandibular.
+
+
+
