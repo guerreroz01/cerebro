@@ -402,6 +402,21 @@ A partir de mediciones cefalométricas, se ha encontrado coeficientes de correla
 Lo mismo ocurre en estudios a largo plazo sobre el crecimiento en cuanto a la herencia de las características dentarias y esqueléticas. Las características y puramente dentarias están más influenciadas por factores ambientales.
 
 ## Etiología de las maloclusiones:
-😃
+### Agentes teratógenos capaces de afectar el desarrollo dentofacial:
 
+|TERATÓGENOS|EFECTO|
+|:----------------|:----------|
+|Radiaciones ionizantes (_Rayos X_)| Microcefalia |
+|Exceso de vitamina D|Cierre prematuro de las suturas|
+|Benzodiacepinas|Labio leporino y fisura palatina|
+|Talidomida| Malformaciones similares a las apreciadas en los síndromes de Treacher Collins y microsomía hemifacial|
+|Ácido 13 CIS Retinoico| Síndrome del ácido retinoico, malformaciones similares a las aparecidas en los sindromes de Treacher Collins y microsomía hemifacial|
+|6 Mercaptopurina|Fisura palatina|
+|Alcohol etílico|Deficiencia del centro del tercio medio de la cara|
+|Hidantoínas|Labio leporino y fisura palatina|
+|Humo de cigarrillo (_Hipoxia_)|Labio leporino y fisura palatina|
+|Aspirina|Labio leporino y fisura palatina|
+|Toxoplasma|Microcefalia, hidrocefalia y microftalmia|
+|Virus de la rubeola|Microftalmia, cataratas y sordera|
+|Citomegalovirus|Microcefalia, hidrocefalia y microftalmia|
 
