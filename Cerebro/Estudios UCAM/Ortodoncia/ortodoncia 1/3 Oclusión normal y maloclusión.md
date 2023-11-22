@@ -4,7 +4,7 @@ type: estudios
 tema: "3"
 tags:
   - estudios/ortodoncia1
-sticker: emoji//1f6a7
+sticker: lucide//check
 ---
 # Oclusión normal y maloclusión
 ___
@@ -450,5 +450,100 @@ Lo mismo ocurre en estudios a largo plazo sobre el crecimiento en cuanto a la he
 	- Retraso del crecimiento (_hipotiroidismo_), alteraciones del desarrollo dentario y biprotrusión con mordida abierta por macroglosia.
 	- Acromegalia, exceso de hormona de crecimiento, maloclusión esquelética en edad adulta por excesivo crecimiento mandibular.
 
+- Pérdida prematura de un diente temporal por caries o traumatismo: 
+	- Desplazamiento e inclinación de los dientes adyacentes con pérdida de espacio para el diente permanente y consecuente apiñamiento. Sobre todo cuando se trata de un segundo molar temporal.
 
+- Traumatismo sobre los dientes temporales:
+	- Ocasionando lesión indirecta de los dientes permanentes condicionando la necesidad de extracción del permanente.
+	- Ocasionando migración de los dientes permanentes y apiñamiento.
+
+- Hábitos y disfunciones:
+El mecanismo por el que la función alterada puede producir una maloclusión es mediante la modificación del plan natural de crecimiento, aún sin producir enfermedad. Como las influencias genéticas también afectan el crecimiento, puede ser difícil discernir si es la herencia o el medio ambiente postnatal la causa de esos problemas de crecimiento encontrados.
+
+### Necesidad de tratamiento: Consecuencias de las maloclusiones.
+La maloclusión no es una ENFERMEDAD en sentido estricto, puesto que no provoca lesión histológica ni reacción orgánica, sino que se trata de una ANOMALÍA DEL DESARROLLO CRANEOFACIAL que se encontraría en un extremo del espectro de variaciones normales.
+
+Las maloclusiones pueden tener cierto **POTENCIAL PATÓGENO** facilitando el desencadenamiento de **DTMs**  (_desordenes temporomandibulares_) o una **lesión periodontal**.
+
+Difícilmente podemos valorar la necesidad de los tratamientos de ortodoncia en función de una enfermedad _(la maloclusión)_ que no es tal, aunque son notorias las posibilidades preventivas que ofrece la regularización de la oclusión dentaria para evitar el depósito de placa, la patología gingivo-periodontal y los DTMs (_desordenes temporomandibulares_).
+
+#### Consecuencias de las maloclusiones:
+1.  [[#1. Problemas psicosociales|Problemas psicosociales]]
+2.  [[#2. Caries|Caries]]
+3.  [[#3. Enfermedad periodontal|Enfermedad periodontal]]
+4.  [[#4. Traumatismos dentales|Traumatismos dentales]]
+5.  [[#5. Impactación dentaria|Impactación dentaria]]
+6.  [[#6. Función masticatoria|Función masticatoria ineficaz]]
+7.  Deglución atípica
+8.  Fonación imprecisa
+9.  Desordenes Temporomandibulares.
+
+##### 1. Problemas psicosociales:
+Algunos pacientes portadores de una maloclusión ostensible, cuya corrección pareciera razonable, no están interesados o motivados hacia la corrección ortodóncica de su deformidad. No obstante, cuando el grado de deformidad crea un MALESTAR PSICOLÓGICO a la persona que lo porta, estaría justificado considerar la maloclusión como causante de una **ENFERMEDAD** que perjudica a su salud como individuo y deteriora sus relaciones sociales.
+
+La maloclusión grave puede ser una traba social, los dientes bien alineados y una sonrisa agradable se asocian a un estatus positivo a todos los niveles sociales, mientras que los dientes irregulares o protruyentes tienen connotaciones negativas.
+
+Las respuestas sociales condicionadas por el aspecto de la dentadura pueden influir notablemente en la plena adaptación vital de un individuo.
+
+Ello coloca al concepto de "_maloclusión desfavorable_" en un contexto en el que si las relaciones sociales de una persona se ven afectadas constantemente por una dentadura, el perjuicio dental no es ni mucho menos trivial.
+
+##### 2. Caries:
+En niños susceptibles, el apiñamiento dentario puede disminuir el potencial para la autolimpieza natural de los dientes e incrementar el riesgo de caries.
+
+##### 3. Enfermedad periodontal:
+Cuando se pretende conseguir la remoción de la placa dentaria, la motivación individual que consigue un buen cepillado tiene mayor impacto que la corrección del apiñamiento. No obstante, existen ciertas anomalías oclusales que, ciertamente, ponen en peligro el soporte periodontal.
+
+La propia existencia del apiñamiento puede condicionar que uno o más dientes se vean desplazados vestibular o lingualmente, fuera del hueso alveolar de soporte, dando lugar a una falta de soporte periodontal.
+
+Existen también ciertas situaciones oclusales que originan un efecto traumático sobre el sistema de soporte periodontal de uno o varios dientes, como puede ocurrir en algunas maloclusiones del tipo [[Clase III]] de Angle, en que los incisivos inferiores aparecen en mordida cruzada respecto de los superiores y son literalmente empujados labialmente con cada cierre masticatorio conduciendo a una recesión gingival de los mismos.
+
+Es bastante notorio que los pacientes que han seguido un tratamiento de ortodoncia muestran un incremento importante en la atención y cuidado general de su propia salud bucal y de la de los que están a su cuidado, como beneficio añadido a largo plazo sobre la salud oral.
+
+##### 4. Traumatismos dentales:
+El riesgo de lesión traumática de los incisivos superiores aumenta la magnitud del resalte anterior.
+
+La incompetencia labial también aumenta el riesgo tanto en niños como en adultos.
+
+El pico de mayor incidencia de traumatismos dentales es los 10 años de edad.
+
+##### 5. Impactación dentaria:
+Los dientes que no erupcionen (_caninos superiores y terceros molares_) pueden dar lugar a reabsorción radicular de incisivos laterales, quistes y/o fracturas mandibulares.
+
+Los dientes supernumerarios pueden impedir la correcta erupción normal de uno o varios dientes localizados en la proximidad de aquéllos.
+
+##### 6. Función masticatoria:
+Las mordidas abiertas, resaltes exagerados o importantes resaltes negativos presentan dificultades masticatorias, particularmente en el corte de los alimentos.
+
+##### 7. Deglución:
+La maloclusión puede obligar a efectuar alteraciones adaptativas en la deglución.
+
+##### 8. Fonación:
+Los tejidos blandos muestran gran capacidad de adaptación a los diferentes cambios oclusales que puedan producirse a lo largo de la vida del individuo, ya sean fisiológicos o patológicos. Por tanto, el habla se ve raramente afectado por la existencia de una maloclusión.
+
+Puede haber situaciones en las que la deformidad dificulte la producción correcta de determinados sonidos. En  estos casos un tratamiento foniátrico eficaz puede precisar tratamiento ortodóncico previo.
+
+##### DTMs Disfunción temporomandibular
+Si el problema tuviera su origen en algún cuadro de afectación patológica primaria de los propios complejos articulares, el tratamiento oclusal de cualquier tipo no sería la solución.
+
+El origen multifactorial de este tipo de desordenes ha contribuido a generar la confusión que hoy en día observamos.
+
+###### Maloclusiones que pueden tener efecto negativo sobre los DTM:
+1. Resalte aumentado
+2. Sobremordidas profundas traumáticas
+3. Mordida abierta anterior y borde a borde
+4. Mordida cruzada anterior
+5. Mordidas cruzadas posteriores con desplazamiento en cierre mandibular
+6. Resalte negativo
+7. Mordida en tijera unilateral
+
+En términos del problema multifactorial de los trastornos temporomandibulares, las maloclusiones deberían considerarse cofactores. Otros factores de riesgo:
+- Sexo femenino y desórdenes del colágeno
+- Inestabilidad oclusal (_falta de molares, prematuridades, interferencias_).
+- Parafunción mandibular (_bruxismo_) por tensión psíquica o por asimetrías funcionales.
+
+Estos factores determinan cambios condilares y musculares crónicos (_microtraumatismos repetidos_), con fenómenos de compresión/distracción de las distintas estructuras, induciendo la patología muscular o articular correspondientes.
+
+Los estudios longitudinales han mostrado que, entre los pacientes que han seguido tratamiento de ortodoncia, existe cierta tendencia hacia una menor incidencia de síntomas de DTM que los que pueden observarse en grupos control de pacientes sin tratamiento.
+
+La perspectiva actual de consenso es que el tratamiento de ortodoncia bien realizado no es la causa de DTMs (_disfunciones temporomandibulares_).
 

@@ -3,5 +3,6 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "headings"
-  ]
+  ],
+  "baseFontSize": 17
 }

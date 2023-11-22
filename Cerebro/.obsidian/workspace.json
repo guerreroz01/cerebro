@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c46ee610066d5c59",
+        "id": "2a2a3e804129b3f1",
         "type": "tabs",
         "children": [
           {
-            "id": "6d0f7984a74d07d4",
+            "id": "6948e333aa29bc05",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md"
               }
             }
           },
@@ -192,8 +194,22 @@
       "daily-notes:Abrir la nota de hoy": false
     }
   },
-  "active": "4e65784bf8151fa3",
+  "active": "6948e333aa29bc05",
   "lastOpenFiles": [
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122143058.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122142729.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122142413.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122142123.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122142003.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122141939.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122141103.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122140933.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122135204.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231122134401.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+    "daily/22-11-2023.md",
     "daily/06-11-2023.md",
     "daily/03-11-2023.md",
     "daily/20-10-2023.md",
@@ -205,31 +221,16 @@
     "daily/27-10-2023.md",
     "daily/21-11-2023.md",
     "Cerebro.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia interdisciplinar.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118224018.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118222317.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118221532.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118155944.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118155447.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118154731.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118153406.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118141555.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118141435.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231118141420.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/3 Aparatología funcional.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase III.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase II.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase I.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/2 Aparatología fija a dos bandas, aparatos auxiliares.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-    "daily/30-10-2023.md",
-    "daily/14-11-2023.md",
-    "daily/13-11-2023.md",
     "Spaces/Home/TODO",
     "general knowledge/AI/Red Neuronal.canvas",
     "Spaces/Home",
