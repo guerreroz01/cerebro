@@ -94,4 +94,132 @@ Con la reducción y el cese de la succión nutritiva se produce una transición 
 
 Cuando se elimina el hábito, en ocasiones se requiere de un tiempo de transición que será más extenso si el hábito de succión provocó una mordida abierta; puesto que la lengua se interpone entre los dientes para cerrar el espacio anterior durante la deglución. 
 
-Si la interposición lingual durante la deglución se mantiene también en reposo, se convierte en un hábito que podría interferir en el cierre espontáneo de la mordida abierta anterior. Hablamos de deglución atípica
+Si la interposición lingual durante la deglución se mantiene también en reposo, se convierte en un hábito que podría interferir en el cierre espontáneo de la mordida abierta anterior. 
+
+>[!danger] Deglución atípica
+>Hablamos de deglución atípica cuando no se produce una correcta transición a la deglución adulta y se mantiene un patrón de deglución infantil.
+
+Podemos afirmar que la maduración de la musculatura oral sigue un gradiente anteroposterior. Este patrón se refleja también en el desarrollo de la fonación. Los primeros sonidos que se pronuncian son los bilabiales ("m", "p", "b"), posteriormente aparecen los sonidos donde interviene la puntal de la lengua como ("t", "d") y más tarde la ("s", "z") en los que la lengua se coloca cerca del paladar. Mas tarde aparece el sonido de la "r" en el que hay que colocar correctamente la parte posterior de la lengua.
+
+Orden de aparición:
+
+|Sonidos|Posición de la lengua|
+|---------|------------------|
+|1. "m", "p", "b"|neutra, usan los labios (_bilabiales_)|
+|2. "t", "d"|punta de la lengua|
+|3. "s", "z"|la lengua se coloca cerca del paladar|
+|4. "r"|parte posterior de la lengua|
+
+## Dentición mixta: primer periodo de transición:
+En esta fase se produce el recambio de los incisivos temporales por los permanentes y la erupción de los primeros molares definitivos en distal de los segundos molares temporales.
+
+A los 6 años aparece en boca el primer diente definitivo, que puede ser el incisivo central inferior o primer molar, donde el inferior suele preceder al superior. Tras ellos, alrededor de los 7 años, emergen el incisivo central superior y el incisivo lateral inferior. Tiempo después, sobre los 8 años, emerge el incisivo lateral superior, cuya formación recordemos es más tardía.
+
+![[Pasted image 20231122153657.png]]
+
+### Emergencia de los primeros molares:
+El crecimiento de los maxilares proporciona espacio a nivel posterior de las arcadas para la erupción de los primeros molares. El inferior emerge antes, con una inclinación a mesial y lingual, mientras que el superior erupciona en dirección opuesta: distal y vestibular. La cúspide palatina del molar superior es guiada por la fosa o el espacio entre las cúspides del molar inferior de forma que las cúspides vestibulares del molar superior quedarán por vestibular de las del inferior en sentido transversal. Una vez en oclusión, ambos molares se enderezan y corrigen su inclinación axial.
+![[Pasted image 20231122154033.png]]
+
+La relación sagital que se establecerá entre los molares dependerá del plano terminal de los segundos molares temporales: 
+1. En caso de **escalón mesial**, los molares ocluirán en [[Clase I]]. 
+2. Si tenemos un **plano terminal recto**, que es la situación más frecuente, lo molares ocluirán en [[Clase II]] (_incompleta o media cúspide_). 
+3. Si teníamos un **escalón distal**, los molares harán oclusión en [[Clase II]] completa.
+![[Pasted image 20231122154505.png]]
+
+### Recambio de los incisivos:
+Con la erupción de los incisivos permanentes, se producirá la reabsorción de la raíz de los temporales que terminarán por exfoliarse. A ello contribuirá aunque en menor medida, la reducción del hueso alveolar de soporte. Se producirá la cicatrización de la zona y un tiempo después, semanas o incluso meses, emerge el incisivo permanente, que formará un nuevo hueso alveolar.
+
+Los incisivos permanentes se desarrollan  por lingual de los temporales en una situación de apiñamiento.
+
+En la mandíbula, los incisivos centrales suelen erupcionar simultáneamente y en contacto. ❗**Simultáneamente**.
+
+En el maxilar superior, los incisivos centrales superiores inicialmente tienen su borde incisal más alto que el de los laterales y al erupcionar sobrepasan a los incisivos laterales. Erupcionan con una inclinación distal, empujando a los laterales temporales y reduciendo o cerrando el espacio de primates; pudiendo llegar a empujar también a los caninos, provocando un aumento de la longitud de arcada a nivel anterior.
+
+Es frecuente que erupcionen con un espacio entre ellos. Este espacio tenderá a reducirse o cerrarse con la erupción de los incisivos laterales y sobre todo con la de los caninos.
+![[Pasted image 20231122155330.png]]
+
+Los incisivos laterales inferiores emergen una vez que los centrales han alcanzado su nivel oclusal y suelen hacerlo en una posición lingual; siendo el empuje lingual, si la situación de espacio lo permite, quien coloca estos dientes más alineados con los centrales. 
+
+Con su erupción desplazan a los caninos temporales hacia vestibular provocando un aumento de la anchura intercanina. Este efecto sobre los caninos inferiores se puede transmitir también a los superiores que se desplazan transversalmente.
+
+La emergencia de los incisivos laterales superiores se produce tiempo después, en este momento los centrales han alcanzado la oclusión. Erupcionan con inclinación distal y una dirección más hacia vestibular que la de los centrales, ya que parten de una posición más lingual. Con su erupción tienden a reducir el diastema interincisivo. Para reducir este espacio, no es necesario que los incisivos laterales contacten con los centrales, sino que al erupcionar los incisivos laterales dejan espacio para que las raíces de los centrales se sitúen, reduciendo estos dientes su inclinación distal.
+
+Normalmente los incisivos laterales superiores no terminan de posicionarse en la arcada hasta que se exfolian los caninos temporales superiores. Durante este tiempo, la porción apical de los incisivos laterales está en contacto con la corona de los caninos permanentes. Este hecho tendrá que tenerse en cuenta si planteamos cualquier movimiento radicular de los incisivos laterales superiores, que podría provocar la reabsorción radicular de estos dientes.
+
+La erupción de los incisivos suele seguir una simetría entre dientes homólogos en la misma arcada, que suele ser mayor entre incisivos centrales que laterales y mayor en la mandíbula que en el maxilar, pudiendo transcurrir incluso algo más de un mes entre la emergencia de un incisivo y su contralateral.
+
+Los incisivos permanentes erupcionan con una inclinación labial o vestibular mayor que la que tenían sus predecesores temporales, siendo este un mecanismo que colabora en mejorara la situación inicial de apiñamiento.
+
+Posteriormente los labios y la lengua determinarán la posición de los incisivos. El labio superior controla y establece anteriormente la posición de los incisivos superiores. En sentido vertical es el labio inferior el que limita la erupción de los incisivos superiores y determina su posición. Los incisivos inferiores erupcionan hasta que contactan con los incisivos superiores.
+
+![[Pasted image 20231122162118.png]]
+
+## Dentición mixta periodo intertransicional o de reposo
+Este periodo abarca entre algo más de año y medio en las niñas y prácticamente dos años y medio en los niños.
+
+En la arcada superior es frecuente observar diastemas entre los incisivos, sin embargo en la arcada inferior es algo excepcional que existan espacios entre los incisivos.
+
+![[Pasted image 20231122162423.png]]
+
+El desgaste fisiológico de los dientes temporales nos muestra unas superficies oclusales planas que lleva a que estos dientes intervengan poco en el establecimiento de la relación sagital de las arcadas.
+
+Durante este periodo continúa la formación de las raíces de incisivos y primeros molares permanentes y se va produciendo la reabsorción radicular de caninos y molares temporales, mientras en el seno de los huesos maxilares se desarrollan los caninos permanentes (situados por lingual de los caninos temporales), los premolares (situados bajo las raíces de los molares temporales) y los segundos molares (que se sitúan por distal de los primeros molares definitivos).
+
+La reabsorción de la dentición temporal no es un fenómeno continuo, alternando reabsorción con etapas de reposo o incluso aposición.
+
+![[Pasted image 20231122162851.png]]
+
+## Dentición mixta: segundo periodo de transición
+Múltiples secuencias de recambio son posibles pero este periodo suele iniciarse sobre los 10 años con el recambio del canino inferior, aunque también puede ser el primer premolar inferior el primero en aparecer.
+
+En la arcada superior el primer premolar suele ser el primero. Les siguen alrededor de los 11 años, los segundos premolares, aunque también puede producirse la emergencia del canino superior antes que la del segundo premolar superior. 
+
+Los segundos molares inferiores emergen poco después y en ocasiones al mismo tiempo que los segundos premolares o incluso algo antes.
+
+Los segundos molares superiores suelen ser los últimos en aparecer, sobre los 12 años, una vez se ha completado el recambio de los dientes temporales. Se iniciaría así el periodo de dentición permanente.
+![[Pasted image 20231122163321.png]]
+
+Como puede observarse, casi cualquier secuencia es posible, pero podríamos distinguir dos grupos en los que los dientes que forman parte de segundo (canino superior, segundo premolar y segundo molar) casi nunca aparecen antes que los del primer grupo (canino inferior y primer premolar)❗❗.
+
+![[Pasted image 20231122163546.png]]
+
+Los caninos parten de una posición más profunda en el hueso llegando en la mandíbula a nivelarse con los premolares. A nivel inferior, canino y primer premolar ascienden pudiendo uno adelantarse al otro y dejando atrás al segundo premolar. 
+
+En el maxilar la corona del canino suele contactar con el primer premolar, haciendo este de obstáculo para la erupción del canino y por ello se produce la erupción del primer premolar antes que la del canino.
+
+Sobre los 10 años suele ser palpable con el dedo el abultamiento que provoca a nivel vestibular la corona del canino. De no ser así, cabría sospechar que se hubiese desviado de su trayectoria de erupción y pudiese quedar impactado.
+
+Los caninos permanentes tienen un tamaño mesiodistal mayor que el de sus predecesores temporales. Para situarse en la arcada, el canino inferior aprovecha el espacio de primates inferior y el canino superior el espacio de primates superior y los diastemas entre los incisivos. Además los caninos permanentes tienen una erupción más vestibular.
+
+Los primeros premolares son ligeramente más pequeños mesiodistalmente que los primeros molares temporales y la diferencia de tamaño es mayor entre los segundos premolares y los segundos molares temporales, por lo que los premolares erupcionan sin problemas de espacio en condiciones normales. 
+
+En la arcada superior la situación por la diferencia de tamaño es algo menos favorable que en la inferior, pero los premolares superiores cuentan también con cierta inclinación vestibular en su erupción.
+
+![[Pasted image 20231122170414.png]]
+
+A diferencia de lo que ocurre en dientes anteriores (_en los que se produce la exfoliación del temporal, cicatrización de la encía y emergencia del permanente algún tiempo después_), es característico observar que la corona del premolar es visible en la cavidad oral en el momento de la exfoliación de los molares temporales.
+
+El crecimiento de la tuberosidad posterior maxilar y la reabsorción del borde anterior de la rama mandibular proporcionan el espacio para la erupción de los segundos molares permanentes, que se sitúan en distal de los primeros molares permanentes  y erupcionan con una inclinación similar a la que lo hacían los primeros molares (_y que también seguirán los terceros molares_).
+
+El superior hacia distal y vestibular y el inferior hacia mesial y lingual. Las cúspides, al igual que ocurre con los premolares y los primeros molares, hacen de guía para la consecución de la oclusión. En determinadas ocasiones el crecimiento mandibular no proporciona el espacio suficiente para la erupción completa del segundo molar inferior, que queda parcialmente impactado contra el primer molar. El segundo molar superior, al no encontrar la guía de las cúspides del inferior, erupciona en dirección vestibular, quedando en mordida en tijera.
+![[Pasted image 20231122171122.png]]
+
+Existe una mayor asimetría bilateral entre dientes homólogos de la misma arcada que la que se produce en el recambio de los incisivos, considerándose dentro de la normalidad diferencias de semanas e incluso algunos meses. En general los dientes inferiores emergen antes que sus homólogos superiores.
+
+### Espacio de deriva
+Si analizamos el tamaño mesiodistal de canino y molares temporales, junto con el de premolares y caninos permanente; obtenemos que si bien los caninos temporales tienen menor dimensión mesiodistal que los permanentes, los premolares (_sobre todo los segundos premolares_), tienen un menor tamaño mesiodistal que los molares temporales a los que sustituirán. Obtenemos un espacio extra por hemiarcada, de aproximadamente 0,9 mm en la parte superior y de 1,7 mm en la inferior, que denominamos espacio de deriva.
+
+| |Arcada inferior|Arcada superior|
+|:----|:------------:|:----------------:|
+|Canino temporal|5,0|7,0|
+|Canino permanente|6,9|7,6|
+|Primer molar temporal|7,7|7,3|
+|Primer premolar|6,9|7,2|
+|Segundo molar temporal|9,9|8,2|
+|Segundo premolar|7,1|6,8|
+
+El espacio de deriva es de significativa importancia para la relación sagital de los molares permanentes y también puede servir para aliviar el déficit de espacio que pudiera existir en la parte anterior de la arcada. Un tratamiento ortodóncico en esta época puede permitir aprovechar el espacio de deriva para corregir una situación de apiñamiento anterior.
+![[Pasted image 20231122172140.png]]
+
+
