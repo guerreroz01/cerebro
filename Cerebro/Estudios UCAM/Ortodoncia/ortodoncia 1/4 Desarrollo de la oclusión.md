@@ -223,3 +223,54 @@ El espacio de deriva es de significativa importancia para la relación sagital d
 ![[Pasted image 20231122172140.png]]
 
 
+Como hemos expuesto anteriormente, la relación más frecuente entre segundos molares temporales, era la de plano terminal recto, que llevará a una relación de [[Clase II]] cúspide a cúspide a nivel de primeros molares permanentes. 
+
+En condiciones normales, el espacio de deriva permitirá la "_deriva_" hacia mesial de los molares permanentes; que al ser de mayor magnitud en la arcada inferior, podría permitir alcanzar la [[Clase I]] molar. Hay que tener en cuenta que el crecimiento también desempeñará un papel relevante en la evolución de la relación sagital de los dientes, y ayudará a favorecer o no la transición de la [[Clase II]] a la [[Clase I]] molar. 
+
+En un patrón normal, el crecimiento anteroposterior de la mandíbula, será de magnitud algo superior al del maxilar; ayudando a dicha transición. Pero un plano terminal recto puede también evolucionar a una [[Clase II]] en dentición permanente.
+
+En caso de un escalón mesial que originase una [[Clase I]] en molares, esta relación oclusal podría mantenerse en dentición permanente o derivar en una [[Clase III]], según el patrón de crecimiento mandibular.
+
+Cuando un escalón distal provocó que la relación inicial de los primeros molares definitivos fuese de [[Clase II]] completa; cabe esperar que el aprovechamiento del espacio de deriva junto con el crecimiento mandibular, puedan reducir la magnitud de la clase II, pero que sean suficientes para la consecución de la [[Clase I]].
+
+![[Pasted image 20231123145005.png]]
+
+![[Pasted image 20231123145830.png]]
+![[Pasted image 20231123145852.png]]
+
+## Dentición permanente: dentición permanente juvenil y adulta:
+Hablamos de dentición permanente juvenil cuando se ha completado el recambio de todos los dientes temporales y han hecho emergencia los segundos molares permanentes. Cuando la erupción de estos segundos molares establece el contacto entre ellos y se produce el ajuste oclusal a nivel posterior, pasaríamos a la dentición permanente adulta.
+
+No tendremos en cuenta los terceros molares para la elevada frecuencia de agenesia e impactación que se producen en estos dientes.
+
+- Durante el periodo de transición de dentición permanente juvenil a dentición permanente adulta las raíces de los dientes van acomodando su posición. 
+
+Unos de los cambios más evidentes es el de los incisivos laterales superiores, cuya raíz se desplaza a distal hacia el espacio que anteriormente ocupaba la corona del canino. Los molares superiores inclinan sus raíces a distal quedando el borde marginal distal más descendido que el mesial. 
+
+Los molares inferiores se inclinan ligeramente hacia lingual, y los caninos e incisivos lo hacen levemente hacia labial. Los contactos entre los dientes son cada vez más fuertes.
+
+Durante este tiempo la dimensión transversal de las arcadas varía poco, produciéndose una ligera reducción y pudiendo aparecer ligeros apiñamientos a nivel de incisivos inferiores.
+
+El proceso se completaría con la erupción y oclusión de los terceros molares, cuando es posible.
+
+![[Pasted image 20231123151250.png]]
+
+👀 El patrón de masticación de la dentición adulta es diferente al de las etapas anteriores y se establece con la oclusión de los caninos definitivos. 
+1. En el patrón de masticación adulto se abre la boca hacia abajo y posteriormente desplazan lateralmente la mandíbula.
+2. Mientras que en el patrón de masticación del niño se desplaza lateralmente la mandíbula al abrir la boca. 
+
+❗Los adultos en los que no se establece una función normal de los caninos (_por ejemplo por una mordida abierta anterior importante_) mantienen un patrón de masticación juvenil.
+
+La posición final y oclusión de los dientes permanentes vendrá determinada por múltiples factores, como son:
+- La forma, disposición y tamaño de los maxilares.
+- La forma, tamaño y número de dientes.
+- La función y la influencia de los tejidos blandos que envuelven la dentición.
+
+El tamaño y el modo en que se relacionan las bases óseas, así como los cambios que éstas experimentan durante el crecimiento, influirán en la relación oclusal de las arcadas.
+
+Alteraciones en el tamaño, el número o la forma de los dientes, procesos que tengan influencia en la longitud de arcada o que afecten a la formación y/o a la erupción de los dientes (_como caries, pérdida prematura de dientes temporales, traumatismos, patología quística o tumoral, erupción ectópica, anquilosis, etc_); son situaciones que tendrán gran relevancia en la oclusión final.
+
+El entorno muscular y la función tendrán también gran trascendencia. Las alteraciones funcionales (_como puede ser la respiración oral_) serán de gran importancia en el establecimiento de la oclusión.
+![[Pasted image 20231123151940.png]]
+
+## Cambios en las dimensiones de las arcadas y en la oclusión
