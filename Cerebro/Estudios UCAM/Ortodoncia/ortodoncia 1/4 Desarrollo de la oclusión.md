@@ -1,5 +1,5 @@
 ---
-sticker: emoji//1f6a7
+sticker: lucide//check
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 tema: "4"
 type: estudios
@@ -274,3 +274,31 @@ El entorno muscular y la función tendrán también gran trascendencia. Las alte
 ![[Pasted image 20231123151940.png]]
 
 ## Cambios en las dimensiones de las arcadas y en la oclusión
+Las zonas de los maxilares donde se sitúan los dientes, no aumentan de tamaño de forma continua; sino que se producen ciertos momentos de variación de tamaño de diferente intensidad y que afectan a una zona u otra de diferente manera.
+
+>[!tip] Resumen
+>Durante los 6 o 8 primeros meses se produce un intenso crecimiento. A partir de este momento, los cambios serán mas limitados y estarán relacionados con la erupción de la dentición y el recambio dentario.
+
+En dentición temporal se produce un crecimiento transversal limitado y gradual. En la primera fase de dentición mixta, durante el recambio de los incisivos se produce un incremento importante de la anchura intercanina. 
+
+Al inicio de la segunda fase de dentición mixta, el incremento es de menor intensidad y vuelve a producirse un brote al final de esta segunda fase de dentición mixta. A partir de este momento se produce una reducción de la anchura intercanina.
+
+Algo semejante a lo descrito para la anchura intercanina ocurre con la anchura intermolar.
+
+### Anchura intercanina
+Durante el periodo de dentición temporal a dentición permanente adulta se produce un aumento de la anchura intercanina aproximadamente 3 mm en la arcada inferior y de unos 5 mm en la superior. 
+
+### Anchura intermolar
+El incremento de la anchura intermolar es de unos 2 mm en el arco inferior y sobre los 4 mm en el superior. Por tanto la dimensión transversal de la arcada superior experimenta un mayor incremento que la de la arcada inferior y será más pronunciado en la parte anterior que en la posterior.
+![[Pasted image 20231124211743.png]]
+
+### Crecimiento vertical
+Se debe en gran medida al desarrollo de los procesos alveolares que se produce con la erupción de los dientes. En el primer periodo de dentición temporal tenemos una sobremordida aumentada, que se reduce hasta el inicio de la dentición mixta, donde con el recambio de los incisivos volverá a aumentar la sobremordida.
+
+Durante el periodo de dentición mixta continúa el crecimiento vertical del proceso alveolar que producirá una reducción de la sobremordida.
+
+El crecimiento del proceso alveolar sigue produciéndose durante la dentición permanente juvenil, pero no afectará en gran medida a la sobremordida.
+
+En la dimensión vertical existirán importantes diferencias individuales dependiendo del biotipo facial. Tengamos en cuenta que la compensación alveolar puede actuar como mecanismo de adaptación de determinados cambios en las bases óseas o de cierto grado de discrepancia esquelética; y que el crecimiento y disposición de las bases esqueléticas será también relevante.
+
+![[Pasted image 20231124212414.png]]
