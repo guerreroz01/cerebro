@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "915d791c6c9e2c02",
+        "id": "b1eea441a087baa2",
         "type": "tabs",
         "children": [
           {
-            "id": "b0056e95d3953a3e",
+            "id": "b4272ed4a902207b",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8 Análisis de modelos.md",
+                "file": "daily/26-11-2023.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -96,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -124,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "8 Análisis de modelos.md",
+                "file": "daily/26-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "8 Análisis de modelos.md",
+                "file": "daily/26-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "8 Análisis de modelos.md"
+                "file": "daily/26-11-2023.md"
               }
             }
           },
@@ -174,12 +171,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 380.5,
-    "collapsed": true
+    "width": 644.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,22 +192,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0056e95d3953a3e",
+  "active": "b4272ed4a902207b",
   "lastOpenFiles": [
+    "daily/26-11-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
+    "general knowledge/Marketing explicado por salomondrin.md",
+    "general knowledge/trading/Estrategia de trading.md",
+    "general knowledge/trading",
+    "daily/25-11-2023.md",
     "assets/Pasted image 20231124223447.png",
     "assets/Pasted image 20231124222854.png",
     "assets/Pasted image 20231124222507.png",
     "assets/Pasted image 20231124222441.png",
     "assets/Pasted image 20231124222420.png",
-    "8 Análisis de modelos.md",
     "assets/Pasted image 20231124221226.png",
     "assets/Pasted image 20231124220619.png",
     "assets/Pasted image 20231124220420.png",
     "assets/Pasted image 20231124220300.png",
     "assets/Pasted image 20231124215744.png",
-    "assets/Pasted image 20231124215616.png",
     "assets",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
     "Spaces/Home/Home.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
     "daily/24-11-2023.md",
@@ -233,10 +233,7 @@
     "Estudios UCAM/Ortodoncia/Ortodoncia.md",
     "daily/22-11-2023.md",
     "daily/23-10-2023.md",
-    "Excalidraw/Drawing 2023-11-24 08.29.28.excalidraw.md",
     "Excalidraw",
-    "daily/23-11-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
     "Spaces/Home/TODO",
     "Spaces/Home",
     "Spaces",
@@ -245,7 +242,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
     "general knowledge/AI/assets",
     "general knowledge/AI",
-    "general knowledge/assets/assets",
     "Estudios UCAM/Ortodoncia/Canvas ortodoncia.canvas"
   ]
 }
