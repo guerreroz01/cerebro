@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1eea441a087baa2",
+        "id": "fc1dda676130c439",
         "type": "tabs",
         "children": [
           {
-            "id": "b4272ed4a902207b",
+            "id": "2752fb72d2715b28",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -171,11 +172,12 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 644.5
+    "width": 406.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,8 +194,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b4272ed4a902207b",
+  "active": "2752fb72d2715b28",
   "lastOpenFiles": [
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126151530.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126151438.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126151012.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126145418.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126145309.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126145245.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126145232.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126142555.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126141935.png",
     "daily/26-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
@@ -203,14 +214,6 @@
     "daily/25-11-2023.md",
     "assets/Pasted image 20231124223447.png",
     "assets/Pasted image 20231124222854.png",
-    "assets/Pasted image 20231124222507.png",
-    "assets/Pasted image 20231124222441.png",
-    "assets/Pasted image 20231124222420.png",
-    "assets/Pasted image 20231124221226.png",
-    "assets/Pasted image 20231124220619.png",
-    "assets/Pasted image 20231124220420.png",
-    "assets/Pasted image 20231124220300.png",
-    "assets/Pasted image 20231124215744.png",
     "assets",
     "Spaces/Home/Home.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
@@ -232,7 +235,6 @@
     "general knowledge/AI/backpropagation.md",
     "Estudios UCAM/Ortodoncia/Ortodoncia.md",
     "daily/22-11-2023.md",
-    "daily/23-10-2023.md",
     "Excalidraw",
     "Spaces/Home/TODO",
     "Spaces/Home",

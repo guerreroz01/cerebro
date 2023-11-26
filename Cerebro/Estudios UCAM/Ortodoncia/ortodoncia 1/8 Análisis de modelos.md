@@ -20,8 +20,8 @@ Los modelos de estudio forman parte de los registros diagnósticos que obtendrem
 	3. [[#Relación transversal]]
 	4. [[#Desviación de líneas medias]]
 2. [[#Análisis de las arcadas|Análisis de las arcadas.]]
-3. Análisis de los dientes.
-4. Cálculo de la discrepancia óseo-dentaria.
+3. [[#Análisis de los dientes|Análisis de los dientes.]]
+4. [[#Cálculo de la discrepancia óseo dentaria|Cálculo de la discrepancia óseo-dentaria.]]
 5. Índice de Bolton.
 
 ### Análisis de las relaciones intermaxilares:
@@ -80,10 +80,89 @@ En caso de relación transversal alterada, conviene fijarnos en las inclinacione
 Observaremos los modelos desde una vista frontal o anterior, analizaremos la curva de Wilson. Es la curva que forman las cúspides vestibulares y linguales de los dientes posteriores de ambas hemiarcadas. En condiciones de normalidad, debe tener una ligera convexidad inferior.
 ![[Pasted image 20231124222854.png]]
 
-## Desviación de líneas medias
+#### Desviación de líneas medias
 Tomamos como referencia el rafe palatino medio sin tener en cuenta la porción anterior que puede verse afectada por desviaciones de la posición de los dientes. Se prolonga hacia delante y el punto de contacto de los incisivos superiores debe coincidir con esta línea.
 
 En la arcada inferior, al no tener una estructura anatómica de referencia, se utiliza la misma línea que se proyecta en el modelo inferior. El punto de contacto de los incisivos centrales inferiores debe también coincidir con la citada línea. Para poder realizar un correcto análisis, es importante que los modelos estén montados en [[Relación céntrica]] y cualquier desviación mandibular funcional deberá ser analizada al margen del análisis de modelos.
 ![[Pasted image 20231124223447.png]]
 
 ### Análisis de las arcadas
+Observar: 
+1. Forma de la arcada
+2. Posición de los dientes en el plano sagital y transversal
+
+>[!tip] Línea Wala Ridge
+>Es una línea que une la zona alveolar que abarca los dientes y el hueso de soporte y la zona basal situada a nivel de los ápices y en relación con el hueso basal. Se suele corresponder con la línea mucogingival.
+
+![[Pasted image 20231126141935.png]]
+
+Definiremos en cada modelo la forma de la arcada alveolar, la simetría entre hemiarcadas y su relación con la forma de arcada basal; así como la concordancia entre las formas de arcada de ambos modelos.
+
+La forma de arcada normal describe un segmento de círculo en la zona anterior, de canino a canino. En la zona posterior, si consideramos las cúspides vestibulares de premolares y la mesiovestibular del primer molar, dibujarían una líneas rectas divergentes hacia distal. La cúspide distovestibular del primer molar y las vestibulares del resto de molares describirían otras líneas rectas casi paralelas entre sí o ligeramente convergentes hacia distal.
+
+Podemos encontrarnos con formas de arcadas muy diversas; suelen estar en relación con el biotipo facial del paciente.
+![[Pasted image 20231126142555.png]]
+
+Lo normal sería observar una simetría bilateral en la forma de la arcada, así como formas similares y concordantes en ambos modelos. La discordancia en la forma de arcada de ambos modelos tiene relación con la maloclusión (en algunas [[Clase II#División 1$ a$|Clases II div 1]] la arcada inferior tiene una forma más ovoidea o triangular que la inferior).
+
+La arcada alveolar y la basal deberían guardar en condiciones normales, una relación de armonía y simetría. Pero en ocasiones podemos observar situaciones en las que la arcada alveolar difiere en sentido transversal y/o sagital de la arcada basal, tanto en el modelo superior como inferior.
+
+En sentido **transversal** pueden aparecer compresiones o distracciones de la arcada alveolar con respecto a la basal, que pueden ser uni o bilaterales y afectar todo el segmento posterior o a uno o varios dientes.
+
+En sentido **sagital** analizaremos tanto el sector incisivo como los sectores bucales. Tanto uno como los otros pueden presentar alteraciones anteroposteriores. Podrán ser parciales (si afectan a uno o dos dientes) o completas (si se ve afectado todo el sector). Los sectores bucales pueden aparecer mesializados, y con menor frecuencia distalizados con respecto a su posición normal; pudiendo alterarse uno o los dos lados. Los incisivos pueden estar desplazados o inclinados hacia bucal (_protruidos o proinclinados_) o lingual (_retruidos o retroinclinados_), aunque una determinación más precisa de la situación anteroposterior de los incisivos se obtendrá del análisis cefalométrico.
+
+### Análisis de los dientes
+Tras analizar las relaciones intermaxilares y los arcos dentarios individualmente, nos detendremos en el análisis del número, forma, tamaño y posición de los dientes.
+
+#### Número e identificación de los dientes presentes
+Contamos el número de dientes identificando cada uno de ellos. Podremos encontrarnos alteraciones en el número de dientes, con la presencia de dientes supernumerarios (hiperodoncia) o ausencia de uno o más dientes (hipodoncia u oligodoncia si faltan más de 6 dientes) por diferentes motivos como pueden ser **impactación, agenesia o la exodoncia**.
+
+>[!tip] Un diente se considera presente si ha hecho emergencia aunque sea una mínima parte de su corona.
+
+#### Tamaño y forma de los dientes
+La alteración de la forma de los dientes crea problemas en el establecimiento de una correcta oclusión, condicionando la posición de ellos mismos y/o de los antagonistas. En ocasiones podemos observar incisivos con un cíngulo muy desarrollado que puede extenderse hasta el borde incisal, con el consiguiente aumento del grosor bucolingual que provoca la vestibularización del diente con la forma alterada o la lingualización de su antagonista.
+
+A veces los premolares inferiores, y con mayor frecuencia los segundos, presentan alteraciones de la forma normal con una anatomía más aplanada (una dimensión aumentada mesiodistalmente y reducida bucolingual). Los incisivos laterales conoides son  relativamente frecuentes.
+
+En cuando al tamaño, los incisivos laterales superiores son el que con mayor frecuencia presentan alteraciones de tamaño, en este caso reducción del mismo o microdoncia, mientras que en los incisivos centrales superiores suelen observarse con más frecuencia aumentos de tamaño macrodoncia
+
+![[Pasted image 20231126145232.png]]
+
+![[Pasted image 20231126145245.png]]
+
+![[Pasted image 20231126145309.png]]
+
+En ocasiones las alteraciones del tamaño y forma pueden ser consecuencia de traumatismos o restauraciones odontológicas defectuosas.
+![[Pasted image 20231126145418.png]]
+
+El hecho de tener dientes más grandes o más pequeños en conjunto tiene poco valor diagnóstico. No se puede afirmar que dientes grandes tengan mayor probabilidad de presentar apiñamiento, ya que esto dependerá más de la proporcionalidad entre el tamaño de  los dientes y el espacio de que dispongan para situarse.
+
+Por tanto, más importante que estudiar si los dientes en conjunto son de mayor o menor tamaño, es analizar la coherencia y proporción de tamaño entre los distintos grupos dentarios, y sobre todo la simetría de tamaño entre dientes homólogos de ambas hemiarcadas, que en caso de asimetrías importantes serán de mayor valor diagnóstico.
+
+#### Malposiciones verticales
+En cuanto a la posición en sentido vertical de un diente con respecto al plano oclusal, podemos encontrarnos con exceso de erupción o extrusión y también con déficit de erupción o intrusión. Ambas situaciones deben ser valoradas de acuerdo a la edad del paciente y a las circunstancias locales del área en cuestión.
+
+La anquilosis alveolodentaria y el bloqueo de erupción por falta de espacio son causa de malposiciones verticales.
+
+#### Malposiciones horizontales
+Las malposiciones en sentido horizontal incluyen las versiones o inclinaciones, los desplazamientos en masa o gresiones y las rotaciones o giroversiones.
+
+Las versiones y gresiones se describen mediante el prefijo que indica la dirección del movimiento: mesio, disto, buco o vestibulo o labio y linguo o palato.
+
+Por su especial importancia, estudiaremos con mayor detenimiento  la inclinación axial de los caninos y la giroversión del primer molar superior.
+
+El primer molar superior, por sus características anatómicas (su gran raíz palatina y su predominante cúspide mesiolingual) cuando se mesializa, tiende a rotarse (mesio-palato giroversión) en lugar de inclinarse. Al rotarse ocupa un mayor espacio en la arcada y su cúspide mesiovestibular tiende a ocluir en una relación de [[Clase II]] con el molar inferior. Para observar la rotación del primer molar superior, prolongaremos su borde oblicuo. Si la prolongación del borde oblicuo para por la mitad distal del canino el molar no se considera rotado. Mientras que en la rotación mesiolingual del prime molar, la prolongación del borde oblicuo se sitúa por distal del canino.
+![[Pasted image 20231126151012.png]]
+
+La inclinación axial de los caninos aumentada (mesioversión) nos indica que existe desplazamiento a mesial de los sectores posteriores. Si se produce solamente en la arcada superior, se observará la giroversión del primer molar y tenderemos a una [[Clase II]]. Si la mesialización afecta a los sectores posteriores de ambas arcadas, tenderemos a conservar la [[Clase I]].
+
+![[Pasted image 20231126151438.png]]
+
+Los molares inferiores a diferencia de los superiores, cuando se desplazan a mesial, tienden a inclinarse en lugar de rotarse.
+
+![[Pasted image 20231126151530.png]]
+
+La mesialización de los sectores posteriores inferiores suele provocar la de los sectores posteriores superiores, mientras que la mesialización de los segmentos posteriores superiores no siempre se acompaña de la de los inferiores. La erupción de los molares superiores antes que sus homónimos inferiores, que suelen erupcionar antes, provoca la migración mesial de los sectores posteriores superiores.
+
+### Cálculo de la discrepancia óseo dentaria
+
