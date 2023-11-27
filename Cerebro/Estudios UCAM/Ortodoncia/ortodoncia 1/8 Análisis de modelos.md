@@ -1,6 +1,6 @@
 ---
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
-sticker: emoji//1f6a7
+sticker: lucide//check
 tema: "8"
 type: estudios
 tags:
@@ -238,5 +238,24 @@ En la práctica ortodóncica nos encontramos con algunos casos en los que la des
 
 Un exceso de tamaño de los dientes inferiores en proporción al tamaño de los superiores, llevaría a un resalte y sobremordida reducidos; que si no queremos asumir, podríamos intentar compensar mediante el reajuste del torque (_inclinación_) de los incisivos, la modificación de la inclinación axial (_angulación_) de los incisivos superiores, la reducción del tamaño mesiodistal de los incisivos inferiores o la exodoncia de un incisivo inferior, el espaciado a nivel de incisivos superiores (_para su posterior rehabilitación protésica_), o una combinación de todas ellas.
 
-En el caso opuesto, un exceso de tamaño de los dientes superiores en proporción al de los inferiores,
+En el caso opuesto, un exceso de tamaño de los dientes superiores en proporción al de los inferiores, conduciría a un exceso de resalte y/o sobremordida; que podrían ser compensados mediante el ajuste del torque de los incisivos, la reducción del tamaño mesiodistal de los incisivos superiores, el espaciado a nivel de los incisivos inferiores o bien podríamos valorar como aceptable una corrección incompleta del resalte y la sobremordida.
 
+Nos podemos preguntar si es posible predecir que oclusión final podemos conseguir en el caso que nos ocupe, o si tenemos unos tamaños dentarios proporcionales en ambas arcadas que nos permitan llegar a una oclusión ideal. Podemos hacer dos cosas:
+
+La primera opción sería realizar un montaje diagnóstico de predeterminación o set-up en el que podamos visualizar antes del tratamiento la oclusión final. Esta opción es cada vez más utilizada, ya que actualmente la tecnología y la informática permiten realizarlos de forma virtual, en lugar de la manera tradicional que requería el segueteado de los modelos de escayola y el montaje de los dientes en cera.
+![[Pasted image 20231127122656.png]]
+
+![[Pasted image 20231127122718.png]]
+
+La segunda opción no nos permite visualizar la oclusión final, pero sí conocer si existe o no proporcionalidad en el tamaño de los dientes superiores con respecto al de los inferiores.
+
+Diferentes autores entre ellos Bolton analizaron esta relación de tamaño en casos con oclusión ideal. Bolton estableció un índice y una tabla que relacionan el tamaño de todos los dientes superiores con el de los inferiores (_sin contar el segundo y tercer molar_), así como el tamaño de los dientes anteriores superiores (caninos e incisivos) con el de los inferiores.
+
+Para calcular el índice de Bolton completo se suman los tamaños de los 12 dientes inferiores, se divide entre la suma de los tamaños de los 12 cientes superiores y se multiplica el resultado por cien. <span style="color: green">El resultado debe ser 91,3 +/- 1,91</span>.
+![[Pasted image 20231127124335.png]]
+
+Para calcular el índice de Bolton parcial (_6 dientes anteriores_) se suman los tamaños de los incisivos y caninos inferiores, se divide entre la suma de los tamaños de incisivos y caninos superiores y se multiplica por cien. <span style="color: yellow;">Debe ser 77,2 +/- 1,65</span>
+![[Pasted image 20231127124617.png]]
+
+Otra opción que nos evita realizar la división, sería comparar el tamaño en la siguiente tabla:
+![[Pasted image 20231127124738.png]]

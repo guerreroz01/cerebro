@@ -4,30 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "0fc268e7dbc13ee5",
+        "id": "54ae3b047a51f059",
         "type": "tabs",
         "children": [
           {
-            "id": "eafa93c55588c51a",
+            "id": "8db60c0abfe99f4f",
             "type": "leaf",
-            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "c4284f60832776f2",
+            "id": "155ea1a336cbd507",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+                "file": "daily/27-11-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b12e678cc60bc812",
@@ -137,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+                "file": "daily/27-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+                "file": "daily/27-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md"
+                "file": "daily/27-11-2023.md"
               }
             }
           },
@@ -209,29 +202,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c4284f60832776f2",
+  "active": "155ea1a336cbd507",
   "lastOpenFiles": [
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+    "assets/Pasted image 20231127132748.png",
+    "assets/Pasted image 20231127132700.png",
+    "5 Análisis facial.md",
+    "Spaces/Home/Home.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127124738.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127124617.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127124335.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127122718.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127122656.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127082816.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127082342.png",
     "daily/27-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127000015.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126231009.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126230528.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126225630.png",
     "daily/26-11-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126151530.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126151438.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126151012.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126145418.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
     "general knowledge/Marketing explicado por salomondrin.md",
     "general knowledge/trading/Estrategia de trading.md",
     "general knowledge/trading",
     "daily/25-11-2023.md",
     "assets",
-    "Spaces/Home/Home.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
     "daily/24-11-2023.md",
     "general knowledge/AI/Red Neuronal.canvas",
@@ -248,8 +243,6 @@
     "general knowledge/AI/descenso de gradiente.md",
     "general knowledge/AI/Clasificación de los números.md",
     "general knowledge/AI/cálculo.md",
-    "general knowledge/AI/backpropagation.md",
-    "Estudios UCAM/Ortodoncia/Ortodoncia.md",
     "Excalidraw",
     "Spaces/Home/TODO",
     "Spaces/Home",
