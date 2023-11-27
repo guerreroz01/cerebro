@@ -166,3 +166,55 @@ La mesialización de los sectores posteriores inferiores suele provocar la de lo
 
 ### Cálculo de la discrepancia óseo dentaria
 
+#### Longitud de arcada:
+Es la distancia existente en la arcada alveolar desde el punto más distal del último diente de un lado hasta el punto más distal del último diente del lado opuesto. Pero por su especial interés en ortodoncia, es al tramo que va desde mesial del primer molar de un lado a mesial del primer molar del lado contrario al que denominamos 👀  <span style="color: red;">"longitud de arcada clínica"</span> o simplemente <span style="color: red;">"longitud de arcada"</span>. Sería por tanto el espacio disponible para que se ubiquen los dientes más anteriores.
+![[Pasted image 20231126225630.png]]
+
+Si medimos y sumamos el diámetro mesiodistal de estos dientes anteriores, tendríamos el espacio necesario para que estos dientes puedan situarse correctamente en la arcada.
+
+#### Discrepancia óseo-dentaria o discrepancia de la longitud de arcada
+Es la diferencia entre el espacio disponible o longitud de arcada y el espacio necesario o suma del tamaño de los diez dientes anteriores. 
+- Será positiva si el espacio disponible es mayor que el espacio necesario y tendremos por tanto exceso de espacio. 
+- Será negativa si la longitud de arcada es menor que la suma del tamaño de los dientes, existiendo naturalmente apiñamiento.
+
+Tendremos que calcular la discrepancia óseo-dentaria en ambos maxilares. En ocasiones, el cálculo se realiza solamente en la arcada inferior, ya que por sus características anatómicas, es más difícil ganar espacio en la arcada mandibular y los problemas en esta arcada son más complejos de resolver que en la superior.
+
+#### Cálculo del espacio disponible
+Se han descrito diferentes métodos para realizar el cálculo de la longitud de arcada. Describiremos dos de ellos por su frecuente uso en la práctica ortodóncica.
+
+El primero de ellos consiste en adaptar un alambre de latón a la forma de arcada en el modelo extendiéndolo desde mesial del primer molar de un lado a mesial de primer molar del lado opuesto.
+
+En caso de tener un sector anterior del arco irregular, se adapta el alambre promediando la irregularidad anterior. Una vez realizado, se endereza el alambre y se mide su longitud en línea recta.
+![[Pasted image 20231126230528.png]]
+
+En el segundo método se divide la longitud de arcada en tres segmentos que se miden mediante un calibrador o un compás de dos puntas. 
+- Los dos segmentos posteriores van de mesial del primer molar a mesial del canino en cada lado, y al ser tramos prácticamente rectos se miden directamente. 
+- El segmento anterior, que comprende de mesial del canino a mesial del canino contralateral, describe normalmente un segmento de arco, por lo que se descompone en dos tramos que puedan ser medidos de forma lineal: de mesial del canino al punto de contacto de los incisivos centrales y de este punto a mesial del otro canino. 
+
+Al sumar las cuatro mediciones tendremos calculada la longitud de arcada.
+![[Pasted image 20231126231009.png]]
+
+#### Cálculo del espacio necesario
+Para calcular el espacio necesario bastará con medir y sumar el tamaño mesiodistal de los incisivos, caninos y premolares. Esto no será tan sencillo en dentición mixta, ya que no habrán erupcionado alguno o varios de los dientes.
+
+##### En dentición permanente:
+Mediremos en el modelo el diámetro mesiodistal máximo de cada uno de los dientes mediante un calibrador o un compás de dos puntas, sumando la diez mediciones. Tomaremos como regla la simetría, y en caso de no haya emergido algún diente pero tengamos su homólogo contralateral, mediremos éste en su lugar; salvo que radiográficamente observemos alguna alteración del tamaño del diente no erupcionado o que sea el diente erupcionado el que presente alterado su tamaño.
+
+##### En dentición mixta:
+Tendremos que calcular el tamaño mesiodistal de canino y premolares no erupcionados. Para ello comentaremos cuatro métodos de los varios existentes, por parecernos los más relevantes.
+
+###### 1. Medición radiográfica de los dientes no erupcionados:
+Tomaremos radiografías periapicales con una proyección adecuada que nos permita una imagen radiológica sin distorsiones, algo que no siempre es fácil, sobre todo en la zona de los caninos. Cualquier imagen radiológica siempre tendrá cierta magnificación con respecto al tamaño real, y tendremos que compensarla. Lo podemos conseguir midiendo un diente (_como puede ser un molar temporal_) que tengamos tanto en la radiografía como en el modelo y estableciendo la siguiente ecuación:
+
+$\frac{TRtemporal}{TAtemporal} = \frac{TRdefinitivo}{TAdefinitivo}$
+
+donde TR corresponde a "tamaño real" y TA a "tamaño aparente"
+
+###### 2. Cálculo a partir de la correlación con otra variable:
+Existe una correlación bastante buena entre el tamaño de los incisivos permanentes (que sí tendremos presentes en el modelo) y el tamaño de premolares y canino permanentes (que no habrán erupcionado). Diferentes autores han presentado fórmulas de regresión para predecir el tamaño de los dientes no erupcionados, partiendo del tamaño de los incisivos.
+
+- Tablas de predicción de Moyers:
+Moyers elaboró unas tablas con los datos obtenidos en niños caucásicos que se han hecho muy populares. Se mide y suma el tamaño mesiodistal de los cuatro incisivos inferiores y con ese valor, buscamos en la tabla la predicción de Moyers el tamaño del canino permanente y los dos premolares; existiendo una tabla de predicción para los premolares y canino permanente maxilares y otra para los mandibulares. En ambas la variable predictora es la suma de la anchura mesiodistal de los <span style="color:yellow;">cuatro incisivos inferiores</span>. Es un método bastante exacto en niños caucásicos y tiene tendencia a sobreestimar el tamaño de los dientes erupcionados. 
+![[Pasted image 20231127000015.png]]
+
+- Valores predictivos de Tanaka y Johston:
