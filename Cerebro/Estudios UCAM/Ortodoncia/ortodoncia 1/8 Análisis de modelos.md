@@ -22,7 +22,7 @@ Los modelos de estudio forman parte de los registros diagnósticos que obtendrem
 2. [[#Análisis de las arcadas|Análisis de las arcadas.]]
 3. [[#Análisis de los dientes|Análisis de los dientes.]]
 4. [[#Cálculo de la discrepancia óseo dentaria|Cálculo de la discrepancia óseo-dentaria.]]
-5. Índice de Bolton.
+5. [[#Índice de Bolton|Índice de Bolton.]]
 
 ### Análisis de las relaciones intermaxilares:
 Analizaremos las relaciones intermaxilares en los tres planos del espacio (sagital, vertical, transversal) fijándonos tanto en la relación de los segmentos bucales como en la relación incisiva.
@@ -218,3 +218,25 @@ Moyers elaboró unas tablas con los datos obtenidos en niños caucásicos que se
 ![[Pasted image 20231127000015.png]]
 
 - Valores predictivos de Tanaka y Johston:
+Estos autores han desarrollado unas fórmulas sencillas que también se basan en los incisivos inferiores para predecir el tamaño de los premolares y canino no erupcionados. El método es bastante exacto en niños caucásicos, aunque también tiende a sobreestimar ligeramente el tamaño de los dientes no erupcionados. Al no necesitar tablas radiográficas, una vez se memorizan las fórmulas, se convierte en un método bastante práctico.
+![[Pasted image 20231127082342.png]]
+
+- Método de predicción que como variable predictora utiliza el tamaño real de los incisivos, junto con el tamaño de premolares medido en la radiografías. Si el principal problema del método basado en la medición en radiografías era la medición del canino, **Staley y Kerber** elaboraron una gráfica que nos permite predecir el tamaño de los caninos y premolares, conociendo el tamaño de los incisivos medido en los modelos junto con el tamaño de los premolares medido en las radiografías. Como los dos anteriores, es un método bastante exacto en niños de raza caucásica (_de los que se obtuvieron los datos_) y a diferencia de los anteriores, <span style="color:red;">sólo puede usarse en la arcada inferior.</span>
+![[Pasted image 20231127082816.png]]
+
+Resumiendo diremos que los métodos de predicción de Moyers, Tanaka-Johnston y Staley-Kerber están indicados para utilizar en niños de raza caucásica (_más aún en escandinavos, que son la población en la están basados_) y su exactitud será quizás incluso mayor que el método de la medición radiográfica en estas poblaciones. Probablemente el más exacto de los tres sea el de Staley-Kerber, pero los otros dos resultan más prácticos, al no ser preciso utilizar radiografías. Por otro lado, para niños de otros grupos étnicos, como los orientales o los negros; no son métodos muy precisos y seria conveniente recurrir a la medición radiográfica. Del mismo modo, deberíamos utilizar siempre la medición radiográfica y en ningún caso los métodos de correlación, si observamos en la radiografía anomalías de tamaño; ya que estos métodos predictivos se basan en relaciones normales en el tamaño de los dientes.
+
+En el cálculo de la discrepancia óseo-dentaria en dentición mixta, se da por hecho que todo el espacio de deriva será ocupado por canino y premolares, pero esto no es así. Dependiendo de factores como la secuencia de erupción y sobre todo la oclusión de los primeros molares permanentes (determinada por el plano terminal de segundos molares temporales), parte de este espacio será ocupado por la mesialización del molar inferior. Si los primeros molares ocluyen en [[Clase II]], el inferior tenderá a mesializarse para alcanzar la [[Clase I]] aprovechando el espacio de deriva. Podemos medir en el modelo la distancia desde el vértice de la cúspide mesiovestibular del molar superior al surco bucal del inferior, y esta distancia debe ser tenida en cuenta y valorada en el estudio del caso.
+
+Otros factores a tener en cuenta a la hora de calcular el espacio son: la [[3 Oclusión normal y maloclusión#Clave 6 Curva de Spee|curva de Spee]] (_su nivelación requerirá de espacio en la arcada_), la posición anteroposterior del molar inferior y la posibilidad de enderezamiento terapéutico de éste, así como la inclinación y posición anteroposterior del incisivo inferior (_según Steiner se necesitan 2 mm por cada mm de retrusión del incisivo y según Tweed 0,8 mm por cada grado de inclinación_).
+
+Todos estos factores pueden no considerarse en el cálculo de la discrepancia óseo-dentaria, pero deberán ser incluidos en un momento posterior del estudio del caso, al integrar los datos procedentes de todas las fuentes.
+
+
+### Índice de Bolton
+En la práctica ortodóncica nos encontramos con algunos casos en los que la desproporción de tamaño entre los dientes superiores e inferiores nos impide conseguir una oclusión ideal. En estos casos, teniendo una relación sagital posterior correcta, observamos un resalte y sobremordida no ideales.
+
+Un exceso de tamaño de los dientes inferiores en proporción al tamaño de los superiores, llevaría a un resalte y sobremordida reducidos; que si no queremos asumir, podríamos intentar compensar mediante el reajuste del torque (_inclinación_) de los incisivos, la modificación de la inclinación axial (_angulación_) de los incisivos superiores, la reducción del tamaño mesiodistal de los incisivos inferiores o la exodoncia de un incisivo inferior, el espaciado a nivel de incisivos superiores (_para su posterior rehabilitación protésica_), o una combinación de todas ellas.
+
+En el caso opuesto, un exceso de tamaño de los dientes superiores en proporción al de los inferiores,
+
