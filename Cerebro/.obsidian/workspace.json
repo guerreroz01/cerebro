@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "54ae3b047a51f059",
+        "id": "451390059b96c2cc",
         "type": "tabs",
         "children": [
           {
-            "id": "8db60c0abfe99f4f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "155ea1a336cbd507",
+            "id": "ae8d7f7c6a87546d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/27-11-2023.md",
+                "file": "daily/28-11-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/27-11-2023.md",
+                "file": "daily/28-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/27-11-2023.md",
+                "file": "daily/28-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/27-11-2023.md"
+                "file": "daily/28-11-2023.md"
               }
             }
           },
@@ -180,7 +171,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -202,11 +193,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "155ea1a336cbd507",
+  "active": "ae8d7f7c6a87546d",
   "lastOpenFiles": [
+    "CS50's Arificial Intelligence.md",
+    "daily/28-11-2023.md",
+    "daily/27-11-2023.md",
     "assets/Pasted image 20231127132748.png",
     "assets/Pasted image 20231127132700.png",
-    "5 Análisis facial.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
     "Spaces/Home/Home.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127124738.png",
@@ -217,9 +211,7 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127082816.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127082342.png",
-    "daily/27-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127000015.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231126231009.png",
     "daily/26-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
     "general knowledge/Marketing explicado por salomondrin.md",
@@ -242,7 +234,6 @@
     "general knowledge/AI/Ecuaciones de segundo grado.md",
     "general knowledge/AI/descenso de gradiente.md",
     "general knowledge/AI/Clasificación de los números.md",
-    "general knowledge/AI/cálculo.md",
     "Excalidraw",
     "Spaces/Home/TODO",
     "Spaces/Home",
