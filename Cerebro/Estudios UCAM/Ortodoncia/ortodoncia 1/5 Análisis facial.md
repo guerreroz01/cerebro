@@ -4,7 +4,7 @@ type: estudios
 tema: "5"
 tags:
   - estudios/ortodoncia1
-sticker: emoji//1f6a7
+sticker: lucide//check
 ---
 # Análisis facial
 ___
@@ -168,3 +168,47 @@ Plantea que la proyección de la punta nasal es aproximadamente igual a la del l
 ![[Pasted image 20231128142249.png]]
 
 ### Labios:
+Se encuentran en el tercio inferior de la cara. El labio superior se mide desde el punto subnasal (_Sn_) hasta el punto más anterior del borde libre de los mismos. El labio inferior comprende desde el borde inferior de este hasta el mentón.
+
+La posición y forma de los labios se determina por una línea vertical verdadera que pasa por subnasal (_Sn_):
+1. El labio superior debe estar entre 2 y 5 mm por delante de esta línea.
+2. El labio inferior debe estar entre 0 y 3 mm por delante de esta línea.
+3. El pogonion blando debe estar entre -4 y 0 mm en relación a esta línea.
+
+![[Pasted image 20231129161001.png]]
+
+### La barbilla:
+La posición ideal de la barbilla va a través de una línea desde el nasion que yace perpendicularmente al plano horizontal de Frankfort. En la mujer la barbilla debe estar posterior a esta línea.
+![[Pasted image 20231129161139.png]]
+
+### El cuello:
+El cuello juvenil debe poseer una mandíbula bien definida y un surco Cervicofacial armónico.
+
+El ángulo mentocervical se halla trazando una línea perpendicular al plano horizontal de Frankfort desde la Glabela al pogonion (Plano facial anterior) y esta se va a interceptar con una línea tangencial del mentón al punto cervical (C), el rango de este ángulo fluctúa entre 80º y 95º
+
+![[Pasted image 20231129161430.png]]
+
+### Análisis dentolabial
+Analizamos varios factores en con relación al análisis dentolabial de los pacientes:
+1. La exposición del diente en reposo será 1-5 mm dependiendo de la edad (_se van desgastando con la edad, siendo entonces 3.37 mm jóvenes y 1.26 mm adultos_) y del sexo (en las mujeres de 3.37 frente 1.91 hombres). En condiciones normales, los pacientes más jóvenes exponen más diente en reposo y las mujeres exponen más diente en reposo que los hombres.
+
+2. El borde incisal: La curva incisiva convexa sigue un paralelismo a la concavidad natural del labio inferior mientras está sostenida. La simetría irradiante proporciona una sonrisa agradable y se encuentra normalmente en la gente joven. La relación entre las dos curvas podrá ser sin contacto, en contacto o cubierta. La presencia de una curvatura incisiva plana o inversa es estéticamente poco atractivo y tendremos que conseguir esta convexidad no sólo a nivel estético, sino también funcional. El perfil incisivo se mantendrá dentro del labio inferior para cierre adecuado de los labios.
+
+3. La línea de la sonrisa: corresponde a la exposición de dientes anteriores mientras sonríe. Podrá ser baja (75%), media (75-100%) y alta (banda gingival). Con una franja superior a 3-4 mm de tejido blando se considerará al paciente sonrisa gingival.
+
+La elección entre diversas opciones del tratamiento de ortodoncia debe ser hecha apropiadamente tomando en consideración los parámetros estéticos y funcionales siguientes:
+- Exposición del diente en reposo
+- Exposición del diente al sonreír
+- Posición borde incisivo respecto al labio inferior
+- Pruebas fonéticas
+- Tamaño y proporción del diente
+- Preservación / restablecimiento de la guía anterior
+- Forma y longitud de la raíz
+- Apoyo periodontal
+
+#### Otros factores que debemos considerar en el análisis de la sonrisa son:
+1. **Anchura de la sonrisa**: se debe exponer los dientes anteriores junto los premolares y en muchos casos primeros molares.
+2. **Pasillo labial**: es el espacio visto en cualquier lado de la boca al sonreír, entre las paredes vestibulares de los maxilares y las esquinas de la boca. Podrá ser normal, ancho o ausente.
+3. **Línea interincisiva**: debemos estudiar la alineación de la línea interincisiva (_entre los incisivos centrales_) y la línea media labial. La desalineación está presente en un 30% de los sujetos.
+4. **Plano oclusal**: desde la visión lateral tendrá que ser paralelo al plano de Camper (se extiende de la frontera inferior del ala de la nariz) y a unos 10º de Frankfurt. El plano incisal es la proporción anterior del plano oclusal.
+

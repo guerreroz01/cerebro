@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "64e8e7113e70bc34",
+        "id": "4855dc4ec17354bc",
         "type": "tabs",
         "children": [
           {
-            "id": "75309b8f29df5a57",
+            "id": "445cccfd26965300",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
       {
         "id": "89376a65df6cfdac",
         "type": "tabs",
-        "dimension": 68.64501679731244,
+        "dimension": 67.7491601343785,
         "children": [
           {
             "id": "4e65784bf8151fa3",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "plano facial",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,13 +74,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b12e678cc60bc812",
         "type": "tabs",
-        "dimension": 31.35498320268757,
+        "dimension": 32.2508398656215,
         "children": [
           {
             "id": "e3cd874949b693f0",
@@ -122,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md"
+                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md"
               }
             }
           },
@@ -194,25 +193,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "75309b8f29df5a57",
+  "active": "445cccfd26965300",
   "lastOpenFiles": [
+    "general knowledge/AI/pytorch/assets/Pasted image 20231129180504.png",
+    "general knowledge/AI/pytorch/assets/Pasted image 20231129165812.png",
+    "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
+    "general knowledge/AI/pytorch/assets",
+    "general knowledge/AI/pytorch",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
+    "Spaces/Home/Home.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231129161430.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231129161139.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231129161001.png",
+    "daily/29-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128142249.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128142033.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128141644.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128141220.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128140150.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128135310.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128132522.png",
     "daily/28-11-2023.md",
-    "CS50's Arificial Intelligence.md",
+    "general knowledge/AI/CS50's Arificial Intelligence.md",
     "daily/27-11-2023.md",
-    "assets/Pasted image 20231127132748.png",
-    "assets/Pasted image 20231127132700.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
-    "Spaces/Home/Home.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127124738.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127124617.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "daily/26-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
@@ -232,9 +236,6 @@
     "general knowledge/AI/Función de activación.md",
     "general knowledge/AI/explicación de raíz cuadrada y número al cuadrado.md",
     "general knowledge/AI/estadística.md",
-    "general knowledge/AI/El origen de los número imaginarios.md",
-    "general knowledge/AI/Ecuaciones de segundo grado.md",
-    "general knowledge/AI/descenso de gradiente.md",
     "Excalidraw",
     "Spaces/Home/TODO",
     "Spaces/Home",
@@ -242,8 +243,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
-    "general knowledge/AI/assets",
-    "general knowledge/AI",
     "Estudios UCAM/Ortodoncia/Canvas ortodoncia.canvas"
   ]
 }
