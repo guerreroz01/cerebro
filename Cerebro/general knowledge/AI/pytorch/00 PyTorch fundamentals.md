@@ -49,3 +49,4 @@ Los tensors es la representación numérica de los datos y la salida numérica d
 ![[Pasted image 20231129180504.png]]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f5liqUk0ZTw?si=2qk5U1FRX3Zdh172" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+º
