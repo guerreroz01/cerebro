@@ -3,7 +3,8 @@ tags:
   - estudios/ortodoncia2
 type: estudios
 tema: "1"
-banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231114230628.png
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
+sticker: lucide//check
 ---
 # Placas Removibles
 Son dispositivos que se pueden retirar en situaciones determinadas o durante la higiene bucal. Se pueden fabricar en el laboratorio y no directamente sobre la boca del paciente.

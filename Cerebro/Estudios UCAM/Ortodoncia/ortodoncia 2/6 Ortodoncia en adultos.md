@@ -3,8 +3,9 @@ type: estudios
 tags:
   - estudios/ortodoncia2
 tema: "6"
-banner: "![[ucam.jpg]]"
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 banner_y: 0.80334
+sticker: lucide//check
 ---
 # Ortodoncia en pacientes adultos
 

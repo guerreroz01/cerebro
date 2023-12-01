@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "32dd8df0ef54daef",
+        "id": "1279e639f204c63a",
         "type": "tabs",
         "children": [
           {
-            "id": "4faeb24e88e6ab45",
+            "id": "ea711f5a484cd4c4",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/01-12-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -121,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/01-12-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/01-12-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/01-12-2023.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md"
               }
             }
           },
@@ -175,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 406.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,49 +194,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "4faeb24e88e6ab45",
+  "active": "ea711f5a484cd4c4",
   "lastOpenFiles": [
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md",
     "daily/01-12-2023.md",
-    "Cerebro.md",
-    "Spaces/Home/Untitled.md",
-    "Spaces/Home/Home.md",
+    "Checkboxes.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/2 Aparatología fija a dos bandas, aparatos auxiliares.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/3 Aparatología funcional.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/4 Aparatología de tracción extraoral.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/5 Aparatología fija técnicas.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/6 Ortodoncia en adultos.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/7 Retención y Recidiva.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/8 Dientes incluidos.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
-    "daily/30-11-2023.md",
-    "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
+    "Cerebro.md",
+    "Spaces/Home/Home.md",
     "general knowledge/AI/pytorch/assets/Pasted image 20231129180504.png",
     "general knowledge/AI/pytorch/assets/Pasted image 20231129165812.png",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231129161430.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231129161139.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231129161001.png",
-    "daily/29-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128142249.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128142033.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128141644.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128141220.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128140150.png",
-    "daily/28-11-2023.md",
-    "general knowledge/AI/CS50's Arificial Intelligence.md",
-    "daily/27-11-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
-    "daily/26-11-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
-    "general knowledge/Marketing explicado por salomondrin.md",
-    "general knowledge/trading/Estrategia de trading.md",
     "general knowledge/trading",
-    "daily/25-11-2023.md",
     "assets",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
-    "daily/24-11-2023.md",
     "general knowledge/AI/Red Neuronal.canvas",
-    "general knowledge/AI/método de reducción gaussiana.md",
-    "general knowledge/AI/Leyes de potencia.md",
-    "general knowledge/AI/La neurona.md",
-    "general knowledge/AI/Integrales.md",
-    "general knowledge/AI/función de pérdida.md",
     "Excalidraw",
     "Spaces/Home/TODO",
     "Spaces/Home",
