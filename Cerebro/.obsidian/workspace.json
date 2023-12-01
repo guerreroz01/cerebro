@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "4855dc4ec17354bc",
+        "id": "32dd8df0ef54daef",
         "type": "tabs",
         "children": [
           {
-            "id": "445cccfd26965300",
+            "id": "4faeb24e88e6ab45",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
+                "file": "daily/01-12-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b12e678cc60bc812",
@@ -93,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5,
-    "collapsed": true
+    "width": 291.5
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
+                "file": "daily/01-12-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
+                "file": "daily/01-12-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md"
+                "file": "daily/01-12-2023.md"
               }
             }
           },
@@ -193,15 +193,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "445cccfd26965300",
+  "active": "4faeb24e88e6ab45",
   "lastOpenFiles": [
+    "daily/01-12-2023.md",
+    "Cerebro.md",
+    "Spaces/Home/Untitled.md",
+    "Spaces/Home/Home.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
+    "daily/30-11-2023.md",
+    "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
     "general knowledge/AI/pytorch/assets/Pasted image 20231129180504.png",
     "general knowledge/AI/pytorch/assets/Pasted image 20231129165812.png",
-    "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
-    "Spaces/Home/Home.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231129161430.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231129161139.png",
@@ -212,7 +216,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128141644.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128141220.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128140150.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231128135310.png",
     "daily/28-11-2023.md",
     "general knowledge/AI/CS50's Arificial Intelligence.md",
     "daily/27-11-2023.md",
@@ -233,9 +236,6 @@
     "general knowledge/AI/La neurona.md",
     "general knowledge/AI/Integrales.md",
     "general knowledge/AI/función de pérdida.md",
-    "general knowledge/AI/Función de activación.md",
-    "general knowledge/AI/explicación de raíz cuadrada y número al cuadrado.md",
-    "general knowledge/AI/estadística.md",
     "Excalidraw",
     "Spaces/Home/TODO",
     "Spaces/Home",
