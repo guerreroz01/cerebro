@@ -20,8 +20,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "572a6a55ee53ebf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general knowledge/AI/álgebra lineal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b12e678cc60bc812",
@@ -96,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 291.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -123,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md",
+                "file": "general knowledge/AI/álgebra lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md",
+                "file": "general knowledge/AI/álgebra lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md"
+                "file": "general knowledge/AI/álgebra lineal.md"
               }
             }
           },
@@ -177,7 +190,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,8 +208,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea711f5a484cd4c4",
+  "active": "572a6a55ee53ebf8",
   "lastOpenFiles": [
+    "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md",
     "daily/01-12-2023.md",
     "Checkboxes.md",
@@ -221,7 +236,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
     "Cerebro.md",
-    "Spaces/Home/Home.md",
     "general knowledge/AI/pytorch/assets/Pasted image 20231129180504.png",
     "general knowledge/AI/pytorch/assets/Pasted image 20231129165812.png",
     "general knowledge/AI/pytorch/assets",
