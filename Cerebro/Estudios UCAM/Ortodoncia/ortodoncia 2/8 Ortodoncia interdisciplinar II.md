@@ -1,3 +1,7 @@
+---
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
+sticker: emoji//1f6a7
+---
 - [ ] Los pacientes con periodontitis no pueden ser tratados con ortodoncia
 - [ ] Enfermedades periodontales
 	- [ ] Gingivitis 
