@@ -1,6 +1,6 @@
 ---
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
-sticker: emoji//1f6a7
+sticker: lucide//check
 tema: "7"
 type: estudios
 tags:
@@ -128,7 +128,127 @@ En primer lugar se realiza una infiltración en las zonas retromolares y caras i
 Se realiza sobre la línea oblícua externa, desde mucosa a periostio tratando de dejar 5 mm mucosa no queratinizada para posterior sutura. El corte va desde segundo molar hasta media altura de la rama mandibular.
 
 #### Disección:
-Se realiza un despegamiento completo de la cara interna y externa de la rama mandibular, llegando a nivel inferior a la cincha pterig-maseterina que ha de ser liberada completamente.
+Se realiza un despegamiento completo de la cara interna y externa de la rama mandibular, llegando a nivel inferior a la cincha pterigo-maseterina que ha de ser liberada completamente.
 
-Este aspecto es de vital importancia ya que la unión pterigomaseterina constituye un gran impedimento a la hora de movilizar el cuerpo mandibular y es un importante factor de recidiva debido a la tensión que se genera en el desplazamiento óseo. También se liberan las fibras más anteroinferiores  
- 
+Este aspecto es de vital importancia ya que la unión pterigomaseterina constituye un gran impedimento a la hora de movilizar el cuerpo mandibular y es un importante factor de recidiva debido a la tensión que se genera en el desplazamiento óseo. También se liberan las fibras más anteroinferiores del músculo temporal. 
+
+El problema que surge al desperiostizar tanto, es el incremento del riesgo de hematoma, edema y daño a la arteria maxilar interna. También existe un riesgo de isquemia ósea que podría retrasar la formación del cayo de fractura.
+
+En la cara lingual, buscamos la língula, para visualizar la entrada del paquete vasculonervioso dentario inferior en la mandíbula. Dicha estructura se encuentra a 5 +/- 3.5 mm sobre el plano oclusal. En esta maniobra, hay que ser muy cuidados de no producir tensiones en el nervio, ya que la secuela más frecuente en este tipo de cirugías es la anestesia o hiperestesia de los labios.
+
+Si la parte anterior de la rama dificulta mucho el hallazgo de la língula, a veces se elimina la parte anterior de la rama mandibular hasta visualizar la estructura.
+
+#### Osteotomía vertical lateral:
+Se realiza una osteotomía de la cortical externa hasta llegar a la cortical basilar mandibular. Normalmente se hace entre primer y segundo molar, porque en esta zona, el canal dentario se encuentra más alejado: unos 4.5 mm a medial y 7 mm vertical como promedio. Esta osteotomía es casi siempre suficiente para lograr un buen cayo óseo siempre y cuando se realice una buena osteosíntesis. Sólo en casos de avances extremos está contraindicada.
+
+La osteotomía también se puede realizar más a mesial, a nivel premolar. Esta osteotomía tiene la ventaja de procurar mayor estabilidad en la cirugía una vez se han unido los fragmentos, ya que el solapamiento es mayor. Lo que tiene como consecuencia una formación del cayo de fractura más temprana. Sin embargo, el área a desperiostizar es mayor también, conforme avanza a mesial, va progresivamente vestibularizándose. Por ello, es imprescindible un exhaustivo estudio radiológico.
+
+#### Fractura de los fragmentos:
+Tras el corte de la cortical, se avanza cortando la esponjosa con escoplo y martillo hasta llegar a la cortical opuesta. La dirección será siempre en paralelo a la cortical externa, de modo que dejamos por fuera del escoplo la cortical externa (_fragmento proximal_) y por dentro del escoplo la cortical interna, esponjosa y nervio (_fragmento distal_). Cuando se llega con el escoplo a la basal contraria se realiza un split, disyunción o fractura en tallo verde de los fragmentos mediante movimientos de palanca.
+
+Antes de fijar los fragmentos en la nueva posición, la cual viene dada por la férula intermedia, es necesario comprobar que no existan irregularidades en las superficies de contacto que impidan un acople correcto a los segmentos proximal y distal.
+
+Si dejamos interferencias, el fragmento proximal será mal posicionado, lo que condicionará que el cóndilo rote de forma anómala o sufra tensiones que lo saquen de la fosa glenoidea.
+
+Si se produce torsión, es posible que el paciente desarrolle patología articular postquirúrgica. Si el cóndilo no se ubica correctamente en la fosa, después de la cirugía, una vez que el paciente recupere el tono muscular, el cóndilo mal posicionado se asentará (_sag condilar_) provocando maloclusión.
+
+#### Posicionamiento del fragmento proximal:
+Completadas las osteotomías mandibulares y antes de la osteosíntesis de las mismas, acoplamos el fragmento distal a la férula intermedia que a su vez está unida al maxilar, que sí tiene realizadas su osteosíntesis. 
+
+Esta fijación se hace mediante alambres de acero que pasan por los brackets superiores e inferiores a través de la férula. También se puede hacer esta unión mediante anclaje esquelético en los maxilares.
+
+El fragmento proximal se coloca durante la cirugía de manera artesanal. El método más frecuente de asentamiento condilar previo a osteosíntesis es el siguiente:
+- En primer lugar se realiza una muesca a nivel anterior de la rama mandibular en la mitad de la misma.
+- Un cirujano introduce un instrumento con forma de "Y" de manera que presione en sentido superior con la mano derecha, mientras la izquierda ayuda la zona extraoral presionando desde el ángulo mandibular en sentido superior y medial hasta notar que el cóndilo está asentado y los fragmentos próximos y distal están en contacto y sin interferencias para realizar la osteosíntesis. 
+- El segundo cirujano, realiza la osteosíntesis mientras el compañero mantiene la posición. <span style="color: red;">Esta parte de la cirugía es la más crítica por su dificultad </span>
+
+#### Osteosíntesis mandibular
+Ya hemos completado las osteotomías, pulido las superficies de contacto para evitar fulcros y permitir un buen deslizamiento entre las mismas y hemos colocado el cóndilo en la fosa.
+
+Si no se ha realizado un bloqueo intermaxilar para inmovilizar por tiempo prolongado, es momento de fijar fragmentos próximas y distal.
+
+Hay tres formas de hacerlo:
+1. Con alambre de acero (_En desuso_).
+2. Con tornillos bicorticales (_Fijación rígida_).
+3. Con placas y tornillo monocorticales (_Fijación semirígida_).
+Los sistemas de fijación semirrígida permiten customizar las placas de forma intraoperatoria, lo que disminuye el riesgo de torque condilar. También hay menos posibilidades de daño directo e indirecto (por compresión) del nervio dentario inferior.
+
+En la bibliografía no existe un consenso a cerca de qué método de fijación es mejor.
+Hoy en día, los más utilizados son:
+- Tres tornillos bicorticales
+- Doble mini placa de 4 tornillos monocorticales
+- Dos tornillos bicorticales en distal (mediante sistema transyugal o a través de la mejilla) y una mini placa en la cresta oblicua con 4 tornillos monocorticales.
+
+#### Osteotomía subcondílea (_Hinds_)
+Consiste en realizar un corte desde la escotadura sigmoidea al borde posterior mandibular. Esta técnica está indicada en prognatismos donde se vaya a realizar un reposicionamiento posterior del fragmento distal, ya que de esta forma, los fragmentos se solapan y realizan el cayo sin osteosíntesis. Está contraindicada en los retrognatismos ya que un movimiento de avance mandibular separaría los fragmentos imposibilitando la aparición del cayo óseo.
+
+Hoy día está en desuso porque necesita fijación intermaxilar durante tres semanas.
+
+#### Osteotomía vertical de rama (_Caldwell, Lethermann_)
+Se realiza un corte horizontal por encima de la espina y uno vertical paralelo al borde posterior que deriva en el ángulo mandibular. Al igual que el Hinds, está indicado en prognatismos simétricos donde se vaya a realizar un set-back mandibular. Es muy poco utilizada ya que precisa de fijación intermaxilar durante 3 semanas.
+
+### Complicaciones de la cirugía mandibular:
+#### Mala fractura o _bad split_
+En la cirugía mandibular se utilizan sierras y fresas en los que los cortes se controlan y escoplos con los que se completan fracturas o disyunciones. La mala fractura hace referencia a que no se consigue fracturar el hueso donde se desea a la hora de la disyunción o split, lo que imposibilita finalizar la cirugía con éxito.
+
+#### Recidiva y _sag condíleo_
+La recidiva de la cirugía mandibular está íntimamente relacionada con el sag condíleo o hundimiento condilar. Este consiste en que el cóndilo, una vez el paciente recupera su tono muscular se reposiciona en la cavidad porque el cirujano lo dejó fuera previamente durante la cirugía. 
+
+Las consecuencias directas de sag condilar son la asimetría y la mordida abierta. Si se produce, suele ser en las primeras semanas postquirúrgicas y es necesario reintervenir al paciente en la mayoría de los casos.
+
+#### Reabsorción condilar ideopática
+Es una de las complicaciones más temidas, suele producirse en mujeres y la incidencia es del 3 %. Se produce una reabsorción progresiva del cóndilo que se manifiesta con dolor y mordida abierta. La aptitud terapéutica es dejar evolucionar el proceso y manejar al paciente mediante férulas hasta que se estabilice el caso. La reconstrucción del cóndilo se realiza en una nueva cirugía mediante injertos costales o prótesis.
+
+#### Lesión del nervio alveolar inferior
+Es la secuela más frecuente de la cirugía mandibular. Las estadísticas muestran que se produce daño en el nervio en el 30 o 40 % de las intervenciones. Este daño es tan probable debido a la exposición y manipulación de la estructura. También son frecuentes los daños por compresión durante la osteosíntesis.
+
+Si el traumatismo es sólo de la capa mielínica, el paciente resupera la sensibilidad pero puede demorarse hasta 3 años. Es recomendable recetar complejos vitamínicos de tipo B para acelerar la reparación. Sin embargo, si se seccionan los axones neuronales el daño será definitivo. Es más frecuente en las [[Clase II]] con grandes avances mandibulares.
+
+## Mentoplastia
+Consiste en la modificación de la posición del mentón. Puede ser un avance, un centrado o una rotación anteroposterior.
+
+Es una cirugía estética que se utiliza como complemento a la cirugía ortognática. Pero a veces se utiliza de manera aislada como medio de camuflaje de determinada alteraciones faciales como retrognatismo, asimetría y alteraciones verticales.
+
+Es una cirugía relativamente sencilla aunque no exenta de complicaciones.
+
+### Incisión
+Con bisturí frío, se realiza la incisión de canino a canino en fondo de vestíbulo anterioinferior seccionando la capa muscular hasta llegar al periostio.
+
+### Desperiostización
+Se realiza cuidadosamente para no dañar el borla del mentón a nivel de la sínfisis. Se progresa lateralmente hasta localizar la salida del nervio dentario inferior.
+
+### Osteotomía
+Se realiza con sierra, por debajo de los ápices de los dientes anteriores y en sentido posteroinferior hacia el reborde inferior mandibular. Es muy importante dejar el foramen del nervio mentoniano 5 mm por encima de la osteotomía ya que el nervio hace un bucle desde abajo antes de emerger. Cuando la osteotomía está cerca del borde inferior mandibular, se completa con suaves golpes de escoplo hasta lograr la fractura en tallo verde de dicho reborde. Debido a la vascularización del suelo de la boca, no se realiza el corte con sierra hasta el finar por riesgo de hemorragia. La dirección del corte depende del objetivo a lograr. No es lo mismo un centrado que un avance o rotación. Pero cuanto más posterior sea el final del corte, menos se notará el escalón óseo posterior.
+
+### Sutura
+Es un punto muy importante. Se realiza por planos. En primer lugar, se suturan los dos vientres del borla del mentón al periostio. A continuación, un punto en tejido conectivo del rafe medio. A continuación se sutura la mucosa.
+
+### Fijación
+Se realiza mediante placas customizadas y tornillos monocorticales o bien mediante tornillos bicorticales.
+
+### Tipo de mentoplastia:
+#### Mentoplastia por deslizamiento
+Se realiza un corte horizontal desde el cual se puede realizar un deslizamiento anteroposterior y lateral del mentón. También se puede cambiar la angulación separando el borde posterior o el anterior para problemas verticales.
+
+#### Mentoplastia de doble deslizamiento
+Se realizan dos segmentos de unos 8 mm de grosor. Cada uno avanza todo el grosor de la sínfisis logrando el doble de avance. Está indicado en grandes micrognatias.
+
+### Complicaciones de la mentoplastia
+- Sangrado a nivel del suelo de la boca. Es la complicación más importante por el riesgo de asfixia del paciente.
+
+- Necrosis o reabsorción: sobre todo en pacientes cardiópatas y diabéticos. Es poco frecuente.
+
+- Pseudoartrosis: Ligado a una mala técnica de osteosíntesis. 
+
+- Contorno mandibular irregular: Debido al escalón óseo que se produce tras el movimiento del fragmento distal.
+
+- Daño del nervio mentoniano: Debido a la presencia del bucle antes de la emergencia del nervio. Este factor se evita con un buen examen radiográfico.
+
+- Lesión dental: Si en la osteotomía se dañan los ápices dentales.
+
+- Ptosis del labio inferior: Si no se sutura correctamente la musculatura.
+
+# Referencias:
+___
+- Fuente principal : “Cirugía Oral y Maxilofacial” SECOM. 3ª edición. 2012
+
