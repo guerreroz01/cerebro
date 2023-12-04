@@ -8,6 +8,51 @@ tags:
 ---
 # Cirugía ortognática
 ___
+
+## Conceptos dados en clase
+
+### Cone Beam Computed Tomography CBCT
+- [ ] 2 inventores más importantes Cormack y Hunsfield, 1988 Mozzo et al.
+- [ ] Diferencias entre [[TAC médico]] y [[Cone Beam]] 
+- [ ] Bases físicas: Un [[pixel]] es un cuadrado, un elemento de superficie. [[Un voxel]] buscar!
+- [ ] ¿Qué aspectos debemos analizar en un CBCT? RENDERING! -> Proporción y simetría
+- [ ] CROPPING -> Se puede cortar sólo una unidad y es mejor para trabajar con ella porque sufre menos el ordenador.
+- [ ] Diferencia entre [[Resonancia Magnética]] y Cone Beam -> En una resonancia lo que se produce es una vibración de los átomos de hidrógeno, y si es un tejido blando hay más átomos de hidrógeno y habrá más resonancia en cambio en un TAC o Cone Beam es RX.
+
+# Cirugía ortognática:
+- [ ] Concepto de [[cirugía ortognática]] y cual es el propósito
+- [ ] ¿Como se seleccionan los pacientes?
+	- [ ] Criterios emocionales
+	- [ ] Criterios morfológicos
+- [ ] ¿Que tenemos que saber al momento de hacer una compensación?
+- [ ] En una corrección del desequilibrio esquelético, lo que hacemos es _DESCOMPENSAR AL PACIENTE_
+- [ ] Nunca se debe banalizar un caso por fácil que parezca.
+- [ ] Tipos de cirugía en función de la alteración morfológica del paciente.
+	- [ ] Cirugía monomaxilar
+	- [ ] Cirugía bimaxilar
+	- [ ] Cirugía de segmentación maxilar
+	- [ ] Cirugía de impactación maxilar
+	- [ ] SARPE (_Expansión maxilar asistida quirúrgicamente_) 
+- [ ] Técnicas quirúrgicas en el Maxilar
+	- [ ] Técnicas Lefort I 
+	- [ ] MANIOBRA DE DAWSON
+	- [ ] Contraindicación cuando la base alar es muy ancha porque en el avance maxilar la base de la nariz se ensancha aún más.
+	- [ ] Complicaciones de la cirugía maxilar.
+	- [ ] Post operatorio.
+- [ ] STO _surgical visual objective_
+- [ ] Buscar artículo "Facial planning for orthodontists and oral surgeons"
+- [ ] 7 pasos en el análisis de Arnett
+- [ ] cirugía de reposición mandibular técnica BSSRO
+- [ ] Que es el Fragmento proximal cuerpo condilar, fragmento distal cuerpo mandibular
+- [ ] El cóndilo debe estar bien posicionado en la fosa para poder fijar la mandíbula, porque si esto no pasa sería catastrófico quedaría la mandíbula en una posición más posterior y se  abriría la mandíbula.
+- [ ] La fijación sólo con tornillos es con tornillos BICORTICALES
+- [ ] Complicaciones: mala fractura o bad split, condilar SAG el cóndilo se hunde 
+- [ ] Reabsorción condilar, mujeres embarazadas 👀 el riesgo de reabsorción condilar es muy alta.
+- [ ] Lesión del nervio alveolar inferior
+- [ ] Mentoplastia, Tipos : por deslizamiento o por doble desplazamiento. Complicaciones sangrado a nivel del suelo de la boca es la más importante por riesgo de asfixia del paciente, Necrosis o reabsorción. Pseudoartrosis ligado a la mala técnica de osteosíntesis.
+
+
+
 La cirugía ortognática es la parte de la cirugía maxilofacial cuyo objetivo es corregir las discrepancias entre maxilar y mandíbula en los tres planos del espacio para dotar al paciente de una adecuada función respiratoria y masticatoria en un marco adecuado de estética facial.
 
 ## Selección del paciente

@@ -11,6 +11,8 @@ _links:
   - Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md
   - Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md
   - Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md
+  - Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md
+  - Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md
 _sort:
   field: rank
   asc: false

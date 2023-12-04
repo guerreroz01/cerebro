@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a3900c3637202053",
+        "id": "d03bbd7c842042c2",
         "type": "tabs",
         "children": [
           {
-            "id": "55d26b28722793e9",
+            "id": "0a0ef2aa421c2fd1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
-                "mode": "preview",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
+                "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -123,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md"
               }
             }
           },
@@ -177,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 280.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,44 +193,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "55d26b28722793e9",
+  "active": "0a0ef2aa421c2fd1",
   "lastOpenFiles": [
-    "daily/02-12-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231203161343.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231203161304.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231203161256.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231203161234.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231203161220.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231203161212.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231203161200.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231203161143.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231203161128.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
-    "daily/20-10-2023.md",
     "daily/06-11-2023.md",
-    "daily/30-11-2023.md",
     "daily/30-10-2023.md",
-    "daily/29-11-2023.md",
-    "daily/28-11-2023.md",
-    "daily/27-11-2023.md",
     "daily/27-10-2023.md",
-    "daily/26-11-2023.md",
-    "daily/25-11-2023.md",
-    "daily/24-11-2023.md",
+    "daily/20-10-2023.md",
     "daily/23-10-2023.md",
+    "daily/01-12-2023.md",
+    "daily/02-12-2023.md",
+    "daily/03-12-2023.md",
     "daily/22-11-2023.md",
+    "daily/24-11-2023.md",
+    "daily/25-11-2023.md",
+    "daily/26-11-2023.md",
+    "daily/27-11-2023.md",
+    "daily/28-11-2023.md",
+    "daily/29-11-2023.md",
+    "daily/30-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/7 Retención y Recidiva.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127132748.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231127132700.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231124223447.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231124222854.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231124222507.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231124222441.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231124222420.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231124221226.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231124220619.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231124220420.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/8 Ortodoncia interdisciplinar II.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
     "Estudios UCAM/Ortodoncia/Ortodoncia.md",
     "Checkboxes.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
     "general knowledge/trading",
