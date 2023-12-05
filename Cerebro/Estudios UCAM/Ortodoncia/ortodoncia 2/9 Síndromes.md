@@ -169,3 +169,105 @@ En los dientes permanentes (_frecuencia_):
 
 Paradójicamente, algunos pacientes tienen dientes supernumerarios, aunque esta es una anomalía infrecuente que generalmente constituye un hallazgo radiográfico casual.
 
+Los dientes conoides predominan como la malformación dentaria más común
+Se ha señalado que 1 de cada 4 pacientes con SD tiene algún diente conoide; siendo más frecuente en el maxilar superior que en la mandíbula, afectando principalmente al incisivo lateral superior, siendo mucho más habituales entre las mujeres que en los varones.
+
+![[Pasted image 20231204125307.png]]
+
+#### Microdoncia
+Los dientes permanentes suelen ser pequeños, fundamentalmente a expensas de la porción coronal. La prevalencia de microdoncia es más patente en los dientes definitivos, lo que favorece la aparición de diastemas.
+
+#### Taurodontismo
+Se presenta un porcentaje que habitualmente oscila entre el 33% y el 55% de los pacientes.
+![[Pasted image 20231204132723.png]]
+
+### Enfermedad periodontal en pacientes con SD
+La enfermedad periodontal representa uno de los principales problemas odontológicos del paciente con SD, ya que afecta al 35 - 70% de los niños y 90 - 100% de los mayores de 20 años.
+
+Se caracteriza por su aparición temprana, rápida evolución y agresividad.
+
+La severidad de la enfermedad periodontal aumenta con la edad, caracterizándose en los estadios más avanzados por la presencia de bolsas profundas e importante destrucción ósea, con movilidad progresiva y pérdida prematura de los dientes.
+
+Los dientes involucrados con mayor frecuencia son los incisivos inferiores y los molares superiores.
+![[Pasted image 20231204133351.png]]
+
+### Bruxismo
+Aunque su etiología se considera multifactorial, se ha sugerido que algunas circunstancias como:
+1. La ansiedad crónica
+2. La maloclusión dentaria
+3. La disfunción de la articulación temporomandibular por hiperlaxitud ligamentosa o la inmadurez del sistema nervioso
+
+Pueden contribuir de forma determinante a la aparición de bruxismo entre las personas con SD
+
+### Disyunción de la articulación temporomandibular
+Aunque se reconoce que su etiología es multifactorial, se asocia estrechamente a algunas características del síndrome, como:
+- La hiperlaxitud ligamentosa
+- La hipotonía muscular
+- La parafunción oclusal de [[Clase III]] forzada, en la que el individuo realiza una protrusión mandibular excesiva con el objetivo de mejorar la estabilidad oclusal.
+
+### Displasias esqueléticas en el Síndrome de Down
+Se ha postulado que el exceso de material genético inherente al SD provoca una alteración del crecimiento craneofacial, siendo responsable del acortamiento de la base craneal y de la hipoplasia del maxilar.
+
+Una de sus consecuencias directas es la elevada prevalencia de maloclusiones, concretamente de:
+- Mordida cruzada anterior y posterior
+- Clase III dentaria y esquelética
+- Mordida abierta anterior
+
+![[Pasted image 20231204135628.png]]
+
+El tamaño absoluto del maxilar superior en las personas con SD es menor que en la población general, en los tres planos del espacio. Se trata de un maxilar generalmente comprimido en su base ósea en el plano transversal, e hipoplásico en los planos sagital y frontal.
+
+Como consecuencia, se genera habitualmente una (pseudo-Clase III)
+![[Pasted image 20231204135848.png]]
+
+### Selección de la aparatología en el SD
+Para corregir la mordida cruzada en los pacientes con SD, empleamos preferentemente **placas activas removibles** con mecanismos de expansión simétrica o asimétrica que incluyan planos de mordida con ajuste funcional, y en ocasiones con algún tornillo para la protrusión del sector maxilar anterior o con dispositivos para controlar la función lingual.
+
+Para que estos aparatos sean eficaces es imprescindible seleccionar a pacientes en edades muy tempranas del desarrollo, con mordidas cruzadas en origen dentoalveolar y/o funcional que no tengan un componente esquelético severo, y con un grado de colaboración adecuado.
+
+La aparatología removible presenta algunas ventajas con respecto a la fija:
+- Mayor versatilidad biomecánica.
+- Su adaptación anatómica reduce el riesgo de aparición de úlceras orales.
+- Mejor control de la higiene bucodental y de la salud periodontal.
+![[Pasted image 20231204141036.png]]
+
+Los **expansores maxilares fijos** también pueden utilizarse en el tratamiento de la mordida cruzada de pacientes con SD, aunque suelen provocar más incidencias clínicas que los aparatos removibles, ya que se despegan con frecuencia (_debido al tamaño y la morfología de los dientes, la presencia de parafunciones o la actitud de rechazo de algunos pacientes_) y dificultan la higiene bucal.
+
+<span style="color: red;">Deben evitarse las bandas metálicas</span> que pueden producir lesiones periodontales y/o aplicar fuerzas excesivas en dientes individuales, y hay que diseñar los aditamentos auxiliares de tracción _como los elásticos extraorales para la máscara facial_ de forma que minimicen el riesgo de aparición de úlceras traumáticas (_incorporando ganchos cortos y redondeados o recubiertos de resina._)
+
+>[!tip] En consecuencia, en estos pacientes el aparato fijo de elección para la expansión maxilar es el [[2 Aparatología fija a dos bandas, aparatos auxiliares#Disyuntor a cuatro bandas tipo Hyrax|disyuntor]] palatino tipo Mc-Namara, con un ajuste funcional adecuado de sus planos de acrílico.
+
+### Tratamiento con aparatología fija multibracket en pacientes con SD
+Habitualmente, todas las fases del tratamiento podrán completarse empleando recursos sencillos como el _"decir-mostrar-hacer"_ 
+
+**RECOMENDACIONES**:
+1. Utilizar preferentemente tubos de cementado directo en los molares en lugar de bandas ortodóncicas.
+
+2. Utilizar brackets de tamaño reducido.
+
+3. Los brackets ideales son los metálicos de baja fricción y autoligado por sus dimensiones y porque permiten restringir el uso de ligaduras de alambre y elásticas, disminuyendo el riesgo de aparición de úlceras y el acúmulo de placa bacteriana. Uno de sus inconvenientes es su elevado coste, por lo que en los pacientes en los que los brackets se despegan de forma recurrente aconsejamos utilizar los metálicos convencionales de tamaño reducido.
+
+4. Evitar en lo posible los brackets estéticos.
+
+5. En las zonas edéntulas es aconsejable recubrir el fragmento del arco con un tubo protector de plástico incluso si colocamos algún muelle en ese segmento para evitar complicaciones traumáticas.
+
+6. Debe restringirse en lo posible el uso de dispositivos auxiliares adheridos a los dientes _como botones o ganchos que en todo caso han de acondicionarse para evitar que produzcan ulceraciones y lesiones periodontales._
+
+### Microtornillos en el paciente con SD
+Su tasa de éxito podría estar condicionada por factores como el comportamiento del hueso cortical o la respuesta inflamatoria local tras la inserción de un cuerpo extraño
+
+Hay muy poca evidencia científica disponible sobre la eficacia de los dispositivos de anclaje ortodóncico temporal en pacientes con SD.
+
+- Las características óseas de este colectivo inducen a recomendar microimplantes.
+- Si se planifica un tratamiento combinado de ortodoncia e implantología, hay que tener presente que la tasa de éxito de los implantes dentales es significativamente inferior en el SD que en la población en general.
+
+### Fase de retención en el paciente con SD
+La actividad de la lengua y el componente esquelético de la maloclusión obligan a utilizar retenedores durante mucho tiempo, más si cabe cuando la etiología es neuromuscular.
+
+Los retenedores cementados o "fijos" se toleran generalmente mejor que los removibles, pero exigen más colaboración por parte del paciente en la sección de cementación y en el control de la higiene oral.
+
+Por su parte, los retenedores removibles tipo Hawley sólo están indicados cuando hay un buen nivel de cooperación y una supervisión estricta.
+
+## Enfermedad de Crouzon o Craneosinostosis múltiple
+
+
