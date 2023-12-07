@@ -269,5 +269,151 @@ Los retenedores cementados o "fijos" se toleran generalmente mejor que los remov
 Por su parte, los retenedores removibles tipo Hawley sólo están indicados cuando hay un buen nivel de cooperación y una supervisión estricta.
 
 ## Enfermedad de Crouzon o Craneosinostosis múltiple
+___
+### Características generales
+- Enfermedad autosómica dominante
+- Hay una fusión prematura de una o más suturas craneales
+- Aumento de la presión intracraneal
+- Exoftalmos (_ojos salidos_)
+- Hipertelorismo
+- Estrabismo divergente
 
+### Características Craneofaciales
+- Hipoplasia maxilar sagital principalmente (fusión temprana de las suturas del tercio medio facial). aunque también puede darse hipoplasia a nivel transversal.
+- [[Clase III]] esquelética por hipoplasia maxilar principalmente.
+- Patrones dolicofaciales con tendencia a la mordida abierta anterior
+- Cráneo más alto y ancho, pero más corto en longitud
+- Mayor frecuencia de agenesias de algún diente
+- Frecuencia elevada de apiñamiento dental maxilar.
+- Pueden tener con más frecuencia alteraciones morfológicas dentales como macrodoncia o dientes en forma de clavo.
+- Labio superior acortado.
+
+### Tratamiento
+El tratamiento dependerá de los síntomas y afectación estética.
+
+Será **quirúrgico** con (_reapertura de las suturas_) en las siguientes condiciones:
+1. Pérdida progresiva de la visión.
+2. Fusión de varias a la vez tempranamente impidiendo el crecimiento adecuado del cráneo.
+3. Por motivos meramente estéticos.
+
+### Pronóstico
+El **pronóstico** de esta enfermedad suele ser bueno, aunque se debe ir viendo el progreso de la misma y las consecuencias que se van generando.
+
+## Síndrome de Pfeiffer
+___
+### Características dentales:
+Son similares a las del síndrome de Apert, el síndrome de Crouzon y otras sinostosis craneofaciales
+
+1. Hipoplasia maxilar
+2. Maloclusión [[Clase III]]
+3. Mordidas cruzadas anteriores y posteriores
+4. Mordida abierta anterior
+5. Apiñamiento severo en la arcada maxilar debido a la hipoplasia.
+![[Pasted image 20231205134917.png]]
+
+![[Pasted image 20231205134952.png]]
+
+![[Pasted image 20231205135018.png]]
+
+## Síndrome de Apert
+___
+Es un síndrome (_craneosinostosis_) que representa el $4^{a}$ 5% de todos los síndromes de craneosinostosis.
+
+- Es autosómico dominante
+
+- Alta tasa de probabilidad de afectación generacional, una persona afectada tiene un 50% de probabilidades de tener un hijo afectado.
+
+- Una característica que diferencia al síndrome de Apert de los otros síndromes del grupo de las craneosinostosis es la <span style="color: red;">presencia de fusión de los dedos</span>, lo cual se conoce como <span style="color:red;">sindactilia</span> y generalmente involucra las manos y los pies, puede estar confinada a los tejidos blandos o también presentarse la fusión de la porción ósea de los dedos involucrados.
+
+### Malformaciones craneofaciales
+- Craneosinostósis. (obliteración temprana de las suturas craneales) 
+- Acrocefalia, (cabeza en forma de cono)
+- Turribraquicefalia, (diámetro antero-posterior del cráneo disminuido)
+- Aplanamiento de la frente y del occipucio.
+
+![[Pasted image 20231205135943.png]]
+
+### Cara
+- Hipoplasia antero posterior del tercio medio de la cara
+- Hipoplasia del reborde orbitario dando la impresión de proptósis de los globos oculares.
+- Asimetría facial
+- Puente nasal hundido hipertelorismo
+- Mandíbula prominente como efecto de la hipoplasia del tercio medio
+- Fisuras palpebrales antimongoloides
+- Pabellón auricular grande y generalmente en localización baja.
+
+### Maxilares
+1. El maxilar superior con paladar ojival, pudiendo presentar fisura palatina o úvula bífida
+
+2. El arco maxilar en forma de V con múltiples apiñamientos dentales
+
+3. Hiperplasia gingival generalizada
+
+4. Mandíbula en relación [[Clase III]]
+
+5. Mayor frecuencia de retraso en la erupción, erupción ectópica, impactación dental y agenesias.
+
+### Enfoque de tratamiento
+Debe ser enfocado desde un punto de vista integral y requiere del esfuerzo combinado de una gran cantidad de profesionales de diversa índole, quienes deben formar parte de la clínica de anomalías craneofaciales.
+
+La evaluación de estos pacientes comienza desde el nacimiento y la infancia, donde el pediátra, el neurocirujano, el oftalmólogo, el otorrinolaringólogo, el odontopediátra, el cirujano craneofacial, el neuroradiólogo, el psicólogo y el trabajador social son esenciales.
+
+Posteriormente, durante las etapas de la adolescencia y juventud temprana, se suman al equipo de tratamiento, el ortodoncista, el odontólogo general, el logopeda y el cirujano maxilofacial.
+![[Pasted image 20231205141006.png]]
+
+### Protocolo de actuación según la Universidad de California elaborado por el equipo de San Francisco
+
+#### Inmediatamente después del nacimiento:
+Asesoramiento, instrucciones de alimentación, evaluación genética, neurocirugía, ortopedia, nemología, audiología, evaluación de nariz y garganta.
+#### De 6 a 12 meses:
+Avance frontoorbital por equipo de maxilofaciales y neurocirujanos.
+
+#### De 1 a 2 años:
+Visitas del equipo para abordar desarrollo del cráneo y cognitivo, problemas de higiene oral y dental, determinar el tiempo de reparación del paladar hendido si existe.
+
+#### De 2 a 7 años:
+Visitas de equipo médico-conductual, monitorizar desarrollo dental, erupción, crecimiento facial y mandibular. Hacer RX y TAC necesarios a intervalos.
+
+<div style="border: 1px solid red; padding: 16px"><h4>De 7 a los 9 años 👀</h4><p>Visitas de equipo, registros de ortodoncia, extracciones dentales y tratamiento de primera fase con expansión maxilar en preparación para el avance del tercio medio.</p><h4> De los 9 a los 12 años</h4><p>Visitas de equipo, avance del tercio medio facial por Le Fort III con injertos óseos o distractor óseo externo si hay buena cooperación.</p><h4>De los 12 a los 21 años</h4><p>Visitas de equipo, registros de ortodoncia, tratamiento ortodóncico de segunda fase en preparación para cirugía ortognática después de completar crecimiento, completar tratamiento de ortodoncia postquirúrgico y retención a largo plazo.</p></div>
+
+![[Pasted image 20231205142827.png]]
+
+## Acondroplasia
+___
+Es la firma más común del enanismo, La enfermedad se hereda de forma autosómica dominante, se producen mutaciones que causan un defecto en la proliferación de los [[condrocitos]], lo que resulta en un inhibición de la osificación endocondral en las placas de crecimiento.
+
+### Lugares y tipos de crecimiento en el complejo craneofacial
+#### Base del cráneo
+![[Pasted image 20231205150326.png]]
+
+##### Sincondrosis esfeno-occipital
+Su crecimiento condiciona la relación del maxilar y la mandíbula, ya que el complejo nasomaxilar se encuentra debajo de la fosa craneal anterior y la mandíbula se articula con el cráneo a través del CTM (_complejo temporomandibular_) que se encuentra por detrás y lateralmente a la sincondrosis esfeno-occipital.
+![[Pasted image 20231205150717.png]]
+
+<span style="color:red;">Una base craneal larga predispone: </span><span style="color: aqua;">Clase II</span>
+![[Pasted image 20231205150744.png]]
+
+##### Complejo Naso-Maxilar:
+El crecimiento se da por 2 mecanismos principalmente:
+
+1. **Desplazamiento pasivo**: de la base del cráneo que desplaza el complejo naso-maxilar hacia adelante. Especialmente importante hasta los 7 años de vida. Entre los 7-15 años de vida sólo representa 1/3 del movimiento anterior.
+
+2. **Crecimiento activo**: del propio maxilar superior y de la nariz mediante crecimiento de las suturas y remodelado superficial.
+
+### Malformaciones craneales:
+- Base craneal **posterior corta** con cierre esfeno-occipital.
+- Base craneal **anterior grande** porque el cerebro continúa creciendo.
+- [[Megalocefalia]] 
+- Falta del desarrollo del tercio medio por falta de alargamiento de la base craneal.
+- Nariz en forma de silla de montar que junto a lo anterior puede dar lugar a una obstrucción de la vía aérea superior.
+- Retrognatismo maxilar
+- Bóveda craneal agrandada con hidrocefalia y protuberancia frontal.
+- Base craneal posterior corta.
+- Incisivos superiores protrusivos
+- Mandíbula normal.
+- ==Generalmente [[Clase III]]==
+
+![[Pasted image 20231205152030.png]]
+
+![[Pasted image 20231205152103.png]]
 
