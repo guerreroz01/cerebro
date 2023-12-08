@@ -15,26 +15,13 @@
               "type": "markdown",
               "state": {
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "ae3750ce6740a3ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/07-12-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b12e678cc60bc812",
@@ -108,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 350.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -136,7 +123,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/07-12-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +139,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/07-12-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +149,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "daily/07-12-2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -186,7 +169,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -208,23 +191,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ae3750ce6740a3ce",
+  "active": "e3cd874949b693f0",
   "lastOpenFiles": [
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207151806.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207151745.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207150759.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207150717.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207150058.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207150001.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207135538.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207135318.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207135004.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231207134438.png",
     "daily/07-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231205152103.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231205152030.png",
     "general knowledge/Megalocefalia.md",
-    "general knowledge/assets/Pasted image 20231205151634.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231205150744.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231205150717.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231205150326.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Sindromes 2.md",
     "general knowledge/condrocitos.md",
-    "general knowledge/assets/Pasted image 20231205150032.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231205142827.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231205141904.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231205141006.png",
     "daily/05-12-2023.md",
     "daily/04-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
@@ -245,7 +228,6 @@
     "daily/27-11-2023.md",
     "daily/28-11-2023.md",
     "daily/29-11-2023.md",
-    "daily/30-11-2023.md",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
     "general knowledge/trading",

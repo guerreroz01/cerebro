@@ -4,7 +4,7 @@ type: estudios
 tema: "9"
 tags:
   - estudios/ortodoncia1
-sticker: emoji//1f6a7
+sticker: lucide//check
 ---
 # Síndromes
 ___
@@ -417,3 +417,166 @@ El crecimiento se da por 2 mecanismos principalmente:
 
 ![[Pasted image 20231205152103.png]]
 
+## Microsomía hemifacial
+Es un defecto congénito que involucra estructuras craneofaciales derivadas del primer y segundo arco branquial y afecta a:
+- Órbita
+- Maxilar
+- Mandíbula
+- Oreja
+- Nervios craneales y los tejidos blandos
+
+Este defecto generalmente provoca una falta de desarrollo unilateral principalmente mandíbula y estructuras suprayacentes.
+![[Pasted image 20231207132348.png]]
+
+Aunque la microsomía hemifacial es una malformación relativamente poco frecuente, es el segundo defecto congénito craneofacial más frecuente después del labio y paladar hendido.
+
+Afecta más a los hombres que a las mujeres con una proporción estimada de 3:2, el lado derecho de la cara se ve afectado con más frecuencia que el lado izquierdo con una proporción cercana a 3:2.
+
+### Etiología
+La etiología de esta condición es incierta, aunque la mayoría de los autores sugieren la hipótesis de una hemorragia de una arteria que causa un hematoma en la región suministrada (primer y segundo arco branquial).
+
+### Enfoque de tratamiento
+Se relaciona principalmente con la gravedad de la malformación y la presencia o no de crecimiento.
+
+#### Con crecimiento:
+1. Leves y algunos moderados: el lado afectado puede mostrar solo una disminución del crecimiento en las tres dimensiones. El tratamiento es ortopédico no quirúrgico con un dispositivo funcional híbrido más tratamiento de ortodoncia fija.
+
+>[!warning] Intervención Ortopédica
+>La intervención ortopédica adecuada en la edad temprana puede inducir una mejora estética, funcional y psicológica, reduciendo o incluso eliminando la necesidad de osteotomías maxilares y mandibulares en la adolescencia tardía.
+
+
+2. Severos: deficiencia o cóndilos ausentes y función incorrecta de apertura de la boca:
+	1. Intervención quirúrgica para la distracción osteogénica (OD)
+	2. Injertos costocondrales.
+	3. Otras cirugías de tejidos duros / blandos.
+
+
+
+#### Sin crecimiento:
+1. Leves: el lado afectado puede mostrar sólo una disminución del crecimiento en las tres dimensiones. Se realiza el tratamiento de ortodoncia sólo o junto con genioplastia y/o aumento mandibular unilateral.
+
+2. Severos: deficiencia o cóndilos ausentes y función incorrecta de apertura de la boca. Se realizan intervenciones avanzadas; cirugía maxilar y mandibular simultánea combinada con procedimientos de aumento de tejido duro / blando.
+
+![[Pasted image 20231207134018.png]]
+![[Pasted image 20231207134044.png]]
+
+### Con crecimiento papel del ortodoncista:
+La intervención  ortopédica temprana se centra en el **control diferencial de la erupción** de los dientes entre las arcadas y la prevención o corrección de la adaptación dentoalveolar debido a la asimetría. 
+
+Después de la primera fase del tratamiento, casi siempre necesitan una segunda fase de ortodoncia con aparatología fija. Esta fase incluye establecimiento de oclusión estética, funcional y estabilizar los resultados de la primera fase por compensación dental. Esto implica la extrusión de dientes en el lado afectado y **resolver el canteo oclusal**, para lo cual a veces es necesario utilizar microtornillos.
+
+![[Pasted image 20231207134438.png]]
+
+## Síndrome de Marfan
+### Características generales:
+1. Autosómica dominante
+2. Hay un trastorno del tejido conectivo caracterizado principalmente con anomalías que afectan el sistema musculoesquelético, el sistema cardiovascular y los ojos.
+3. Son desproporcionadamente altos con estructura esbelta.
+4. Brazos, piernas y dedos largos.
+5. Signos del pulgar y muñeca positivos.
+6. Suelen llevar gafas por miopía severa.
+7. Los problemas más graves son los que afectan al sistema cardiovascular (afectando en el 90% de los casos).
+8. Muchos pueden ser asintomáticos y desconocer la afectación por lo que es importante su diagnóstico antes del tratamiento **_profilaxis antibiótica_**.
+
+![[Pasted image 20231207135004.png]]
+
+### Características orofaciales:
+1. Patrón dolicofacial.
+2. Hipoplasia maxilar, con mordida cruzada posterior.
+3. Cara larga y estrecha con protuberancia frontal.
+4. Crestas supraorbitales prominentes.
+5. Retrognatismo maxilar y mandibular.
+6. Hipermovilidad de la articulación temporomandibular siendo frecuente la subluxación y desplazamiento anterior del disco articular.
+7. Apiñamiento dental.
+
+![[Pasted image 20231207135318.png]]
+
+### Consideraciones importantes:
+1. Realizar un tratamiento temprano con ortopedia
+2. Extremar las medidas de higiene
+3. **Profilaxis de endocarditis bacteriana**
+4. Diagnóstico diferencial con el síndrome de Loeys-Diets (úvula bífida).
+
+## Síndrome de Pierre Robin
+![[Pasted image 20231207135538.png]]
+
+### Tríada característica:
+1. Micrognatia
+2. Glosoptosis (desplazamiento posterior de la lengua, _se traga la lengua_).
+3. Fisura del paladar, presente en la mayoría de los casos, pero no siempre.
+
+De acuerdo con la literatura, hay controversia en la etiopatogenia.
+
+### Tratamiento:
+No existe consenso.
+
+Se han empleado varias técnicas:
+1. Tratamiento postural (_colocación del niño en posición prona_).
+2. La intubación nasofaríngea.
+3. La glosopexia
+4. La traqueotomía
+5. La distracción mandibular.
+
+Todos estos tratamientos tienen como objetivo principal de reducir la dificultad repiratoria y alimentaria. La prioridad en el tratamiento es el mantenimiento de la permeabilidad de las vías respiratorias.
+
+![[Pasted image 20231207150001.png]]
+
+## Síndrome de Treacher Collins o Disostosis mandíbulo-facial.
+![[Pasted image 20231207150058.png]]
+
+### Características Craneofaciales
+1. Hipoplasia cigomática
+2. En casos severos, los arcos cigomáticos pueden estar ausente.
+3. Micrognatismo mandibular.
+4. Alteraciones en el tamaño, forma y posición del oído externo asociado frecuentemente con atresia de los canales auditivos externos.
+5. Hendidura facial que se extiende desde el borde orbital hasta el cigoma.
+6. Inclinación antimongoloide de las fisuras palpebrales. Coloboma del párpado inferior y ausencia parcial de pestañas.
+
+### Manifestaciones Orales:
+1. Bóveda palatina alta.
+2. Hendidura del paladar
+3. Hipoplasia del esmalte.
+4. Hipoplasia esquelética del maxilar.
+5. Incompetencia labial.
+6. Maloclusión dental con malposición.
+7. Agenesias, principalmente premolares mandibulares.
+8. El crecimiento mandibular a menudo conduce a una mordida abierta anterior.
+9. Erupción ectópica de los primeros molares superiores.
+10. Apnea obstructiva del sueño.
+
+![[Pasted image 20231207150717.png]]
+
+![[Pasted image 20231207150759.png]]
+
+## Síndrome de Turner
+### Características generales:
+Al ser sometidos al cariotipo, los pacientes presentan 45 cromosomas en lugar de 46.
+
+- Pterygium colli (_cuello alado_)
+- La ptosis palpebral.
+- Cúbito valgo (_el desplazamiento del antebrazo hacia fuera más de 7º grados_)
+- Inmadurez sexual.
+- Baja estatura
+- Implantación baja del cabello
+- Mamilas hipoplásicas
+- Tórax ancho.
+- Ausencia de carcteres sexuales secundarios.
+- Amenorrea primaria.
+- Nevus pigmentarios.
+- 90% casos coeficiente intelectual normal.
+- Anomalías cardíacas que pueden necesitar Profilaxis Antibiótica.
+
+### Características Craneofaciales:
+1. Base del cráneo corta (Ba-Na)
+2. Relación entre la altura facial posterior y altura facial anterior está claramente disminuída, lo que condiciona la aparición de mordida abierta anterior.
+3. Maxilar es estrecho, profundo en forma de V y presenta rotación en sentido horario (_rotación posterior_) 🕝
+4. Mandíbula ancha y micrognática, que también presenta rotación posterior lo que condiciona una relación de [[Clase II]]
+5. Dientes más pequeños de lo normal (_esmalte hipoplásico_) por lo que no suele haber apiñamiento.
+
+### Ortodoncia, Cirugía ortognática y Prostodoncia:
+1. Disyunción maxilar
+2. Cirugía maxilar de avance con segmentación.
+3. Ortodoncia postquirúrgica.
+4. Rehabilitación funcional.
+![[Pasted image 20231207151745.png]]
+![[Pasted image 20231207151806.png]]
