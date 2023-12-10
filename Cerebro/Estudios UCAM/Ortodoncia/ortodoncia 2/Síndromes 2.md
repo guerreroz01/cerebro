@@ -1,6 +1,6 @@
 ---
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
-sticker: emoji//1f6a7
+sticker: lucide//check
 type: estudios
 tema: "11"
 tags:
@@ -568,4 +568,243 @@ El PSO y el NAM ayudan a aproximar los segmentos del maxilar hendido y reducen e
 - Cirugía ortognática adolescencia tardía.
 
 ### Ortopedia en dentición temporal:
+Después de la erupción de los dientes deciduos, el ortodoncista es capaz de influir en la forma del maxilar y lograr sobremordida anterior y posterior.
 
+Esto asegura la unidad funcional de maxilar y mandibular, que es la mejor "garantía" para un crecimiento armónico.
+
+Se deberá tratar en este periodo:
+#### Las mordidas cruzadas posteriores:
+1. Las laterodesviaciones funcionales, equilibrando la oclusión mediante el tallado de los dientes temporales.
+2. Cuando existe una insuficiencia mayor de los diámetros transversales, aparatos de expansión (Ej: quadelix con bandas en molares temporales.)
+
+#### Las mordidas cruzadas anteriores: 
+Tracción anterior con máscara facial.
+
+### Tratamiento ortopedia-ortodoncia en dentición mixta
+La intervención ortodóncica (_movimientos dentoalveolares_) no suele ser necesaria hasta que empieza la erupción de los incisivos permanentes, pero entonces acostumbra a ser imperativa. Los Incisivos superiores tienen una fuerte tendencia a erupcionar muy rotados y en mordida cruzada.
+
+Los objetivos prioritarios del tratamiento serán:
+1. Corregir la mordida cruzada posterior
+2. Corregir la mordida cruzada anterior
+3. Corregir la posición incorrecta de los incisivos maxilares
+4. Corrección de la mordida cruzada posterior con placas, quadhélix o disyuntores.
+
+Aparato de expansión quadhélix modificado: Es un aparato especialmente diseñado para fisurados, que lleva 4 bandas, dos hooks por mesial de caminos (_para combinar con la tracción anterior_), un resorte anterior y 4 hélix.
+![[Pasted image 20231210123822.png]]
+
+#### Estabilidad a largo plazo TRANSVERSAL
+La expansión transversal en estos pacientes es muy recidivante, independientemente de que se injerte o no hueso ilíaco después (Nicholson y Plint 1989). (_El injerto óseo no estabiliza la expansión conseguida Graber 2006_).
+
+Alguna forma de retención es más importante en el mantenimiento de la expansión que un injerto.
+
+#### Corrección de la mordida cruzada anterior
+Dos factores:
+1. Inclinación hacia palatino de los dientes superiores que puede corregirse con resortes añadidos a los aparatos de expansión .
+
+2. Déficit de crecimiento maxilar que nos obliga a incentivar el crecimiento residual del maxilar superior con máscara facial.
+
+3. La cantidad de protracción conseguida reportada varía de 0 a 3mm o 3º según los autores, usando fuerzas de 150 a 800 gr/lado (_pacientes con fisura palatina operados._)
+![[Pasted image 20231210124538.png]]
+
+Aunque los cambios esqueléticos son limitados, producen mejoras marcadas en el perfil blando.
+![[Pasted image 20231210124636.png]]
+
+#### Estabilidad a largo plazo ANTEROPOSTERIOR
+La cantidad de recidiva que sigue a la protracción activa puede relacionarse con:
+1. El tipo y severidad de los procedimiento quirúrgicos.
+2. La cicatriz resultante
+3. La duración de estabilización. Ha de mantenerse hasta que los dientes maxilares anteriores hayan erupcionado.
+
+- Corrección de la posición incorrecta de los incisivos superiores: Obtener una forma ideal de arcada como preparación para la colocación del injerto óseo a nivel alveolar.
+- La implantación de un INJERTO ÓSEO en la zona de la hendidura alveolar permite estabilizar la zona de la hendidura y crea un entorno adecuado para la erupción de dientes permanentes (IL y C).
+- Antes del injerto alveolar debe haberse completado el alineamiento de los incisivos.
+
+### Ortodoncia en dentición permanente
+En este momento el crecimiento del adolescente es espectacular y se producen los primeros cambios de la pubertad. La discrepancia esquelética se acentúa y normalmente el aspecto facial y las relaciones oclusales empeoran.
+
+Los principales problemas con los que se encuentra el ortodoncista son:
+1. Desarrollo de _mordida cruzada posterior y dientes mal alineados_ al erupcionar los caninos y los premolares.
+2. Frecuencia _agenesias y dientes conoides_
+3. Persistencia de la [[Clase III]] esquelética.
+4. Frecuentes recidivas.
+
+![[Pasted image 20231210125351.png]]
+
+Al erupcionar los caninos y premolares tienden a desarrollarse una _mordida cruzada posterior_, sobre todo en el lado de la hendidura en los casos unilaterales, y es probable que los dientes queden mal alineados.
+
+La frecuencia de **agenesias** y formas conoides, obligarán a decidir entre cerrar o abrir espacios.
+
+Si no es posible cerrar los espacios, es necesaria la movilización ortodóncica de los dientes para colocarlos como pilares para la prostodoncia fija posterior.
+
+El tratamiento ortodóncico suele terminarse a los 14 años, pero en muchos casos no se puede colocar un puente hasta los 17 o 18 años de edad.
+
+Como provisional: Un puente fijo semipermanente unido con resina es preferible al empleo prolongado de un retenedor removible con un diente protésico. 
+
+Los implantes dentales no son adecuados para zonas con hendiduras.
+
+Para la persistencia de la [[Clase III]] esquelética: decidir entre extracciones inferiores compensatorias y las diferentes opciones de la cirugía ortognática.
+
+Las frecuentes recidivas habrá que alargar los periodos de retención, a veces manteniendo las bandas y los arcos in situ durante varios meses una vez que se ha alcanzado una oclusión satisfactoria.
+
+### Retención
+Es especialmente importante el control transversal (_lo más importante_).
+
+La barra transpalatina [[2 Aparatología fija a dos bandas, aparatos auxiliares#Barra transpalatina de Goshgarian|BTP]] combinada con un alambre trenzado adherido por lingual.
+
+Los retenedores tipo [[7 Retención y Recidiva#Placa de Hawley|Hawley]] requieren colaboración.
+
+Se pueden usar como retención cuando hay que reponer un diente de resina provisionalmente, hasta que se realiza la solución protésica definitiva.
+
+Aun en este caso, es mejor usar retención fija, resolviendo provisionalmente la ausencia con algún sistema simple adherido.
+
+### Cirugía ortognática:
+#### Por deformidad facial:
+La mayoría de los pacientes con fisura labio palatina y deformidades lo suficientemente grandes como para considerar una osteotomía, es probable que tengan una retrusión de la parte media de la cara con pseudoprognatismo mandibular debido a sobreoclusión. Sin embargo, si el tipo dolicofacial, o si la actividad respiratoria orofacial resulta en el desarrollo de una mordida abierta, el exceso mandibular puede ser real, el resultado de posición alterada de la lengua y otros factores.
+
+#### Por recidiva:
+En algunos pacientes (_más en hombres_), el crecimiento continuado de la mandíbula y el menor crecimiento maxilar tras finalizar el tratamiento ortodóncico activo da lugar a recidiva de las mordidas cruzadas anterior y lateral.
+
+La cirugía ortognática puede ser necesaria para bajar y adelantar el maxilar y a veces retruir la mandíbula, hacia los 18 años.
+
+Posteriormente se puede proceder a la restauración definitiva para reponer los dientes que falten.
+
+#### Factores limitantes en la cirugía ortognática del paciente con fisura palatina:
+- Cicatrices residuales en labio y paladar que limitan la cantidad de avance.
+- La cirugías y la propia alteración anatómica también reducen la vascularización limitando la cirugía ortognática en cuanto a incisiones y segmentaciones.
+- Alto riesgo de recidiva ante grandes avances maxilares.
+- Pobre mecanismo compensatorio velofaríngeo en respuesta al avance. 
+- Mayor resistencia a la movilización del tercio medio.
+
+### Distracción  osteogénica:
+Permite la corrección de hipoplasias graves de los maxilares con la técnica que distrae tanto el hueso como el tejido cicatricial.
+
+Aplicaciones de la distracción osteogénica en pacientes con fisura palatina:
+1. Avance maxilar
+2. Expansión maxilar
+3. Transporte óseo para el cierre de la fisura alveolar
+
+Los pacientes con una hipoplasia maxilar severa de 6 mm o más y una cicatriz palatina excesiva se tratan mejor con distractor osteogénico.
+
+La fractura Le Fort I convencional se reserva para pacientes con hipoplasia maxilar menos severa (_de menos de 6mm_) y cicatriz palatina menos grave.
+
+#### Avance maxilar:
+Hacia los 12 años, nuevos protocolos basados en la osteogénesis por distracción pretenden prevenir la retrusión maxilar anteroposterior con técnicas precoces de corticotomía y dispositivos de distracción intraoral o extraoral.
+
+La cirugía en estas edades tiene por objeto evitar que al final del crecimiento el paciente presente una retrusión maxilar severa sobre la que es muy difícil actuar mediante técnicas ortognáticas convencionales, ya que las cicatrices palatinas impiden avances maxilares superiores a 4 o 5 mm (8 mm Varela).
+
+#### Expansión maxilar:
+Paciente de 20 años, palatoplastia a los 2 años, fistula oronasal en el lado de la fisura, perfil cóncavo, [[Clase III]] esquelética de causa mixta, mordida cruzada anterior y posterior
+![[Pasted image 20231210141210.png]]
+
+Se realizó osteotomía horizontal: 2 mm por encima del ápice radicular de canino a $1^{er}$ molar penetrando hasta la cortical palatina.
+
+Osteotomía vertical entre el incisivo lateral y canino y entre $1^{er}$ y $2^{do}$ molar
+![[Pasted image 20231210141424.png]]
+
+Después de una semana se instruye a dar 4 vueltas/día al aparato Hyrax durante 7 días (28 vueltas, 7 mm de expansión obtenidos)
+
+Periodo de estabilización de 3 semanas
+
+Aparatología fija con brackets superior.
+
+Esta técnica de expansión maxilar reduce las complicaciones de la expansión rápida maxilar (_recesiones gingivales, anquilosis, reabsorción radicular_)
+
+![[Pasted image 20231210141701.png]]
+
+Después de la expansión quirúrgica asistida y el alineamiento, hay un aumento del tamaño de la fisura.
+
+Los injertos óseos tienen menos éxito cuando hay amplias fisuras alveolares porque hay limitada disposición de encía adherida para la cobertura, es necesario reducir su tamaño antes del injerto.
+
+#### Cierre de la fisura alveolar:
+Se decide cerrarla haciendo un transporte óseo usando un segmento de los dientes 23 y 24. Se hace una incisión desde la parte media del hueso por encima del 23 hasta la parte distal del 24. Se implantó un tornillo para verificar el movimiento del segmento de hueso. El aparato distractor se colocó en 24 y 26.
+
+El segmento de hueso se movió hacia mesial y el tamaño de la fisura disminuyó. 
+
+Después de 2 semanas se movió el 26 hacia la zona de hueso regenerado.
+
+![[Pasted image 20231210143158.png]]
+
+![[Pasted image 20231210143218.png]]
+
+### Gingivoperiosteoplastia
+Es un procedimiento propuesto pos Skoog, y más tarde apoyado y difundido por Millard.
+
+Consiste en la sutura gingival, que resulta fácil una vez que los segmentos están correctamente alineados.
+
+A veces complementa con un injerto óseo primario.
+
+Consiste en el diseño y la movilización de colgajos gingivoperiósticos desde los márgenes laterales de la hendidura, cerrando la fisura a manera de túnel, restaurando la integridad del componente maxilar mediante neoformación ósea.
+
+Se hace entre los 3 y 4 meses de vida, junto con la corrección nasolabial, en el mismo acto quirúrgico.
+
+![[Pasted image 20231210143553.png]]
+
+### Injerto óseo alveolar
+Antes del injerto alveolar debe haberse completado:
+1. El alineamiento de los incisivos:
+	- Sin embargo, éste está limitado a la cantidad de hueso disponible en el cual pueden moverse estos dientes rotados o inclinados. En esta fase se debe evitar el movimiento distal de la raíz del incisivo hacia la zona de la fisura.
+2. La expansión de los segmentos posteriores:
+	- Mejorará la oclusión pero también puede aumentar la anchura de la fístula.
+	- Mejora el acceso para todo el proceso quirúrgico, la incisión, la elevación de los colgajos y la sutura sobre el injerto óseo esponjoso en la cresta alveolar.
+
+El momento ideal para realizar el injerto es entre los 9 y los 11 años de edad. 
+
+Sin embargo, dado que la edad dental y cronología pueden no coincidir, se puede utilizar como guía el desarrollo del canino superior. Cuando se ha desarrollado 1/3 de la raíz del canino, se puede realizar el injerto.
+
+En los casos en que exista incisivo lateral y su erupción peligre por falta de hueso alveolar, el injerto puede realizarse sobre los 7 años.
+
+#### Objetivos:
+1. Cerrar las fístulas oronasales persistentes:
+	- Beneficio para la higiene oral y nasal
+	- Prevención de infecciones ORL
+2. Aporta hueso para:
+	- Estabilizar los dientes adyacentes a la fisura impidiendo su pérdida prematura.
+	- Permitir la erupción de los que aún no han erupcionado.
+3. Estabilizar el segmento premaxilar en las fisuras bilaterales.
+4. Asegurar la continuidad del reborde alveolar
+5. Prestar soporte a la base alar y al contorno nasolabial.
+
+#### Injerto óseo primario:
+Los que se realizan precozmente, antes de los 2 años, durante la primera cirugía reparadora.
+
+Se hicieron muy populares en los años 50, pero al comprobarse que afectan el crecimiento maxilofacial se fueron abandonando.
+
+Prácticamente ya no se utilizan.
+
+#### Injerto óseo secundario:
+Se realizan al final del periodo de dentición mixta, entre los 6 años y la pubertad, antes de la erupción del Canino e incisivo lateral si está.
+
+Tiene como objetivo que los dientes erupcionados tengan buen soporte periodontal en su camino hacia la arcada y que los dientes situados en los márgenes de la fisura se vean protegidos
+
+Consiste en rellenar la fisura alveolar residual con hueso esponjoso autógeno (cresta ilíaca, sínfisis mandibular, costilla, bóveda craneal, región cordales).
+
+Se divide el tejido de la fisura para construir la base de la nariz y cerrar la zona nasal de la fístula oronasal. Los colgajos deben profundizarse hasta el plano subperióstico, dejando expuestos los márgenes de la fisura.
+
+Se empaqueta el hueso en el defecto hasta sobrepasar los márgenes del hueso y el injerto prende rápidamente por revascularización a través de microanastomosis y a las pocas semanas resulta indistinguible radiográficamente del tejido óseo circundante.
+
+Se usa un injerto de tejido blando para cubrirlo
+
+Los dientes supernumerarios o las inclusiones normalmente se extraen en la misma fase quirúrgica de colocación del injerto para crear una guía eruptiva a los caninos y que no tengan obstrucciones.
+
+Los incisivos y caninos deciduos retenidos en la zona de fisura deben extraerse antes de realizar el injerto.
+
+Los movimientos ortodóncicos pueden comenzarse a los 2 o 3 meses de colocado el injerto.
+
+El movimiento inicial de las raíces en la zona del injerto, clínicamente consolida el hueso alveolar y mejora la altura de la cresta ósea.
+
+Algunos centros aplican injertos sobre el alveolo hendido poco tiempo después del tratamiento ortopédico para estabilizar la posición de los segmentos.
+
+Existe el convencimiento casi unánime de que los injertos precoces del hueso alveolar están contraindicados, ya que tienden a interferir en el posterior crecimiento.
+
+Es mejor postergar los injertos óseos alveolares hasta que se alcance la dentición mixta precoz.
+
+### Injerto óseo terciario o tardío
+Se realizan en el periodo de dentición permanente, después de los 16 años y finalizado el tratamiento ortodóncico.
+
+#### Objetivo:
+- Facilitar la rehabilitación protésica y periodontal
+- Facilitar el cierre de las fístulas oronasales persistentes.
+
+No permiten reparar los defectos óseos que pueden presentar los dientes situados junto a la fisura e incluso pueden propiciar su reabsorción radicular al contactar con la superficie denudada de su raíz.
+
+![[Pasted image 20231210145923.png]]
