@@ -297,6 +297,15 @@ Puede provocar **mordida abierta anterior**; reversible si se elimina el hábito
 Labioversión de incisivos superiores, linguoversión de incisivos inferiores. bloqueo de la erupción de los incisivos, extrusión de molares por ausencia de contacto, protrusión de la premaxila, estimulación del crecimiento sutural del maxilar, elevación palatal con contracción maxilar tendencia a posterorrotación mandibular, mordida cruzada posterior, bilateral o unilateral con desviación funcional mandibular, relación molar de [[Clase II]] resalte, posición baja de la lengua, deglución atípica.
 
 ## Succión labial
+La interposición labial inferior es un hábito que muchas veces acompaña a los respiradores orales, porque el labio inferior queda interpuesto entre los incisivos.
+
+Se presenta en maloclusiones con gran resalte incisivo aunque puede aparecer como variante de la succión digital.
+
+Se introduce el labio inferior entre los incisivos, acompañado de una hipertonía de los músculos mentonianos.
+
+<span style="color: red;">Protrusión de incisivos superiores, lingualización y apiñamiento de incisivos inferiores, resalte y mordida abierta</span>
+
+## Protracción lingual
 
 
 

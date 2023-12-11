@@ -32,6 +32,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d9a21e8f01789372",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/11-12-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
