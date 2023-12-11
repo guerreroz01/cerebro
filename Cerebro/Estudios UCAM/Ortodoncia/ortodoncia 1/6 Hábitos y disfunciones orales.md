@@ -185,4 +185,118 @@ Adopta posición baja durante la respiración bucal para dejar vía libre a la e
 ![[Pasted image 20231210224709.png]]
 
 ### Maxilar superior:
+La posición normal de la lengua adosada a la bóveda palatina va a estimular un buen desarrollo transversal del paladar y por tanto del suelo  de las fosas nasales. La lengua se va a construir entonces en un factor importante en el crecimiento y desarrollo del maxilar superior. El resultado será un crecimiento armónico de los maxilares.
+
+En el caso de disfunción en la praxis lingual por respiración bucal, habrá un desarrollo dolicocefálico, que se caracteriza por un desarrollo vertical de los maxilares con una disminución del perímetro disponible para los dientes permanentes, por lo que tendremos apiñamiento dentario.
+
+### Alteraciones de la oclusión en pacientes respiradores bucales:
+1. Hipodesarrollo transversal y global del maxilar, asimetrías faciales y lateroposición funcional de la mandibular.
+
+![[Pasted image 20231211110810.png]]
+
+2. Mordida cruzada posterior con compresión del maxilar superior, posición baja de la lengua con interposición entre incisivos
+3. Mordida abierta anterior.
+4. Maloclusión de [[Clase II]] div 1 con sobremordida aumentada. El espacio libre que hay entre las arcadas permite la extrusión de la zona posterosuperior y rotación mandibular posterior, mientras que la presencia de la lengua en posición baja produce un bloqueo eruptivo de la zona posteroinferior, y se aumenta la curva de Spee y la sobremordida.
+
+![[Pasted image 20231211111150.png]]
+
+5. Maloclusiones de [[Clase III]] los pacientes con displasia ósea de [[Clase III]] heredan un patrón morfogenético con tendencia a la clase III y una disminución de la presión perioral.
+
+	Por cualquier causa (_como presencia crónica de amígdalas hipertróficas_) aparece una posición postural baja y adelantada de la lengua, lo cual puede producir una propulsión de la mandíbula por efecto mecánico y alivio de la zona de orofaringe por descompresión.
+
+	Esto desencadena un exceso de crecimiento mandibular, además de disminuir el estímulo para el normal crecimiento del maxilar superior.
+
+	La lengua ejerce una presión directa postero-anterior sobre la mandíbula. De esta forma actúa sobre el crecimiento mandibular, aumentando la actividad contráctil de los pterigoideos laterales, estimulando así el cartílago condilar.
+![[Pasted image 20231211111730.png]]
+
+## Maduración de la función de deglución y amamantamiento
+### Importancia de la lactancia materna:
+El poco desarrollo mandibular en el momento del nacimiento facilita el parto.
+
+Favorece el crecimiento y desarrollo del macizo máxilo-facial, desarrollo muscular y dentario. El amamantamiento condiciona el primer avance fisiológico de la oclusión y la ejercitación de los músculos masticadores y faciales.
+
+### Deglución infantil:
+Se divide en 3 fases:
+1. Bucal _voluntaria_
+2. Faríngea _refleja_
+3. Esofágica _autónoma_
+
+La fase oral de la deglución infantil, antes de la erupción dentaria consta de los siguientes pasos: separación de los maxilares interposición lingual entre los rodetes gingivales, y movimiento de deglución controlado por el contacto de la lengua y la musculatura perioral.
+
+### Maduración de la función de deglución:
+El fin del amamantamiento 4º - 6º mes. El paso a masticación de alimentos semisólidos debe ser gradual.
+
+Con la maduración del SNC, desaparecen algunos reflejos orales.
+
+La secuencia ya no será succión + deglución sino masticación + deglución
+
+### Inicio de la transición a deglución adulta:
+El cambio del patrón de la deglución se establece de manera gradual, y es debido a la maduración neuromuscular y al cambio de la alimentación.
+
+Cuando cesa la actividad de succión, se produce una transición gradual hacia la adquisición del patrón adulta.
+
+Cuando erupcionan los molares temporales (durante el 2º año) cesa la actividad de succión de biberón y pecho. Va cesando la actividad labial y se dirige hacia un patrón de deglución adulta
+
+Hacia los 8 años:
+1. 60% deglución adulta
+2. 40% deglución en transición
+
+Influye el tener mordida abierta o resalte anterior, demora más la transición, ya que el sellado anterior es necesario para mantener una presión negativa en el interior de la boca.
+
+
+## Deglución atípica
+Es la persistencia de la deglución infantil, cuyo mecanismo consiste en adelantar la lengua y producir su movimiento anteroposterior.
+
+### Factores etiológicos:
+1. Lactancia artificial
+2. Amígdalas hipertróficas
+3. Succión digital
+4. Respiración oral
+5. Resalte incisivo exagerado
+6. Mordida abierta anterior (_La ausencia de un buen sellado para conseguir la presión negativa obliga a interponer en la zona incisiva la lengua o el labio inferior_)
+7. Pérdida prematura de los incisivos temporales.
+### ¿Que puede provocar la deglución atípica?
+1. Mordida abierta anterior
+2. Resalte anterior aumentado
+3. Lengua baja por respiración oral
+
+### Deglución madura
+Se divide en cuatro fases:
+1. Alveolar anterior: dientes en contacto y sellado labial, después se elevan la lengua y el hioides, y al mismo tiempo empieza a actuar la lengua con movimientos de elevación y peristaltismo.
+2. Palatina: se eleva el velo del paladar, hace contacto con la pared posterior de la faringe y cierra así las VAS y a continuación la punta de la lengua asciende hasta la papila interincisiva y se produce el movimiento peristáltico.
+
+<span style="color: red;">Debe haber contracción de la musculatura elevadora de la mandíbula</span>
+![[Pasted image 20231211115343.png]]
+
+3. Faríngea: La glotis y la epiglotis cierran las VAL, de manera que el conducto digestivo queda aislado del conducto respiratorio
+4. Esofágica Ocurre el definitivo o traspaso del bolo alimenticio a través del esfínter esofágico superior.
+
+## Hábito de Biberón
+Durante el amamantamiento artificial, una gran cantidad de estímulos que actúan sobre la boca y las ATMs quedan anulados (el niño alimentado con biberón no tiene que ejercitar la mandíbula de forma tan enérgica para obtener un flujo rápido de leche) y, en consecuencia, no se producirán las respuestas necesarias para un correcto desarrollo, creando alteraciones dentoesqueléticas y musculares. Postura labial y lingual y mandibular menos protrusiva.
+
+También los músculos pterigoideos y los maseteros estarán menos ejercitados ya que sólo la depresión lingual puede ser suficiente para producir el flujo de leche de la tetina.
+
+## Hábito de chupete:
+En la mayoría de los niños el uso del chupete es frecuente antes de los dos años de edad. Si la forma del chupete no es anatómica, la lengua se mantiene en posición baja. Cuanto mayor sea el tamaño del chupete, más baja será la posición lingual.
+
+El uso continuado del chupete durante la dentición temporal está casi siempre asociado a la presencia de mordida abierta anterior y mordida cruzada posterior.
+
+La mordida abierta anterior es consecuencia de una inhibición del crecimiento vertical de la porción anterior de las apófisis alveolares.
+
+La mordida cruzada posterior se debe al incremento de la actividad muscular de las mejillas combinada con la falta de presión lingual, debido a que la lengua se desplaza hacia atrás y hacia abajo por la presencia del chupete en la cavidad oral.
+
+El efecto suele ser transitorio si el chupete se lleva hasta la erupción de los incisivos temporales. Si no, se produce la mordida abierta anterior persistente y ello favorece la aparición de un **Hábito de interposición lingual.** 
+
+## Succión digital:
+Cuando deja de utilizarse el chupete puede aparecer la succión del dedo. Llega a considerarse normal en el primer año de vida y su prevalencia en el periodo de dentición temporal es relativamente baja.
+
+Puede ser un signo de ansiedad, podría deberse a la supresión brusca del chupete, o persistir hasta la época de recambio dentario porque la presión que ejerce el dedo produce un alivio del dolor de la erupción.
+
+Puede provocar **mordida abierta anterior**; reversible si se elimina el hábito de forma precoz.
+
+Labioversión de incisivos superiores, linguoversión de incisivos inferiores. bloqueo de la erupción de los incisivos, extrusión de molares por ausencia de contacto, protrusión de la premaxila, estimulación del crecimiento sutural del maxilar, elevación palatal con contracción maxilar tendencia a posterorrotación mandibular, mordida cruzada posterior, bilateral o unilateral con desviación funcional mandibular, relación molar de [[Clase II]] resalte, posición baja de la lengua, deglución atípica.
+
+## Succión labial
+
+
 

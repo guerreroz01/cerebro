@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "c08fbadd442c692c",
+        "id": "2cf2672934793149",
         "type": "tabs",
         "children": [
           {
-            "id": "dde567c15d6b3281",
+            "id": "aea4b4a239f4e887",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d2846d764a4fb9fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -74,8 +88,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "b12e678cc60bc812",
@@ -122,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/11-12-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/11-12-2023.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/11-12-2023.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md"
               }
             }
           },
@@ -194,28 +207,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "dde567c15d6b3281",
+  "active": "aea4b4a239f4e887",
   "lastOpenFiles": [
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
     "daily/11-12-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231211115343.png",
+    "Sin título.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231211111730.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231211111150.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231211110810.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210224709.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210223149.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210221203.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210220937.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210220822.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210220351.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210220201.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210215707.png",
     "daily/10-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231210145923.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Pasted image 20231210143553.png",
     "daily/09-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
-    "cicatriz de Keith.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/cicatriz de Keith.md",
     "Excalidraw/Drawing 2023-12-08 18.02.02.excalidraw.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "daily/08-12-2023.md",
@@ -229,9 +244,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
     "daily/06-11-2023.md",
     "daily/30-10-2023.md",
-    "daily/27-10-2023.md",
-    "daily/20-10-2023.md",
-    "daily/23-10-2023.md",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
     "general knowledge/trading",
