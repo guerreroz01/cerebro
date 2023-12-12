@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "02155d2e35397653",
+            "id": "d97e14eb4ba44a26",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Softmax.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -89,7 +91,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b12e678cc60bc812",
@@ -108,7 +111,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -135,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Softmax.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Softmax.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Softmax.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md"
               }
             }
           },
@@ -207,43 +211,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02155d2e35397653",
+  "active": "d97e14eb4ba44a26",
   "lastOpenFiles": [
-    "Softmax.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212171111.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212170935.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212165625.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212165344.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212164537.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212164254.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212164141.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212163934.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212163656.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212163000.png",
+    "Spaces/Home/Examen de ortodoncia I y II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
+    "daily/12-12-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212160336.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+    "general knowledge/AI/Softmax.md",
     "daily/11-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231211115343.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231211111730.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231211111150.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231211110810.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210224709.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210223149.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210221203.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210220937.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210220822.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231210220351.png",
     "daily/10-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
     "daily/09-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/cicatriz de Keith.md",
     "Excalidraw/Drawing 2023-12-08 18.02.02.excalidraw.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
-    "daily/08-12-2023.md",
-    "daily/07-12-2023.md",
-    "general knowledge/Megalocefalia.md",
-    "general knowledge/condrocitos.md",
-    "daily/05-12-2023.md",
-    "daily/04-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
-    "daily/06-11-2023.md",
-    "daily/30-10-2023.md",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
     "general knowledge/trading",

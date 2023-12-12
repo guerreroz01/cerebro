@@ -1,8 +1,8 @@
 {
   "pomo": 25,
-  "shortBreak": 10,
+  "shortBreak": 5,
   "longBreak": 20,
-  "longBreakInterval": 4,
+  "longBreakInterval": 3,
   "autostartTimer": true,
   "numAutoCycles": 0,
   "ribbonIcon": true,

@@ -5,7 +5,7 @@ tags:
 tema: "6"
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 banner_y: 0.82
-sticker: emoji//1f6a7
+sticker: lucide//check
 ---
 
 
@@ -299,6 +299,8 @@ Labioversión de incisivos superiores, linguoversión de incisivos inferiores. b
 ## Succión labial
 La interposición labial inferior es un hábito que muchas veces acompaña a los respiradores orales, porque el labio inferior queda interpuesto entre los incisivos.
 
+![[Pasted image 20231212131838.png]]
+
 Se presenta en maloclusiones con gran resalte incisivo aunque puede aparecer como variante de la succión digital.
 
 Se introduce el labio inferior entre los incisivos, acompañado de una hipertonía de los músculos mentonianos.
@@ -306,6 +308,17 @@ Se introduce el labio inferior entre los incisivos, acompañado de una hiperton�
 <span style="color: red;">Protrusión de incisivos superiores, lingualización y apiñamiento de incisivos inferiores, resalte y mordida abierta</span>
 
 ## Protracción lingual
+Es la interposición de la lengua entre las arcadas dentarias, ejerciendo presión lateral o hacia delante en el acto de deglutir.
 
+Produce: <span style="color:red;">Protrusión de ambos grupos incisivos y mordida abierta lateral o anterior</span>
 
+Suele ser un postura adaptativa para lograr el correcto sellado oral en los casos en que falta el contacto dentario.
+![[Pasted image 20231212131743.png]]
+
+### Propulsión mandibular:
+El movimiento de avance mandibular lo realiza el niño para descomprimir y producirá un estímulo de crecimiento mandibular con tendencia a la [[Clase III]] y abrasión especialmente en el sector anterior.
+
+Los factores etiológicos:
+1. Molestia que producen las amígdalas linguales hipertróficas y sensibles.
+![[Pasted image 20231212132102.png]]
 
