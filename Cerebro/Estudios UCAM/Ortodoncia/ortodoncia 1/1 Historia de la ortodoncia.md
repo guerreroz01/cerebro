@@ -1,6 +1,6 @@
 ---
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
-sticker: emoji//1f6a7
+sticker: lucide//check
 type: estudios
 tema: "1"
 tags:
@@ -250,4 +250,114 @@ Propuso un enfoque nuevo, que buscara prioridades y seleccionara jerarquías de 
 
 ![[Pasted image 20231212171111.png]]
 
-Esta época se caracteriza por la expansión en todos los campos, tanto científicos como mecánicos. La aparatología logra perfeccionamientos que facilitan los movimientos dentarios. Los aparatos removibles de acción directa (activador, modelador de Bimler, etc.) se extienden, sobre t
+Esta época se caracteriza por la expansión en todos los campos, tanto científicos como mecánicos. La aparatología logra perfeccionamientos que facilitan los movimientos dentarios. Los aparatos removibles de acción directa (activador, modelador de Bimler, etc.) se extienden, sobre todo en Europa, después de la segunda guerra mundial.
+
+La atención se centra en mejorar el bracket de Angle.
+
+Para conseguir una ortodoncia más efectiva y simplificada.
+
+Progresivamente aparecen brackets de diversos tamaños.
+
+Brackets gemelos (mayor área de contacto de los arcos y facilitan los movimientos de rotación), brackets de diseño específico para cada grupo de dientes, brackets para la técnica lingual, y un largo etcétera de auxiliares complementarios.
+![[Pasted image 20231212171548.png]]
+
+#### Andrews:
+En los años 60 Andrews desarrolla el aparato de arco recto basado en sus 6 llaves de la oclusión.
+![[Pasted image 20231212171755.png]]
+
+1. Relación Molar:
+La cúspide mesiovestibular del primer molar superior ocluye en el surco entre las cúspides vestibulares mesial y media del primer molar inferior.
+
+La cúspide mesiopalatina del primer molar superior asienta en la fosa central del primer molar inferior.  La corona del prime molar superior debe tener una inclinación de manera que la vertiente distal del reborde marginal distal ocluya sobre la vertiente mesial del reborde marginal mesial del segundo molar inferior.
+
+![[Pasted image 20231212172056.png]]
+
+2. Angulación mesiodistal de las coronas (tip):
+La porción gingival del eje mayor de la corona clínica debe estar ubicada en una posición más distal que la porción oclusal.
+
+La inclinación coronaria se mide entre el eje mayor de la corona clínica (EMCC) y una perpendicular al plano de Andrews que pasa por el punto EM (punto del eje mayor de la corona clínica).
+![[Pasted image 20231212172322.png]]
+
+3. Inclinación labiolingual de las coronas (torque):
+La tangente que pasa por el centro del eje mayor de las coronas clínicas de los incisivos centrales y laterales superiores tiene una inclinación desde gingival y palatino hacia incisal y vestibular (torque positivo).
+
+En los restantes dientes del maxilar superior y en todos los del maxilar inferior, la dirección de esta tangente es desde vestibular y gingival hacia incisal (u oclusal) y lingual. Esto es denominado torque negativo.
+![[Pasted image 20231212172628.png]]
+
+4. Rotaciones:
+En una oclusión normal no deben existir rotaciones dentarias. Los molares y premolares rotados ocupan más espacio del normal en la arcada. Los incisivos rotados necesitan menos espacio que los correctamente alineados. Los caninos rotados generan problemas estéticos y funcionales.
+![[Pasted image 20231212172820.png]]
+
+5. Espacios o diastemas
+Los dientes están ubicados con sus puntos de contacto perfectamente relacionados, sin espacios entre sí. 
+
+Esto requiere que no existan malformaciones dentarias ni discrepancias en el ancho mesiodistal de los dientes de ambos maxilares ([[8 Análisis de modelos#Índice de Bolton|índice de Bolton]]).
+![[Pasted image 20231212173036.png]]
+
+6. Curva de Spee:
+La curva de Spee en la oclusión normal debe ser prácticamente plana. En la mandíbula no debe tener un profundidad mayor a 1.5 mm.
+![[Pasted image 20231212173149.png]]
+
+
+Se evidencia la necesidad de un mayor y mejor entrenamiento de los profesionales dedicados a esta especialidad y crecen los cursos de postgrado universitarios, sobre todo en los Estados Unidos.
+
+## Evolución de la ortodoncia en Europa y USA.
+La especialidad se desarrolló de manera diferente en Europa.
+
+En USA se siguió la escuela de Angle. Creó la especialidad de Ortodoncia que fue la segunda de las ciencias de la salud después de oftalmología. Provenía del campo de la prótesis dental y le debemos el concepto de oclusión normal en dentición natural. El interés era predominantemente OCLUSAL.
+
+En Europa, los pioneros se interesaron más por el desarrollo craneofacial y su papel en las anomalías dentofaciales. El interés era pues, el ESQUELETO CRANEOFACIAL.
+
+Debido a esta diferencia evolutiva, en USA la especialidad se llamaba ORTODONCIA mientras que en Europa se llamaba ORTOPEDIA DENTOFACIAL.
+
+## Diferentes técnicas ortodóncicas en la actualidad:
+### Roth:
+Es la prescripción más extendida. Tiene su origen en la gnatología.
+
+Sus objetivos de tratamiento son:
+1. Estética facial.
+2. Estética dental.
+3. Oclusión funcional.
+4. Salud periodontal.
+5. Salud articular.
+6. Estabilidad en el tiempo.
+
+Se utilizan articuladores de forma rutinaria. 
+<span style="color:red;">El cierre de espacios se hace por desplazamiento con arcos de doble llave DKL.</span>
+![[Pasted image 20231212175152.png]]
+
+### MBT:
+Cambian algunos valores de tip y torque con respecto a la prescripción de Roth. Utilizan retroligaduras de canino a molar para retraer los caninos.
+
+<span style="color:red;">Cierran los espacios por deslizamiento</span>
+![[Pasted image 20231212175447.png]]
+
+### Tip-Edge
+![[Pasted image 20231212175513.png]]
+
+Permite la inclinación controlada de las coronas en etapas iniciales para luego generar enderezamiento y torque radicular.
+
+Se utilizan elásticos durante todo el tratamiento. Tiene menos requerimientos de anclaje que las técnicas convencionales. 
+
+Es muy versátil en el control vertical. Requiere conocimientos biomecánicos específicos.
+
+### DAMON
+Propugna que las fuerzas ligeras ejercidas por alambres elásticos en tubos pasivos, son capaces de desplazar diente y alveolo en los tres planos del espacio.
+
+Teóricamente reduce la necesidad de extracciones (_es una controversia actual_).
+
+### Ortodoncia lingual:
+![[Pasted image 20231212175916.png]]
+Es una técnica que requiere un entrenamiento especial por la dificultad que acarrea. El cementado de los brackets es indirecto. Los casos de sobremordida profunda son los más idóneos.
+
+Aunque con los microimplantes se ha ampliado su abanico terapéutico. Reduce la incidencia de descalcificaciones vestibulares.
+
+### Sistemas fijos individualizados:
+Se mejoran la exactitud de los resultados debido a que tanto los brackets como los arcos son preajustados e individualizados. 
+
+Todavía no somos capaces de ver qué pasa en las raíces cuando movemos las coronas de los dientes al objetivo de tratamiento, pero ya existen avances en este campo. Los tratamientos se encarecen.
+![[Pasted image 20231212180327.png]]
+
+### Alineadores elásticos:
+Es una técnica individualizada, se trabaja mediante software. Requiere conocimientos específicos a la hora de diseñar el tratamiento. Los alineadores se deben llevar 22 horas al día y los pacientes deben llevar elementos adheridos como ataches, botones y topes oclusales.
+![[Pasted image 20231212180539.png]]
