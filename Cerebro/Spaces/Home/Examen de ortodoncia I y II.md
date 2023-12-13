@@ -1,48 +1,73 @@
+---
+sticker: emoji//1f949
+---
 # Temario Orto-I
 1. [[1 Historia de la ortodoncia]]
+	- [x] Lectura 1 ✅ 2023-12-13
+	- [ ] Lectura 2
+1. [[2 Crecimiento y Desarrollo]]
+	- [/] Lectura 1
+	- [ ] Lectura 2
+2. [[3 Oclusión normal y maloclusión]]
 	- [ ] Lectura 1
-2. [[2 Crecimiento y Desarrollo]]
+	- [ ] Lectura 2
+3. [[4 Desarrollo de la oclusión]]
 	- [ ] Lectura 1
-3. [[3 Oclusión normal y maloclusión]]
+	- [ ] Lectura 2
+4. [[5 Análisis facial]]
 	- [ ] Lectura 1
-4. [[4 Desarrollo de la oclusión]]
+	- [ ] Lectura 2
+5. [[6 Hábitos y disfunciones orales]]
 	- [ ] Lectura 1
-5. [[5 Análisis facial]]
+	- [ ] Lectura 2
+6. [[7 Toma de registros]]
 	- [ ] Lectura 1
-6. [[6 Hábitos y disfunciones orales]]
+	- [ ] Lectura 2
+7. [[8 Análisis de modelos]]
 	- [ ] Lectura 1
-7. [[7 Toma de registros]]
+	- [ ] Lectura 2
+8. [[estructuras y puntos cefalométricos]]
 	- [ ] Lectura 1
-8. [[8 Análisis de modelos]]
+	- [ ] Lectura 2
+9. [[10 Análisis de Steiner]]
 	- [ ] Lectura 1
-9. [[estructuras y puntos cefalométricos]]
+	- [ ] Lectura 2
+10. [[11 Análisis de Ricketts]]
 	- [ ] Lectura 1
-10. [[10 Análisis de Steiner]]
+	- [ ] Lectura 2
+11. [[13 Cefalometría frontal de Ricketts y cbct]]
 	- [ ] Lectura 1
-11. [[11 Análisis de Ricketts]]
+	- [ ] Lectura 2
+12. [[Análisis de Arnett]]
 	- [ ] Lectura 1
-12. [[13 Cefalometría frontal de Ricketts y cbct]]
+	- [ ] Lectura 2
+13. [[Biologia del movimiento dental]]
 	- [ ] Lectura 1
-13. [[Análisis de Arnett]]
+	- [ ] Lectura 2
+14. [[Cajetín de Steiner]]
 	- [ ] Lectura 1
-14. [[Biologia del movimiento dental]]
-	- [ ] Lectura 1
-15. [[Cajetín de Steiner]]
-	- [ ] Lectura 1
+	- [ ] Lectura 2
 
 # Temario Orto-II
 1. [[cirugía ortognática]]
 	- [ ] Lectura 1
+	- [ ] Lectura 2
  2. [[8-1 Ortodoncia Interdisciplinar I]]
 	- [ ] Lectura 1
+	- [ ] Lectura 2
  3. [[8-2 Ortodoncia interdisciplinar II]]
 	- [ ] Lectura 1
+	- [ ] Lectura 2
  4. Artículo científico
 	- [ ] Lectura 1
+	- [ ] Lectura 2
  5. [[9 Síndromes]]
 	- [ ] Lectura 1
+	- [ ] Lectura 2
  6. [[Síndromes 2]]
 	- [ ] Lectura 1
+	- [ ] Lectura 2
  7. [[Iatrogenia y ética]]
 	- [ ] Lectura 1
+	- [ ] Lectura 2
 

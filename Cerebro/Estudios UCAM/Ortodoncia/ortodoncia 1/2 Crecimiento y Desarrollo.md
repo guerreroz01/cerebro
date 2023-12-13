@@ -31,19 +31,23 @@ Un patrón refleja una proporcionalidad, un conjunto de relaciones proporcionale
 
 👓 No todos los órganos y tejidos del cuerpo crecen al mismo ritmo. Los elementos musculares y óseos crecen más rápido que el cerebro y el sistema nervioso. Por tanto el patrón general de crecimiento no es más que un reflejo del crecimiento de los diferentes tejidos que forman el organismo.
 
+<span style="color: #FFFA01;">Los músculos y los huesos crecen más rápido que el cerebro y el sistema nervioso.</span>
+
 ![[Pasted image 20231108145519.png]]
 
 ### Patrón de crecimiento neural:
-Viene determinado por el crecimiento del cerebro junto con las órbitas oculares provocando el crecimiento de la bóveda craneal, el cual sigue este patrón. Crece muy rápido hasta los 8 años de edad donde queda casi completado para luego enlentecer.
+Viene determinado por el crecimiento del cerebro junto con las órbitas oculares provocando el crecimiento de la bóveda craneal 🧠, el cual sigue este patrón. Crece muy rápido hasta los 8 años de edad donde queda casi completado para luego enlentecer.
+
+<span style="color: #FFAF82">El tamaño de las 🧢 se define a los 8 años</span>
 
 ### Patrón de crecimiento general o somático:
-Es el que sigue la mayor parte de la estructuras corporales, por ejemplo, en los huesos largos y supone el aumento de peso corporal. Este patrón parece estar bajo un control intrínseco genético más acusado.
+Es el que sigue la mayor parte de la estructuras corporales, por ejemplo, en los huesos largos 🦴 y supone el aumento de peso corporal. Este patrón parece estar bajo un control intrínseco genético 🧬 más acusado.
 
 ### Pico de crecimiento puberal:
-Es un tiempo limitado de crecimiento muy rápido, el cual es seguido por un enlentecimiento posterior. ==Niñas 12 años, Niños 14 años==.
+Es un tiempo limitado de crecimiento muy rápido, el cual es seguido por un enlentecimiento posterior. <span style="color: red;">Niñas 12 años</span>, <span style="color: green;">Niños 14 años</span>.
 
 ### Patrón de crecimiento facial: 
-Sigue el patrón de crecimiento general o somático y siguiendo el gradiente cefalocaudal el maxilar crece antes que la mandíbula, teniendo esta un crecimiento más tardío.
+Sigue el patrón de crecimiento general o somático y siguiendo el gradiente cefalocaudal el maxilar crece antes que la mandíbula, teniendo esta un crecimiento más tardío. ^1804b8
 
 👀 <span style="color: aqua;">El patrón se repite por lo que se puede predecir</span>
 
@@ -67,13 +71,13 @@ La variabilidad en el crecimiento puede surgir por:
 
 El estirón o pico de crecimiento se producirá de forma diferente en los distintos individuos, apreciándose más en las niñas. 
 
-En las niñas la primera menstruación o menarquía indica el comienzo de la maduración sexual. Esta maduración sexual se acompaña de un pico de crecimiento. 
+> En las niñas la primera menstruación o menarquía indica el comienzo de la maduración sexual. Esta maduración sexual se acompaña de un pico de crecimiento. 
 
 👉La aparición de la menarquía se produce después del pico de velocidad máxima de crecimiento👈
 
 ![[Pasted image 20231108153208.png]]
 
-Esto indica que la edad cronológica no es un buen indicador de crecimiento.
+Esto indica que <span style="color:red"> la edad cronológica no es un buen indicador de crecimiento.</span>
 Por ejemplo, una niña con 11 años con maduración precoz ha pasado ya el pico de crecimiento mientras que otra niña con 12 años y maduración tardía apenas lo ha comenzado.
 
 ![[Pasted image 20231108153510.png]]
@@ -93,13 +97,13 @@ El sexo también es fuente de variabilidad. Las niñas experimentan el pico de c
 - Métodos experimentales
 	1. [[#Tinción vital]] 
 	2. [[#Trazadores radioactivos]]
-	3. Radiografía de implantes (es la forma más exacta).
+	3. [[#Radiografía con implantes]] (es la forma más exacta).
 
 ### Métodos de medición
 #### Craneometría
 - Se miden los cráneos procedentes de restos esqueléticos humanos
 - Ventaja: las mediciones son exactas ya que son hechas sobre cráneos disecados.
-- Inconvenientes: es un análisis transversal, imposibilidad de hacer seguimiento de un mismo paciente.
+- Inconvenientes: es un análisis transversal, imposibilidad de hacer seguimiento de un mismo paciente. Is dead ☠️
 
 #### Antropometría:
 - Consiste en medir las dimensiones esqueléticas en los individuos vivos.
@@ -218,7 +222,7 @@ Conformada por el hueso frontal, parietales, porción escamosa de los huesos tem
 > [!tip] Formación
 > La bóveda craneal la forman los huesos planos que se forman directamente de hueso intramembranoso, sin precursor cartílaginoso.
 
-👀 Sigue el patrón neural, siendo desplazados por el crecimiento del cerebro.
+👀 Sigue el patrón neural, siendo desplazados por el crecimiento del cerebro 🧠.
 
 En el momento del nacimiento, estos huesos están desplazados mediante un tejido conectivo laxo (_fontanelas_), las cuales permiten la deformación del cráneo durante el parto.
 
@@ -236,7 +240,7 @@ Tras el nacimiento, la aposición de nuevo hueso en los bordes de las fontanelas
 En torno a los 6 años de vida, en la bóveda craneal se ha desarrollado claramente las corticales externa-interna que delimitan la esponjosa [[diploe]][^1].
 
 ### Base craneal
-Se produce una en ella osificación endocondral, existe un cartílago inicial que se transforma en hueso.
+Se produce en ella una osificación endocondral, existe un cartílago inicial que se transforma en hueso.
 
 - Los centros de osificación durante la vida embrionaria marcan la ubicación definitiva del [[etmoides]], cuerpo del [[esfenoides]] y porción basilar [[occipital]].
 
@@ -814,7 +818,45 @@ Las concavidades en bordes inferiores de C2, C3 y C4 siguen estando presentes. A
 
 
 
-
+## A destacar:
+- [[#^1804b8| Gradiente cefalocaudal]] La cabeza crece antes que las extremidades.
+- Los músculos y los huesos crecen más rápido que el cerebro y el sistema nervioso.
+- Patrón de crecimiento neural 🧠 👀 crecimiento de la bóveda craneal, se da hasta los 8 años
+- Patrón de crecimiento general o somático 🦴 control genético 🧬
+- Pico de crecimiento:
+	- Niñas 12 años
+	- Niños 14 años
+- La aparición de la menarquía se produce después del pico de velocidad máxima de crecimiento.
+- La edad cronológica no es un buen indicador de crecimiento
+- Las niñas tienen el pico de crecimiento antes y con menor intensidad
+- Dentro de los tejidos duros es imposible el crecimiento intersticial ❗ 🚫.
+- Osificación endocondral a partir de cartílago Base del cráneo 💀 no la bóveda 🧠
+	- Tres sincondrosis:
+		- Esfeno etmoidea 🔐 6-7 años
+		- Interesfenoides o interesfenoidea 🔐 6-7 años 
+		- Esfeno-occipital -> la más importante porque es la que cierra de último. 🔓 15 y fusiona a los 20 años
+- Osificación intramembranosa:
+	- 🧠 Bóveda craneal
+	- Huesos de la cara maxilar y mandíbula
+	- Crecimiento a nivel de las suturas.
+- La base craneal está influenciada por el patrón de crecimiento tanto neural como somático.
+- La sincondrosis esfeno-occipital se encuentra por delante del CTM y por detrás de la fosa craneal anterior.
+- El desplazamiento pasivo del maxilar se da principalmente antes de los 7 años 🧠
+- El crecimiento del maxilar es enteramente osificación intramembranosa
+- La osificación de la mandíbula es mixta tanto membranosa como endocondral.
+- El cóndilo es un CARTÍLAGO SECUNDARIO, NO ES UN CENTRO PRIMARIO.
+- La mandíbula se desplaza hacia abajo y adelante, crece hacia atrás y arriba.
+- El crecimiento mandibular cesa más tarde que el maxilar:
+	- 17 años Niñas
+	- 19 años en Niños
+- Rotación mandibular verdadera, rotación total, rotación interna:
+	- Base del cráneo contra implantes -> antero rotación -15º
+- Remodelado angular, rotación intramatricial, rotación externa
+	- Se superponen implantes y se evalúa el borde inferior de la mandíbula. -> +11º, +12º
+- Rotación mandibular aparente, rotación matricial
+	- Base del cráneo anterior contra el borde inferior de la mandíbula. -> -3 a +4º
+- En el maxilar superior la dirección de erupción es hacia oclusal y ligeramente mesial, los molares inferiores también erupcionan hacia oclusal y ligeramente a mesial lo cual disminuye la longitud de arcada. <span style="color: red;">la disminución de la dimensión de arcada es mayor en la mandíbula</span>
+- Cuando hay rotación anterior hay migración mesial.
 
 
 # Referencias
