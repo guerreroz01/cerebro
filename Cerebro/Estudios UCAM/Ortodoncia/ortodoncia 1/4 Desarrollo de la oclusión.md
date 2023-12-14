@@ -8,7 +8,7 @@ tags:
 ---
 # Desarrollo de la oclusión
 ___
-El ser humano dispondrá a lo largo de su vida de dos denticiones: la temporal, decidua, de leche o primaria y la permanente on secundaria.
+El ser humano dispondrá a lo largo de su vida de dos denticiones: la temporal, decidua, de leche o primaria y la permanente o secundaria.
 
 Los premolares, caninos e incisivos permanentes sustituirán a los molares, caninos e incisivos temporales; mientra los molares permanentes harán erupción por distal de los molares temporales. 
 
@@ -241,7 +241,7 @@ Cuando un escalón distal provocó que la relación inicial de los primeros mola
 ## Dentición permanente: dentición permanente juvenil y adulta:
 Hablamos de dentición permanente juvenil cuando se ha completado el recambio de todos los dientes temporales y han hecho emergencia los segundos molares permanentes. Cuando la erupción de estos segundos molares establece el contacto entre ellos y se produce el ajuste oclusal a nivel posterior, pasaríamos a la dentición permanente adulta.
 
-No tendremos en cuenta los terceros molares para la elevada frecuencia de agenesia e impactación que se producen en estos dientes.
+No tendremos en cuenta los terceros molares por la elevada frecuencia de agenesia e impactación que se producen en estos dientes.
 
 - Durante el periodo de transición de dentición permanente juvenil a dentición permanente adulta las raíces de los dientes van acomodando su posición. 
 
@@ -304,4 +304,75 @@ En la dimensión vertical existirán importantes diferencias individuales depend
 ![[Pasted image 20231124212414.png]]
 
 ## Aspectos importantes:
-- 
+- Dentición temporal:
+
+|Dentición temporal| Semana |
+|-----------|---------|
+|Comienzo	| 6$^{ta}$ 7$^{ma}$|
+
+| Calcificación| Semana|
+|--------------|---------|
+|Incisivos | 14 |
+|Primeros molares | 15.5 |
+|Incisivos laterales | 16 |
+|Caninos | 17 |
+|Segundos molares | 18 |
+
+- Dentición permanente
+
+| Calcificación | Meses|
+|-------------|----------|
+| Primer molar | nacimiento |
+|Incisivos centrales | 3-4 |
+|Laterales inferiores | poco después de los anteriores |
+|Caninos | 5 |
+| Incisivos laterales sup| 12 |
+|1$^{er}$ premolar, 2$^{do}$ premolar, 2$^{do}$ molar| 24 a 36 |
+
+- La erupción dental comienza cuando la raíz tiene entre 1/4 y 1/3 formada.
+- Fase <span style="color: red;">activa prefuncional</span> desde que el 🦷 emerge hasta el contacto con el antagonista.
+- Fase <span style="color: red;"> activa funcional</span> lo que pasa después del contacto oclusal.
+	- Fase equilibrio oclusal juvenil compensa el crecimiento vertical mandibular durante la etapa puberal
+	- Fase equilibrio oclusal adulto compensa la atrición o desgaste de los dientes.
+- <span style="color: yellow;">Acelerón postemergente</span> es cuando el 🦷 emerge en la fase activa prefuncional.
+- <span style="color: #FF55AA;">Erupción pasiva</span> migración de la encía a apical.
+- En la fase de rodetes hay contacto posterior, en anterior no hay contacto y el superior solapa al inferior.
+- Erupción de los dientes temporales
+
+| Diente | Mes |
+|--------|------|
+|ICI | 6 |
+|ICS | 7 |
+|ILS | 8 |
+|ILI | 9 |
+| 1MS | 16 |
+| 1MI | 16 |
+|CS | 20 |
+|CI | 20 |
+| 2MI | 26-30|
+|2MS | 26-30|
+![[erupcion_temporal.excalidraw]]
+- El ángulo interincisivo en dientes temporales es más abierto
+- El <span style="color:#ccb100">plano terminal recto </span>es el más frecuente <span style="color:#ccb100">50%</span> de los casos
+
+|Sonidos|Posición de la lengua|
+|---------|------------------|
+|1. "m", "p", "b"|neutra, usan los labios (_bilabiales_)|
+|2. "t", "d"|punta de la lengua|
+|3. "s", "z"|la lengua se coloca cerca del paladar|
+|4. "r"|parte posterior de la lengua|
+
+- Primer periodo de transición 
+	- ![[Pasted image 20231122153657.png]]
+- Periodo intertransicional
+	- En niñas es 1 año y 1/2
+	- En niños 2 años 1/2
+- Segundo periodo de transición
+	- ![[Pasted image 20231122163321.png]]
+	- En esta secuencia los rojos nunca deben salir primero que los verdes
+	- ![[Pasted image 20231122163546.png]]
+- Espacio de deriva 
+	- 0.9 superior por cuadrante
+	- 1.7 inferior por cuadrante
+- La mejor secuencia de erupción en inferior es <span style="color:#00b050">C -> 1PM -> 2PM -> 2M</span>
+- Peor secuencia de erupción en inferior es <span style="color:#ff0000">1PM -> C -> 2M -> 2PM</span>
