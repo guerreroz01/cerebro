@@ -857,6 +857,11 @@ Las concavidades en bordes inferiores de C2, C3 y C4 siguen estando presentes. A
 	- Base del cráneo anterior contra el borde inferior de la mandíbula. -> -3 a +4º
 - En el maxilar superior la dirección de erupción es hacia oclusal y ligeramente mesial, los molares inferiores también erupcionan hacia oclusal y ligeramente a mesial lo cual disminuye la longitud de arcada. <span style="color: red;">la disminución de la dimensión de arcada es mayor en la mandíbula</span>
 - Cuando hay rotación anterior hay migración mesial.
+-  Teoría de la matriz funcional
+- Las suturas del maxilar superior son lugares de crecimiento no, centros de crecimiento.
+- El cartílago condilar no es un centro de crecimiento
+- El único centro de crecimiento es la base del cráneo
+- 
 
 
 # Referencias
