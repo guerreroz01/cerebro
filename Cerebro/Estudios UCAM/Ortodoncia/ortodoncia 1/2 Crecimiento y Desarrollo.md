@@ -861,7 +861,23 @@ Las concavidades en bordes inferiores de C2, C3 y C4 siguen estando presentes. A
 - Las suturas del maxilar superior son lugares de crecimiento no, centros de crecimiento.
 - El cartílago condilar no es un centro de crecimiento
 - El único centro de crecimiento es la base del cráneo
-- 
+- Determinación de la edad por Rx de mano:
+	- Fase 1 La espera ⛔
+		- $1^{er}$ estadío: 👆indice falange proximal <span style="color:yellow;">FP2</span> diáfisis del mismo tamaño que la epífisis.
+		- $2^{do}$ estadío: 🖕 dedo medio diáfisis segunda falange <span style="color:  yellow;"> FM3</span> del mismo tamaño que la anchura de la epífisis
+	- Fase 2 La aceleración 🏎️💨
+		- $3^{er}$ estadío: <span style="color: yellow;">Pisi</span> se osifica el 🦴 pisiforme - <span style="color: yellow;">H1</span> se comienza a delimitar la apófisis unciforme del ganchoso 🎣 - <span style="color: yellow;"> R </span> diáfisis y epífisis del radio tienen la misma anchura
+		- $4^{to}$  estadío: <span style="color: yellow;">S</span> se inicia la mineralización del 🦴 sesamoideo - <span style="color: yellow;"> H2</span> buena delimitación de la apófisis del ganchoso <span style="color: red;">( Este estadío se alcanza justo antes o al inicio del brote de crecimiento puberal)</span>
+	- Fase 3 Crecimiento máximo 👶 -> 👨‍💼
+		- $5^{to}$ estadío: <span style="color: yellow;">FM3 cap</span> la epífisis rodea en capuchón a la diáfisis 🖕 dedo medio - <span style="color: yellow;">FP1 cap</span> la epífisis rodea en capuchón a la diáfisis del pulgar 👍 - <span style="color: yellow;">R cap</span> epífisis capuchón diáfisis Radio 📻 <span style="color: red;">Coincide con el brote máximo de crecimiento puberal</span>
+	- Fase 4 - Decreciente 📉
+		- $6^{to}$ estadío: <span style="color: yellow;">FD3 u</span> Fusión diáfisis y epífisis falange distal en el dedo 🖕medio - <span style="color: red;">termina el crecimiento puberal</span>
+		- $7^{mo}$ estadío: <span style="color: yellow;">FP3 u</span> Fusión diáfisis y epífisis de la falange proximal en el dedo medio 🖕
+		- $8^{vo}$ estadío: <span style="color: yellow;">FM3 u</span> Fusión diáfisis y epífisis de la 2da falange del 🖕
+	- Fase 5 - Fin del Crecimiento 🏁
+		- $9^{no}$ estadío: <span style="color: yellow;">RU</span> osificación total de diáfisis y epífisis del Radio 📻 - <span style="color: red;">Fin de la osificación de ✋ y el crecimiento óseo</span>
+- En el estadío 3 o 4 es cuando es oportuno la colocación de los aparatos funcionales porque la pubertad tardará un año.
+
 
 
 # Referencias

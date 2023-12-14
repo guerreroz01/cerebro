@@ -302,3 +302,6 @@ El crecimiento del proceso alveolar sigue produciéndose durante la dentición p
 En la dimensión vertical existirán importantes diferencias individuales dependiendo del biotipo facial. Tengamos en cuenta que la compensación alveolar puede actuar como mecanismo de adaptación de determinados cambios en las bases óseas o de cierto grado de discrepancia esquelética; y que el crecimiento y disposición de las bases esqueléticas será también relevante.
 
 ![[Pasted image 20231124212414.png]]
+
+## Aspectos importantes:
+- 

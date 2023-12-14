@@ -6,13 +6,13 @@ sticker: emoji//1f949
 	- [x] Lectura 1 ✅ 2023-12-13
 	- [ ] Lectura 2
 1. [[2 Crecimiento y Desarrollo]]
-	- [/] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-14
 	- [ ] Lectura 2
 2. [[3 Oclusión normal y maloclusión]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-14
 	- [ ] Lectura 2
 3. [[4 Desarrollo de la oclusión]]
-	- [ ] Lectura 1
+	- [/] Lectura 1
 	- [ ] Lectura 2
 4. [[5 Análisis facial]]
 	- [ ] Lectura 1

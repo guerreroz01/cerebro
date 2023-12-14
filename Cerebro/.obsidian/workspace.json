@@ -4,12 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf2672934793149",
+        "id": "0d39c50b1068f907",
         "type": "tabs",
-        "dimension": 47.580645161290334,
         "children": [
           {
-            "id": "251cb6a32a44050f",
+            "id": "0ea77748c2a753a3",
             "type": "leaf",
             "pinned": true,
             "state": {
@@ -23,39 +22,34 @@
             }
           },
           {
-            "id": "5e114bf2bf1a9881",
+            "id": "fd0d62e1a6e2817d",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "b7078b10c837ba6d",
+        "id": "2eb1c4606629ef04",
         "type": "tabs",
-        "dimension": 52.419354838709666,
         "children": [
           {
-            "id": "751e807852445f21",
+            "id": "939abd678d179e27",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -113,7 +107,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "b12e678cc60bc812",
@@ -160,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md"
               }
             }
           },
@@ -232,12 +227,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e114bf2bf1a9881",
+  "active": "fd0d62e1a6e2817d",
   "lastOpenFiles": [
-    "daily/13-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+    "Excalidraw/Drawing 2023-12-14 12.44.33.excalidraw.md",
+    "Spaces/Home/Home.md",
+    "daily/14-12-2023.md",
+    "daily/13-12-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
     "Checkboxes.md",
     "daily/20-10-2023.md",
     "daily/27-10-2023.md",
@@ -265,11 +265,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
     "general knowledge/trading",
