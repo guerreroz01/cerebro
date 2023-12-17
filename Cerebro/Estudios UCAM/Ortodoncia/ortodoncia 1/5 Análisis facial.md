@@ -194,7 +194,7 @@ Analizamos varios factores en con relación al análisis dentolabial de los paci
 
 2. El borde incisal: La curva incisiva convexa sigue un paralelismo a la concavidad natural del labio inferior mientras está sostenida. La simetría irradiante proporciona una sonrisa agradable y se encuentra normalmente en la gente joven. La relación entre las dos curvas podrá ser sin contacto, en contacto o cubierta. La presencia de una curvatura incisiva plana o inversa es estéticamente poco atractivo y tendremos que conseguir esta convexidad no sólo a nivel estético, sino también funcional. El perfil incisivo se mantendrá dentro del labio inferior para cierre adecuado de los labios.
 
-3. La línea de la sonrisa: corresponde a la exposición de dientes anteriores mientras sonríe. Podrá ser baja (75%), media (75-100%) y alta (banda gingival). Con una franja superior a 3-4 mm de tejido blando se considerará al paciente sonrisa gingival.
+3. La línea de la sonrisa: corresponde a la exposición de dientes anteriores mientras sonríe. Podrá ser baja (75%), media (75-100%) y alta (banda gingival). <span style="color:#ff0000">Con una franja superior a 3-4 mm de tejido blando se considerará al paciente sonrisa gingival.</span>
 
 La elección entre diversas opciones del tratamiento de ortodoncia debe ser hecha apropiadamente tomando en consideración los parámetros estéticos y funcionales siguientes:
 - Exposición del diente en reposo
@@ -212,3 +212,19 @@ La elección entre diversas opciones del tratamiento de ortodoncia debe ser hech
 3. **Línea interincisiva**: debemos estudiar la alineación de la línea interincisiva (_entre los incisivos centrales_) y la línea media labial. La desalineación está presente en un 30% de los sujetos.
 4. **Plano oclusal**: desde la visión lateral tendrá que ser paralelo al plano de Camper (se extiende de la frontera inferior del ala de la nariz) y a unos 10º de Frankfurt. El plano incisal es la proporción anterior del plano oclusal.
 
+## A destacar:
+- La altura nasal -> tercio medio Nasion - Sn es de 43%
+- El tercio inferior Sn a M es de 57%
+- La distancia que existe entre ambos ojos debe ser igual a la anchura de un quinto si fuera mayor estamos en presencia de un telecanto.
+- Ángulos:
+	- Naso Frontal: 115 a 130
+	- Naso Labial: 90 a 95 Mujeres | 95 a 100 Hombres
+	- Naso Facial: 30 Mujeres | 40 Hombres
+	- Naso Mental: 120 a 132º
+	- Cuello -> Línea perpendicular a Frankfurt - tangente del mentón 80 a 95º
+	
+- Exposición del diente en reposo 1.5 mm Norma
+	- Jóvenes 3.37 mm -> y mujeres
+	- Adultos 1.91 mm -> y hombres
+- Una exposición de encía mayor a 3 - 4 mm se considera sonrisa gingival
+- ![[Analisis_facial.excalidraw]]

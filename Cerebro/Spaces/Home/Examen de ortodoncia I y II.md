@@ -15,13 +15,13 @@ sticker: emoji//1f949
 	- [x] Lectura 1 ✅ 2023-12-14
 	- [ ] Lectura 2
 4. [[5 Análisis facial]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-17
 	- [ ] Lectura 2
 5. [[6 Hábitos y disfunciones orales]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-17
 	- [ ] Lectura 2
 6. [[7 Toma de registros]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-17
 	- [ ] Lectura 2
 7. [[8 Análisis de modelos]]
 	- [ ] Lectura 1
@@ -41,10 +41,7 @@ sticker: emoji//1f949
 12. [[14 Análisis de Arnett]]
 	- [ ] Lectura 1
 	- [ ] Lectura 2
-13. [[14 Análisis de Arnett]]
-	- [ ] Lectura 1
-	- [ ] Lectura 2
-14. [[Cajetín de Steiner]]
+13. Cajetín de Steiner
 	- [ ] Lectura 1
 	- [ ] Lectura 2
 

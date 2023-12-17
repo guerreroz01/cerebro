@@ -202,11 +202,11 @@ En el caso de disfunción en la praxis lingual por respiración bucal, habrá un
 
 5. Maloclusiones de [[Clase III]] los pacientes con displasia ósea de [[Clase III]] heredan un patrón morfogenético con tendencia a la clase III y una disminución de la presión perioral.
 
-	Por cualquier causa (_como presencia crónica de amígdalas hipertróficas_) aparece una posición postural baja y adelantada de la lengua, lo cual puede producir una propulsión de la mandíbula por efecto mecánico y alivio de la zona de orofaringe por descompresión.
+Por cualquier causa (_como presencia crónica de amígdalas hipertróficas_) aparece una posición postural baja y adelantada de la lengua, lo cual puede producir una propulsión de la mandíbula por efecto mecánico y alivio de la zona de orofaringe por descompresión.
 
-	Esto desencadena un exceso de crecimiento mandibular, además de disminuir el estímulo para el normal crecimiento del maxilar superior.
+Esto desencadena un exceso de crecimiento mandibular, además de disminuir el estímulo para el normal crecimiento del maxilar superior.
 
-	La lengua ejerce una presión directa postero-anterior sobre la mandíbula. De esta forma actúa sobre el crecimiento mandibular, aumentando la actividad contráctil de los pterigoideos laterales, estimulando así el cartílago condilar.
+La lengua ejerce una presión directa postero-anterior sobre la mandíbula. De esta forma actúa sobre el crecimiento mandibular, aumentando la actividad contráctil de los pterigoideos laterales, estimulando así el cartílago condilar.
 ![[Pasted image 20231211111730.png]]
 
 ## Maduración de la función de deglución y amamantamiento
@@ -294,7 +294,17 @@ Puede ser un signo de ansiedad, podría deberse a la supresión brusca del chupe
 
 Puede provocar **mordida abierta anterior**; reversible si se elimina el hábito de forma precoz.
 
-Labioversión de incisivos superiores, linguoversión de incisivos inferiores. bloqueo de la erupción de los incisivos, extrusión de molares por ausencia de contacto, protrusión de la premaxila, estimulación del crecimiento sutural del maxilar, elevación palatal con contracción maxilar tendencia a posterorrotación mandibular, mordida cruzada posterior, bilateral o unilateral con desviación funcional mandibular, relación molar de [[Clase II]] resalte, posición baja de la lengua, deglución atípica.
+- Labioversión de incisivos superiores 
+- linguoversión de incisivos inferiores. 
+- bloqueo de la erupción de los incisivos, 
+- extrusión de molares por ausencia de contacto, 
+- protrusión de la premaxila, 
+- estimulación del crecimiento sutural del maxilar, 
+- elevación palatal con contracción maxilar tendencia a posterorrotación mandibular, 
+- mordida cruzada posterior, bilateral o unilateral con desviación funcional mandibular, 
+- relación molar de [[Clase II]] resalte, 
+- posición baja de la lengua, 
+- deglución atípica.
 
 ## Succión labial
 La interposición labial inferior es un hábito que muchas veces acompaña a los respiradores orales, porque el labio inferior queda interpuesto entre los incisivos.
@@ -322,3 +332,30 @@ Los factores etiológicos:
 1. Molestia que producen las amígdalas linguales hipertróficas y sensibles.
 ![[Pasted image 20231212132102.png]]
 
+## A destacar:
+- Según la Matriz funcional -> Respirar, succionar, masticar, deglutir y hablar estimulan el crecimiento de los maxilares.
+- Anillo de Waldeyer: Formado por las amígdalas
+	- Amígdalas palatinas
+	- Amígdalas faríngeas (_Adenoides_)
+	- Amígdalas linguales
+	- Amígdalas tubáricas
+- Facies adenoideas:
+	- Cara larga y estrecha con ojeras y bolsas palpebrales
+	- Mejilla flácida
+	- Nariz pequeña
+	- Cara triste, boca entreabierta labio superior corto y labio inferior grueso y evertido
+	- Protrusión de los incisivos superiores
+ - La lengua debe estar arriba para que el maxilar pueda desarrollarse transversalmente y en sentido anteroposterior
+ - Si la lengua no está arriba el maxilar crece en vertical y no en horizontal ni transversal
+ - Deglución atípica es cuando persiste la deglución infantil que consiste en adelantar la  lengua y producir un movimiento anteroposterior.
+ - Lo que puede provocar una deglución atípica.
+	 - Mordida abierta anterior
+	 - Resalte anterior aumentado 
+	 - Lengua baja por respiración oral
+- Deglución adulta Fases:
+	- <span style="color:#ff0000">Alveolar anterior -> Estudiar proceso</span>
+	- <span style="color:#ff0000">Palatina -> Estudiar proceso</span>
+	- <span style="color:#ff0000">Faríngea -> Estudiar proceso</span>
+	- <span style="color:#ff0000">Esofágica -> Estudiar proceso</span>
+- El uso continuado del chupete produce mordida abierta anterior y mordida cruzada posterior
+- La protracción lingual produce protrusión de ambos grupos incisivos y mordida abierta anterior o lateral.
