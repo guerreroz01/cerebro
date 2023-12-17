@@ -24,10 +24,10 @@ sticker: emoji//1f949
 	- [x] Lectura 1 ✅ 2023-12-17
 	- [ ] Lectura 2
 7. [[8 Análisis de modelos]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-17
 	- [ ] Lectura 2
 8. [[estructuras y puntos cefalométricos]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-17
 	- [ ] Lectura 2
 9. [[10 Análisis de Steiner]]
 	- [ ] Lectura 1
@@ -46,7 +46,7 @@ sticker: emoji//1f949
 	- [ ] Lectura 2
 
 # Temario Orto-II
-1. [[cirugía ortognática]]
+1. [[10 Cirugía ortognática]]
 	- [ ] Lectura 1
 	- [ ] Lectura 2
  2. [[8-1 Ortodoncia Interdisciplinar I]]
