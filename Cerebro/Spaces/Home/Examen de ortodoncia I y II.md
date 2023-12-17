@@ -38,10 +38,10 @@ sticker: emoji//1f949
 11. [[13 Cefalometría frontal de Ricketts y cbct]]
 	- [ ] Lectura 1
 	- [ ] Lectura 2
-12. [[Análisis de Arnett]]
+12. [[14 Análisis de Arnett]]
 	- [ ] Lectura 1
 	- [ ] Lectura 2
-13. [[Biologia del movimiento dental]]
+13. [[14 Análisis de Arnett]]
 	- [ ] Lectura 1
 	- [ ] Lectura 2
 14. [[Cajetín de Steiner]]
