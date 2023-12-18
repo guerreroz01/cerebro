@@ -30,7 +30,7 @@ sticker: emoji//1f949
 	- [x] Lectura 1 ✅ 2023-12-17
 	- [ ] Lectura 2
 9. [[10 Análisis de Steiner]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-18
 	- [ ] Lectura 2
 10. [[11 Análisis de Ricketts]]
 	- [ ] Lectura 1

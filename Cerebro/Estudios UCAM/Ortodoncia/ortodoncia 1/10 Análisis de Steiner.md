@@ -120,7 +120,7 @@ Steiner utiliza el ángulo SNA para establecer la **posición anteroposterior de
 ### SNB: 80º +/- 2º
 Formado por las líneas [[#Línea d85d6f SN|SN]] y NB localiza la posición anteroposterior de la mandíbula, un valor por encima de 82º indicaría un prognatismo mandibular y un valor menor a 78º un retrognatismo mandibular. ❗Un retrognatismo mandibular a edades tempranas puede reducirse o incluso llegar a compensarse por el crecimiento. ❗
 
-### ANB: 2º +/- 2º
+### ANB: 2º +/- 2º _Clase esquelética_
 Es la diferencia entre [[#SNA 82º +/- 2º|SNA]] y [[#SNB 80º +/- 2º|SNB]] e indica la relación anteroposterior de entre ambos maxilares -> indica la clase esquelética: valores superiores a 4º indicaría un [[Clase II]] esquelética y valores negativos menores a 0º indicaría una [[Clase III]] 
 
 ### SND: 76º +/- 2º
