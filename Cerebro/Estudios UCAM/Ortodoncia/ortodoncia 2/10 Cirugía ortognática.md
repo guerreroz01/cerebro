@@ -69,6 +69,8 @@ La selección de un paciente de cirugía ortognática se basa en el objetivo de 
 - Compensación del desequilibrio esquelético
 - Tratamiento del problema base: corrección del desequilibrio esquelético.
 
+<span style="color:#ff0000">básicamente on se corrige el desequilibrio o se compensa</span> 
+
 En una compensación, lo que perseguimos es camuflar el problema de las bases óseas mediante el movimiento de los dientes. Los criterios para optar por compensar ortodóncicamente un paciente son:
 
 1. El desequilibrio que presenta no es excesivo.
@@ -77,7 +79,7 @@ En una compensación, lo que perseguimos es camuflar el problema de las bases ó
 4. No realizar acciones irreversibles en la medida de lo posible.
 5. **_NO HACER DAÑO_**. El tiempo de tratamiento tiene que ser razonable. El diagnóstico dental y periodontal tiene que ser exhaustivo porque vamos a llevar los dientes al límite para poder compensar la maloclusión esquelética.
 
-En una corrección del desequilibrio esquelético, lo que hacemos es **_DESCOMPENSAR AL PACIENTE_**. Es decir, tratamos de llevar los dientes a la norma cefalométrica con respecto a maxilar y mandíbula. Esto produce un incremento de la deformidad facial, que se ve expresada en toda su magnitud en el momento prequirúrgico.
+En una <span style="color:#ffff00">corrección del desequilibrio esquelético</span>, lo que hacemos es **_DESCOMPENSAR AL PACIENTE_**. Es decir, tratamos de llevar los dientes a la norma cefalométrica con respecto a maxilar y mandíbula. Esto produce un incremento de la deformidad facial, que se ve expresada en toda su magnitud en el momento prequirúrgico.
 
 ### Criterios de dificultad:
 No todos los casos quirúrgicos son iguales. No es lo mismo planificar un avance maxilar simple en un paciente simétrico, que realizar una cirugía de centrado mandibular con avance y segmentación maxilar. El equipo terapéutico tiene que estar muy entrenado.
@@ -130,11 +132,11 @@ Se colocan cuatro placas con forma de L. Dos en los arbotantes nasorbitarios y d
 #### Sutura
 En la mayoría de las cirugías de Lefort, el maxilar es traccionado hacia adelante. El efecto sobre la nariz es un ensanchamiento de la base alar.
 
-Para contrarrestar este efecto, se utiliza la técnica de "_**Cincha alar**_" que consiste en pasar la sutura abarcando tejido subcutáneo y capa muscular. Al cerrar la sutura, se comprime la base alar neutralizando el efecto de ensanchamiento por el avance.
+Para contrarrestar este efecto, se utiliza la técnica de <span style="color:#ff0000">"Cincha alar"</span> que consiste en pasar la sutura abarcando tejido subcutáneo y capa muscular. Al cerrar la sutura, se comprime la base alar neutralizando el efecto de ensanchamiento por el avance.
 
 El labio sufre estiramiento y pérdida de grosor según el avance maxilar. Su cierre va dirigido a contrarrestar este efecto mediante la técnica:
 
-"_**VY**_". Consiste en suturar la mucosa labial sobre sí misma en el punto medio a uno o dos centímetros por encima con el fin de hacer un pliegue que aumente el volumen resultante del labio.
+<span style="color:#ff0000">"VY".</span> Consiste en suturar la mucosa labial sobre sí misma en el punto medio a uno o dos centímetros por encima con el fin de hacer un pliegue que aumente el volumen resultante del labio.
 
 ### Variante de la cirugía de Lefort I
 #### Lefort I segmentado:
@@ -263,7 +265,15 @@ Con bisturí frío, se realiza la incisión de canino a canino en fondo de vest�
 Se realiza cuidadosamente para no dañar el borla del mentón a nivel de la sínfisis. Se progresa lateralmente hasta localizar la salida del nervio dentario inferior.
 
 ### Osteotomía
-Se realiza con sierra, por debajo de los ápices de los dientes anteriores y en sentido posteroinferior hacia el reborde inferior mandibular. Es muy importante dejar el foramen del nervio mentoniano 5 mm por encima de la osteotomía ya que el nervio hace un bucle desde abajo antes de emerger. Cuando la osteotomía está cerca del borde inferior mandibular, se completa con suaves golpes de escoplo hasta lograr la fractura en tallo verde de dicho reborde. Debido a la vascularización del suelo de la boca, no se realiza el corte con sierra hasta el finar por riesgo de hemorragia. La dirección del corte depende del objetivo a lograr. No es lo mismo un centrado que un avance o rotación. Pero cuanto más posterior sea el final del corte, menos se notará el escalón óseo posterior.
+Se realiza con sierra, por debajo de los ápices de los dientes anteriores y en sentido posteroinferior hacia el reborde inferior mandibular. 
+
+<span style="color:#ff0000">Es muy importante dejar el foramen del nervio mentoniano 5 mm por encima de la osteotomía ya que el nervio hace un bucle desde abajo antes de emerger.</span> 
+
+Cuando la osteotomía está cerca del borde inferior mandibular, se completa con suaves golpes de escoplo hasta lograr la fractura en tallo verde de dicho reborde. 
+
+<span style="color:#ffff00">Debido a la vascularización del suelo de la boca, no se realiza el corte con sierra hasta el finar por riesgo de hemorragia. </span>
+
+La dirección del corte depende del objetivo a lograr. No es lo mismo un centrado que un avance o rotación. Pero cuanto más posterior sea el final del corte, menos se notará el escalón óseo posterior.
 
 ### Sutura
 Es un punto muy importante. Se realiza por planos. En primer lugar, se suturan los dos vientres del borla del mentón al periostio. A continuación, un punto en tejido conectivo del rafe medio. A continuación se sutura la mucosa.
@@ -292,6 +302,32 @@ Se realizan dos segmentos de unos 8 mm de grosor. Cada uno avanza todo el grosor
 - Lesión dental: Si en la osteotomía se dañan los ápices dentales.
 
 - Ptosis del labio inferior: Si no se sutura correctamente la musculatura.
+
+## A destacar:
+- Cuando el maxilar es traccionado hacia adelante la base alar de la nariz se ensancha para contrarrestar este efecto se utiliza la técnica de <span style="color:#ffff00">Cincha alar </span>donde se sutura hasta la capa muscular.
+- El labio se estira y pierde grosor para contrarrestar este efecto se utiliza la técnica de <span style="color:#ffff00">VY</span>, se sutura la mucosa labial sobre si misma a uno o dos centímetros por encima con el fin de hacer un pliegue.
+- Lefort I segmentado cuando hay déficit transversal y mordida en doble plano.
+- La mordida en doble plano es característica de los hábitos 
+- Técnica SARPE se fractura el maxilar para colocar un HYRAX de disyunción indicado en <span style="color:#ffff00">HIPOPLASIA MAXILAR SEVERA</span>
+- En la técnica SARPE **No** se realiza la maniobra DOWN FRACTURE
+- Técnica BSSRO para el reposicionamiento mandibular
+- Es importante liberar completamente la cincha pterigo-maseterina porque constituye un gran impedimento a la hora de movilizar el cuerpo mandibular y puede ocasionar recidiva por la tensión. También se liberan las fibras anteroinferiores del músculo temporal.
+- Los riesgos de desperiostizar tanto es la isquemia ósea y hematoma
+- Secuela más importante de la técnica BSSRO es la anestesia o  hiperestesia del labio inferior 
+- En casos de avances extremos está contraindicada la osteotomía vertical lateral
+- No se pueden dejar interferencias en la férula que impidan el acople correcto de los segmentos porque puede ocasionar que el cóndilo rote o tenga una posición anómala o se salga de la fosa glenoidea.
+- <span style="color:#ff0000">Sag condilar</span> ocurre cuando el cóndilo no se ubica correctamente en la fosa después de la cirugía y se asienta provocando maloclusión
+- Lograr posicionar los cóndilos en la fosa y posicionar los fragmentos distal y proximal sin interferencias es la parte más crítica de la cirugía.
+- La fijación rígida es con tornillos bicorticales 
+- La fijación semirrígida es con tornillos monocorticales y permite personalizar las placas
+- Osteotomías de la rama
+- bad split es cuando la fractura no se hace en el sitio en el que se quería hacer lo cual imposibilita finalizar la cirugía con éxito
+- Sag condíleo o hundimiento condilar es cuando el cirujano deja el cóndilo fuera de la cavidad glenoidea durante la cirugía lo que ocasiona que cuando el paciente recupere su tono muscular el cóndilo se hunda en la fosa y ocasione asimetrías y mordida abierta
+- <span style="color:#ff0000">La complicación más temida es cuando hay reabsorción condilar</span>, es más común en 👩‍💼 con una incidencia del 3%. Ocasiona dolor y mordida abierta -> se maneja con férulas hasta que se estabilice y el cóndilo se reconstruye con injertos de las costillas o prótesis.
+- La lesión más frecuente es la del nervio alveolar inferior 30% a 40% de los casos de cirugía mandibular. Si solo se afecta la capa mielínica el paciente recupera la sensibilidad en 3 años, se recetan complejo B. Si el nervio se seccionó el daño es irreversible. Es más frecuente en las clase II con grandes avances mandibulares
+- En la mentoplastia es muy importante que el foramen del nervio mentoniano quede 5 mm por encima de la osteotomía esto es porque el nervio hace un bucle antes de salir
+- Debido a que el suelo de la boca es muy vascularizado no se realiza el corte con sierra hasta el final por el riesgo de hemorragia
+- 
 
 # Referencias:
 ___

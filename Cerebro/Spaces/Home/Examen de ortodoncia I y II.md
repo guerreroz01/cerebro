@@ -33,7 +33,7 @@ sticker: emoji//1f949
 	- [x] Lectura 1 ✅ 2023-12-18
 	- [ ] Lectura 2
 10. [[11 Análisis de Ricketts]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-18
 	- [ ] Lectura 2
 11. [[13 Cefalometría frontal de Ricketts y cbct]]
 	- [ ] Lectura 1
@@ -47,13 +47,13 @@ sticker: emoji//1f949
 
 # Temario Orto-II
 1. [[10 Cirugía ortognática]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-18
 	- [ ] Lectura 2
  2. [[8-1 Ortodoncia Interdisciplinar I]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-18
 	- [ ] Lectura 2
  3. [[8-2 Ortodoncia interdisciplinar II]]
-	- [ ] Lectura 1
+	- [/] Lectura 1
 	- [ ] Lectura 2
  4. Artículo científico
 	- [ ] Lectura 1
