@@ -61,7 +61,7 @@ Están producidas por bacterias localizadas en la interface encía-diente y se d
 ### Gingivitis:
 Es la infección de la encía con afectación del tejido conjuntivo y el epitelio pero sin desbordar la barrera de las fibras supracrestales que separan la encía del resto de estructuras periodontales.
 
-Si se eliminan las bacterias, la respuesta inflamatoria revierte y las lesiones son irreversibles. Cuando la barrera de fibras supracrestales se rompe, el infiltrado inflamatorio gingival se extiende en sentido apical produciendo periodontitis.
+Si se eliminan las bacterias, la respuesta inflamatoria revierte y las lesiones son rreversibles. Cuando la barrera de fibras supracrestales se rompe, el infiltrado inflamatorio gingival se extiende en sentido apical produciendo periodontitis.
 
 ### Periodontitis:
 Es la destrucción irreversible del periodonto. Al mismo tiempo, el epitelio de inserción de la encía que la une originalmente al esmalte, se desprende del mismo y se desplaza en sentido apical, uniéndose a la superficie radicular en la frontera del periodonto destruido e iniciando así la formación de una bolsa periodontal.
@@ -78,12 +78,12 @@ El soporte periodista puede preservarse en aquellos casos en los que el tratamie
 ## Respuesta del periodonto a las fuerzas traumáticas:
 En relación a las variables: nivel de inserción clínica y grado de movilidad de un diente, cabe destacar que no hay relación. Un diente puede tener grado I de movilidad y tener menos del tercio apical de inserción. Por el contrario, un diente con la totalidad de la inserción, puede presentar movilidad de grado III.
 
-Esto se explica porque lo que sí determina el grado de movilidad es el ensanchamiento del ligamento periodontal, el cual es un reflejo del grado de estabilidad del diente.
+Esto se explica porque <span style="color:#ff0000">lo que sí determina el grado de movilidad es el ensanchamiento del ligamento periodontal</span>, el cual es un reflejo del grado de estabilidad del diente.
 
 La disminución de la altura de hueso alveolar, generalmente corresponde con un proceso de periodontitis, sin embargo, la anchura del espacio periodontal corresponde con la presencia de fuerzas traumáticas en el diente.
 
 ## Respuesta de un periodonto sano a las fuerzas traumáticas:
-En dientes con tejido sano, aunque parte se haya perdido por periodontitis previa, ante una fuerza, reacciona con un ensanchamiento progresivo del ligamento, aumento de la movilidad y pérdida de la lámina dura. Puede haber dolor a la percusión y migración. Esta etapa se denomina **_traumática_** y dura aproximadamente dos meses.
+En dientes con tejido sano, aunque parte se haya perdido por periodontitis previa, ante una fuerza, reacciona con un ensanchamiento progresivo del ligamento, aumento de la movilidad y pérdida de la lámina dura. Puede haber dolor a la percusión y migración. Esta etapa se denomina **_traumática_** y dura    aproximadamente dos meses.
 
 Esta etapa continúa con la etapa **"_post-traumática_"** en la que el periodonto se estabiliza, reaparece la lámina dura. Si cede la fuerza, el periodonto recupera la total normalidad. Si por el contrario vuelve a aumentar, se repite la fase traumática y así sucesivamente.
 

@@ -53,10 +53,10 @@ sticker: emoji//1f949
 	- [x] Lectura 1 ✅ 2023-12-18
 	- [ ] Lectura 2
  3. [[8-2 Ortodoncia interdisciplinar II]]
-	- [/] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-19
 	- [ ] Lectura 2
  4. Artículo científico
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-19
 	- [ ] Lectura 2
  5. [[9 Síndromes]]
 	- [ ] Lectura 1
