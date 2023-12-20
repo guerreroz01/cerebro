@@ -1,14 +1,14 @@
 ---
-sticker: emoji//1f949
+sticker: emoji//1f948
 ---
 # Temario Orto-I
 1. [[1 Historia de la ortodoncia]]
 	- [x] Lectura 1 ✅ 2023-12-13
-	- [ ] Lectura 2
+	- [x] Lectura 2 ✅ 2023-12-20
 	- [ ] Lectura 3
 1. [[2 Crecimiento y Desarrollo]]
 	- [x] Lectura 1 ✅ 2023-12-14
-	- [ ] Lectura 2
+	- [x] Lectura 2 ✅ 2023-12-20
 	- [ ] Lectura 3
 2. [[3 Oclusión normal y maloclusión]]
 	- [x] Lectura 1 ✅ 2023-12-14
@@ -81,11 +81,11 @@ sticker: emoji//1f949
 	- [ ] Lectura 2
 	- [ ] Lectura 3
  6. [[Síndromes 2]]
-	- [/] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-20
 	- [ ] Lectura 2
 	- [ ] Lectura 3
  7. [[Iatrogenia y ética]]
-	- [ ] Lectura 1
+	- [x] Lectura 1 ✅ 2023-12-20
 	- [ ] Lectura 2
 	- [ ] Lectura 3
 

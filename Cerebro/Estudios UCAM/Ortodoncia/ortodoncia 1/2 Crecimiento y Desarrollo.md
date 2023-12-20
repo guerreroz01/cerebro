@@ -101,12 +101,12 @@ El sexo también es fuente de variabilidad. Las niñas experimentan el pico de c
 
 ### Métodos de medición
 #### Craneometría
-- Se miden los cráneos procedentes de restos esqueléticos humanos
+- Se miden los cráneos procedentes de <span style="color:#ff0000">restos esqueléticos humanos</span>
 - Ventaja: las mediciones son exactas ya que son hechas sobre cráneos disecados.
 - Inconvenientes: es un análisis transversal, imposibilidad de hacer seguimiento de un mismo paciente. Is dead ☠️
 
 #### Antropometría:
-- Consiste en medir las dimensiones esqueléticas en los individuos vivos.
+- Consiste en medir las dimensiones esqueléticas en los <span style="color:#ff0000">individuos vivos</span>.
 - Ventaja: permite el seguimiento longitudinal del individuo.
 - Inconveniente: variaciones derivadas de los cambios en el tejido blando que recubren los puntos de referencia.
 
@@ -159,7 +159,7 @@ Los 3 procesos se producen durante el crecimiento, La hiperplasia es caracterís
 - Combinación de hiperplasia en mayor medida y de hipertrofia, en menor medida.
 - Ocasionalmente secreción de material extracelular.
 
-El crecimiento intersticial es característico de casi todos los tejidos blandos y de los cartílagos no calcificados del sistema esquelético.
+<span style="color:#ffff00">El crecimiento intersticial es característico de casi todos los tejidos blandos y de los cartílagos no calcificados del sistema esquelético.</span>
 
 ### Crecimientos de los tejidos duros:
 - Se produce por la mineralización del material extracelular.
@@ -191,7 +191,7 @@ Existen tres sincondrosis:
 Consiste en la secreción de matriz ósea directamente en el tejido conjuntivo, _sin la formación intermedia de cartílago_.
 
 Se puede encontrar osificación intramembranosa en:
-1. Bóveda craneal.
+1. <span style="color:#00b0f0">Bóveda craneal.</span>
 2. Huesos de la cara, maxilar y mandíbula.
 3. Crecimiento a nivel de las suturas que unen los huesos de la cara y bóveda craneal en respuestas a las fuerzas tensionales originadas por el crecimiento de los tejidos blandos circundantes.
 
@@ -216,7 +216,7 @@ En este tipo de osificación también existen los procesos de:
 ### Bóveda craneal:
 Conformada por el hueso frontal, parietales, porción escamosa de los huesos temporales y el occipital.
 
-- El crecimiento es a nivel de las suturas. En mayor medida.
+- <span style="color:#ff0000">El crecimiento es a nivel de las suturas.</span> En mayor medida.
 - Se produce cierto remodelado superficial. Reabsorción interna-aposición externa en menor medida.
 
 > [!tip] Formación
@@ -240,7 +240,7 @@ Tras el nacimiento, la aposición de nuevo hueso en los bordes de las fontanelas
 En torno a los 6 años de vida, en la bóveda craneal se ha desarrollado claramente las corticales externa-interna que delimitan la esponjosa [[diploe]][^1].
 
 ### Base craneal
-Se produce en ella una osificación endocondral, existe un cartílago inicial que se transforma en hueso.
+Se produce en ella una<span style="color:#ff0000"> osificación endocondral</span>, existe un cartílago inicial que se transforma en hueso.
 
 - Los centros de osificación durante la vida embrionaria marcan la ubicación definitiva del [[etmoides]], cuerpo del [[esfenoides]] y porción basilar [[occipital]].
 
@@ -408,7 +408,7 @@ Aumenta de longitud por:
 - Sustitución endocondral a nivel del cartílago condilar.
 - Posterior remodelación.
 
-Durante la infancia (12 meses) el borde anterior de la rama ascendente coincide aproximadamente con el lugar donde erupcionará el primer molar temporal. A medida que se va produciendo el remodelado, se irá generando el espacio suficiente para albergar el segundo molar temporal y para la posterior erupción de los molares temporales. Sin embargo, en muchos casos este crecimiento cesa antes de que se haya generado el suficiente espacio para albergar a los terceros molares, los cuales quedarán impactados en la rama ascendente.
+Durante la infancia (12 meses) el borde anterior de la rama ascendente coincide aproximadamente con el lugar donde erupcionará el primer molar temporal. A medida que se va produciendo el remodelado, se irá generando el espacio suficiente para albergar el segundo molar temporal y para la posterior erupción de los molares permanentes. Sin embargo, en muchos casos este crecimiento cesa antes de que se haya generado el suficiente espacio para albergar a los terceros molares, los cuales quedarán impactados en la rama ascendente.
 
 ![[Pasted image 20231109190026.png]]
 

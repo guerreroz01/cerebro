@@ -20,31 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "9d2ec41622551589",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afefe3e93fec8bc7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Fisuras_labio-palatinas.excalidraw.md"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -147,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md"
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md"
               }
             }
           },
@@ -197,7 +174,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -219,12 +196,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9d2ec41622551589",
+  "active": "b7ba3337164ed7fc",
   "lastOpenFiles": [
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Recording 20231220142221.webm",
-    "Excalidraw/Fisuras_labio-palatinas.excalidraw.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+    "Excalidraw/Fisuras_labio-palatinas.excalidraw.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Recording 20231220142221.webm",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
     "daily/20-12-2023.md",
@@ -246,7 +225,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
     "Excalidraw/Analisis_facial.excalidraw.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "daily/15-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180539.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180327.png",
@@ -269,7 +247,6 @@
     "Spaces",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
     "Estudios UCAM/Ortodoncia/Canvas ortodoncia.canvas"
   ]
 }

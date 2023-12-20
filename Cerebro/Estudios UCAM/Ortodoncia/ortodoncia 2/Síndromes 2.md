@@ -691,7 +691,7 @@ La fractura Le Fort I convencional se reserva para pacientes con hipoplasia maxi
 #### Avance maxilar:
 Hacia los 12 años, nuevos protocolos basados en la osteogénesis por distracción pretenden prevenir la retrusión maxilar anteroposterior con técnicas precoces de corticotomía y dispositivos de distracción intraoral o extraoral.
 
-La cirugía en estas edades tiene por objeto evitar que al final del crecimiento el paciente presente una retrusión maxilar severa sobre la que es muy difícil actuar mediante técnicas ortognáticas convencionales, ya que las cicatrices palatinas impiden avances maxilares superiores a 4 o 5 mm (8 mm Varela).
+La cirugía en estas edades tiene por objeto evitar que al final del crecimiento el paciente presente una retrusión maxilar severa sobre la que es muy difícil actuar mediante técnicas ortognáticas convencionales, <span style="color:#ff0000">ya que las cicatrices palatinas impiden avances maxilares superiores a 4 o 5 mm (8 mm Varela)</span>.
 
 #### Expansión maxilar:
 Paciente de 20 años, palatoplastia a los 2 años, fistula oronasal en el lado de la fisura, perfil cóncavo, [[Clase III]] esquelética de causa mixta, mordida cruzada anterior y posterior
