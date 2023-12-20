@@ -629,4 +629,49 @@ ___
 	- Retrognatismo maxilar
 	- Base craneal posterior corta por deficit en el cartílago de la sincondrosis esfeno-occipital
 	- La mandíbula está normal pero el paciente es clase III por deficiencia maxilar
-	- 
+___
+- Microsomía hemifacial
+	- defecto congénito a nivel del primer y segundo arco branquial
+	- Es el segundo defecto congénito más frecuente después del labio y paladar hendido
+	- afecta más a los hombres 3:2 y el lado derecho 3:2
+	- Etiología posible hemorragia a nivel del primer y segundo arco branquial
+	- Es importante el tratamiento ortopédico temprano para evitar las cirugías
+		- En crecimiento se centra en el <span style="color:#ffff00">control diferencial de erupción</span> 
+___
+- Síndrome de Marfan
+	- <span style="color:#f519e3">autosómica dominante</span> 
+	- trastorno del tejido conectivo musculoesquelético
+	- 90% de los casos con afectación cardiovascular
+	- Realizar un tratamiento ortopédico temprano
+	- profilaxis de endocarditis
+	- diagnóstico diferencial con Loeys-Diets (_úvula bífida_)
+___
+- Pierre Robin
+	- Triada:
+		- Micrognatia
+		- Glosoptosis
+		- Fisura del paladar
+	- Tratamiento
+		1. Tratamiento postural (_colocación del niño en posición prona_).
+		2. La intubación nasofaríngea.
+		3. La glosopexia
+		4. La traqueotomía
+		5. La distracción mandibular.
+___
+- Treacher Collins disostosis mandíbulo-facial
+	- Hipoplasia cigomática a veces  _Ausencia_
+	- micrognatismo mandibular
+	- atresia del canal auditivo
+	- Hendidura facial que se extiende desde el borde orbital hasta el cigoma
+	- Inclinación antimongologide de las fisuras palpebrales
+	- Coloboma del párpado inferior
+	- Agenesia principalmente premolares mandibulares
+	- erupción ectópica de 1eros molares superiores
+___
+- Turner
+	- presentan 45 cromosomas en vez de 46
+	- Pterigium colli cuello alado
+	- Cúbito valgo el antebrazo se desplaza hacia afuera mas de 7º
+	- Anomalías cardíacas que pueden necesitar profilaxis
+	- Base craneal corta Ba - Na
+	- Mordida abierta anterior
