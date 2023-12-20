@@ -4,23 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "038f3c31d9845fbd",
+        "id": "d4973203c68e3c96",
         "type": "tabs",
         "children": [
           {
-            "id": "0ba50f9c7206207e",
+            "id": "b7ba3337164ed7fc",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9d2ec41622551589",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
-                "mode": "preview",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+                "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "975c181706e0bc5f",
+            "id": "afefe3e93fec8bc7",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -105,7 +119,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 285.5,
+    "collapsed": true
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -132,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Fisuras_labio-palatinas.excalidraw.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +164,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Fisuras_labio-palatinas.excalidraw.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Fisuras_labio-palatinas.excalidraw.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md"
               }
             }
           },
@@ -182,11 +197,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
+    "width": 536.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -204,13 +219,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "975c181706e0bc5f",
+  "active": "9d2ec41622551589",
   "lastOpenFiles": [
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
-    "Spaces/Home/Examen de ortodoncia I y II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Recording 20231220142221.webm",
     "Excalidraw/Fisuras_labio-palatinas.excalidraw.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+    "Spaces/Home/Examen de ortodoncia I y II.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
+    "daily/20-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
     "daily/18-12-2023.md",
     "daily/19-12-2023.md",
@@ -231,8 +248,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "daily/15-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
-    "Excalidraw/erupcion_temporal.excalidraw.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180539.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180327.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212175916.png",
