@@ -8,7 +8,7 @@ tags:
 ---
 # Desarrollo de la oclusión
 ___
-El ser humano dispondrá a lo largo de su vida de dos denticiones: la temporal, decidua, de leche o primaria y la permanente o secundaria.
+El ser humano dispondrá a lo largo de su vida de dos denticiones: la temporal, decidua, de leche o primaria y la permanente o secundaria. <span style="color:#ff0000">Dentición difiodonta</span>
 
 Los premolares, caninos e incisivos permanentes sustituirán a los molares, caninos e incisivos temporales; mientra los molares permanentes harán erupción por distal de los molares temporales. 
 

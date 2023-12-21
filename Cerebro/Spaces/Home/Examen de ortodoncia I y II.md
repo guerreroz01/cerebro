@@ -12,7 +12,7 @@ sticker: emoji//1f948
 	- [ ] Lectura 3
 2. [[3 Oclusión normal y maloclusión]]
 	- [x] Lectura 1 ✅ 2023-12-14
-	- [ ] Lectura 2
+	- [x] Lectura 2 ✅ 2023-12-21
 	- [ ] Lectura 3
 3. [[4 Desarrollo de la oclusión]]
 	- [x] Lectura 1 ✅ 2023-12-14

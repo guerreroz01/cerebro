@@ -370,16 +370,16 @@ Se asocia con un marcado patrón braquicefálico.  Suele haber rotación horaria
 
 |Más frecuente|%|De población|
 |:----------|:---------:|:-----------:|
-|Mordida cruzada anterior|6,3% - 7,8%| 6,5% |
-|Mordida cruzada posterior|7% - 9%| 7,34% |
 |Mordida cruzada con desplazamiento funcional|12,2%|7,8%|
+|Mordida cruzada posterior|7% - 9%| 7,34% |
+|Mordida cruzada anterior|6,3% - 7,8%| 6,5% |
 
 - Para dientes impactados, erupción ectópica y transposición, se encontraron medias de 4,9% (De 3,7%), 5,4% (De 3,8%) y 0,5% (De 0,5%) respectivamente.
 
 |Más frecuente|%|De población|
 |:----------|:--------:|:---------:|
-|Dientes impactados|4,9%|3,7%|
 |Erupción ectópica|5,4%|3,8%|
+|Dientes impactados|4,9%|3,7%|
 |Transposición|0,5%|0,5%|
 
 La prevalencia varió ampliamente para la mayoría de los tipos de maloclusión en relación con las diferentes poblaciones, razas, nacionalidades y etnias; lo que sugiere un papel de la genética y las influencias ambientales, propias de cada población, en la determinación de los problemas dentales.
@@ -506,8 +506,8 @@ El riesgo de lesión traumática de los incisivos superiores aumenta la magnitud
 
 La incompetencia labial también aumenta el riesgo tanto en niños como en adultos.
 
-El pico de mayor incidencia de traumatismos dentales es los 10 años de edad.
-
+<span style="color:#ff0000">El pico de mayor incidencia de traumatismos dentales es los 10 años de edad.
+</span>
 ##### 5. Impactación dentaria:
 Los dientes que no erupcionen (_caninos superiores y terceros molares_) pueden dar lugar a reabsorción radicular de incisivos laterales, quistes y/o fracturas mandibulares.
 
