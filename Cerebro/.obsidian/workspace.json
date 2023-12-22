@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "06fa3c3dc7c526d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md"
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md"
               }
             }
           },
@@ -209,10 +196,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "06fa3c3dc7c526d0",
+  "active": "b7ba3337164ed7fc",
   "lastOpenFiles": [
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231222133419.png",
     "Spaces/Home/Examen de ortodoncia I y II.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+    "daily/22-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
     "daily/27-10-2023.md",
@@ -235,9 +225,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "Sin título.canvas",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180539.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180327.png",
@@ -248,7 +235,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212173149.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212173036.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212172820.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212172628.png",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
     "general knowledge/trading",

@@ -230,6 +230,8 @@ Con la maduración del SNC, desaparecen algunos reflejos orales.
 
 La secuencia ya no será succión + deglución sino masticación + deglución
 
+![[Pasted image 20231222133419.png]]
+
 ### Inicio de la transición a deglución adulta:
 El cambio del patrón de la deglución se establece de manera gradual, y es debido a la maduración neuromuscular y al cambio de la alimentación.
 
