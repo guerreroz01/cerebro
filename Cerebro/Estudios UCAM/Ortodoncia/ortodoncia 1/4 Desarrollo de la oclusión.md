@@ -97,7 +97,7 @@ Cuando se elimina el hábito, en ocasiones se requiere de un tiempo de transici�
 Si la interposición lingual durante la deglución se mantiene también en reposo, se convierte en un hábito que podría interferir en el cierre espontáneo de la mordida abierta anterior. 
 
 >[!danger] Deglución atípica
->Hablamos de deglución atípica cuando no se produce una correcta transición a la deglución adulta y se mantiene un patrón de deglución infantil.
+>Hablamos de deglución atípica cuando NO se produce una correcta transición a la deglución adulta y se mantiene un patrón de deglución infantil.
 
 Podemos afirmar que la maduración de la musculatura oral sigue un gradiente anteroposterior. Este patrón se refleja también en el desarrollo de la fonación. Los primeros sonidos que se pronuncian son los bilabiales ("m", "p", "b"), posteriormente aparecen los sonidos donde interviene la puntal de la lengua como ("t", "d") y más tarde la ("s", "z") en los que la lengua se coloca cerca del paladar. Mas tarde aparece el sonido de la "r" en el que hay que colocar correctamente la parte posterior de la lengua.
 
@@ -190,7 +190,7 @@ En el maxilar la corona del canino suele contactar con el primer premolar, hacie
 
 Sobre los 10 años suele ser palpable con el dedo el abultamiento que provoca a nivel vestibular la corona del canino. De no ser así, cabría sospechar que se hubiese desviado de su trayectoria de erupción y pudiese quedar impactado.
 
-Los caninos permanentes tienen un tamaño mesiodistal mayor que el de sus predecesores temporales. Para situarse en la arcada, el canino inferior aprovecha el espacio de primates inferior y el canino superior el espacio de primates superior y los diastemas entre los incisivos. Además los caninos permanentes tienen una erupción más vestibular.
+<span style="color:#ffff00">Los caninos permanentes tienen un tamaño mesiodistal mayor que el de sus predecesores temporales. Para situarse en la arcada, el canino inferior aprovecha el espacio de primates inferior y el canino superior el espacio de primates superior y los diastemas entre los incisivos. Además los caninos permanentes tienen una erupción más vestibular</span>.
 
 Los primeros premolares son ligeramente más pequeños mesiodistalmente que los primeros molares temporales y la diferencia de tamaño es mayor entre los segundos premolares y los segundos molares temporales, por lo que los premolares erupcionan sin problemas de espacio en condiciones normales. 
 
@@ -202,7 +202,9 @@ A diferencia de lo que ocurre en dientes anteriores (_en los que se produce la e
 
 El crecimiento de la tuberosidad posterior maxilar y la reabsorción del borde anterior de la rama mandibular proporcionan el espacio para la erupción de los segundos molares permanentes, que se sitúan en distal de los primeros molares permanentes  y erupcionan con una inclinación similar a la que lo hacían los primeros molares (_y que también seguirán los terceros molares_).
 
-El superior hacia distal y vestibular y el inferior hacia mesial y lingual. Las cúspides, al igual que ocurre con los premolares y los primeros molares, hacen de guía para la consecución de la oclusión. En determinadas ocasiones el crecimiento mandibular no proporciona el espacio suficiente para la erupción completa del segundo molar inferior, que queda parcialmente impactado contra el primer molar. El segundo molar superior, al no encontrar la guía de las cúspides del inferior, erupciona en dirección vestibular, quedando en mordida en tijera.
+El superior hacia distal y vestibular y el inferior hacia mesial y lingual. Las cúspides, al igual que ocurre con los premolares y los primeros molares, hacen de guía para la consecución de la oclusión. 
+
+En determinadas ocasiones el crecimiento mandibular no proporciona el espacio suficiente para la erupción completa del segundo molar inferior, que queda parcialmente impactado contra el primer molar. El segundo molar superior, al no encontrar la guía de las cúspides del inferior, erupciona en dirección vestibular, quedando en mordida en tijera.
 ![[Pasted image 20231122171122.png]]
 
 Existe una mayor asimetría bilateral entre dientes homólogos de la misma arcada que la que se produce en el recambio de los incisivos, considerándose dentro de la normalidad diferencias de semanas e incluso algunos meses. En general los dientes inferiores emergen antes que sus homólogos superiores.

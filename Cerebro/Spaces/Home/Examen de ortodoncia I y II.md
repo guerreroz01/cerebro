@@ -16,7 +16,7 @@ sticker: emoji//1f948
 	- [ ] Lectura 3
 3. [[4 Desarrollo de la oclusión]]
 	- [x] Lectura 1 ✅ 2023-12-14
-	- [ ] Lectura 2
+	- [x] Lectura 2 ✅ 2023-12-21
 	- [ ] Lectura 3
 4. [[5 Análisis facial]]
 	- [x] Lectura 1 ✅ 2023-12-17
