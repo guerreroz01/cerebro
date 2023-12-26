@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2cf2672934793149",
+        "id": "19623ba3e5302508",
         "type": "tabs",
         "children": [
           {
-            "id": "aea4b4a239f4e887",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "746ca088eadb59d9",
+            "id": "8111c822c0b14477",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md"
               }
             }
           },
@@ -186,11 +171,12 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,11 +193,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "746ca088eadb59d9",
+  "active": "8111c822c0b14477",
   "lastOpenFiles": [
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "daily/26-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
     "daily/25-12-2023.md",
@@ -244,7 +231,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
     "daily/09-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/cicatriz de Keith.md",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
     "general knowledge/trading",
