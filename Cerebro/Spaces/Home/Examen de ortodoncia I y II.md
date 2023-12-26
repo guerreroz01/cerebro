@@ -28,19 +28,19 @@ sticker: emoji//1f948
 	- [ ] Lectura 3
 6. [[7 Toma de registros]]
 	- [x] Lectura 1 ✅ 2023-12-17
-	- [ ] Lectura 2
+	- [x] Lectura 2 ✅ 2023-12-23
 	- [ ] Lectura 3
 7. [[8 Análisis de modelos]]
 	- [x] Lectura 1 ✅ 2023-12-17
-	- [ ] Lectura 2
+	- [x] Lectura 2 ✅ 2023-12-23
 	- [ ] Lectura 3
 8. [[estructuras y puntos cefalométricos]]
 	- [x] Lectura 1 ✅ 2023-12-17
-	- [ ] Lectura 2
+	- [x] Lectura 2 ✅ 2023-12-23
 	- [ ] Lectura 3
 9. [[10 Análisis de Steiner]]
 	- [x] Lectura 1 ✅ 2023-12-18
-	- [ ] Lectura 2
+	- [x] Lectura 2 ✅ 2023-12-23
 	- [ ] Lectura 3
 10. [[11 Análisis de Ricketts]]
 	- [x] Lectura 1 ✅ 2023-12-18

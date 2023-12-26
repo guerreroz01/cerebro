@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tercio medio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +96,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285.5,
-    "collapsed": true
+    "width": 285.5
   },
   "right": {
     "id": "e6c3aea2a1765694",
@@ -198,9 +197,12 @@
   },
   "active": "b7ba3337164ed7fc",
   "lastOpenFiles": [
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "Spaces/Home/Examen de ortodoncia I y II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+    "daily/23-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231222133419.png",
-    "Spaces/Home/Examen de ortodoncia I y II.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
     "daily/22-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
@@ -223,8 +225,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Recording 20231220142221.webm",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md",
     "Sin título.canvas",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180539.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180327.png",
