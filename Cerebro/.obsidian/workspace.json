@@ -20,8 +20,31 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "5478286fc9d0bf1c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
+            "id": "a663c22704c19c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "daily/26-12-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
+                "file": "daily/26-12-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
+                "file": "daily/26-12-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Examen de ortodoncia I y II.md"
+                "file": "daily/26-12-2023.md"
               }
             }
           },
@@ -195,10 +218,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b7ba3337164ed7fc",
+  "active": "a663c22704c19c68",
   "lastOpenFiles": [
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "daily/26-12-2023.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "daily/23-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
@@ -224,7 +248,6 @@
     "Excalidraw/Fisuras_labio-palatinas.excalidraw.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Recording 20231220142221.webm",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
     "Sin título.canvas",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180539.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180327.png",
