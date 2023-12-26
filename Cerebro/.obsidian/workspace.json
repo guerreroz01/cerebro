@@ -22,17 +22,7 @@
             }
           },
           {
-            "id": "5478286fc9d0bf1c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
-            }
-          },
-          {
-            "id": "a663c22704c19c68",
+            "id": "3bdeb3e362be76ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -44,7 +34,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,10 +208,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a663c22704c19c68",
+  "active": "3bdeb3e362be76ae",
   "lastOpenFiles": [
-    "daily/26-12-2023.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
+    "daily/26-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "daily/23-12-2023.md",

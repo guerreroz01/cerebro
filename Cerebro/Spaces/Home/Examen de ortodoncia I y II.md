@@ -78,7 +78,7 @@ sticker: emoji//1f948
 	- [ ] Lectura 3
  5. [[9 Síndromes]]
 	- [x] Lectura 1 ✅ 2023-12-19
-	- [ ] Lectura 2
+	- [x] Lectura 2 ✅ 2023-12-26
 	- [ ] Lectura 3
  6. [[Síndromes 2]]
 	- [x] Lectura 1 ✅ 2023-12-20
