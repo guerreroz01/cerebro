@@ -20,6 +20,7 @@
               },
               "pinned": true
             }
+<<<<<<< HEAD
           },
           {
             "id": "cb0ea91bc9c03129",
@@ -32,9 +33,10 @@
                 "source": false
               }
             }
+=======
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -136,7 +138,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +159,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +175,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md"
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md"
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
               }
             }
           },
@@ -195,20 +209,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Abrir vista gráfica": false,
-      "switcher:Abrir selector rápido": false,
-      "canvas:Crear nuevo canvas": false,
-      "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false,
-      "audio-recorder:Empezar/Parar de grabar": false,
-      "random-note:Abrir nota al azar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
       "copilot:Copilot Chat": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "daily-notes:Abrir la nota de hoy": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "cb0ea91bc9c03129",
+=======
+  "active": "aea4b4a239f4e887",
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
   "lastOpenFiles": [
     "Spaces/Home/Examen de ortodoncia I y II.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
@@ -236,9 +254,13 @@
     "daily/06-11-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
+<<<<<<< HEAD
     "Excalidraw/Fisuras_labio-palatinas.excalidraw.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Recording 20231220142221.webm",
     "Sin título.canvas",
+=======
+    "daily/25-12-2023.md",
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180539.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180327.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212175916.png",
