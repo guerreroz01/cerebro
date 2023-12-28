@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "89b2eee6ab6dc015",
+        "id": "6b3f0eee56697b34",
         "type": "tabs",
         "children": [
           {
-            "id": "eb8986a1054df1b7",
+            "id": "af0e8d067059be08",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -117,6 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,6 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md"
+              }
             }
           },
           {
@@ -167,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,8 +192,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "eb8986a1054df1b7",
+  "active": "af0e8d067059be08",
   "lastOpenFiles": [
+    "daily/27-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md",
@@ -222,7 +230,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
     "daily/10-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-    "daily/09-12-2023.md",
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
     "general knowledge/trading",
