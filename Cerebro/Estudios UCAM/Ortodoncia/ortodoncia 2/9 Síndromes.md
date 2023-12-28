@@ -89,7 +89,7 @@ Las técnicas de control conductual van desde las pequeñas recompensas o la des
 
 Se ha sugerido que la hipotonía muscular participa en el desarrollo de algunas alteraciones esqueléticas del complejo craneofacial, como:
 1. El patrón de crecimiento vertical
-2. La [[Clase II]] esqueléticas
+2. La [[Clase III]] esqueléticas
 3. Las mordidas abiertas
 
 ### Teoría del control de crecimiento
@@ -418,6 +418,7 @@ El crecimiento se da por 2 mecanismos principalmente:
 ![[Pasted image 20231205152103.png]]
 
 ## Microsomía hemifacial
+___
 Es un defecto congénito que involucra estructuras craneofaciales derivadas del primer y segundo arco branquial y afecta a:
 - Órbita
 - Maxilar
@@ -580,3 +581,97 @@ Al ser sometidos al cariotipo, los pacientes presentan 45 cromosomas en lugar de
 4. Rehabilitación funcional.
 ![[Pasted image 20231207151745.png]]
 ![[Pasted image 20231207151806.png]]
+
+## Resumen de lo más importante
+- Síndrome de Down: trisomía del cromosoma 21
+	- Generalmente [[Clase III]] esquelética
+	- Fisuras labiales muy frecuente en pacientes con SD
+	- Macroglosia
+	- Hipoplasia maxilar
+	- Retraso en la erupción y alteraciones cronológicas 50% agenesias
+	- Taurodontismo en el 33% - 55% de los pacientes
+	- Enfermedad periodontal > frecuencia Incisivos inf. y Molares sup.
+	- Deben evitarse las bandas metálicas en estos pacientes
+	- <span style="color:#ff0000">Requisitos para colocar aparatos removibles en pacientes SD:</span>
+		1. Edades tempranas
+		2. Mordida cruzada dentoalveolar o funcional <span style="color:#ffff00">NO ESQUELÉTICA SEVERA</span>
+		3. Colaboración del paciente
+___	
+- Crouzon o craneosinostosis múltiple
+	- <span style="color:#f519e3">autosómica dominante</span>
+	- hipoplasia maxilar por fusión de las suturas del tercio medio
+	- Clase III
+	- Labio superior corto
+	- <span style="color:#ff0000"> Condiciones para la reapertura de las suturas</span>
+		1. Pérdida progresiva de la visión
+		2. Fusión temprana de varias suturas a la vez que impidan el crecimiento adecuado del cráneo
+		3. Por motivos meramente estéticos
+___ 
+- Síndrome de Pfeiffer
+	- hipoplasia maxilar
+	- maloclusión clase III
+	- Sinostosis craneofacial
+___
+- Síndrome de Apert
+	- 4 a 5% de todos las craneosinostosis
+	- <span style="color:#f519e3">autosómico dominante</span>
+	- Una persona afectada tiene 50% de tener un hijo afectado
+	- Fusión de los dedos <span style="color:#00b0f0">SINDACTILIA</span>
+	- Acrocefalia cabeza en forma de cono 🎉
+	- Turribraquicefalia diámetro anteroposterior del cráneo disminuido
+	- Fisura palatina o úvula bífida
+	- PROTOCOLO de la universidad de California <--- 👀
+___
+- Acondroplasia
+	- <span style="color:#f519e3">autosómica dominante</span> 
+	- Defecto en la proliferación de los condrocitos causando inhibición en los cartílagos
+	- El crecimiento pasivo del maxilar se da hasta los 7 años
+	- Retrognatismo maxilar
+	- Base craneal posterior corta por deficit en el cartílago de la sincondrosis esfeno-occipital
+	- La mandíbula está normal pero el paciente es clase III por deficiencia maxilar
+___
+- Microsomía hemifacial
+	- defecto congénito a nivel del primer y segundo arco branquial
+	- Es el segundo defecto congénito más frecuente después del labio y paladar hendido
+	- afecta más a los hombres 3:2 y el lado derecho 3:2
+	- Etiología posible hemorragia a nivel del primer y segundo arco branquial
+	- Es importante el tratamiento ortopédico temprano para evitar las cirugías
+		- En crecimiento se centra en el <span style="color:#ffff00">control diferencial de erupción</span> 
+___
+- Síndrome de Marfan
+	- <span style="color:#f519e3">autosómica dominante</span> 
+	- trastorno del tejido conectivo musculoesquelético
+	- 90% de los casos con afectación cardiovascular
+	- Realizar un tratamiento ortopédico temprano
+	- profilaxis de endocarditis
+	- diagnóstico diferencial con Loeys-Diets (_úvula bífida_)
+___
+- Pierre Robin
+	- Triada:
+		- Micrognatia
+		- Glosoptosis
+		- Fisura del paladar
+	- Tratamiento
+		1. Tratamiento postural (_colocación del niño en posición prona_).
+		2. La intubación nasofaríngea.
+		3. La glosopexia
+		4. La traqueotomía
+		5. La distracción mandibular.
+___
+- Treacher Collins disostosis mandíbulo-facial
+	- Hipoplasia cigomática a veces  _Ausencia_
+	- micrognatismo mandibular
+	- atresia del canal auditivo
+	- Hendidura facial que se extiende desde el borde orbital hasta el cigoma
+	- Inclinación antimongologide de las fisuras palpebrales
+	- Coloboma del párpado inferior
+	- Agenesia principalmente premolares mandibulares
+	- erupción ectópica de 1eros molares superiores
+___
+- Turner
+	- presentan 45 cromosomas en vez de 46
+	- Pterigium colli cuello alado
+	- Cúbito valgo el antebrazo se desplaza hacia afuera mas de 7º
+	- Anomalías cardíacas que pueden necesitar profilaxis
+	- Base craneal corta Ba - Na
+	- Mordida abierta anterior

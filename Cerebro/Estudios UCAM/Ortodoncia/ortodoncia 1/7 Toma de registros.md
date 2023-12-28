@@ -29,3 +29,9 @@ sticker: emoji//1f6a7
 	- [f] Ángulo masticatorio de planas 
 	- [!] Líneas medias en clínica
 - [ ] Análisis de los elementos auxiliares -> fotos y modelos
+
+- La máxima apertura en niños es de 45 mm 
+- La máxima apertura en adultos es de 65 mm
+- Siempre se tomarán los grupos de incisivos en posición más anterior
+- Se comienza por los izquierdos -> Si los grupos de incisivos se encuentran en mordida cruzada se ira pasando a los que tengan una mordida normal, si todos están en mordida cruzada se dice que el casos tiene una mordida cruzada anterior.
+- 

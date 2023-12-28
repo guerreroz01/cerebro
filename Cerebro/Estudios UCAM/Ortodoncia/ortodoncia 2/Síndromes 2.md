@@ -9,11 +9,11 @@ tags:
 # Síndromes segunda parte
 ___
 ## Conceptos:
-- [ ] Fisura orofacial
-- [ ] Tipos de fisuras
-- [ ] Embriología de las fisuras
-- [ ] Donde aparece la falla del paladar primario
-- [ ] Donde aparece la falla del paladar secundario
+- [x] Fisura orofacial ✅ 2023-12-20
+- [x] Tipos de fisuras ✅ 2023-12-20
+- [x] Embriología de las fisuras ✅ 2023-12-20
+- [x] Donde aparece la falla del paladar primario ✅ 2023-12-20
+- [x] Donde aparece la falla del paladar secundario ✅ 2023-12-20
 - [ ] Qué define que sea derecha o izquierda o bilateral
 - [ ] Etiología de la fisura 
 - [ ] Alteraciones dentarias asociadas a las fisuras
@@ -123,7 +123,7 @@ La premaxila tiende a protruirse y los segmentos laterales tienden a colapsarse 
 ## Embriología
 ![[Pasted image 20231208183401.png]]
 
-El período crítico para el desarrollo intrauterino apropiado de la cara es entre la $5^{a}$ y la $7^{a}$ semana de gestación, siendo la más importante la $6^{a}$ semana.
+El período crítico para el desarrollo intrauterino apropiado de la cara es entre la $5^{a}$ y la $7^{a}$ semana de gestación,<span style="color:#f519e3"> siendo la más importante la </span> $6^{a}$ <span style="color:#f519e3">semana.</span>
 
 Durante este tiempo, la morfodiferenciación y orientación del proceso frontonasal (que incluye los procesos nasales medial y laterales), se producen simultáneamente con la migración medial progresiva y el crecimiento de los procesos maxilares.
 ![[Pasted image 20231208183722.png]]
@@ -145,7 +145,7 @@ De los procesos maxilares, sobre la $6^{a}$ semana, surgen unas excrecencias lam
 Van a formar el suelo del estomodeo y darán lugar a la mandíbula.
 
 #### El paladar se forma en dos etapas:
-1. **En la primera etapa**: se forma el **_triangulo palatino mediano primario_, derivado de la fusión de los dos procesos mediales originados del:
+1. **En la primera etapa**: se forma el **_triangulo palatino mediano primario_**, derivado de la fusión de los dos procesos mediales originados del:
 	1. <span style="color: yellow;">proceso frontonasal medial</span> y los <span style="color: teal;">procesos nasales laterales</span>. Se unen con los <span style="color: red;">procesos maxilares</span> en la $6^{a}$ semana intrauterina. Esto se completa en la $8^{a}$ semana.
 2. **En la segunda etapa**: crecimientos horizontales conocidos como procesos palatinos laterales, derivados de <span style="color: red;">procesos maxilares</span>, crecen horizontalmente sobre la lengua ($6^{a}$ semana) para formar el <span style="color: lightblue;">paladar secundario</span>. La fusión de estos procesos se completa en la $12^{a}$ semana intrauterina.
 
@@ -169,7 +169,7 @@ La etiología aún no está totalmente aclarada, pudiendo ser considerada como _
 ### Factor genético:
 Se acepta como principal factor etiológico, pero hasta un 60-70% de los casos constituye lo que se llama "casos aislados" _(el paciente presenta una anamnesis familiar negativa)_
 
-La etiopatogenia de las fisuras de labio y paladar y las fisuras aisladas de paladar pareciera ser genéticamente distinta.
+<span style="color:#00b0f0">La etiopatogenia de las fisuras de labio y paladar y las fisuras aisladas de paladar pareciera ser genéticamente distinta.</span>
 
 ### Fisuras como parte de un síndrome o alteración cromosómica:
 Se han descrito más de 300 síndromes que suelen presentar esta deformación:
@@ -242,7 +242,7 @@ Estas alteraciones pueden afectar tanto a la dentición temporal como a la perma
 
 Las más frecuentes son:
 1. Agenesias: Son más frecuentes en la dentición permanente que en la temporal, y los dientes más afectados son:
-	- Incisivo lateral superior
+	- <span style="color:#ffff00">Incisivo lateral superior</span>
 	- Segundo premolar superior
 	- Segundo premolar inferior
 
@@ -270,9 +270,9 @@ Se encuentra en localización distal a la fisura la mayoría de los casos (47,4%
 |Locacalización|%|
 |---------------|---|
 |Distal (D)| 47,4%|
+|Ausente sin desarrollo (AB)| 38,2%|
 |Mesial (M)| 9,2%|
 |Mesial y distal (MD)| 5,3%|
-|Ausente sin desarrollo (AB)| 38,2%|
 ![[Pasted image 20231209201920.png]]
 
 ## Crecimiento craneomaxilar
@@ -312,17 +312,17 @@ La evaluación del resultado de cada protocolo debe ser realizada a largo plazo,
 
 Se necesitan más colaboraciones multicéntricas, principalmente en el área quirúrgica, para reducir la variedad de modalidades de tratamiento y garantizar que el paciente fisurado reciba una práctica clínica basada en la evidencia.
 
-Los foniatras apoyan el cierre temprano del paladar (_antes de los 12 meses_) priorizando la obtención de un buen desarrollo del habla.
+<span style="color:#f519e3">Los foniatras</span> apoyan el cierre temprano del paladar (_antes de los 12 meses_) priorizando la obtención de un buen desarrollo del habla.
 
-Los cirujanos apoyan el cierre temprano del paladar para conseguir buena estética labial y nasal.
+<span style="color:#f519e3">Los cirujanos</span> apoyan el cierre temprano del paladar para conseguir buena estética labial y nasal.
 
 Millard apoya el cierre del paladar duro y blando en un tiempo.
 
 <span style="color: red;">Se ha sugerido el cierre temprano del paladar blando con el cierre tardío del paladar duro, pero ha producido resultados deficientes en el habla</span>
 
-Cuanto más desarrollo palatino exista antes de la cirugía, menos cicatrices y menos perturbación del crecimiento facial y mejor fonación.
+<span style="color:#00b050">Cuanto más desarrollo palatino exista antes de la cirugía, menos cicatrices y menos perturbación del crecimiento facial y mejor fonación.</span>
 
-<span style="color: yellow;">Es de consenso mundial cerrar la fisura palatina antes de los 18 meses de edad, debido al riesgo irreversible de <b>insuficiencia velopalatina</b> </span>
+⚠️ ✋<span style="color: yellow;">Es de consenso mundial cerrar la fisura palatina antes de los 18 meses de edad, debido al riesgo irreversible de <b>insuficiencia velopalatina</b> </span> 👀👀❗❗
 
 >[!danger] ❌
 >El paladar hendido se puede repara en el paciente recién nacido pero implica riesgos adicionales **apnea y obstrucción de la vía aérea**.
@@ -480,7 +480,7 @@ Reducir el nº de intervenciones quirúrgicas y necesitar un único procedimient
 #### Bases biológicas del moldeo:
 Al igual que el cartílago auricular, el cartílago nasal del neonato es plástico, por lo que permite moldeo activo y reposición.
 
-La plasticidad temporal del cartílago nasal en el período neonatal se cree que es causada por los altos niveles de ácido hialurónico, un componente de los proteoglicanos de la matriz intercelular que se encuentra en el recién nacido durante algunas semanas después del nacimiento.
+<span style="color:#ff0000">La plasticidad temporal del cartílago nasal en el período neonatal se cree que es causada por los altos niveles de ácido hialurónico, un componente de los proteoglicanos de la matriz intercelular que se encuentra en el recién nacido durante algunas semanas después del nacimiento.</span>
 
 El ácido hialurónico reduce la elasticidad de cartílago, ligamento y tejido conectivo mediante la ruptura de la matriz extracelular.
 
@@ -618,6 +618,7 @@ La cantidad de recidiva que sigue a la protracción activa puede relacionarse co
 - Corrección de la posición incorrecta de los incisivos superiores: Obtener una forma ideal de arcada como preparación para la colocación del injerto óseo a nivel alveolar.
 - La implantación de un INJERTO ÓSEO en la zona de la hendidura alveolar permite estabilizar la zona de la hendidura y crea un entorno adecuado para la erupción de dientes permanentes (IL y C).
 - Antes del injerto alveolar debe haberse completado el alineamiento de los incisivos.
+- <span style="color:#ff0000">Si en el momento de la colocación del injerto hay algún diente erupcionando en la fisura se extrae durante la cirugía y se pierde.</span> [[#Injerto óseo alveolar]].
 
 ### Ortodoncia en dentición permanente
 En este momento el crecimiento del adolescente es espectacular y se producen los primeros cambios de la pubertad. La discrepancia esquelética se acentúa y normalmente el aspecto facial y las relaciones oclusales empeoran.
@@ -690,7 +691,7 @@ La fractura Le Fort I convencional se reserva para pacientes con hipoplasia maxi
 #### Avance maxilar:
 Hacia los 12 años, nuevos protocolos basados en la osteogénesis por distracción pretenden prevenir la retrusión maxilar anteroposterior con técnicas precoces de corticotomía y dispositivos de distracción intraoral o extraoral.
 
-La cirugía en estas edades tiene por objeto evitar que al final del crecimiento el paciente presente una retrusión maxilar severa sobre la que es muy difícil actuar mediante técnicas ortognáticas convencionales, ya que las cicatrices palatinas impiden avances maxilares superiores a 4 o 5 mm (8 mm Varela).
+La cirugía en estas edades tiene por objeto evitar que al final del crecimiento el paciente presente una retrusión maxilar severa sobre la que es muy difícil actuar mediante técnicas ortognáticas convencionales, <span style="color:#ff0000">ya que las cicatrices palatinas impiden avances maxilares superiores a 4 o 5 mm (8 mm Varela)</span>.
 
 #### Expansión maxilar:
 Paciente de 20 años, palatoplastia a los 2 años, fistula oronasal en el lado de la fisura, perfil cóncavo, [[Clase III]] esquelética de causa mixta, mordida cruzada anterior y posterior

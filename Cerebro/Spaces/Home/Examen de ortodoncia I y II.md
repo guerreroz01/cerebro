@@ -1,48 +1,93 @@
+---
+sticker: emoji//1f948
+---
+
 # Temario Orto-I
+
 1. [[1 Historia de la ortodoncia]]
-	- [ ] Lectura 1
-2. [[2 Crecimiento y Desarrollo]]
-	- [ ] Lectura 1
-3. [[3 Oclusión normal y maloclusión]]
-	- [ ] Lectura 1
-4. [[4 Desarrollo de la oclusión]]
-	- [ ] Lectura 1
-5. [[5 Análisis facial]]
-	- [ ] Lectura 1
-6. [[6 Hábitos y disfunciones orales]]
-	- [ ] Lectura 1
-7. [[7 Toma de registros]]
-	- [ ] Lectura 1
-8. [[8 Análisis de modelos]]
-	- [ ] Lectura 1
-9. [[estructuras y puntos cefalométricos]]
-	- [ ] Lectura 1
-10. [[10 Análisis de Steiner]]
-	- [ ] Lectura 1
-11. [[11 Análisis de Ricketts]]
-	- [ ] Lectura 1
-12. [[13 Cefalometría frontal de Ricketts y cbct]]
-	- [ ] Lectura 1
-13. [[Análisis de Arnett]]
-	- [ ] Lectura 1
-14. [[Biologia del movimiento dental]]
-	- [ ] Lectura 1
-15. [[Cajetín de Steiner]]
-	- [ ] Lectura 1
+   - [x] Lectura 1 ✅ 2023-12-13
+   - [x] Lectura 2 ✅ 2023-12-20
+   - [ ] Lectura 3
+1. [[2 Crecimiento y Desarrollo]]
+   - [x] Lectura 1 ✅ 2023-12-14
+   - [x] Lectura 2 ✅ 2023-12-20
+   - [ ] Lectura 3
+1. [[3 Oclusión normal y maloclusión]]
+   - [x] Lectura 1 ✅ 2023-12-14
+   - [x] Lectura 2 ✅ 2023-12-21
+   - [ ] Lectura 3
+1. [[4 Desarrollo de la oclusión]]
+   - [x] Lectura 1 ✅ 2023-12-14
+   - [x] Lectura 2 ✅ 2023-12-21
+   - [ ] Lectura 3
+1. [[5 Análisis facial]]
+   - [x] Lectura 1 ✅ 2023-12-17
+   - [x] Lectura 2 ✅ 2023-12-22
+   - [ ] Lectura 3
+1. [[6 Hábitos y disfunciones orales]]
+   - [x] Lectura 1 ✅ 2023-12-17
+   - [x] Lectura 2 ✅ 2023-12-22
+   - [ ] Lectura 3
+1. [[7 Toma de registros]]
+   - [x] Lectura 1 ✅ 2023-12-17
+   - [x] Lectura 2 ✅ 2023-12-23
+   - [ ] Lectura 3
+1. [[8 Análisis de modelos]]
+   - [x] Lectura 1 ✅ 2023-12-17
+   - [x] Lectura 2 ✅ 2023-12-23
+   - [ ] Lectura 3
+1. [[estructuras y puntos cefalométricos]]
+   - [x] Lectura 1 ✅ 2023-12-17
+   - [x] Lectura 2 ✅ 2023-12-23
+   - [ ] Lectura 3
+1. [[10 Análisis de Steiner]]
+   - [x] Lectura 1 ✅ 2023-12-18
+   - [x] Lectura 2 ✅ 2023-12-23
+   - [ ] Lectura 3
+1. [[11 Análisis de Ricketts]]
+   - [x] Lectura 1 ✅ 2023-12-18
+   - [ ] Lectura 2
+   - [ ] Lectura 3
+1. [[13 Cefalometría frontal de Ricketts y cbct]]
+   - [ ] Lectura 1
+   - [ ] Lectura 2
+   - [ ] Lectura 3
+1. [[14 Análisis de Arnett]]
+   - [ ] Lectura 1
+   - [ ] Lectura 2
+   - [ ] Lectura 3
+1. Cajetín de Steiner
+   - [ ] Lectura 1
+   - [ ] Lectura 2
+   - [ ] Lectura 3
 
 # Temario Orto-II
-1. [[cirugía ortognática]]
-	- [ ] Lectura 1
- 2. [[8-1 Ortodoncia Interdisciplinar I]]
-	- [ ] Lectura 1
- 3. [[8-2 Ortodoncia interdisciplinar II]]
-	- [ ] Lectura 1
- 4. Artículo científico
-	- [ ] Lectura 1
- 5. [[9 Síndromes]]
-	- [ ] Lectura 1
- 6. [[Síndromes 2]]
-	- [ ] Lectura 1
- 7. [[Iatrogenia y ética]]
-	- [ ] Lectura 1
 
+1. [[10 Cirugía ortognática]]
+   - [x] Lectura 1 ✅ 2023-12-18
+   - [ ] Lectura 2
+   - [ ] Lectura 3
+2. [[8-1 Ortodoncia Interdisciplinar I]]
+   - [x] Lectura 1 ✅ 2023-12-18
+   - [ ] Lectura 2
+   - [ ] Lectura 3
+3. [[8-2 Ortodoncia interdisciplinar II]]
+   - [x] Lectura 1 ✅ 2023-12-19
+   - [ ] Lectura 2
+   - [ ] Lectura 3
+4. Artículo científico
+   - [x] Lectura 1 ✅ 2023-12-19
+   - [ ] Lectura 2
+   - [ ] Lectura 3
+5. [[9 Síndromes]]
+   - [x] Lectura 1 ✅ 2023-12-19
+   - [x] Lectura 2 ✅ 2023-12-26
+   - [ ] Lectura 3
+6. [[Síndromes 2]]
+   - [x] Lectura 1 ✅ 2023-12-20
+   - [x] Lectura 2 ✅ 2023-12-28
+   - [ ] Lectura 3
+7. [[Iatrogenia y ética]]
+   - [x] Lectura 1 ✅ 2023-12-20
+   - [ ] Lectura 2
+   - [ ] Lectura 3

@@ -20,7 +20,7 @@ Los dientes apiñados han supuesto un problema para muchos individuos desde tiem
 
 <span style="color: red;"> A partir de 1850</span> aparecen los primeros tratados de Ortodoncia.
 
-Los estudios sobre el crecimiento maxilar y mandibular proliferarón en la segunda mitad del siglo XIX (_después de 1950_) y las correcciones ortodóncicas se hicieron cada vez más ortopédicas en su enfoque terapéutico.
+Los estudios sobre el crecimiento maxilar y mandibular proliferarón en la segunda mitad del siglo XIX (_después de 1850_) y las correcciones ortodóncicas se hicieron cada vez más ortopédicas en su enfoque terapéutico.
 
 Fue Angle quien introdujo el concepto de oclusión dentaria. Desde entonces el ortodoncista persigue tanto el alineamiento de los dientes como el equilibrio y la belleza del rostro humano, en un balance dinámico del sistema estomatognático, que va más allá de una simple relación de cúspide-cóndilo-fosa.
 ![[Pasted image 20231212143326.png]]
@@ -28,7 +28,7 @@ Fue Angle quien introdujo el concepto de oclusión dentaria. Desde entonces el o
 ## Época antigua
 3000 a. C. Existe la primera evidencia sobre la corrección de dientes apiñados y protruidos.
 
-En las momias egipcias se encontrarón bandas metálicas alrededor de cada diente y se especula que usaban los intestinos de algunos animales para mover los dientes.
+En las momias egipcias se encontraron bandas metálicas alrededor de cada diente y se especula que usaban los intestinos de algunos animales para mover los dientes.
 
 ### Primer testimonio escrito sobre la ortodoncia:
 Se da en Grecia por <span style="color: teal;">Hipócrates 460-377 a.C.</span> En el sexto libro de las epidemias afirma que entre individuos con cabeza alargada, algunos tienen paladares ojivales apiñamiento, dolor de cabeza y otorrea. <span style="color:red;">Describe un procedimiento ortodóncico para un diente erupcionado ectópicamente.</span>
@@ -219,7 +219,7 @@ Que fue estudiante de Angle trató de corregir las deficiencias que vio en la fi
 
 Propugnó la extracción de premolares sobre la base de su triángulo de diagnóstico, que era la primera estrategia de planificación de tratamiento sistemático que los ortodoncistas tenían.
 
-Tweed recibió la corroboración simultánea de orto ex-alumno de Angle en Australia, Raymond Begg.
+Tweed recibió la corroboración simultánea de otro ex-alumno de Angle en Australia, Raymond Begg.
 
 ### Raymond Begg
 Alumno de Angle, retornó a los brackets de arco de cinta y arcos redondos a principios de los años 30. Esto permitía la libre inclinación mesiodistal de la corona para facilitar la retrusión dental anterior y el cierre de espacios.
@@ -361,3 +361,17 @@ Todavía no somos capaces de ver qué pasa en las raíces cuando movemos las cor
 ### Alineadores elásticos:
 Es una técnica individualizada, se trabaja mediante software. Requiere conocimientos específicos a la hora de diseñar el tratamiento. Los alineadores se deben llevar 22 horas al día y los pacientes deben llevar elementos adheridos como ataches, botones y topes oclusales.
 ![[Pasted image 20231212180539.png]]
+
+
+## A destacar:
+- Pierre Fauchard con su aparato el Bandeau
+- Primer libro de odontología en español por Francisco Martínez del Castillo en 1557
+- Llaves de Angle:  
+	- Llave 1: Relación molar
+	- Llave 2: Inclinación mesio distal _tip_
+	- Llave 3: Inclinación vestibulo lingual _torque_
+	- Llave 4: Rotaciones
+	- Llave 5: Diastemas
+	- Llave 6: Curva de Spee
+- La técnica de Roth usa el cierre de espacios por desplazamiento arcos DKL
+- La técnica de MBT usa el cierre de espacios por deslizamiento.

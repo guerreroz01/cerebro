@@ -57,7 +57,9 @@ La clase I molar es cuando:
 3. La corona del primer molar superior tiene una inclinación de manera que la vertiente distal de su reborde marginal distal ocluya sobre la vertiente mesial del reborde marginal mesial del segundo molar inferior.
 ![[Pasted image 20231115222609.png]]
 
-Esta relación requiere que el molar superior presente un grado de inclinación suficiente. La falta de una inclinación adecuada del molar provoca una alteración de la [[Clase I]] canina que será mayor cuanto más vertical sea la posición del molar.
+Esta relación requiere que el molar superior presente un grado de inclinación suficiente. 
+
+ <span style="color: yellow;">La falta de una inclinación adecuada del molar provoca una alteración de la [[Clase I]] canina que será mayor cuanto más vertical sea la posición del molar.</span>
 
 4. Las cúspides vestibulares de los premolares superiores tienen una relación cúspide-tronera con los premolares inferiores. 
 
@@ -128,7 +130,7 @@ La correlación de la frecuente rotación de los primeros molares superiores es 
 ### Clave 5 Puntos de contacto / Espacios o diastemas
 Los dientes están ubicados con sus puntos de contacto perfectamente relacionados, sin espacios entre sí.
 
-Esto requiere que no existan malformaciones dentarias ni discrepancias en el ancho mesiodistal de los dientes de ambos maxilares, es decir, que no esté alterado el [[Índice de Bolton]] 
+Esto requiere que no existan malformaciones dentarias ni discrepancias en el ancho mesiodistal de los dientes de ambos maxilares, es decir, que no esté alterado el [[8 Análisis de modelos#Índice de Bolton|Índice de Boltón]]. 
 
 Cuando existe **discrepancia de Bolton**, si se pretende mantener los puntos de contacto, seguramente se altera la relación interoclusal, es decir, la clase canina y la relación molar, o el overjet y overbite.
 
@@ -163,7 +165,7 @@ En esta posición debe existir un espacio libre de 0,012 mm entre los bordes inc
 Tanto el overbite como el overjet deben ser suficientes para asegurar una correcta funcionalidad de la [[Guía Anterior]] y [[Guía Canina]], evitando los contactos posteriores.
 
 ### 4. Excursiones laterales
-En tas excursiones laterales, los caninos deben ocluir y el resto desocluir.
+En las excursiones laterales, los caninos deben ocluir y el resto desocluir.
 ![[Pasted image 20231118130018.png]]
 
 ### 5. Protrusiva
@@ -237,12 +239,12 @@ Debemos atender a los tres planos del espacio para una completa clasificación d
 
 - La [[Clase I]] molar suele ir acompañada de una clase I esquelética, aunque puede haber una clase II o clase III esquelética.
 
-- Teniendo en cuenta los diferentes [[patrón de crecimiento|patrones de crecimiento]] que puede representar el paciente, finalmente es posible estar frente a múltiples combinaciones de maloclusiones.
+- Teniendo en cuenta los diferentes [[2 Crecimiento y Desarrollo#Patrón de crecimiento|patrones de crecimiento]] que puede representar el paciente, finalmente es posible estar frente a múltiples combinaciones de maloclusiones.
 
 - La maloclusión puede afectar también a otros planos del espacio, como en el caso de las mordidas cruzadas, las mordidas abiertas o las sobremordidas aumentadas.
 
 #### Clase I con apiñamiento
-La causa más frecuente de esta maloclusión es la [[Discrepancias Oseo Dentarias]] negativa, con un exceso de material dental o falta de espacio.
+La causa más frecuente de esta maloclusión es la [[8 Análisis de modelos#Cálculo de la discrepancia óseo dentaria|DOD]] negativa, con un exceso de material dental o falta de espacio.
 
 Las características más habituales son el **apiñamiento anterior y los caninos elevados o retenidos**.
 
@@ -279,7 +281,7 @@ Sobremordida anterior aumentada.
 
 Las características esqueléticas no son tan marcadas como en otras maloclusiones. ==Cuando hay clase II esquelética, es de causa mandibular.==
 
-El patrón facial de crecimiento es [[braquifacial]] #error se da en pacientes con un tono muscular fuerte.
+El patrón facial de crecimiento es [[braquifacial]] se da en pacientes con un tono muscular fuerte.
 
 Estéticamente, se observa un perfil cóncavo, retrusión labial, labios finos e hipertónicos y ángulo goniaco cerrado.
 
@@ -368,16 +370,16 @@ Se asocia con un marcado patrón braquicefálico.  Suele haber rotación horaria
 
 |Más frecuente|%|De población|
 |:----------|:---------:|:-----------:|
-|Mordida cruzada anterior|6,3% - 7,8%| 6,5% |
-|Mordida cruzada posterior|7% - 9%| 7,34% |
 |Mordida cruzada con desplazamiento funcional|12,2%|7,8%|
+|Mordida cruzada posterior|7% - 9%| 7,34% |
+|Mordida cruzada anterior|6,3% - 7,8%| 6,5% |
 
 - Para dientes impactados, erupción ectópica y transposición, se encontraron medias de 4,9% (De 3,7%), 5,4% (De 3,8%) y 0,5% (De 0,5%) respectivamente.
 
 |Más frecuente|%|De población|
 |:----------|:--------:|:---------:|
-|Dientes impactados|4,9%|3,7%|
 |Erupción ectópica|5,4%|3,8%|
+|Dientes impactados|4,9%|3,7%|
 |Transposición|0,5%|0,5%|
 
 La prevalencia varió ampliamente para la mayoría de los tipos de maloclusión en relación con las diferentes poblaciones, razas, nacionalidades y etnias; lo que sugiere un papel de la genética y las influencias ambientales, propias de cada población, en la determinación de los problemas dentales.
@@ -474,9 +476,9 @@ Difícilmente podemos valorar la necesidad de los tratamientos de ortodoncia en 
 4.  [[#4. Traumatismos dentales|Traumatismos dentales]]
 5.  [[#5. Impactación dentaria|Impactación dentaria]]
 6.  [[#6. Función masticatoria|Función masticatoria ineficaz]]
-7.  Deglución atípica
-8.  Fonación imprecisa
-9.  Desordenes Temporomandibulares.
+7.  [[#7. Deglución|Deglución atípica]]
+8.  [[#8. Fonación|Fonación imprecisa]]
+9.  [[#DTMs Disfunción temporomandibular|Desordenes Temporomandibulares.]]
 
 ##### 1. Problemas psicosociales:
 Algunos pacientes portadores de una maloclusión ostensible, cuya corrección pareciera razonable, no están interesados o motivados hacia la corrección ortodóncica de su deformidad. No obstante, cuando el grado de deformidad crea un MALESTAR PSICOLÓGICO a la persona que lo porta, estaría justificado considerar la maloclusión como causante de una **ENFERMEDAD** que perjudica a su salud como individuo y deteriora sus relaciones sociales.
@@ -504,8 +506,8 @@ El riesgo de lesión traumática de los incisivos superiores aumenta la magnitud
 
 La incompetencia labial también aumenta el riesgo tanto en niños como en adultos.
 
-El pico de mayor incidencia de traumatismos dentales es los 10 años de edad.
-
+<span style="color:#ff0000">El pico de mayor incidencia de traumatismos dentales es los 10 años de edad.
+</span>
 ##### 5. Impactación dentaria:
 Los dientes que no erupcionen (_caninos superiores y terceros molares_) pueden dar lugar a reabsorción radicular de incisivos laterales, quistes y/o fracturas mandibulares.
 
@@ -547,3 +549,21 @@ Los estudios longitudinales han mostrado que, entre los pacientes que han seguid
 
 La perspectiva actual de consenso es que el tratamiento de ortodoncia bien realizado no es la causa de DTMs (_disfunciones temporomandibulares_).
 
+
+## Aspectos más importantes:
+- Eje mayor de la corona clínica EM es una línea que pasa por la porción más prominente de cada cara vestibular "_con excepción de los molares_".
+- Plano de Andrews es un plano que une todos los puntos EM
+- Llaves de Andrew
+	- Relación molar de las llaves de Andrew si el molar no tiene la inclinación adecuada hacia distal de la raíz afectará la [[Clase I]] canina, mientras más vertical más [[Clase II]] canina
+	- Segunda llave de Andrew tip todos los dientes tienen tip positivo a excepción de molares inferiores, premolares de ambas arcadas y incisivos inferiores que tienen tip 0 o neutro
+	- Tercera llave de Andrew torque: sólo los incisivos superiores tienen torque positivo todos los demás dientes tienen torque negativo -> más negativo mientras más a distal
+	- Cuarta llave de Andrew las rotaciones: no debe haber rotaciones, los incisivos ocupan menos espacio rotados mientras que los molares y premolares ocupan más espacio cuando están rotados.
+	- Quinta llave de Andrew diastemas: no deben existir diastemas
+	- Sexta llave de Andrew curva de Spee: debe ser plana no más de 1.5 mm de profundidad
+- Objetivos funcionales que la máxima coincida con la céntrica
+- Una maloclusión funcional es cuando no hay guías y no hay función normal de los complejos temporo mandibulares.
+- Maloclusión estructural es cuando aunque coincidan la máxima y la céntrica siguen habiendo malposiciones.
+- La causa más frecuente de maloclusión de [[Clase I]] es la [[8 Análisis de modelos#Cálculo de la discrepancia óseo dentaria|DOD]], con apiñamiento anterior y caninos elevados
+- En la clase II div 2 no debe haber resalte
+- Cuando hay clase II esquelética es de causa mandibular.
+- 

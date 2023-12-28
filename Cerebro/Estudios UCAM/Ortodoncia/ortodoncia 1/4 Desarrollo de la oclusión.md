@@ -8,7 +8,7 @@ tags:
 ---
 # Desarrollo de la oclusión
 ___
-El ser humano dispondrá a lo largo de su vida de dos denticiones: la temporal, decidua, de leche o primaria y la permanente on secundaria.
+El ser humano dispondrá a lo largo de su vida de dos denticiones: la temporal, decidua, de leche o primaria y la permanente o secundaria. <span style="color:#ff0000">Dentición difiodonta</span>
 
 Los premolares, caninos e incisivos permanentes sustituirán a los molares, caninos e incisivos temporales; mientra los molares permanentes harán erupción por distal de los molares temporales. 
 
@@ -97,7 +97,7 @@ Cuando se elimina el hábito, en ocasiones se requiere de un tiempo de transici�
 Si la interposición lingual durante la deglución se mantiene también en reposo, se convierte en un hábito que podría interferir en el cierre espontáneo de la mordida abierta anterior. 
 
 >[!danger] Deglución atípica
->Hablamos de deglución atípica cuando no se produce una correcta transición a la deglución adulta y se mantiene un patrón de deglución infantil.
+>Hablamos de deglución atípica cuando NO se produce una correcta transición a la deglución adulta y se mantiene un patrón de deglución infantil.
 
 Podemos afirmar que la maduración de la musculatura oral sigue un gradiente anteroposterior. Este patrón se refleja también en el desarrollo de la fonación. Los primeros sonidos que se pronuncian son los bilabiales ("m", "p", "b"), posteriormente aparecen los sonidos donde interviene la puntal de la lengua como ("t", "d") y más tarde la ("s", "z") en los que la lengua se coloca cerca del paladar. Mas tarde aparece el sonido de la "r" en el que hay que colocar correctamente la parte posterior de la lengua.
 
@@ -190,7 +190,7 @@ En el maxilar la corona del canino suele contactar con el primer premolar, hacie
 
 Sobre los 10 años suele ser palpable con el dedo el abultamiento que provoca a nivel vestibular la corona del canino. De no ser así, cabría sospechar que se hubiese desviado de su trayectoria de erupción y pudiese quedar impactado.
 
-Los caninos permanentes tienen un tamaño mesiodistal mayor que el de sus predecesores temporales. Para situarse en la arcada, el canino inferior aprovecha el espacio de primates inferior y el canino superior el espacio de primates superior y los diastemas entre los incisivos. Además los caninos permanentes tienen una erupción más vestibular.
+<span style="color:#ffff00">Los caninos permanentes tienen un tamaño mesiodistal mayor que el de sus predecesores temporales. Para situarse en la arcada, el canino inferior aprovecha el espacio de primates inferior y el canino superior el espacio de primates superior y los diastemas entre los incisivos. Además los caninos permanentes tienen una erupción más vestibular</span>.
 
 Los primeros premolares son ligeramente más pequeños mesiodistalmente que los primeros molares temporales y la diferencia de tamaño es mayor entre los segundos premolares y los segundos molares temporales, por lo que los premolares erupcionan sin problemas de espacio en condiciones normales. 
 
@@ -202,7 +202,9 @@ A diferencia de lo que ocurre en dientes anteriores (_en los que se produce la e
 
 El crecimiento de la tuberosidad posterior maxilar y la reabsorción del borde anterior de la rama mandibular proporcionan el espacio para la erupción de los segundos molares permanentes, que se sitúan en distal de los primeros molares permanentes  y erupcionan con una inclinación similar a la que lo hacían los primeros molares (_y que también seguirán los terceros molares_).
 
-El superior hacia distal y vestibular y el inferior hacia mesial y lingual. Las cúspides, al igual que ocurre con los premolares y los primeros molares, hacen de guía para la consecución de la oclusión. En determinadas ocasiones el crecimiento mandibular no proporciona el espacio suficiente para la erupción completa del segundo molar inferior, que queda parcialmente impactado contra el primer molar. El segundo molar superior, al no encontrar la guía de las cúspides del inferior, erupciona en dirección vestibular, quedando en mordida en tijera.
+El superior hacia distal y vestibular y el inferior hacia mesial y lingual. Las cúspides, al igual que ocurre con los premolares y los primeros molares, hacen de guía para la consecución de la oclusión. 
+
+En determinadas ocasiones el crecimiento mandibular no proporciona el espacio suficiente para la erupción completa del segundo molar inferior, que queda parcialmente impactado contra el primer molar. El segundo molar superior, al no encontrar la guía de las cúspides del inferior, erupciona en dirección vestibular, quedando en mordida en tijera.
 ![[Pasted image 20231122171122.png]]
 
 Existe una mayor asimetría bilateral entre dientes homólogos de la misma arcada que la que se produce en el recambio de los incisivos, considerándose dentro de la normalidad diferencias de semanas e incluso algunos meses. En general los dientes inferiores emergen antes que sus homólogos superiores.
@@ -241,7 +243,7 @@ Cuando un escalón distal provocó que la relación inicial de los primeros mola
 ## Dentición permanente: dentición permanente juvenil y adulta:
 Hablamos de dentición permanente juvenil cuando se ha completado el recambio de todos los dientes temporales y han hecho emergencia los segundos molares permanentes. Cuando la erupción de estos segundos molares establece el contacto entre ellos y se produce el ajuste oclusal a nivel posterior, pasaríamos a la dentición permanente adulta.
 
-No tendremos en cuenta los terceros molares para la elevada frecuencia de agenesia e impactación que se producen en estos dientes.
+No tendremos en cuenta los terceros molares por la elevada frecuencia de agenesia e impactación que se producen en estos dientes.
 
 - Durante el periodo de transición de dentición permanente juvenil a dentición permanente adulta las raíces de los dientes van acomodando su posición. 
 
@@ -302,3 +304,77 @@ El crecimiento del proceso alveolar sigue produciéndose durante la dentición p
 En la dimensión vertical existirán importantes diferencias individuales dependiendo del biotipo facial. Tengamos en cuenta que la compensación alveolar puede actuar como mecanismo de adaptación de determinados cambios en las bases óseas o de cierto grado de discrepancia esquelética; y que el crecimiento y disposición de las bases esqueléticas será también relevante.
 
 ![[Pasted image 20231124212414.png]]
+
+## Aspectos importantes:
+- Dentición temporal:
+
+|Dentición temporal| Semana |
+|-----------|---------|
+|Comienzo	| 6$^{ta}$ 7$^{ma}$|
+
+| Calcificación| Semana|
+|--------------|---------|
+|Incisivos | 14 |
+|Primeros molares | 15.5 |
+|Incisivos laterales | 16 |
+|Caninos | 17 |
+|Segundos molares | 18 |
+
+- Dentición permanente
+
+| Calcificación | Meses|
+|-------------|----------|
+| Primer molar | nacimiento |
+|Incisivos centrales | 3-4 |
+|Laterales inferiores | poco después de los anteriores |
+|Caninos | 5 |
+| Incisivos laterales sup| 12 |
+|1$^{er}$ premolar, 2$^{do}$ premolar, 2$^{do}$ molar| 24 a 36 |
+
+- La erupción dental comienza cuando la raíz tiene entre 1/4 y 1/3 formada.
+- Fase <span style="color: red;">activa prefuncional</span> desde que el 🦷 emerge hasta el contacto con el antagonista.
+- Fase <span style="color: red;"> activa funcional</span> lo que pasa después del contacto oclusal.
+	- Fase equilibrio oclusal juvenil compensa el crecimiento vertical mandibular durante la etapa puberal
+	- Fase equilibrio oclusal adulto compensa la atrición o desgaste de los dientes.
+- <span style="color: yellow;">Acelerón postemergente</span> es cuando el 🦷 emerge en la fase activa prefuncional.
+- <span style="color: #FF55AA;">Erupción pasiva</span> migración de la encía a apical.
+- En la fase de rodetes hay contacto posterior, en anterior no hay contacto y el superior solapa al inferior.
+- Erupción de los dientes temporales
+
+| Diente | Mes |
+|--------|------|
+|ICI | 6 |
+|ICS | 7 |
+|ILS | 8 |
+|ILI | 9 |
+| 1MS | 16 |
+| 1MI | 16 |
+|CS | 20 |
+|CI | 20 |
+| 2MI | 26-30|
+|2MS | 26-30|
+![[erupcion_temporal.excalidraw]]
+- El ángulo interincisivo en dientes temporales es más abierto
+- El <span style="color:#ccb100">plano terminal recto </span>es el más frecuente <span style="color:#ccb100">50%</span> de los casos
+
+|Sonidos|Posición de la lengua|
+|---------|------------------|
+|1. "m", "p", "b"|neutra, usan los labios (_bilabiales_)|
+|2. "t", "d"|punta de la lengua|
+|3. "s", "z"|la lengua se coloca cerca del paladar|
+|4. "r"|parte posterior de la lengua|
+
+- Primer periodo de transición 
+	- ![[Pasted image 20231122153657.png]]
+- Periodo intertransicional
+	- En niñas es 1 año y 1/2
+	- En niños 2 años 1/2
+- Segundo periodo de transición
+	- ![[Pasted image 20231122163321.png]]
+	- En esta secuencia los rojos nunca deben salir primero que los verdes
+	- ![[Pasted image 20231122163546.png]]
+- Espacio de deriva 
+	- 0.9 superior por cuadrante
+	- 1.7 inferior por cuadrante
+- La mejor secuencia de erupción en inferior es <span style="color:#00b050">C -> 1PM -> 2PM -> 2M</span>
+- Peor secuencia de erupción en inferior es <span style="color:#ff0000">1PM -> C -> 2M -> 2PM</span>

@@ -4,20 +4,48 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "6b3f0eee56697b34",
         "type": "tabs",
         "children": [
           {
             "id": "af0e8d067059be08",
+=======
+        "id": "d4973203c68e3c96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7ba3337164ed7fc",
+>>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
+                "mode": "source",
+=======
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
+                "mode": "preview",
+>>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
+                "source": false
+              }
+            }
+<<<<<<< HEAD
+          },
+          {
+            "id": "cb0ea91bc9c03129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
                 "mode": "source",
                 "source": false
               }
             }
+=======
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
           }
         ]
       }
@@ -49,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tercio medio",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +149,15 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
+=======
+<<<<<<< HEAD
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
+>>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +174,15 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
+=======
+<<<<<<< HEAD
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
+>>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +194,15 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md"
+=======
+<<<<<<< HEAD
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md"
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md"
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
+>>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
               }
             }
           },
@@ -175,7 +227,12 @@
       }
     ],
     "direction": "horizontal",
+<<<<<<< HEAD
     "width": 373.5
+=======
+    "width": 536.5,
+    "collapsed": true
+>>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,6 +249,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "af0e8d067059be08",
   "lastOpenFiles": [
     "daily/27-12-2023.md",
@@ -201,8 +259,47 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "daily/26-12-2023.md",
+=======
+<<<<<<< HEAD
+  "active": "cb0ea91bc9c03129",
+=======
+  "active": "aea4b4a239f4e887",
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
+  "lastOpenFiles": [
+    "Spaces/Home/Examen de ortodoncia I y II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
+    "daily/26-12-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+    "daily/23-12-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231222133419.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+    "daily/22-12-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+    "daily/27-10-2023.md",
+    "daily/21-12-2023.md",
+    "daily/20-12-2023.md",
+    "daily/20-10-2023.md",
+    "daily/19-12-2023.md",
+    "daily/18-12-2023.md",
+    "daily/17-12-2023.md",
+    "daily/15-12-2023.md",
+    "daily/14-12-2023.md",
+    "daily/13-12-2023.md",
+    "daily/06-11-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+>>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
     "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
+<<<<<<< HEAD
+    "Excalidraw/Fisuras_labio-palatinas.excalidraw.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Recording 20231220142221.webm",
+    "Sin título.canvas",
+=======
     "daily/25-12-2023.md",
+>>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180539.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180327.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212175916.png",
@@ -212,6 +309,7 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212173149.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212173036.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212172820.png",
+<<<<<<< HEAD
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212172628.png",
     "daily/12-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
@@ -230,6 +328,8 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
     "daily/10-12-2023.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+=======
+>>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
     "general knowledge/AI/pytorch/assets",
     "general knowledge/AI/pytorch",
     "general knowledge/trading",
@@ -241,7 +341,6 @@
     "Spaces",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/logo-verde-horizontal-png.png.crdownload",
     "Estudios UCAM/Ortodoncia/Canvas ortodoncia.canvas"
   ]
 }

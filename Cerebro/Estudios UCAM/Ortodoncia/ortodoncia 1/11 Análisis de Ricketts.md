@@ -158,7 +158,7 @@ El aumento de 0.33º por año corresponde al aumento de tamaño de la mandíbula
 ### Ángulo del plano mandibular: 26º a los 9 años +/- 4º disminuye 0,3 º x año.
 Está formado por el plano mandibular y el plano de Frankfort
 
-Aumenta 0,3º por año como resultado arquial de la mandíbula
+Disminuye 0,3º por año como resultado arquial de la mandíbula
 
 Valores bajos corresponden a los pacientes braquifaciales, con mandíbula cuadrada, musculatura potente y sobremordida profunda. 
 
