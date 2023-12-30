@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
-                "mode": "source",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Examen de ortodoncia I y II.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md"
               }
             }
           },
@@ -150,8 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,6 +169,7 @@
   },
   "active": "cfadb1de6c80a46a",
   "lastOpenFiles": [
+    "Spaces/Home/Examen de ortodoncia I y II.md",
     "daily/30-12-2023.md"
   ]
 }
