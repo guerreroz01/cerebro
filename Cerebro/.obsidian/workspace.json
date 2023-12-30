@@ -1,51 +1,23 @@
 {
   "main": {
-    "id": "2c753577c4974190",
+    "id": "c78862e23c341695",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "6b3f0eee56697b34",
+        "id": "908d0858a34af68c",
         "type": "tabs",
         "children": [
           {
-            "id": "af0e8d067059be08",
-=======
-        "id": "d4973203c68e3c96",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "b7ba3337164ed7fc",
->>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
+            "id": "cfadb1de6c80a46a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
-                "mode": "source",
-=======
                 "file": "Spaces/Home/Examen de ortodoncia I y II.md",
-                "mode": "preview",
->>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
-                "source": false
-              }
-            }
-<<<<<<< HEAD
-          },
-          {
-            "id": "cb0ea91bc9c03129",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
                 "mode": "source",
                 "source": false
               }
             }
-=======
->>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
           }
         ]
       }
@@ -53,16 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6d3c5529efc88f18",
+    "id": "28a15f481aebe745",
     "type": "split",
     "children": [
       {
-        "id": "89376a65df6cfdac",
+        "id": "19c5733ab6e744fc",
         "type": "tabs",
-        "dimension": 67.7491601343785,
         "children": [
           {
-            "id": "4e65784bf8151fa3",
+            "id": "8450901480cb09bb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,12 +43,12 @@
             }
           },
           {
-            "id": "57cfdc3d1c9ad984",
+            "id": "4aa6b99939e6c085",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tercio medio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +58,7 @@
             }
           },
           {
-            "id": "3e69a59409c57698",
+            "id": "f306bffa683407f6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,7 +66,7 @@
             }
           },
           {
-            "id": "1297d5af37727b7f",
+            "id": "681796d0974fe873",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
@@ -104,60 +75,26 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "b12e678cc60bc812",
-        "type": "tabs",
-        "dimension": 32.2508398656215,
-        "children": [
-          {
-            "id": "e3cd874949b693f0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 300
   },
   "right": {
-    "id": "e6c3aea2a1765694",
+    "id": "c8c0b7eb4c226ad7",
     "type": "split",
     "children": [
       {
-        "id": "0c8c17aa88e80e55",
+        "id": "2b4c19248cbacdc6",
         "type": "tabs",
         "children": [
           {
-            "id": "9bf2207d3e6c7972",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "2d153411e57f2b65",
+            "id": "ce62e59a47687635",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
-=======
-<<<<<<< HEAD
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
-=======
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
->>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
->>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,70 +106,52 @@
             }
           },
           {
-            "id": "45dff2c61b9dfa4c",
+            "id": "d9d5b00b5ae1366a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
-=======
-<<<<<<< HEAD
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
-=======
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
->>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
->>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "4c76e2527b23ea7c",
+            "id": "3593141b8348fc9b",
             "type": "leaf",
             "state": {
-              "type": "outline",
+              "type": "tag",
               "state": {
-<<<<<<< HEAD
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md"
-=======
-<<<<<<< HEAD
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md"
-=======
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md"
->>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
->>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
+                "sortOrder": "frequency",
+                "useHierarchy": true
               }
             }
           },
           {
-            "id": "4bf1715fbc4cc280",
+            "id": "b915f97094534276",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Spaces/Home/Examen de ortodoncia I y II.md"
+              }
+            }
+          },
+          {
+            "id": "bea6e1b4cda9c544",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "70febc606ba1184f",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 373.5
-=======
-    "width": 536.5,
+    "width": 300,
     "collapsed": true
->>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -249,98 +168,8 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "af0e8d067059be08",
+  "active": "cfadb1de6c80a46a",
   "lastOpenFiles": [
-    "daily/27-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
-    "Spaces/Home/Examen de ortodoncia I y II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
-    "daily/26-12-2023.md",
-=======
-<<<<<<< HEAD
-  "active": "cb0ea91bc9c03129",
-=======
-  "active": "aea4b4a239f4e887",
->>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
-  "lastOpenFiles": [
-    "Spaces/Home/Examen de ortodoncia I y II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
-    "daily/26-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
-    "daily/23-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231222133419.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
-    "daily/22-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
-    "daily/27-10-2023.md",
-    "daily/21-12-2023.md",
-    "daily/20-12-2023.md",
-    "daily/20-10-2023.md",
-    "daily/19-12-2023.md",
-    "daily/18-12-2023.md",
-    "daily/17-12-2023.md",
-    "daily/15-12-2023.md",
-    "daily/14-12-2023.md",
-    "daily/13-12-2023.md",
-    "daily/06-11-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
->>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
-<<<<<<< HEAD
-    "Excalidraw/Fisuras_labio-palatinas.excalidraw.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/Recording 20231220142221.webm",
-    "Sin título.canvas",
-=======
-    "daily/25-12-2023.md",
->>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180539.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212180327.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212175916.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212175513.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212175447.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212175152.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212173149.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212173036.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212172820.png",
-<<<<<<< HEAD
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231212172628.png",
-    "daily/12-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/9 Puntos cefalométricos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
-    "general knowledge/AI/Softmax.md",
-    "daily/11-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
-    "daily/10-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-=======
->>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
-    "general knowledge/AI/pytorch/assets",
-    "general knowledge/AI/pytorch",
-    "general knowledge/trading",
-    "assets",
-    "general knowledge/AI/Red Neuronal.canvas",
-    "Excalidraw",
-    "Spaces/Home/TODO",
-    "Spaces/Home",
-    "Spaces",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/ucam.jpg.crdownload",
-    "Estudios UCAM/Ortodoncia/Canvas ortodoncia.canvas"
+    "daily/30-12-2023.md"
   ]
 }
