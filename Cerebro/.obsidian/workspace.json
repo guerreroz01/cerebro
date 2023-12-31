@@ -20,18 +20,6 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "7f2756788e87ae18",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -185,9 +173,10 @@
   },
   "active": "a9caf6e87aea2863",
   "lastOpenFiles": [
+    "daily/31-12-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
     "daily/30-12-2023.md"
   ]
 }
