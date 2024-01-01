@@ -7,7 +7,7 @@ sticker: emoji//1f948
 1. [[1 Historia de la ortodoncia]]
    - [x] Lectura 1 ✅ 2023-12-13
    - [x] Lectura 2 ✅ 2023-12-20
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-01
 1. [[2 Crecimiento y Desarrollo]]
    - [x] Lectura 1 ✅ 2023-12-14
    - [x] Lectura 2 ✅ 2023-12-20
@@ -77,7 +77,7 @@ sticker: emoji//1f948
    - [ ] Lectura 3
 4. Artículo científico
    - [x] Lectura 1 ✅ 2023-12-19
-   - [ ] Lectura 2
+   - [x] Lectura 2 ✅ 2024-01-01
    - [ ] Lectura 3
 5. [[9 Síndromes]]
    - [x] Lectura 1 ✅ 2023-12-19

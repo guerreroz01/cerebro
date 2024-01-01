@@ -1,5 +1,5 @@
 {
-  "pomo": 25,
+  "pomo": 10,
   "shortBreak": 5,
   "longBreak": 20,
   "longBreakInterval": 3,
@@ -8,7 +8,7 @@
   "ribbonIcon": true,
   "emoji": true,
   "notificationSound": true,
-  "useSystemNotification": false,
+  "useSystemNotification": true,
   "backgroundNoiseFile": "",
   "logging": false,
   "logFile": "Pomodoro Log.md",

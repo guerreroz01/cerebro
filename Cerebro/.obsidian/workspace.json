@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "31807c66cb5c367d",
+        "id": "d85ab23c57c734dc",
         "type": "tabs",
         "children": [
           {
-            "id": "a9caf6e87aea2863",
+            "id": "84222064b18f5bb3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "mode": "preview",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           }
         ]
@@ -96,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md"
               }
             }
           },
@@ -171,12 +169,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a9caf6e87aea2863",
+  "active": "84222064b18f5bb3",
   "lastOpenFiles": [
-    "daily/31-12-2023.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
+    "daily/01-01-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
+    "daily/31-12-2023.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "daily/30-12-2023.md"
   ]
 }

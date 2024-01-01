@@ -304,9 +304,9 @@ Se evidencia la necesidad de un mayor y mejor entrenamiento de los profesionales
 ## Evolución de la ortodoncia en Europa y USA.
 La especialidad se desarrolló de manera diferente en Europa.
 
-En USA se siguió la escuela de Angle. Creó la especialidad de Ortodoncia que fue la segunda de las ciencias de la salud después de oftalmología. Provenía del campo de la prótesis dental y le debemos el concepto de oclusión normal en dentición natural. El interés era predominantemente OCLUSAL.
+En USA se siguió la escuela de Angle. Creó la especialidad de Ortodoncia que fue la segunda de las ciencias de la salud después de oftalmología. Provenía del campo de la prótesis dental y le debemos el concepto de oclusión normal en dentición natural. <span style="color:#ff0000">El interés era predominantemente OCLUSAL</span>.
 
-En Europa, los pioneros se interesaron más por el desarrollo craneofacial y su papel en las anomalías dentofaciales. El interés era pues, el ESQUELETO CRANEOFACIAL.
+En Europa, los pioneros se interesaron más por el desarrollo craneofacial y su papel en las anomalías dentofaciales. <span style="color:#ffff00">El interés era pues, el ESQUELETO CRANEOFACIAL.</span>
 
 Debido a esta diferencia evolutiva, en USA la especialidad se llamaba ORTODONCIA mientras que en Europa se llamaba ORTOPEDIA DENTOFACIAL.
 
