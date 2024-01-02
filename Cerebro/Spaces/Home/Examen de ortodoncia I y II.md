@@ -23,7 +23,7 @@ sticker: emoji//1f948
 1. [[5 Análisis facial]]
    - [x] Lectura 1 ✅ 2023-12-17
    - [x] Lectura 2 ✅ 2023-12-22
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-02
 1. [[6 Hábitos y disfunciones orales]]
    - [x] Lectura 1 ✅ 2023-12-17
    - [x] Lectura 2 ✅ 2023-12-22
