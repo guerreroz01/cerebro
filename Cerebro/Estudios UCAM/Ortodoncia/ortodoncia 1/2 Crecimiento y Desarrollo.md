@@ -176,9 +176,9 @@ Podemos distinguir 2 tipos de osificación:
 
 A los 4 meses de vida intrauterina llegan elementos vasculares a puntos del crondrocráneo y resto de partes del primitivo esqueleto cartilaginoso. Estas zonas se convierten en **centros de osificación**.
 
-❗El cartílago puede crecer intersticialmente, pero el hueso no. El cartílago se transforma en hueso, apareciendo islas de hueso en un mar de cartílago. El cartílago sigue creciendo rápidamente y a la vez es reemplazado por hueso. La cantidad de hueso va aumentando mientras que la cantidad relativa de cartílago disminuye.
+❗El cartílago puede crecer intersticialmente, <span style="color:#00b0f0">pero el hueso no</span>. El cartílago se transforma en hueso, apareciendo islas de hueso en un mar de cartílago. El cartílago sigue creciendo rápidamente y a la vez es reemplazado por hueso. La cantidad de hueso va aumentando mientras que la cantidad relativa de cartílago disminuye.
 
-Con el paso del tiempo, en el antiguo condrocráneo veremos pequeñas áreas de cartílago (_sincondrosis_) y el reto hueso. 
+Con el paso del tiempo, en el antiguo condrocráneo veremos pequeñas áreas de cartílago (_sincondrosis_) y el resto hueso. 
 
 Existen tres sincondrosis:
 1. Esfeno-etmoidea
@@ -529,7 +529,7 @@ Este espacio ayudaría a evitar la reducción en la longitud de arcada derivada 
 
 Sin embargo, el paso de los aborígenes a una dieta moderna no condujo a una mayor prevalencia de maloclusión. Además, se ha observado un apiñamiento tardío en otros grupos donde se realizó la extracción de premolares con el consiguiente tratamiento ortodóncico.
 
-**Por tanto esta teoría NO SIRVE para explicar el desarrollo del apiñamiento tardío.
+**Por tanto esta teoría NO SIRVE para explicar el desarrollo del apiñamiento tardío.** 
 
 ### 2. Presión ejercida por los terceros molares.
 Esta teoría se basa en la presión que pudieran ejercer los terceros molares en la arcada mandibular durante la erupción, que a demás coincide aproximadamente en la misma época, en torno a los 20 años.
@@ -586,7 +586,7 @@ Actualmente existen tres teorías principales que han tratado de explicar qué e
 2. El cartílago: James Scott 1953. El cartílago es el principal factor determinante del crecimiento óseo, mientras que el hueso responde de manera secundaria y pasiva.
 3. La matriz funcional: Melvin Moss 1962. La matriz de tejido blando en la que se encuentran los elementos esqueléticos es el principal determinante del crecimiento, y tanto el hueso como el cartílago son seguidores secundarios.
 
-La principal diferencia principal entre estas teorías radica en el nivel en el que se expresa el control genético.
+La principal diferencia entre estas teorías radica en el nivel en el que se expresa el control genético.
 
 La primera teoría implica que el control genético se expresa directamente a nivel óseo, por lo que su lugar de actuación sería el periostio.
 

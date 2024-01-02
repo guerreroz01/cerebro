@@ -11,7 +11,7 @@ sticker: emoji//1f948
 1. [[2 Crecimiento y Desarrollo]]
    - [x] Lectura 1 ✅ 2023-12-14
    - [x] Lectura 2 ✅ 2023-12-20
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-01
 1. [[3 Oclusión normal y maloclusión]]
    - [x] Lectura 1 ✅ 2023-12-14
    - [x] Lectura 2 ✅ 2023-12-21
