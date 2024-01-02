@@ -15,11 +15,11 @@ sticker: emoji//1f948
 1. [[3 Oclusión normal y maloclusión]]
    - [x] Lectura 1 ✅ 2023-12-14
    - [x] Lectura 2 ✅ 2023-12-21
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-02
 1. [[4 Desarrollo de la oclusión]]
    - [x] Lectura 1 ✅ 2023-12-14
    - [x] Lectura 2 ✅ 2023-12-21
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-02
 1. [[5 Análisis facial]]
    - [x] Lectura 1 ✅ 2023-12-17
    - [x] Lectura 2 ✅ 2023-12-22
@@ -82,7 +82,7 @@ sticker: emoji//1f948
 5. [[9 Síndromes]]
    - [x] Lectura 1 ✅ 2023-12-19
    - [x] Lectura 2 ✅ 2023-12-26
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-02
 6. [[Síndromes 2]]
    - [x] Lectura 1 ✅ 2023-12-20
    - [x] Lectura 2 ✅ 2023-12-28

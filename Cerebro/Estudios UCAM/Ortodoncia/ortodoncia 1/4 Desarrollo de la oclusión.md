@@ -18,7 +18,15 @@ La dentición temporal será sustituida por la permanente pasando por un periodo
 
 La formación de la dentición temporal es intrauterina y comienza hacia la 6$^{ta}$ o 7$^{ta}$ semana. No será visible radiográficamente hasta que comience su calcificación, la cual se inicia hacia la semana 14 de gestación con los incisivos centrales.  Una semana y media después los primeros molares sobre la 16 semanas los incisivos laterales, una semana más tarde los caninos y alrededor de las 18 semanas los segundos molares.
 
-La dentición permanente inicia su calcificación con el nacimiento, en el caso del primer molar. A los 3 - 4 meses comienza la calcificación de los incisivos centrales y poco después la de los incisivos laterales inferiores. Un mes más tarde se inicia la de los caninos y no será hasta el final del primer año de vida cuando comience la calcificación de los incisivos laterales superiores. Le siguen el primer premolar, el segundo premolar y el segundo molar que comenzará a calcificarse por este orden  entre el final del segundo año y todo el tercero. Las yemas de incisivos, caninos y premolares proliferan por lingual de los dientes temporales. Los gérmenes de los molares se desarrollan en distal de los segundos molares temporales.
+La dentición permanente inicia su calcificación con el nacimiento, en el caso del primer molar. 
+
+A los 3 - 4 meses comienza la calcificación de los incisivos centrales y poco después la de los incisivos laterales inferiores. 
+
+Un mes más tarde se inicia la de los caninos y no será hasta el final del primer año de vida cuando comience la calcificación de los incisivos laterales superiores. 
+
+Le siguen el primer premolar, el segundo premolar y el segundo molar que comenzará a calcificarse por este orden  entre el final del segundo año y todo el tercero. 
+
+Las yemas de incisivos, caninos y premolares proliferan por lingual de los dientes temporales. Los gérmenes de los molares se desarrollan en distal de los segundos molares temporales.
 
 ![[Pasted image 20231122135204.png]]
 
