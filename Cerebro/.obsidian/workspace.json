@@ -22,15 +22,17 @@
             }
           },
           {
-            "id": "8ef0db7d999e77a2",
+            "id": "1cf3d27a22d860cf",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/02-01-2024.md",
-                "mode": "source",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+                "mode": "preview",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ],
@@ -93,7 +95,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 274.5,
+    "collapsed": true
   },
   "right": {
     "id": "c8c0b7eb4c226ad7",
@@ -109,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/02-01-2024.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/02-01-2024.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/02-01-2024.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md"
               }
             }
           },
@@ -184,11 +187,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8ef0db7d999e77a2",
+  "active": "1cf3d27a22d860cf",
   "lastOpenFiles": [
     "Spaces/Home/Examen de ortodoncia I y II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
     "daily/02-01-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
