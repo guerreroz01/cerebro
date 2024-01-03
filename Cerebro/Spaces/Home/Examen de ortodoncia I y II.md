@@ -86,7 +86,7 @@ sticker: emoji//1f948
 6. [[Síndromes 2]]
    - [x] Lectura 1 ✅ 2023-12-20
    - [x] Lectura 2 ✅ 2023-12-28
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-03
 7. [[Iatrogenia y ética]]
    - [x] Lectura 1 ✅ 2023-12-20
    - [ ] Lectura 2
