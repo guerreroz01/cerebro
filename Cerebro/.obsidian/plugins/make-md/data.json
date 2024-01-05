@@ -18,7 +18,7 @@
   "saveAllContextToFrontmatter": true,
   "editorFlowStyle": "minimal",
   "autoOpenFileContext": false,
-  "activeView": "Spaces/Home",
+  "activeView": "/",
   "hideFrontmatter": true,
   "activeSpace": "",
   "defaultDateFormat": "MMM dd yyyy",
@@ -44,7 +44,11 @@
     "Spaces/Home/Spaces/Home/TODO",
     "//Spaces/Spaces/Home",
     "//Estudios UCAM",
-    "//assets"
+    "//assets",
+    "//Estudios UCAM/Estudios UCAM/Ortodoncia",
+    "//Estudios UCAM/Estudios UCAM/Ortodoncia",
+    "//Estudios UCAM/Estudios UCAM/Ortodoncia/Estudios UCAM/Ortodoncia/ortodoncia 1",
+    "//Estudios UCAM/Estudios UCAM/Ortodoncia/Estudios UCAM/Ortodoncia/ortodoncia 1"
   ],
   "expandFolderOnClick": true,
   "menuTriggerChar": "/",

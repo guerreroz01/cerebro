@@ -34,9 +34,21 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "bd418de776d73044",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CBCT tomografía computarizada de haz cónico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
-    "collapsed": true
+    "width": 274.5
   },
   "right": {
     "id": "c8c0b7eb4c226ad7",
@@ -112,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+                "file": "CBCT tomografía computarizada de haz cónico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+                "file": "CBCT tomografía computarizada de haz cónico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md"
+                "file": "CBCT tomografía computarizada de haz cónico.md"
               }
             }
           },
@@ -187,11 +198,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cf3d27a22d860cf",
+  "active": "bd418de776d73044",
   "lastOpenFiles": [
+    "CBCT tomografía computarizada de haz cónico.md",
+    "Estudios UCAM/Ortodoncia/Ortodoncia.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+    "daily/04-01-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "daily/03-01-2024.md",
     "daily/02-01-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
