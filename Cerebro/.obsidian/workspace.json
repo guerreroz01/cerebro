@@ -4,14 +4,23 @@
     "type": "split",
     "children": [
       {
+<<<<<<< HEAD
         "id": "7dbd5d40d7863661",
         "type": "tabs",
         "children": [
           {
             "id": "56f350956c4b2a45",
+=======
+        "id": "4a7db6b197de7acc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f45841dbbafc45b3",
+>>>>>>> refs/remotes/origin/main
             "type": "leaf",
             "pinned": true,
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Spaces/Home/Examen de ortodoncia I y II.md",
@@ -31,6 +40,10 @@
                 "mode": "preview",
                 "source": false
               }
+=======
+              "type": "empty",
+              "state": {}
+>>>>>>> refs/remotes/origin/main
             }
           }
         ],
@@ -109,7 +122,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
+=======
+>>>>>>> refs/remotes/origin/main
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +142,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
+=======
+>>>>>>> refs/remotes/origin/main
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +167,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md"
               }
+=======
+              "state": {}
+>>>>>>> refs/remotes/origin/main
             }
           },
           {
@@ -184,6 +207,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
+<<<<<<< HEAD
   "active": "c469b15b37276306",
   "lastOpenFiles": [
     "Spaces/Home/Examen de ortodoncia I y II.md",
@@ -205,6 +229,12 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
     "daily/31-12-2023.md",
+=======
+  "active": "f45841dbbafc45b3",
+  "lastOpenFiles": [
+    "daily/01-01-2024.md",
+    "Spaces/Home/Examen de ortodoncia I y II.md",
+>>>>>>> refs/remotes/origin/main
     "daily/30-12-2023.md"
   ]
 }
