@@ -22,33 +22,19 @@
             }
           },
           {
-            "id": "1cf3d27a22d860cf",
+            "id": "c469b15b37276306",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
                 "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "bd418de776d73044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CBCT tomografía computarizada de haz cónico.md",
-                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -123,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CBCT tomografía computarizada de haz cónico.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CBCT tomografía computarizada de haz cónico.md",
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CBCT tomografía computarizada de haz cónico.md"
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md"
               }
             }
           },
@@ -198,14 +184,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd418de776d73044",
+  "active": "c469b15b37276306",
   "lastOpenFiles": [
+    "Spaces/Home/Examen de ortodoncia I y II.md",
+    "daily/05-01-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "CBCT tomografía computarizada de haz cónico.md",
     "Estudios UCAM/Ortodoncia/Ortodoncia.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "daily/04-01-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-    "Spaces/Home/Examen de ortodoncia I y II.md",
     "daily/03-01-2024.md",
     "daily/02-01-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
