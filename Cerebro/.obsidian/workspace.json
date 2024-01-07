@@ -36,14 +36,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
-                "mode": "preview",
+                "file": "daily/02-01-2024.md",
+                "mode": "source",
                 "source": false
               }
-=======
-              "type": "empty",
-              "state": {}
->>>>>>> refs/remotes/origin/main
             }
           }
         ],
@@ -122,10 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
-=======
->>>>>>> refs/remotes/origin/main
+                "file": "daily/02-01-2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,10 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
-=======
->>>>>>> refs/remotes/origin/main
+                "file": "daily/02-01-2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,13 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
               "state": {
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md"
+                "file": "daily/02-01-2024.md"
               }
-=======
-              "state": {}
->>>>>>> refs/remotes/origin/main
             }
           },
           {
@@ -232,9 +218,10 @@
 =======
   "active": "f45841dbbafc45b3",
   "lastOpenFiles": [
-    "daily/01-01-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
+    "daily/02-01-2024.md",
     "Spaces/Home/Examen de ortodoncia I y II.md",
->>>>>>> refs/remotes/origin/main
+    "daily/01-01-2024.md",
     "daily/30-12-2023.md"
   ]
 }
