@@ -268,7 +268,7 @@ En la zona incisiva, el hábito de interposición labial provoca liguoversión d
 
 El problema óseo de clase II puede estar presente o no.
 
-Estéticamente, se observa u  perfil convexo que presenta u escalón a nivel del plano oclusal y de la comisura labial, el surco sublabial es muy marcado.
+Estéticamente, se observa un  perfil convexo que presenta un escalón a nivel del plano oclusal y de la comisura labial, el surco sublabial es muy marcado.
 
 ![[Pasted image 20231118153406.png]]
 

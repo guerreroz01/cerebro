@@ -4,7 +4,7 @@ sticker: emoji//1f6a7
 
 # Clase II
 ___
-Es cuando el moral inferior está situado distalmente en relación con el superior, línea de oclusión sin especificar (_la cual puede aparecer correcta o incorrecta_).
+Es cuando el molar inferior está situado distalmente en relación con el superior, línea de oclusión sin especificar (_la cual puede aparecer correcta o incorrecta_).
 
 ## División 1$^a$:
 
