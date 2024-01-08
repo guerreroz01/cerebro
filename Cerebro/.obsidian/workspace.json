@@ -46,8 +46,13 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "daily/07-01-2024.md",
                 "mode": "source",
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
+                "mode": "preview",
+>>>>>>> d344e99 (08-01-24)
                 "source": false
               }
 >>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
@@ -131,9 +136,13 @@
               "type": "backlink",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                 "file": "daily/07-01-2024.md",
 >>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
+>>>>>>> d344e99 (08-01-24)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,9 +160,13 @@
               "type": "outgoing-link",
               "state": {
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
                 "file": "daily/07-01-2024.md",
 >>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
+>>>>>>> d344e99 (08-01-24)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +192,11 @@
               "state": {}
 =======
               "state": {
+<<<<<<< HEAD
                 "file": "daily/07-01-2024.md"
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md"
+>>>>>>> d344e99 (08-01-24)
               }
 >>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
             }
@@ -224,6 +241,25 @@
 >>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
   "lastOpenFiles": [
     "Spaces/Home/Examen de ortodoncia I y II.md",
+<<<<<<< HEAD
+=======
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
+    "daily/08-01-2024.md",
+    "Checkboxes.md",
+    "assets/Pasted image 20240108143934.png",
+    "assets",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+>>>>>>> d344e99 (08-01-24)
     "daily/07-01-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
@@ -239,6 +275,7 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
     "daily/03-01-2024.md",
     "daily/02-01-2024.md",
+<<<<<<< HEAD
     "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
@@ -264,5 +301,8 @@
 =======
 >>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
     "daily/30-12-2023.md"
+=======
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md"
+>>>>>>> d344e99 (08-01-24)
   ]
 }

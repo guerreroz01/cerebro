@@ -66,7 +66,7 @@ sticker: emoji//1f948
 2. [[8-1 Ortodoncia Interdisciplinar I]]
    - [x] Lectura 1 ✅ 2023-12-18
    - [x] Lectura 2 ✅ 2023-12-30
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-08
 3. [[8-2 Ortodoncia interdisciplinar II]]
    - [x] Lectura 1 ✅ 2023-12-19
    - [x] Lectura 2 ✅ 2023-12-30
