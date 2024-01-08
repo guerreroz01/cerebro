@@ -1,34 +1,12 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:\"Estudios UCAM/Ortodoncia/ortodoncia 1\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:\"Estudios UCAM/Ortodoncia/ortodoncia 2\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:\"general knowledge/AI\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 3743385
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
@@ -39,14 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-<<<<<<< HEAD
-  "scale": 0.10234177248261019,
-=======
-<<<<<<< HEAD
-  "scale": 0.0768310928766741,
-=======
-  "scale": 0.10234177248261023,
->>>>>>> a818fae89b397d6c7b21a4c8a98881b1119710d3
->>>>>>> f2557a7ac9bd64ddf20d1d652ecabdbdefd7f717
-  "close": true
+  "scale": 0.6666666666666664,
+  "close": false
 }

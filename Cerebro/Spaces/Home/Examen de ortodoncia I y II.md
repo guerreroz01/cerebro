@@ -56,10 +56,6 @@ sticker: emoji//1f948
    - [ ] Lectura 1
    - [ ] Lectura 2
    - [ ] Lectura 3
-1. Cajetín de Steiner
-   - [ ] Lectura 1
-   - [ ] Lectura 2
-   - [ ] Lectura 3
 
 # Temario Orto-II
 
