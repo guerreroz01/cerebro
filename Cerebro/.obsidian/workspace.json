@@ -1,79 +1,39 @@
 {
   "main": {
-    "id": "c78862e23c341695",
+    "id": "28fb8de57e223e5d",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
-        "id": "7dbd5d40d7863661",
+        "id": "b964f94057c9ab4d",
         "type": "tabs",
         "children": [
           {
-            "id": "56f350956c4b2a45",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Examen de ortodoncia I y II.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-<<<<<<< HEAD
-            "id": "c469b15b37276306",
-=======
-        "id": "41835f7c565f66c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "827ee05b6cad5f02",
->>>>>>> c9ddf48 (nuevo arch laptop)
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-=======
-            "id": "d80a8f1e8dd18865",
+            "id": "aca7b6925f7308d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "daily/07-01-2024.md",
+                "file": "Libros/Learning/Uncommon Sense Teaching.md",
                 "mode": "source",
-=======
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
-                "mode": "preview",
->>>>>>> d344e99 (08-01-24)
                 "source": false
               }
->>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "28a15f481aebe745",
+    "id": "515f03e1e7159414",
     "type": "split",
     "children": [
       {
-        "id": "19c5733ab6e744fc",
+        "id": "a07cce5b3a63426a",
         "type": "tabs",
         "children": [
           {
-            "id": "8450901480cb09bb",
+            "id": "afe53d4f619e83f3",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -83,7 +43,7 @@
             }
           },
           {
-            "id": "4aa6b99939e6c085",
+            "id": "84f19cc694afb634",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -98,7 +58,7 @@
             }
           },
           {
-            "id": "f306bffa683407f6",
+            "id": "4c2759390c3c5c27",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -106,43 +66,43 @@
             }
           },
           {
-            "id": "681796d0974fe873",
+            "id": "78a799ad0a002e35",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5,
+    "width": 300,
     "collapsed": true
   },
   "right": {
-    "id": "c8c0b7eb4c226ad7",
+    "id": "e0d8aee183af1c6e",
     "type": "split",
     "children": [
       {
-        "id": "2b4c19248cbacdc6",
+        "id": "3f19d402d2c2dc5e",
         "type": "tabs",
         "children": [
           {
-            "id": "ce62e59a47687635",
+            "id": "59a6be065dded64b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fb986c2e822fad6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-                "file": "daily/07-01-2024.md",
->>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
-=======
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
->>>>>>> d344e99 (08-01-24)
+                "file": "Libros/Learning/Uncommon Sense Teaching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,26 +114,19 @@
             }
           },
           {
-            "id": "d9d5b00b5ae1366a",
+            "id": "2cb53e601b5c536e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-                "file": "daily/07-01-2024.md",
->>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
-=======
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md",
->>>>>>> d344e99 (08-01-24)
+                "file": "Libros/Learning/Uncommon Sense Teaching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "3593141b8348fc9b",
+            "id": "18495a64450286fc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -184,33 +137,16 @@
             }
           },
           {
-            "id": "b915f97094534276",
+            "id": "7a47ad99cc6c371b",
             "type": "leaf",
             "state": {
               "type": "outline",
-<<<<<<< HEAD
-              "state": {}
-=======
               "state": {
-<<<<<<< HEAD
-                "file": "daily/07-01-2024.md"
-=======
-                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/8-2 Ortodoncia interdisciplinar II.md"
->>>>>>> d344e99 (08-01-24)
+                "file": "Libros/Learning/Uncommon Sense Teaching.md"
               }
->>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
-            }
-          },
-          {
-            "id": "bea6e1b4cda9c544",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -219,90 +155,32 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "random-note:Abrir nota al azar": false,
+      "audio-recorder:Empezar/Parar de grabar": false,
       "copilot:Copilot Chat": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-  "active": "c469b15b37276306",
-=======
-  "active": "d80a8f1e8dd18865",
->>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
+  "active": "aca7b6925f7308d1",
   "lastOpenFiles": [
-    "Spaces/Home/Examen de ortodoncia I y II.md",
-<<<<<<< HEAD
-=======
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/8-1 Ortodoncia Interdisciplinar I.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/10 Cirugía ortognática.md",
-    "daily/08-01-2024.md",
-    "Checkboxes.md",
-    "assets/Pasted image 20240108143934.png",
-    "assets",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
->>>>>>> d344e99 (08-01-24)
     "daily/07-01-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase III.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
-    "daily/05-01-2024.md",
     "Untitled.md",
+    "Libros/Learning/assets/Pasted image 20240108010915.png",
+    "Libros/Learning/assets/Pasted image 20240108005424.png",
     "CBCT tomografía computarizada de haz cónico.md",
-    "Estudios UCAM/Ortodoncia/Ortodoncia.md",
-    "daily/04-01-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-    "daily/03-01-2024.md",
-    "daily/02-01-2024.md",
-<<<<<<< HEAD
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
-    "daily/01-01-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
-    "daily/31-12-2023.md",
-<<<<<<< HEAD
-=======
-  "active": "f45841dbbafc45b3",
-=======
-  "active": "827ee05b6cad5f02",
->>>>>>> c9ddf48 (nuevo arch laptop)
-  "lastOpenFiles": [
+    "daily/08-01-2024.md",
+    "Libros/Learning/assets/Pasted image 20240108004041.png",
+    "Libros/Learning/assets",
+    "Libros/Learning/Uncommon Sense Teaching.md",
+    "Libros/Learning",
     "Spaces/Home/Examen de ortodoncia I y II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase II.md",
-    "daily/02-01-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
-    "daily/01-01-2024.md",
-=======
->>>>>>> 6dac5dc (2024-01-07 14:10:18: ...)
-    "daily/30-12-2023.md"
-=======
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md"
->>>>>>> d344e99 (08-01-24)
+    "estructuras y puntos cefalométricos.md"
   ]
 }
