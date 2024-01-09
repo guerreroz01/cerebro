@@ -62,7 +62,7 @@ sticker: emoji//1f948
 1. [[10 Cirugía ortognática]]
    - [x] Lectura 1 ✅ 2023-12-18
    - [x] Lectura 2 ✅ 2023-12-30
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-09
 2. [[8-1 Ortodoncia Interdisciplinar I]]
    - [x] Lectura 1 ✅ 2023-12-18
    - [x] Lectura 2 ✅ 2023-12-30
@@ -70,7 +70,7 @@ sticker: emoji//1f948
 3. [[8-2 Ortodoncia interdisciplinar II]]
    - [x] Lectura 1 ✅ 2023-12-19
    - [x] Lectura 2 ✅ 2023-12-30
-   - [ ] Lectura 3
+   - [x] Lectura 3 ✅ 2024-01-09
 4. Artículo científico
    - [x] Lectura 1 ✅ 2023-12-19
    - [x] Lectura 2 ✅ 2024-01-01
