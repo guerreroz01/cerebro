@@ -13,8 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "Spaces/Home/Examen de ortodoncia I y II.md",
                 "mode": "source",
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+                "mode": "preview",
+>>>>>>> aed900a (nuevo arch laptop)
                 "source": false
               }
             }
@@ -73,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -101,7 +107,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Spaces/Home/Examen de ortodoncia I y II.md",
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+>>>>>>> aed900a (nuevo arch laptop)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +128,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Spaces/Home/Examen de ortodoncia I y II.md",
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
+>>>>>>> aed900a (nuevo arch laptop)
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +155,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "Spaces/Home/Examen de ortodoncia I y II.md"
+=======
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md"
+>>>>>>> aed900a (nuevo arch laptop)
               }
             }
           }
@@ -169,12 +187,24 @@
   },
   "active": "e9c46c653a40ae02",
   "lastOpenFiles": [
+<<<<<<< HEAD
+=======
+    "Spaces/Home/Examen de ortodoncia I y II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
+    "daily/09-01-2024.md",
+    "Libros/Learning/Uncommon Sense Teaching.md",
+    "daily/07-01-2024.md",
+    "Untitled.md",
+>>>>>>> aed900a (nuevo arch laptop)
     "Libros/Learning/assets/Pasted image 20240108010915.png",
     "Libros/Learning/assets/Pasted image 20240108005424.png",
     "Libros/Learning/assets/Pasted image 20240108004041.png",
     "Libros/Learning/assets",
-    "Libros/Learning/Uncommon Sense Teaching.md",
     "Libros/Learning",
+<<<<<<< HEAD
     "daily/08-01-2024.md"
+=======
+    "estructuras y puntos cefalométricos.md"
+>>>>>>> aed900a (nuevo arch laptop)
   ]
 }
