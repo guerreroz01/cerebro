@@ -406,7 +406,7 @@ Reparación primaria del paladar 11-14 meses
 2. Para fisura bilateral:
 	1. Expandir los segmentos laterales
 	2. Retruir la premaxila mediante una banda elástica ligera a través del segmento anterior.
-	3. Cuando la protrusión es moderada (5-25mm)
+	3. Cuando la protrusión es moderada (5-25mm), siempre y cuando sea menor a 25 mm porque si no lo que hace la premaxila es posterorrotar provocando posterrotaciones mandibulares.
 
 ### Contraindicaciones del protocolo tradicional
 #### Contraindicaciones de la ortopedia en casos bilaterales
