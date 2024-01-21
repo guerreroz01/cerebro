@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d76a0ca4e31b5b7b",
+        "id": "2ef805c58eac35aa",
         "type": "tabs",
         "children": [
           {
-            "id": "a7df1898d076c11d",
+            "id": "ed4560838b428872",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -70,8 +74,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "03f993f075aaae8c",
@@ -90,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "e0d8aee183af1c6e",
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "general knowledge/AI/RAG - Retrieval Augmented Generation.md"
+              }
             }
           }
         ]
@@ -176,26 +184,47 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a7df1898d076c11d",
+  "active": "ed4560838b428872",
   "lastOpenFiles": [
-    "daily/12-01-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-    "Spaces/Home/Examen de ortodoncia I y II.md",
-    "daily/11-01-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Iatrogenia y ética.md",
-    "Sin título.canvas",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/9 Síndromes.md",
-    "daily/09-01-2024.md",
+    "general knowledge/AI/assets/RAG_paper.pdf",
+    "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
+    "daily/21-01-2024.md",
     "Libros/Learning/Uncommon Sense Teaching.md",
-    "daily/07-01-2024.md",
+    "Libros/Learning/assets/Pasted image 20240120114847.png",
+    "Libros/Learning/assets/Pasted image 20240120114026.png",
+    "01-01-2024.md",
+    "daily/09-01-2024.md",
+    "daily/02-01-2024.md",
+    "daily/20-01-2024.md",
+    "Spaces/Home/Examen de ortodoncia I y II.md",
+    "daily/19-01-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
+    "daily/18-01-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117172417.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117171621.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117171419.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117170800.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117170421.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117165129.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117164938.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117164611.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/CBCT tomografía computarizada de haz cónico.md",
+    "daily/17-01-2024.md",
+    "estructuras y puntos cefalométricos.md",
     "Untitled.md",
-    "Libros/Learning/assets/Pasted image 20240108010915.png",
-    "Libros/Learning/assets/Pasted image 20240108005424.png",
-    "CBCT tomografía computarizada de haz cónico.md",
-    "daily/08-01-2024.md",
-    "Libros/Learning/assets/Pasted image 20240108004041.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Tema 9 parte I. Síndromes.pdf",
+    "Sin título.canvas",
     "Libros/Learning/assets",
-    "Libros/Learning",
-    "estructuras y puntos cefalométricos.md"
+    "Libros/Learning"
   ]
 }

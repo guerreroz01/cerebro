@@ -106,14 +106,19 @@ Se localizan en la base de la lengua. Son un agregado linfático no encapsulado 
 
 Durante la respiración nasal es necesario que la boca cierre en algún punto.
 
-Normalmente esto se da por el sellado labial. Pero este cierre también puede ocurrir en la porción media, con el dorso de la lengua en contacto con el paladar duro y también posteriormente con la base de la lengua en el paladar blando.
+Normalmente esto se da por el sellado labial. 
+
+Pero este cierre también puede ocurrir en la porción media, con el dorso de la lengua en contacto con el paladar duro y también posteriormente con la base de la lengua en el paladar blando.
 
 En caso de que no haya sellado en ninguno de estos puntos tendremos respiración bucal, o mixta, es decir, por la nariz y por la boca.
 
 ![[Pasted image 20231210221203.png]]
 
 ## Etiología de la respiración bucal
-1. Obstrucción nasal: por la forma de la nariz, dimensión de las narinas, desviación del tabique nasal.
+1. Obstrucción nasal: 
+	1. por la forma de la nariz, 
+	2. dimensión de las narinas, 
+	3. desviación del tabique nasal.
 
 2. Obstrucción por hiperplasia mucosa o del tejido linfoide nasofaríngeo: Las hiperplasias de la mucosa se pueden producir por rinitis alérgica, por sinusitis, por irritación por olores o por polución.
 
@@ -213,22 +218,27 @@ La lengua ejerce una presión directa postero-anterior sobre la mandíbula. De e
 ### Importancia de la lactancia materna:
 El poco desarrollo mandibular en el momento del nacimiento facilita el parto.
 
-Favorece el crecimiento y desarrollo del macizo máxilo-facial, desarrollo muscular y dentario. El amamantamiento condiciona el primer avance fisiológico de la oclusión y la ejercitación de los músculos masticadores y faciales.
+Favorece el crecimiento y desarrollo del macizo máxilo-facial, desarrollo muscular y dentario. 
 
+<span style="color:#ff0000">El amamantamiento condiciona el primer avance fisiológico de la oclusión y la ejercitación de los músculos masticadores y faciales.
+</span>
 ### Deglución infantil:
 Se divide en 3 fases:
 1. Bucal _voluntaria_
 2. Faríngea _refleja_
 3. Esofágica _autónoma_
 
-La fase oral de la deglución infantil, antes de la erupción dentaria consta de los siguientes pasos: separación de los maxilares interposición lingual entre los rodetes gingivales, y movimiento de deglución controlado por el contacto de la lengua y la musculatura perioral.
+La fase oral de la deglución infantil, antes de la erupción dentaria consta de los siguientes pasos: 
+1. separación de los maxilares 
+2. interposición lingual entre los rodetes gingivales, 
+3. y movimiento de deglución controlado por el contacto de la lengua y la musculatura perioral.
 
 ### Maduración de la función de deglución:
 El fin del amamantamiento 4º - 6º mes. El paso a masticación de alimentos semisólidos debe ser gradual.
 
 Con la maduración del SNC, desaparecen algunos reflejos orales.
 
-La secuencia ya no será succión + deglución sino masticación + deglución
+La secuencia ya no será succión + deglución sino -> masticación + deglución
 
 ![[Pasted image 20231222133419.png]]
 
@@ -283,7 +293,7 @@ En la mayoría de los niños el uso del chupete es frecuente antes de los dos a�
 
 El uso continuado del chupete durante la dentición temporal está casi siempre asociado a la presencia de mordida abierta anterior y mordida cruzada posterior.
 
-La mordida abierta anterior es consecuencia de una inhibición del crecimiento vertical de la porción anterior de las apófisis alveolares.
+<span style="color:#ffff00">La mordida abierta anterior es consecuencia de una inhibición del crecimiento vertical de la porción anterior de las apófisis alveolares.</span>
 
 La mordida cruzada posterior se debe al incremento de la actividad muscular de las mejillas combinada con la falta de presión lingual, debido a que la lengua se desplaza hacia atrás y hacia abajo por la presencia del chupete en la cavidad oral.
 

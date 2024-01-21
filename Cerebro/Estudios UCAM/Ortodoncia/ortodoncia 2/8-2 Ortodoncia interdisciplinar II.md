@@ -6,33 +6,33 @@ sticker: lucide//check
 ___
 ## Conceptos dados en clase
 
-- [ ] Los pacientes con periodontitis no pueden ser tratados con ortodoncia
-- [ ] Enfermedades periodontales
+- [x] Los pacientes con periodontitis no pueden ser tratados con ortodoncia ✅ 2024-01-13
+- [x] Enfermedades periodontales ✅ 2024-01-13
 	- [ ] Gingivitis 
 	- [ ] Periodontitis
-- [ ] Tratamiento -> eliminar la placa supra y sub gingival
+- [x] Tratamiento -> eliminar la placa supra y sub gingival ✅ 2024-01-13
 - [f] Concepto anchura biológica son entre 3 y 4 milímetros, el periodonto baja hasta la anchura biológica en condiciones de salud
-- [ ] Control de la reinfección 
-- [ ] Respuesta del periodonto a las fuerzas traumáticas: No hay relación entre el nivel de inserción clínica y el grado de movilidad del diente.
-- [ ] Un diente con el ligamento inflamado es por trauma
-- [ ] Cuales son las respuestas de un periodonto sano a las fuerzas traumáticas como la ortodoncia
-- [ ] Respuesta de las fuerzas traumáticas sobre un periodonto inflamado -> es incapaz de adaptarse a las fuerzas traumáticas.
-- [ ] Bolsas infra-óseas son las peores necesitan tratamiento Qx
-- [ ] Los tejidos periodontales migran con los dientes,  se puede regenerar hueso
+- [x] Control de la reinfección ✅ 2024-01-13
+- [x] Respuesta del periodonto a las fuerzas traumáticas: No hay relación entre el nivel de inserción clínica y el grado de movilidad del diente. ✅ 2024-01-13
+- [x] Un diente con el ligamento inflamado es por trauma ✅ 2024-01-13
+- [x] Cuales son las respuestas de un periodonto sano a las fuerzas traumáticas como la ortodoncia ✅ 2024-01-13
+- [x] Respuesta de las fuerzas traumáticas sobre un periodonto inflamado -> es incapaz de adaptarse a las fuerzas traumáticas. ✅ 2024-01-13
+- [x] Bolsas infra-óseas son las peores necesitan tratamiento Qx ✅ 2024-01-13
+- [x] Los tejidos periodontales migran con los dientes,  se puede regenerar hueso ✅ 2024-01-13
 	- [ ] Ante una fractura radicular debe considerarse la extrusión dentaria.
 	- [ ] Extrusión  dentaria
-		- [ ] Rápida -> La raíz migra sola
-		- [ ] Lenta -> Fuerza suaves que permiten a los tejidos periodontales migrar junto a la raíz traccionada.
-		- [ ] Indicaciones de la extrusión 
-		- [ ] Contraindicaciones
-			- [ ] Anquilosis -> fusión del hueso y cemento alveolar
-			- [ ] Fracturas verticales
-			- [ ] Proximidad radicular 
-			- [ ] Raices cortas
-			- [ ] Poco espacio protésico
-		- [ ] Fuerzas 
-			- [ ] Extrusión lenta hasta 30 gr no más de 1 mm  por semana
-			- [ ] Extrusión Rápida por encima de 60 gr mas de 1 mm por semana
+		- [x] Rápida -> La raíz migra sola ✅ 2024-01-13
+		- [x] Lenta -> Fuerza suaves que permiten a los tejidos periodontales migrar junto a la raíz traccionada. ✅ 2024-01-13
+		- [x] Indicaciones de la extrusión ✅ 2024-01-13
+		- [x] Contraindicaciones ✅ 2024-01-13
+			- [x] Anquilosis -> fusión del hueso y cemento alveolar ✅ 2024-01-13
+			- [x] Fracturas verticales ✅ 2024-01-13
+			- [x] Proximidad radicular ✅ 2024-01-13
+			- [x] Raices cortas ✅ 2024-01-13
+			- [x] Poco espacio protésico ✅ 2024-01-13
+		- [x] Fuerzas ✅ 2024-01-13
+			- [x] Extrusión lenta hasta 30 gr no más de 1 mm  por semana ✅ 2024-01-13
+			- [x] Extrusión Rápida por encima de 60 gr mas de 1 mm por semana ✅ 2024-01-13
 			- [f] Red Patch 👀❗Eversión del surco que queratiniza
 		- [ ] Extrusión y endodoncia depende de la fuerza
 			- [ ] Si solo es para generar hueso no se necesita hacer endodoncia basta con solo hacer una pulpotomía porque no le da tiempo de generar una infección.

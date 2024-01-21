@@ -251,7 +251,7 @@ La segunda opción no nos permite visualizar la oclusión final, pero sí conoce
 
 Diferentes autores entre ellos Bolton analizaron esta relación de tamaño en casos con oclusión ideal. Bolton estableció un índice y una tabla que relacionan el tamaño de todos los dientes superiores con el de los inferiores (_sin contar el segundo y tercer molar_), así como el tamaño de los dientes anteriores superiores (caninos e incisivos) con el de los inferiores.
 
-Para calcular el índice de Bolton completo se suman los tamaños de los 12 dientes inferiores, se divide entre la suma de los tamaños de los 12 cientes superiores y se multiplica el resultado por cien. <span style="color: green">El resultado debe ser 91,3 +/- 1,91</span>.
+Para calcular el índice de Bolton completo se suman los tamaños de los 12 dientes inferiores, se divide entre la suma de los tamaños de los 12 dientes superiores y se multiplica el resultado por cien. <span style="color: green">El resultado debe ser 91,3 +/- 1,91</span>.
 ![[Pasted image 20231127124335.png]]
 
 Para calcular el índice de Bolton parcial (_6 dientes anteriores_) se suman los tamaños de los incisivos y caninos inferiores, se divide entre la suma de los tamaños de incisivos y caninos superiores y se multiplica por cien. <span style="color: yellow;">Debe ser 77,2 +/- 1,65</span>

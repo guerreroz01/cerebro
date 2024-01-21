@@ -59,7 +59,7 @@ También es posible que no exista mucho apiñamiento pero la angulación interin
 ## Discusión
 Nuestra intención con este artículo, es guiar al equipo multidisciplinar a la hora de enfrentarse a casos complejos de rehabilitación oclusal y Ortodóncica.
 
-La introducción de los conceptos [[#Resto First]], [[#Resto Early]] y[[#Resto Post]] son una forma de protocolizar los casos, independientemente del especialista que guíe el caso: el Ortodoncista, el prostodoncista o amdos.
+La introducción de los conceptos [[#Resto First]], [[#Resto Early]] y[[#Resto Post]] son una forma de protocolizar los casos, independientemente del especialista que guíe el caso: el Ortodoncista, el prostodoncista o ambos.
 
 Estos conceptos no son estrictos. Pueden existir casos tipo de cada uno de ellos y casos en los que nos encontramos situaciones intermedias.
 

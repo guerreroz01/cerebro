@@ -69,7 +69,7 @@ La selección de un paciente de cirugía ortognática se basa en el objetivo de 
 - Compensación del desequilibrio esquelético
 - Tratamiento del problema base: corrección del desequilibrio esquelético.
 
-<span style="color:#ff0000">básicamente on se corrige el desequilibrio o se compensa</span> 
+<span style="color:#ff0000">básicamente o se corrige el desequilibrio o se compensa</span> 
 
 En una compensación, lo que perseguimos es camuflar el problema de las bases óseas mediante el movimiento de los dientes. Los criterios para optar por compensar ortodóncicamente un paciente son:
 
@@ -271,7 +271,7 @@ Se realiza con sierra, por debajo de los ápices de los dientes anteriores y en 
 
 Cuando la osteotomía está cerca del borde inferior mandibular, se completa con suaves golpes de escoplo hasta lograr la fractura en tallo verde de dicho reborde. 
 
-<span style="color:#ffff00">Debido a la vascularización del suelo de la boca, no se realiza el corte con sierra hasta el finar por riesgo de hemorragia. </span>
+<span style="color:#ffff00">Debido a la vascularización del suelo de la boca, no se realiza el corte con sierra hasta el final por riesgo de hemorragia. </span>
 
 La dirección del corte depende del objetivo a lograr. No es lo mismo un centrado que un avance o rotación. Pero cuanto más posterior sea el final del corte, menos se notará el escalón óseo posterior.
 

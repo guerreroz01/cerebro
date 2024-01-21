@@ -188,7 +188,7 @@ Existen tres sincondrosis:
 ![[Pasted image 20231108175911.png]]
 
 #### Osificación intramembranosa:
-Consiste en la secreción de matriz ósea directamente en el tejido conjuntivo, _sin la formación intermedia de cartílago_.
+<span style="color:#ffff00">Consiste en la secreción de matriz ósea directamente en el tejido conjuntivo, _sin la formación intermedia de cartílago_.</span>
 
 Se puede encontrar osificación intramembranosa en:
 1. <span style="color:#00b0f0">Bóveda craneal.</span>
@@ -660,7 +660,7 @@ No obstante la merma del crecimiento en los animales experimentales a los que se
 
 Esto ha sido refutado por dos estudios (Gilhuss-Moe 1969 y Lund k. 1974), demostrando que al ocurrir una fractura de la zona condilar en un niño, existían muchas posibilidades de que la apófisis condilar se regenerase y alcanzase aproximadamente su tamaño original, así como una pequeña posibilidad de que se hipertrofiase tras su lesión. Sin embargo, dentro del mismo estudio en torno a un 15-20% de casos se observó una disminución del crecimiento tras la fractura, la cual parece estar relacionada con el grado de traumatismo sufrido por los tejido blandos y con la cicatriz que aparece en la zona.
 
-En resumen, parece ser que los cartílagos epifisarios y probablemente las sincondrosis de la base del cráneo pueden actuar y lo hacen como centros de crecimiento independientes, al igual que el tabique nasal (_tal vez en menor medida_). EL crecimiento del cartílago condilar se asemeja más al crecimiento sutural del maxilar superior (_de naturaleza reactiva o secundaria._)
+En resumen, parece ser que los cartílagos epifisarios y probablemente las sincondrosis de la base del cráneo pueden actuar y lo hacen como centros de crecimiento independientes,<span style="color:#00b0f0"> al igual que el tabique nasal (_tal vez en menor medida_)</span>. EL crecimiento del cartílago condilar se asemeja más al crecimiento sutural del maxilar superior (_de naturaleza reactiva o secundaria._)
 
 El cartílago condilar comienza a crecer cuando la mandíbula es sometida a presiones ya que, si no la mandíbula no podría seguir creciendo, porque el crecimiento intramembranoso no lo puede hacer bajo presiones. Es un proceso adaptativo.
 

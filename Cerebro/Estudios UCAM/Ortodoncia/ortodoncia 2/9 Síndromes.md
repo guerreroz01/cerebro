@@ -148,7 +148,7 @@ Para compensar esta situación y facilitar la entrada del aire:
 ### Erupción dentaria en pacientes con SD
 En los pacientes con SD es frecuente un retraso considerable de la erupción tanto de los dientes deciduos como de los permanentes.
 
-También se ha señalado que la secuencia cronológica de erupción suele estar alterada siendo en la dentición temporal mucho más impredecible que en la definitiva
+<span style="color:#ffff00">También se ha señalado que la secuencia cronológica de erupción suele estar alterada siendo en la dentición temporal mucho más impredecible que en la definitiva</span>
 
 ![[Pasted image 20231204122403.png]]
 ![[Pasted image 20231204122428.png]]
@@ -170,7 +170,7 @@ En los dientes permanentes (_frecuencia_):
 Paradójicamente, algunos pacientes tienen dientes supernumerarios, aunque esta es una anomalía infrecuente que generalmente constituye un hallazgo radiográfico casual.
 
 Los dientes conoides predominan como la malformación dentaria más común
-Se ha señalado que 1 de cada 4 pacientes con SD tiene algún diente conoide; siendo más frecuente en el maxilar superior que en la mandíbula, afectando principalmente al incisivo lateral superior, siendo mucho más habituales entre las mujeres que en los varones.
+Se ha señalado que 1 de cada 4 pacientes con SD tiene algún diente conoide; siendo más frecuente en el maxilar superior que en la mandíbula, <span style="color:#00b0f0">afectando principalmente al incisivo lateral superior</span>, siendo mucho<span style="color:#00b0f0"> más habituales entre las mujeres que en los varones.</span>
 
 ![[Pasted image 20231204125307.png]]
 
@@ -184,7 +184,7 @@ Se presenta un porcentaje que habitualmente oscila entre el 33% y el 55% de los 
 ### Enfermedad periodontal en pacientes con SD
 La enfermedad periodontal representa uno de los principales problemas odontológicos del paciente con SD, ya que afecta al 35 - 70% de los niños y 90 - 100% de los mayores de 20 años.
 
-Se caracteriza por su aparición temprana, rápida evolución y agresividad.
+<span style="color:#f519e3">Se caracteriza por su aparición temprana, rápida evolución y agresividad.</span>
 
 La severidad de la enfermedad periodontal aumenta con la edad, caracterizándose en los estadios más avanzados por la presencia de bolsas profundas e importante destrucción ósea, con movilidad progresiva y pérdida prematura de los dientes.
 
@@ -293,7 +293,7 @@ El tratamiento dependerá de los síntomas y afectación estética.
 
 Será **quirúrgico** con (_reapertura de las suturas_) en las siguientes condiciones:
 1. Pérdida progresiva de la visión.
-2. Fusión de varias a la vez tempranamente impidiendo el crecimiento adecuado del cráneo.
+2. Fusión de varias suturas a la vez tempranamente impidiendo el crecimiento adecuado del cráneo.
 3. Por motivos meramente estéticos.
 
 ### Pronóstico

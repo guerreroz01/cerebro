@@ -362,7 +362,7 @@ Los primeros ortodoncistas que trataron a fondo el tema de la ortopedia en la fi
 A comienzo de la era de los aparatos modernos de ortopedia prequirúrgica **Mc Neil 1950**
 1. Introdujo las placas de acrílico intraorales similares a un obturador para aproximar los segmentos alveolares.
 2. Uso los gorros de tracción extraoral para casos bilaterales.
-3. Estos aparatos mejoraban la función, succión, deglución, posición lingual normalizada, haciendo posible el crecimiento normal retrasando el cierre quirúrgico del paladar (**Mc Neil 1956)
+3. Estos aparatos mejoraban la función, succión, deglución, posición lingual normalizada, haciendo posible el crecimiento normal retrasando el cierre quirúrgico del paladar (**Mc Neil 1956**)
 4. Creyó que la ortopedia podía obviar la necesidad de cirugía y ortodoncia y ante tal afirmación, se empaño la credibilidad de su técnica.
 
 **Hotz 1976**:
@@ -641,8 +641,8 @@ El tratamiento ortodóncico suele terminarse a los 14 años, pero en muchos caso
 
 Como provisional: Un puente fijo semipermanente unido con resina es preferible al empleo prolongado de un retenedor removible con un diente protésico. 
 
-Los implantes dentales no son adecuados para zonas con hendiduras.
-
+<span style="color:#ff0000">Los implantes dentales no son adecuados para zonas con hendiduras.
+</span>
 Para la persistencia de la [[Clase III]] esquelética: decidir entre extracciones inferiores compensatorias y las diferentes opciones de la cirugía ortognática.
 
 Las frecuentes recidivas habrá que alargar los periodos de retención, a veces manteniendo las bandas y los arcos in situ durante varios meses una vez que se ha alcanzado una oclusión satisfactoria.
@@ -684,10 +684,10 @@ Aplicaciones de la distracción osteogénica en pacientes con fisura palatina:
 2. Expansión maxilar
 3. Transporte óseo para el cierre de la fisura alveolar
 
-Los pacientes con una hipoplasia maxilar severa de 6 mm o más y una cicatriz palatina excesiva se tratan mejor con distractor osteogénico.
+<span style="color:#00b0f0">Los pacientes con una hipoplasia maxilar severa de 6 mm o más y una cicatriz palatina excesiva se tratan mejor con distractor osteogénico.</span>
 
-La fractura Le Fort I convencional se reserva para pacientes con hipoplasia maxilar menos severa (_de menos de 6mm_) y cicatriz palatina menos grave.
-
+<span style="color:#f519e3">La fractura Le Fort I convencional se reserva para pacientes con hipoplasia maxilar menos severa (_de menos de 6mm_) y cicatriz palatina menos grave.
+</span>
 #### Avance maxilar:
 Hacia los 12 años, nuevos protocolos basados en la osteogénesis por distracción pretenden prevenir la retrusión maxilar anteroposterior con técnicas precoces de corticotomía y dispositivos de distracción intraoral o extraoral.
 
@@ -789,8 +789,8 @@ Los dientes supernumerarios o las inclusiones normalmente se extraen en la misma
 
 Los incisivos y caninos deciduos retenidos en la zona de fisura deben extraerse antes de realizar el injerto.
 
-Los movimientos ortodóncicos pueden comenzarse a los 2 o 3 meses de colocado el injerto.
-
+<span style="color:#ff0000">Los movimientos ortodóncicos pueden comenzarse a los 2 o 3 meses de colocado el injerto.
+</span>
 El movimiento inicial de las raíces en la zona del injerto, clínicamente consolida el hueso alveolar y mejora la altura de la cresta ósea.
 
 Algunos centros aplican injertos sobre el alveolo hendido poco tiempo después del tratamiento ortopédico para estabilizar la posición de los segmentos.

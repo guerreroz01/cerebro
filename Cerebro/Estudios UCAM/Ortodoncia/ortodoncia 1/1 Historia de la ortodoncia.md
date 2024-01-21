@@ -237,6 +237,21 @@ Es el primero en estandarizar las imágenes radiográficas (colocando a los suje
 
 La cefalometría comienza una carrera vertiginosa con la aparición de numerosos análisis.
 
+### Angle el Dios linea de tiempo
+|  | año |
+| ---- | ---- |
+| Primera publicación de Angle y comienzo del diseño y aditamentos del arco de canto 📖 | 1887 |
+| Se descubren los Rx por Conrad Rötgen ☠️ | 1895 |
+| Angle publica su Clasificación en la revista COSMO 📰 | 1899 |
+| Angle crea sus primeros cursos 🧑‍🎓 | 1900 |
+| Angle Funda la Sociedad Americana de Ortodoncia 🏠 | 1901 |
+| Case publica el tratado práctico de ortopedia 🥼 | 1908 |
+| Angle aparato pin y tubo 🔧  | 1910 |
+| Angle aparato arco cinta 🔧 | 1915 |
+| Primeros análisis cefalométricos 💀 | 1922 |
+| Angle Bracket 447 🔧 | 1926 |
+| Angle Bracket Edgewise 🔧 | 1928 |
+
 ## Actualidad de 1950 hasta nuestros días:
 En los 60 **Robert M. Ricketts** realizó mejoras en las aleaciones de los alambres y en las técnicas ortodóncicas.
 

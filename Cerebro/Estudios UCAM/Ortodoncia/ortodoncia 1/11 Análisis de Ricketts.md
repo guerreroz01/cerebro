@@ -34,7 +34,7 @@ ___
 		- [[#Correspondencia del incisivo superior y el eje facial]]
 1. Campo II
 	- [[#Campo II Relación maxilomandibular|Relación maxilomandibular]]
-		- [[#Convexidad 2 mm a los 9 años +/- 2 disminuye 0.2 mm por año|Convexidad]]
+		- [[#Convexidad 2 mm a los 9 años +/- 2 disminuye 0.2 mm por año|Convexidad]] disminuye con la edad 0,2 mm
 		- [[#Altura facial inferior 47º +/-4º constante con la edad|Altura facial inferior]]
 1. Campo III
 	 - [[#Campo III problema dentoesqueletal|Problema dentoesqueletal]]
@@ -43,16 +43,16 @@ ___
 		 - [[#Posición del molar superior Edad del paciente +3 mm +/- 3 mm con un máximo de 21 mm|Posición del molar superior]]
 1. Campo IV
 	- [[#Campo IV problema estético|Problema estético]]
-		- [[#Protrusión labial -2 mm a los 8.5 años +/- 2 disminuye 0.2 mm x año|Protrusión labial]]
+		- [[#Protrusión labial -2 mm a los 8.5 años +/- 2 disminuye 0.2 mm x año|Protrusión labial]] disminuye 0,2 mm
 1. Campo V
 	- [[#Campo V relación craneofacial 90º +/- 3º no varía con el crecimiento|Relación craneofacial]]
 		- [[#Profundidad maxilar 90º +/- 3º no varía con el crecimiento|Profundidad maxilar]]
-		- [[#Profundidad facial 87º a los 9 años +/- 3º y aumenta 0.33º por año|Profundidad facial]]
-		- [[#Ángulo del plano mandibular 26º a los 9 años +/- 4º disminuye 0,3 º x año.|Ángulo del plano mandibular]]
+		- [[#Profundidad facial 87º a los 9 años +/- 3º y aumenta 0.33º por año|Profundidad facial]] aumenta 0,33
+		- [[#Ángulo del plano mandibular 26º a los 9 años +/- 4º disminuye 0,3 º x año.|Ángulo del plano mandibular]] disminuye 0,3
 		- [[#Eje facial 90º +/- 3º constante con el crecimiento|Eje facial]]
 1. Campo VI
 	- [[#Campo VI estructuras internas|Estructuras internas]]
-		- [[#Arco mandibular 26º a los 8.5 años +/- 4º aumenta 0.5º|Arco mandibular]]
+		- [[#Arco mandibular 26º a los 8.5 años +/- 4º aumenta 0.5º|Arco mandibular]] aumenta 0,5
 
 ## Campo I problema dentario:
 ### Extrusión del incisivo inferior: 1.25 mm +/- 2
