@@ -4,22 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "2ef805c58eac35aa",
+        "id": "7fb28923a0e84690",
         "type": "tabs",
         "children": [
           {
-            "id": "ed4560838b428872",
+            "id": "17b760bdaa0bf06b",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Libros/Learning/Uncommon Sense Teaching.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "2dfa942c4fca48b6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "711fcfb80db585f4",
+            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
                 "mode": "source",
                 "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "eff3eef2d0c36831",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "general knowledge/AI/ChromaDB - Base de datos vectorial.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,7 +117,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "03f993f075aaae8c",
@@ -118,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
+                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
+                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "general knowledge/AI/RAG - Retrieval Augmented Generation.md"
+                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md"
               }
             }
           }
@@ -184,14 +228,30 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ed4560838b428872",
+  "active": "2dfa942c4fca48b6",
   "lastOpenFiles": [
-    "general knowledge/AI/assets/RAG_paper.pdf",
+    "general knowledge/AI/ChromaDB - Base de datos vectorial.md",
+    "daily/22-01-2024.md",
     "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
-    "daily/21-01-2024.md",
+    "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
     "Libros/Learning/Uncommon Sense Teaching.md",
+    "general knowledge/AI/assets/script.py",
+    "general knowledge/AI/CS50's Arificial Intelligence.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
+    "Estudios UCAM/Ortodoncia/Ortodoncia.md",
+    "Estudios UCAM/Odontopediatria",
+    "general knowledge/AI/assets/Pasted image 20240121181343.png",
+    "general knowledge/AI/assets/Pasted image 20240121181208.png",
+    "general knowledge/AI/assets/Pasted image 20240121180319.png",
+    "general knowledge/AI/assets/Pasted image 20240121180226.png",
+    "general knowledge/AI/assets/Pasted image 20240121175515.png",
+    "general knowledge/AI/assets/Pasted image 20240121175253.png",
+    "general knowledge/AI/assets/Pasted image 20240121175004.png",
+    "general knowledge/AI/assets/Pasted image 20240121173803.png",
+    "general knowledge/AI/assets/Pasted image 20240121172657.png",
+    "general knowledge/AI/assets/RAG_paper.pdf",
+    "daily/21-01-2024.md",
     "Libros/Learning/assets/Pasted image 20240120114847.png",
-    "Libros/Learning/assets/Pasted image 20240120114026.png",
     "01-01-2024.md",
     "daily/09-01-2024.md",
     "daily/02-01-2024.md",
@@ -208,20 +268,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
     "daily/18-01-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117172417.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117171621.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117171419.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117170800.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117170421.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117165129.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117164938.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240117164611.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/CBCT tomografía computarizada de haz cónico.md",
-    "daily/17-01-2024.md",
-    "estructuras y puntos cefalométricos.md",
-    "Untitled.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Tema 9 parte I. Síndromes.pdf",
     "Sin título.canvas",
     "Libros/Learning/assets",
