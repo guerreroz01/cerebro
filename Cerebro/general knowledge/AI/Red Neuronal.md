@@ -23,7 +23,7 @@ Una red neuronal típica incluye:
 ![[Pasted image 20231113210202.png]]
 Cuando se coloca una neurona de forma secuencial una de ellas recibe la información procesada por la neurona anterior. Con esto se consigue que la red neuronal pueda aprender a través de conocimiento jerarquizado.
 
-Entre más capas añadimos más complejo puede ser el conocimiento que elaboremos, esta profundidad en la cantidad de capas es lo que da nombre al _**aprendizaje profundo**_ o [[deep learning]].
+Entre más capas añadimos más complejo puede ser el conocimiento que elaboremos, esta profundidad en la cantidad de capas es lo que da nombre al _**aprendizaje profundo**_ o [[Deep Learning]].
 
 Las neuronas tienen que procesar el resultado con una [[Función de activación]]
 
@@ -38,5 +38,5 @@ ___
 - [[función de pérdida]]
 - [[Función de activación]]
 - [[backpropagation]]
-- [[deep learning]]
+- [[Deep Learning]]
 

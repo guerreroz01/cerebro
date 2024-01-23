@@ -4,65 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7fb28923a0e84690",
+        "id": "1aefd14900f836f5",
         "type": "tabs",
         "children": [
           {
-            "id": "17b760bdaa0bf06b",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Libros/Learning/Uncommon Sense Teaching.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "2dfa942c4fca48b6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "711fcfb80db585f4",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "eff3eef2d0c36831",
+            "id": "1788d828d482d5df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "general knowledge/AI/ChromaDB - Base de datos vectorial.md",
+                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -74,7 +31,7 @@
       {
         "id": "a07cce5b3a63426a",
         "type": "tabs",
-        "dimension": 69.74708171206225,
+        "dimension": 72.08171206225681,
         "children": [
           {
             "id": "afe53d4f619e83f3",
@@ -117,16 +74,15 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "03f993f075aaae8c",
+        "id": "22ce4c03c9d4946a",
         "type": "tabs",
-        "dimension": 30.252918287937742,
+        "dimension": 27.918287937743187,
         "children": [
           {
-            "id": "42bf5230aac07c7c",
+            "id": "79dffb76ec305693",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -162,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
+                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
+                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md"
+                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md"
               }
             }
           }
@@ -228,13 +184,23 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2dfa942c4fca48b6",
+  "active": "1788d828d482d5df",
   "lastOpenFiles": [
+    "general knowledge/AI/Deep Learning.md",
+    "general knowledge/AI/assets/Pasted image 20240123152150.png",
+    "general knowledge/AI/assets/Pasted image 20240123151139.png",
+    "general knowledge/AI/assets/Pasted image 20240123144520.png",
+    "general knowledge/AI/assets/Pasted image 20240123135658.png",
+    "general knowledge/AI/assets/Pasted image 20240123133418.png",
+    "general knowledge/AI/assets/Pasted image 20240123131341.png",
+    "general knowledge/AI/assets/Pasted image 20240123130642.png",
+    "01-01-2024.md",
+    "daily/23-01-2024.md",
+    "Libros/Learning/Uncommon Sense Teaching.md",
+    "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
     "general knowledge/AI/ChromaDB - Base de datos vectorial.md",
     "daily/22-01-2024.md",
-    "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
     "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
-    "Libros/Learning/Uncommon Sense Teaching.md",
     "general knowledge/AI/assets/script.py",
     "general knowledge/AI/CS50's Arificial Intelligence.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
@@ -243,16 +209,8 @@
     "general knowledge/AI/assets/Pasted image 20240121181343.png",
     "general knowledge/AI/assets/Pasted image 20240121181208.png",
     "general knowledge/AI/assets/Pasted image 20240121180319.png",
-    "general knowledge/AI/assets/Pasted image 20240121180226.png",
-    "general knowledge/AI/assets/Pasted image 20240121175515.png",
-    "general knowledge/AI/assets/Pasted image 20240121175253.png",
-    "general knowledge/AI/assets/Pasted image 20240121175004.png",
-    "general knowledge/AI/assets/Pasted image 20240121173803.png",
-    "general knowledge/AI/assets/Pasted image 20240121172657.png",
     "general knowledge/AI/assets/RAG_paper.pdf",
     "daily/21-01-2024.md",
-    "Libros/Learning/assets/Pasted image 20240120114847.png",
-    "01-01-2024.md",
     "daily/09-01-2024.md",
     "daily/02-01-2024.md",
     "daily/20-01-2024.md",
@@ -266,8 +224,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
-    "daily/18-01-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Tema 9 parte I. Síndromes.pdf",
     "Sin título.canvas",
     "Libros/Learning/assets",
