@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1aefd14900f836f5",
+        "id": "82febef0473aaa4c",
         "type": "tabs",
         "children": [
           {
-            "id": "1788d828d482d5df",
+            "id": "735ef8dc9c5112b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
+                "file": "general knowledge/AI/Perceptron Multicapa.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,6 @@
       {
         "id": "a07cce5b3a63426a",
         "type": "tabs",
-        "dimension": 72.08171206225681,
         "children": [
           {
             "id": "afe53d4f619e83f3",
@@ -75,21 +74,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "22ce4c03c9d4946a",
-        "type": "tabs",
-        "dimension": 27.918287937743187,
-        "children": [
-          {
-            "id": "79dffb76ec305693",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
@@ -118,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
+                "file": "general knowledge/AI/Perceptron Multicapa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
+                "file": "general knowledge/AI/Perceptron Multicapa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,11 +142,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "general knowledge/AI/pytorch/00 PyTorch fundamentals.md"
+                "file": "general knowledge/AI/Perceptron Multicapa.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -184,21 +169,32 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1788d828d482d5df",
+  "active": "735ef8dc9c5112b6",
   "lastOpenFiles": [
+    "general knowledge/AI/assets/Pasted image 20240125231917.png",
+    "general knowledge/AI/assets/Pasted image 20240125231840.png",
+    "general knowledge/AI/assets/Pasted image 20240125230147.png",
+    "general knowledge/AI/Perceptron Multicapa.md",
+    "daily/25-01-2024.md",
+    "general knowledge/AI/pytorch/00 PyTorch fundamentals.md",
+    "general knowledge/Ecuaciones de segundo grado.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240124185028.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240124133414.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240124132711.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240124120932.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240124120242.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240124120007.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240124110638.png",
+    "daily/24-01-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240124105318.png",
+    "general knowledge/AI/ChromaDB - Base de datos vectorial.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del Movimiento Dentario.md",
     "general knowledge/AI/Deep Learning.md",
-    "general knowledge/AI/assets/Pasted image 20240123152150.png",
-    "general knowledge/AI/assets/Pasted image 20240123151139.png",
-    "general knowledge/AI/assets/Pasted image 20240123144520.png",
-    "general knowledge/AI/assets/Pasted image 20240123135658.png",
-    "general knowledge/AI/assets/Pasted image 20240123133418.png",
-    "general knowledge/AI/assets/Pasted image 20240123131341.png",
-    "general knowledge/AI/assets/Pasted image 20240123130642.png",
     "01-01-2024.md",
     "daily/23-01-2024.md",
     "Libros/Learning/Uncommon Sense Teaching.md",
     "general knowledge/AI/RAG - Retrieval Augmented Generation.md",
-    "general knowledge/AI/ChromaDB - Base de datos vectorial.md",
     "daily/22-01-2024.md",
     "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
     "general knowledge/AI/assets/script.py",
@@ -206,9 +202,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
     "Estudios UCAM/Ortodoncia/Ortodoncia.md",
     "Estudios UCAM/Odontopediatria",
-    "general knowledge/AI/assets/Pasted image 20240121181343.png",
-    "general knowledge/AI/assets/Pasted image 20240121181208.png",
-    "general knowledge/AI/assets/Pasted image 20240121180319.png",
     "general knowledge/AI/assets/RAG_paper.pdf",
     "daily/21-01-2024.md",
     "daily/09-01-2024.md",
@@ -217,13 +210,6 @@
     "Spaces/Home/Examen de ortodoncia I y II.md",
     "daily/19-01-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 2/Tema 9 parte I. Síndromes.pdf",
     "Sin título.canvas",
     "Libros/Learning/assets",
