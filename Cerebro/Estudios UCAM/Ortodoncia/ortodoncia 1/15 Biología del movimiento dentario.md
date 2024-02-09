@@ -251,3 +251,157 @@ Los bifosfonatos inhiben la reabsorción ósea mediada por los osteoclastos por 
 Hoy en día se acepta que el tratamiento sería viable siempre y cuando al menos hayan pasado 3 meses de la supresión o la sustitución del bifosfonato por su análogo estrogénico (siempre que su médico lo aceptase).
 
 ## Lesiones locales: corticotomías y movimiento dental acelerado
+___
+Partiendo del concepto de que para inducir el movimiento dental existe la necesidad de generar un proceso inflamatorio que desencadene la cascada de activación de osteoclastos/osteoblastos, podríamos pensar que, realizar algún tipo de acción que incremente esa reacción inflamatoria provocaría una mayor velocidad en el movimiento ortodóncico y por tanto un menor tiempo de tratamiento.
+
+En este supuesto se basan la realización de <span style="color:#ffff00">corticotomías</span>, donde se ha empezado a considerar que el movimiento dental rápido que se produce tras una corticotomía representa un fenómeno de desmineralización/remineralización que produce una aceleración regional de la remodelación ósea permitiendo un movimiento más rápido de los dientes.
+
+Podemos distinguir cuatro tipos de movimiento dental acelerada asistido quirúrgicamente:
+- Desplazamiento del alveolo en bloque, utilizado para dientes anquilosados principalmente.
+- Decorticación en las superficies vestibulares del hueso alveolar tras levantar colgajo junto con material de injerto óseo en particular para permitir mayor modelación.
+- Incisiones en la encía interproximal sin tener que levantar colgajo y a las que se le puede incorporar injerto óseo.
+- Microperforaciones en interproximal con pequeños tornillos que luego se extraen
+
+En cuanto a la eficacia de estos tratamientos, hay que analizar en cada paciente en concreto el coste-riesgos/beneficios, sabiendo que hoy en día podría ser utilizadas como un complemento muy útil, siendo prudentes a la hora de recomendarlas.
+
+![[Pasted image 20240203122507.png]]
+
+![[Pasted image 20240203122536.png]]
+
+![[Pasted image 20240203122550.png]]
+
+### Otros métodos para acelerar el movimiento ortodóncico:
+- Vibración de los dientes.
+- Aplicación de luz sobre el proceso alveolar.
+- Aplicación de ultrasonidos sobre el diente y el hueso adyacente.
+
+Teóricamente, estos sistemas tendrían un efecto similar a las corticotomías en cuanto a la capacidad de aumentar el proceso de inflamación y diferenciación celular necesarios para los procesos de reabsorción/remodelado. No obstante, las ausencias de datos fiables en cuanto a su utilidad clínica hacen que todavía su uso no sea rutinario en la práctica ortodóncica.
+
+## Efectos perjudiciales de las fuerzas ortodóncicas
+___
+### Efectos sobre la pulpa:
+Teóricamente, la aplicación de las fuerzas debería producir una reacción sobre el LP y escasa o nula sobre la pulpa. Sin embargo, se ha visto que tras la activación del aparato puede aparecer una leve pulpitis transitoria sin consecuencias a largo plazo.
+
+Los casos reportados en la bibliografía sobre pérdida de vitalidad pulpar durante un tratamiento ortodóncico suelen estar relacionados con el uso de fuerzas intensas y constantes, que podrían interrumpir los vasos sanguíneos a nivel del ápice radicular, sobre todo en grandes movimientos de intrusión e inclinación descontrolada.
+
+Ya que el elemento clave y fundamenta para el movimiento ortodóncico es la respuesta del LP y no de la pulpa, es perfectamente posible mover dientes tratados endodónticamente.
+
+### Efectos sobre la estructura radicular
+Hay que tener en cuenta que, cuando se aplican fuerzas ortodóncicas, existe un remodelado del cemento radicular, del mismo modo que del hueso adyacente. El cemento (y la dentina, si la reabsorción atraviesa el cemento) se elimina de la superficie radicular mientras la fuerza activa actúa, y posteriormente es restaurado durante los períodos de inacactividad. Por tanto, sólo se producirá una pérdida permanente de la estructura radicular si la reparación no repone el cemento reabsorbido anteriormente. 
+
+Esta situación de pérdida de estructura radicular suele afectar al ápice, donde pequeños islotes de cemento y dentina se desprenden totalmente y son reabsorbidos sin ser reemplazados.
+
+![[Pasted image 20240203123906.png]]
+
+A pesar del potencial reparador existente, tras un examen radiológico de los pacientes que han sido sometidos a tratamiento ortodóncico se puede observar una pérdida de longitud radicular en mayor o menor medida en casi todos los pacientes.
+
+<span style="color:#ff0000">Algunos dientes están más predispuestos a la reabsorción radicular:</span>
+- Incisivos superiores (los más afectados)
+- Incisivos inferiores
+- Primeros molares inferiores.
+
+En casi todos los pacientes, sin embargo, la pérdida de estructura radicular es mínima y clínicamente insignificante (o a 2,5 mm).
+
+Hoy día, se sabe que <span style="color:#f519e3">los pacientes con raíces cónicas, ápices muy finos y dilaceraciones presentan un mayor riesgo de acortamiento radicular durante el tratamiento.</span> También factores como una mayor duración del tratamiento, contacto radicular con las corticales óseas o fuerzas continuas intensas pueden incrementar dicha reabsorción.
+
+Además, aquellos pacientes que presentan reabsorciones radiculares previas al tratamiento ortodóncico estarán más expuestos a un riesgo añadido que un paciente que no presenta reabsorciones previas.
+
+A pesar de todo, permanece siendo desconocido por qué algunos pacientes son extremadamente susceptibles a la reabsorción radicular.
+
+Una medida de control importante en los pacientes de ortodoncia es la realización de un control radiográfico (generalmente una ortopantomografía) en torno a los 9 - 12 meses de tratamiento.
+
+### Efectos sobre la altura del hueso alveolar
+Podríamos pensar que, si el balance entre oposición y reabsorción a nivel de la cresta alveolar se decanta por la reabsorción, podamos tener una pérdida de altura de la cresta alveolar. Sin embargo, no es muy frecuente encontrar pérdidas excesivas en la altura de la cresta alveolar, siendo estas inferiores a 0,5 mm y casi nunca mayores de 1 mm cuando existe un tratamiento controlado.
+
+En cuanto a los pacientes periodontales que ya han perdido altura de hueso alveolar a consecuencia de una periodontitis, pueden someterse a tratamiento ortodóncico siempre y cuando la enfermedad periodontal esté bien controlada.
+
+Durante los movimientos extrusivos, con fuerzas razonables, el diente se llevará consigo el hueso alveolar con él, siendo la altura de la inserción ósea a lo largo de la raíz aproximadamente la misma al comienzo que al final del movimiento. Este proceso de "arrastre del hueso" que va produciendo el diente a medida que se va desplazando puede resultar muy útil para "generar hueso" en zonas con grandes defectos que precisen luego la colocación de un implante.
+
+En los movimientos intrusivos, se podría proceder a la intrusión de dientes con problemas periodontales, mediante fuerzas lo suficientemente intensas como para evitar que el hueso alveolar lo acompañe. Esto permitiría incluir una mayor superficie radicular sobre el hueso y mejorar el nivel de inserción. Sin embargo, este procedimiento no da lugar a la reinserción de los tejidos blandos, con la consiguiente reducción simultánea de la altura ósea, por lo que la mejoría no es notoria.
+
+Como norma general, lo deseable es llevar a cabo movimientos de extrusión o intrusión con fuerzas controladas para que la altura del hueso alveolar se mantenga al mismo nivel radicular.
+
+### <span style="color:#ffff00">Movilidad y dolor
+</span>
+Para la movilización ortodóncica se necesita una reorganización del LP, las fibras se desinsertan del hueso y del cemento y se vuelven a insertar. Radiográficamente, vemos el espacio del LP, ensanchado, que junto con el LP desorganizado va a provocar que los pacientes en tratamiento tengan una mayor <span style="color:#ffff00">movilidad</span> dental.
+
+Una movilidad excesiva es indicativa de que se están aplicando fuerzas demasiado intensas, con mayor grado de reabsorción secundaria, por lo que deben de interrumpirse hasta que su movilidad disminuya. Por lo general se suele corregir y no deja secuelas permanentes.
+
+Cuando aplicamos fuerzas adecuadas, el <span style="color:#ffff00">dolor</span> inicial es muy leve o ninguno, pudiendo aparecer al cabo de las horas como una sensación de sensibilidad a la presión. Suele durar entre 2 y 4 días, aunque existe una gran variabilidad individual en cuanto a la percepción del dolor.
+
+Por el contrario, si aplicamos una fuerza excesiva, el dolor aparecerá de inmediato, y está relacionado con la creación de áreas isquémicas dentro del LP, áreas que sufrirán una necrosis aséptica de reabsorción.
+
+La leve pulpitis que se genera al aplicar las fuerzas también puede contribuir a la sensibilidad a la presión que experimentan los pacientes.
+
+Ahora bien, si la fuente de dolor es el desarrollo de zonas isquémicas, las estrategias para aliviar la presión y permitir el flujo de sangre deberían ayudar para disminuir el dolor. Así pues, si utilizamos fuerzas ligeras, la intensidad del dolor puede reducirse si les hacemos masticar repetidamente durante las 8 horas posteriores a la activación del aparato (chicles, objetos de goma, etc.).
+
+No obstante, las fuerzas ligeras son la mejor manera de evitar el dolor durante el tratamiento de ortodoncia.
+
+## Efectos esqueléticos de las fuerzas ortodóncicas: modificar el crecimiento óseo
+____
+### Principios de la modificación del crecimiento
+Las fuerzas aplicadas sobre los dientes pueden irradiarse hacia lugares esqueléticos alejados, pudiendo cambiar el patrón de crecimiento de los maxilares e incluso corregir maloclusiones de origen esquelético.
+
+Como ya sabemos, el maxilar crece por aposición de nuevo hueso a nivel de las suturas que lo conectan con el resto del cráneo, en respuesta a su traslación secundaria hacia delante debido al alargamiento de la base del cráneo (crecimiento pasivo) así como la propia tracción hacia delante por el crecimiento de los tejidos blandos (crecimiento activo).
+
+La mandíbula se ve desplazada hacia delante y hacia abajo por crecimiento de los tejidos blandos. En respuesta, la apófisis crece hacia arriba y atrás para mantener la ATM.
+
+Por tanto, parece lógico pensar que aquellas presiones que ejerzamos y que se opongan al movimiento anteroinferior de maxilar y mandíbula limiten su crecimiento, y las que se sumen a las fuerzas que los impulsan hacia delante y abajo lo incremente.
+
+A día de hoy, la magnitud de los movimientos puramente esqueléticos provocados con la terapéutica ortodóncica sigue siendo motivo de debate. No obstante, en los últimos años se ha demostrado la eficacia clínica de los métodos dirigidos a modificar el crecimiento.
+
+### Efectos de las fuerzas ortodóncicas sobre el maxilar superior y el tercio medio facial
+#### <span style="color:#00b0f0">Restricción del crecimiento maxilar</span>
+Las fuerzas que terminan llegando a las suturas son mucho menores que las aplicadas, ya que parte de estas fuerzas se va a disipar en los dientes. La experiencia clínica sugiere que las fuerzas de compresión moderadas aplicadas sobre los dientes del maxilar superior pueden impedir el crecimiento hacia delante del mismo.
+
+Sin embargo, las fuerzas moderadas recomendadas para restringir el crecimiento hacia delante del maxilar tienden a ser mayores que las recomendadas únicamente para el movimiento dental. Por ejemplo, una fuerza de 250gr por lado (500gr) en total aplicada sobre los primeros molares a traves de un arco extraoral es la mínima para restringir el maxilar superior.
+
+Como estas fuerzas son tan intensas existe el riesgo de dañar las raíces dentales y el periodonto. Además, lo que se pretende conseguir es el mayor efecto esquelético y el menor dental. Por esto se ha sugerido no utilizar fuerzas tan intensas y de manera continuada, proponiéndose utilizar fuerzas intensas e intermitentes. Las fuerzas intensas e intermitentes inducen menos movimiento dental que esquelético, debido a que los estímulos para la reabsorción basal se difumina en los periodos en los que se retira la fuerza intensa (el paciente se quita el aparato).
+
+Anteriormente se ha descrito que para las movilización dental existe un umbral definido en torno a las 6 horas de fuerza mantenida. Parece ser que para la restricción de maxilar superior existe un umbral de 8 horas, por debajo de esas horas de uso no podemos esperar una respuesta importante.
+
+También se ha comprobado que la hormona del crecimiento en niños en desarrollo se libera a última hora de la tarde, comenzando su liberación a media tarde. Por este motivo, es aconsejable el uso de estos aparatos justo después de la merienda, esperando conseguir un mayor efecto.
+
+Actualmente, las recomendaciones para el freno del crecimiento maxilar con un casquete son:
+- Fuerzas de 500-100 gr en total, la mitad por cada lado.
+- La dirección de las fuerzas por encima del plano oclusal, a través del centro de resistencia de los molares.
+- Uso de al menos 12 horas diarias, usándolo a media tarde, justo después de merendar.
+- Duración de tratamiento entre 12-18 meses dependiendo de fase de crecimiento y cooperación del niño.
+
+#### <span style="color:#00b0f0">Aumento del crecimiento maxilar</span>
+El principal problema a la hora de estimular un mayor crecimiento del maxilar radica en la capacidad de poder ejercer sobre las suturas una fuerza suficientemente intensa como para permitir la separación de dicha sutura. Estas suturas se van interdigitando cada vez más con la edad, llegando a un punto (comienzo de la adolescencia) donde la aplicación de las fuerzas apoyándonos en los dientes será incapaz de provocar la separación de dichas suturas.
+
+![[Pasted image 20240203154846.png]]
+
+Por tanto, en niños mayores, la respuesta será ampliamente dentaria, con escaso a nulo efecto esquelético. Sin embargo, en niños jóvenes a menudo se observan cambios esqueléticos acentuados, pudiendo estar el punto de inflexión alrededor de los 8 años de edad. Por debajo de estos 8 años parece que las respuestas esqueléticas son buenas. No obstante, es necesario el análisis de la fase de maduración ósea en la que se encuentra cada individuo en particular.
+
+La sutura media palatina se puede separar muy eficazmente en niños pequeños y se ha propuesto que su separación aumenta la eficacia de la tracción anterior del maxilar superior, gracias a la "desestructuración" sutural que permite una mayor liberación ósea para su desplazamiento.
+
+El movimiento dental es indeseable cuando se intenta conseguir un desplazamiento del maxilar superior hacia delante en niños de mayor edad, pero que todavía no han pasado a la adolescencia.
+
+Para evitar estos efectos dentales indeseados, en la actualidad se están utilizando sistemas de anclaje óseo, mediante placas de titanio fijadas en zonas de hueso estable. Las fuerzas de tracción se aplican sobre estas placas permitiendo un efecto puramente óseo.
+
+Aunque el anclaje óseo elimina los efectos indeseados de movimiento dental, no significa que no existan restricciones a la cantidad de movimiento óseo, ya que a pesar de todo existe un control de la matriz de tejido blando en la que está embebido el maxilar.
+
+### Efectos de las fuerzas ortopédicas sobre la mandíbula
+#### <span style="color:#00b0f0">Restricción del crecimiento mandibular</span>
+Los estudios experimentales mediante el uso de la mentonera en los animales (monos) sugieren que las fuerzas bastante intensas y prolongadas pueden detener el crecimiento mandibular y provocar una remodelación de la fosa. Sin embargo, en los seres humanos, los tratamientos encaminados a la restricción del crecimiento mandibular nunca dan resultados muy satisfactorios. La principal diferencia parece estar en la capacidad de uso constante de la mentonera en los monos (la llevan todo el día). Parece ser que es necesario provocar una anquilosis funcional de la articulación para tener efecto restrictivo, lo cual es muy difícil en los seres humanos puesto que en el momento de quitarse la mentonera ya se puede producir una traslación de los cóndilos fuera de la fosa glenoidea.
+
+Otro aspecto importante en la dirección de la fuerza que se aplica sobre el cóndilo. Las fuerzas dirigidas hacia el cóndilo tienden a actuar sólo sobre una pequeña parte de la superficie del cóndilo. La necesidad de una fuerza muy intensa, la cual puede resultar muy dolorosa también explica la falta de resultados óptimos.
+
+![[Pasted image 20240203160404.png]]
+
+El principal efecto con el uso de la mentonera es la redirección del crecimiento hacia abajo y hacia atrás, lo que implica un aumento de la dimensión vertical del paciente. Esto se produce por la dificultad de cargar toda la parte superior del cóndilo, por lo que la línea de fuerza queda por debajo de la posición teóricamente ideal. Así pues, en los pacientes clase III braquifaciales podría ser una buena alternativa, no siéndola en los pacientes clase III dolicofaciales.
+
+A día de hoy, los mejores resultados en cuanto al freno del crecimiento mandibular se están consiguiendo con el uso del anclaje esquelético, donde el paciente lleva unos elásticos de clase III de manera permanente.
+
+![[Pasted image 20240203160750.png]]
+
+#### <span style="color:#00b0f0">Estimulación del crecimiento mandibular</span>
+A día de hoy todavía existe mucha controversia en si los aparatos funcionales de clase II pueden estimular el crecimiento mandibular, entendiendo la estimulación del crecimiento como una aceleración del crecimiento normal, no un tamaño final de la mandíbula mayor que el esperado si no se hubiese tratado.
+
+Los efectos dentales derivados del uso de estos aparatos son similares a los del uso de elásticos de clase II: retroinclinación de incisivos superiores y proinclinación de incisivos inferiores.
+
+La principal diferencia radica en el <span style="color:#00b0f0">uso activo</span> del aparato funcional, es decir, el paciente utiliza activamente sus músculos (especialmente los pterigoideos externos) para colocar la mandíbula adelantada. Esto hará que la fuerza no descanse sobre los dientes y minimizará los efectos dentales, maximizando los efectos esqueléticos.
+
+Por el contrario, si el aparato funcional mantiene la posición de protrusiva de manera <span style="color:#00b0f0">pasiva</span> la fuerza va a dirigirse en mayor medida a los dientes, por lo que los efectos de proinclinación de incisivos inferiores y retroinclinación de incisivos superiores se verán aumentados.
