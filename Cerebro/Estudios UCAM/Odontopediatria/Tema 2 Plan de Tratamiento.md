@@ -5,6 +5,7 @@ author: Tabata Álvarez Muro
 tags:
   - estudios/odontopediatria
 type: estudios
+sticker: emoji//1f6a7
 ---
 ## Conceptos
 ___

@@ -33,4 +33,5 @@ ___
 	- [f] El patrón facial
 	- [f] Estética facial -> proquelia / retroquelia
 - [ ] Diastemas
-- [ ] 
+	- [f] Test de Graber -> como se hace -> cuando se debe quitar el frenillo
+	- [ ] 
