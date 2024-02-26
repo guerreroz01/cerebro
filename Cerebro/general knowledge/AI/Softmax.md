@@ -1,0 +1,2 @@
+# Softmax
+Es una función de activación que se utiliza en la última capa y lo que hace es convertir los valores de logits (_la salida de la capa_) en probabilidades, esto es muy útil ya que el resultado de la probabilidad nunca dará cero lo cual perjudicaría el aprendizaje de la neurona #TODO  

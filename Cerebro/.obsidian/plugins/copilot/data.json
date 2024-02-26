@@ -1,0 +1,23 @@
+{
+  "openAIApiKey": "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",
+  "huggingfaceApiKey": "",
+  "cohereApiKey": "",
+  "anthropicApiKey": "",
+  "azureOpenAIApiKey": "",
+  "azureOpenAIApiInstanceName": "",
+  "azureOpenAIApiDeploymentName": "",
+  "azureOpenAIApiVersion": "",
+  "azureOpenAIApiEmbeddingDeploymentName": "",
+  "defaultModelDisplayName": "LocalAI",
+  "temperature": 0.7,
+  "maxTokens": 1000,
+  "contextTurns": 6,
+  "userSystemPrompt": "",
+  "openAIProxyBaseUrl": "http://localhost:1234/v1",
+  "localAIModel": "mixtral",
+  "ttlDays": 30,
+  "stream": true,
+  "embeddingProvider": "openai",
+  "defaultSaveFolder": "copilot-conversations",
+  "debug": false
+}

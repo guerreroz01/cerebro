@@ -1,0 +1,21 @@
+{
+  "api_key": "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",
+  "chat_open": true,
+  "file_exclusions": "",
+  "folder_exclusions": "",
+  "header_exclusions": "",
+  "path_only": "",
+  "show_full_path": false,
+  "expanded_view": true,
+  "group_nearest_by_file": false,
+  "language": "es",
+  "log_render": false,
+  "log_render_files": false,
+  "recently_sent_retry_notice": false,
+  "skip_sections": false,
+  "smart_chat_model": "gpt-3.5-turbo-16k",
+  "view_open": true,
+  "version": "1.6.34",
+  "failed_files": [],
+  "license_key": ""
+}

@@ -1,0 +1,26 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "tienes acceso a mis apuntes?\n"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "No, como asistente virtual no tengo acceso a tus apuntes ni a ninguna otra información personal. Mi función es proporcionar información y ayudarte con tus preguntas dentro de mis capacidades."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "ahora tienes acceso a mis apuntes?\n"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "No, como asistente virtual, no tengo acceso a tus apuntes ni a ninguna otra información personal. Mi programación está diseñada para respetar la privacidad y confidencialidad de los usuarios. No almaceno ni accedo a ningún tipo de información personal. Mi objetivo principal es proporcionar respuestas y asistencia basada en conocimientos generales."
+    }
+  ]
+]

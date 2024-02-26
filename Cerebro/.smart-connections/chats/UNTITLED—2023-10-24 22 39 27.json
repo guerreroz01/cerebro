@@ -1,0 +1,26 @@
+[
+  [
+    {
+      "role": "user",
+      "content": "donde hablo sobre la mordida constructiva?\n"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "Puedes hablar sobre la mordida constructiva en diferentes contextos, como en un consultorio dental con tu dentista, en un grupo de discusión sobre ortodoncia o en foros en línea especializados en temas de salud bucal. También puedes encontrar información y recursos sobre la mordida constructiva en libros, revistas científicas y sitios web de confianza relacionados con la odontología y la ortodoncia."
+    }
+  ],
+  [
+    {
+      "role": "user",
+      "content": "en cual de mis notas hablo sobre la mordida constructiva?\n"
+    }
+  ],
+  [
+    {
+      "role": "assistant",
+      "content": "Lo siento, pero como modelo de lenguaje de IA, no tengo acceso a la información personal del usuario, como sus notas o archivos. No tengo conocimiento de las conversaciones anteriores ni puedo recordar información previa. Estoy diseñado para proporcionar información general y ayudar con preguntas de manera independiente. Si tienes alguna pregunta específica sobre la mordida constructiva, estaré encantado de ayudarte."
+    }
+  ]
+]

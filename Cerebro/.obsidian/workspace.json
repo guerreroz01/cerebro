@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "28fb8de57e223e5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a17d711d24cb17ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44bab7cf600a0647",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/Odontopediatria/Tema 5 Consideraciones morfológicas de la dentición temporal.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "39d3ecc43eccac12",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "515f03e1e7159414",
+    "type": "split",
+    "children": [
+      {
+        "id": "a07cce5b3a63426a",
+        "type": "tabs",
+        "dimension": 71.10894941634241,
+        "children": [
+          {
+            "id": "afe53d4f619e83f3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "84f19cc694afb634",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c2759390c3c5c27",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "78a799ad0a002e35",
+            "type": "leaf",
+            "state": {
+              "type": "mk-file-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "b62740146de5d4a0",
+        "type": "tabs",
+        "dimension": 28.891050583657584,
+        "children": [
+          {
+            "id": "5b9f1e8061bc2971",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e0d8aee183af1c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3f19d402d2c2dc5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59a6be065dded64b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fb986c2e822fad6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cb53e601b5c536e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18495a64450286fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7a47ad99cc6c371b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md"
+              }
+            }
+          },
+          {
+            "id": "f1a8477b15bb286e",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "copilot:Copilot Chat": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "39d3ecc43eccac12",
+  "lastOpenFiles": [
+    "Estudios UCAM/Odontopediatria/Tema 5 Consideraciones morfológicas de la dentición temporal.md",
+    "daily/24-02-2024.md",
+    "general knowledge/Video editing/11 expressions for animation efficiency in after effects.md",
+    "general knowledge/Video editing/Curso de After Effects Skilshare.md",
+    "general knowledge/Video editing/7 cosas sobre periodismo.md",
+    "daily/23-02-2024.md",
+    "daily/03-02-2024.md",
+    "daily/02-02-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md",
+    "daily/01-02-2024.md",
+    "general knowledge/condrocitos.md",
+    "daily/22-02-2024.md",
+    "general knowledge/Video editing",
+    "Estudios UCAM/Odontopediatria/Operatoria Dental en Odontopediatría.md",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240219090257.png",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240219090155.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/16 Maloclusión de Clase I.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/17 Maloclusiones sagitales de Clase II.md",
+    "daily/19-02-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
+    "daily/16-02-2024.md",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215180618.png",
+    "daily/15-02-2024.md",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215152653.png",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215152031.png",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215151414.png",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215151047.png",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215151026.png",
+    "Excalidraw/longitudes dientes temporales.excalidraw.md",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240214171434.png",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240214171200.png",
+    "Estudios UCAM/Odontopediatria/assets",
+    "daily/14-02-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase I.md",
+    "Estudios UCAM/Odontopediatria/Tema 4 Preparaciones cavitarias en odontopediatría.md",
+    "Estudios UCAM/Odontopediatria/Tema 6 Operatoria dental.md",
+    "Estudios UCAM/Odontopediatria/Tema 8 Dolor y Control Farmacológico.md",
+    "daily/13-02-2024.md",
+    "general knowledge/AI/Red Neuronal.canvas",
+    "general knowledge/AI/assets/script.py",
+    "Estudios UCAM/Odontopediatria",
+    "general knowledge/AI/assets/RAG_paper.pdf",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Tema 9 parte I. Síndromes.pdf",
+    "Sin título.canvas",
+    "Libros/Learning/assets",
+    "Libros/Learning"
+  ]
+}
