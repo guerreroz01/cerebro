@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bb00dcdcbb4ddbbd",
+        "id": "68f66ada2e758788",
         "type": "tabs",
         "children": [
           {
-            "id": "d5003c36bd34c18d",
+            "id": "e024f4bdb06eadcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -169,9 +169,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d5003c36bd34c18d",
+  "active": "e024f4bdb06eadcf",
   "lastOpenFiles": [
-    "daily/03-03-2024.md",
-    "Spaces/Home/Parcial de Odontopediatría.md"
+    "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
+    "Spaces/Home/Parcial de Odontopediatría.md",
+    "daily/03-03-2024.md"
   ]
 }
