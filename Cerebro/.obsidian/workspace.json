@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "28fb8de57e223e5d",
+    "id": "34945541f821d2be",
     "type": "split",
     "children": [
       {
-        "id": "461381272849f5c1",
+        "id": "8887c473192c272c",
         "type": "tabs",
         "children": [
           {
-            "id": "86e89549f664145d",
+            "id": "6ea2bdebb9c10ec8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
+                "file": "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,16 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "515f03e1e7159414",
+    "id": "faa2e86e8a5778ed",
     "type": "split",
     "children": [
       {
-        "id": "a07cce5b3a63426a",
+        "id": "3779faf73066dcbd",
         "type": "tabs",
-        "dimension": 71.10894941634241,
         "children": [
           {
-            "id": "afe53d4f619e83f3",
+            "id": "8ab49be221d60ad4",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +43,7 @@
             }
           },
           {
-            "id": "84f19cc694afb634",
+            "id": "0166b91798360540",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -59,7 +58,7 @@
             }
           },
           {
-            "id": "4c2759390c3c5c27",
+            "id": "c1a9ee2c5065422a",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,15 +66,7 @@
             }
           },
           {
-            "id": "cad0dfc0675df2a5",
-            "type": "leaf",
-            "state": {
-              "type": "mk-file-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "9a6340477f24b6b5",
+            "id": "c745d1e2b83a3cf2",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -83,37 +74,22 @@
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "b62740146de5d4a0",
-        "type": "tabs",
-        "dimension": 28.891050583657584,
-        "children": [
-          {
-            "id": "5b9f1e8061bc2971",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 300
   },
   "right": {
-    "id": "e0d8aee183af1c6e",
+    "id": "6e894e1a932d8d71",
     "type": "split",
     "children": [
       {
-        "id": "3f19d402d2c2dc5e",
+        "id": "61e5e62bb74629ac",
         "type": "tabs",
         "children": [
           {
-            "id": "59a6be065dded64b",
+            "id": "bac19c39010bb02d",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -121,12 +97,12 @@
             }
           },
           {
-            "id": "7fb986c2e822fad6",
+            "id": "67abab168bbf4676",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
+                "file": "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,19 +114,19 @@
             }
           },
           {
-            "id": "2cb53e601b5c536e",
+            "id": "72adaf63416e3821",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
+                "file": "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "18495a64450286fc",
+            "id": "0066503f844f9dad",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -161,33 +137,28 @@
             }
           },
           {
-            "id": "7a47ad99cc6c371b",
+            "id": "747b171e2fbbd69a",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md"
+                "file": "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md"
               }
             }
-          },
-          {
-            "id": "f1a8477b15bb286e",
-            "type": "leaf",
-            "state": {
-              "type": "copilot-chat-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Copilot Chat": false,
+      "media-extended:Open media": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,60 +166,12 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "media-extended:Open media": false,
-      "copilot:Copilot Chat": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "86e89549f664145d",
+  "active": "6ea2bdebb9c10ec8",
   "lastOpenFiles": [
-    "daily/30-01-2024.md",
-    "daily/29-01-2024.md",
-    "daily/28-01-2024.md",
-    "daily/27-01-2024.md",
-    "daily/26-01-2024.md",
-    "daily/25-01-2024.md",
-    "daily/24-01-2024.md",
-    "daily/23-01-2024.md",
-    "daily/22-01-2024.md",
-    "daily/21-01-2024.md",
-    "daily/19-02-2024.md",
-    "daily/16-02-2024.md",
-    "daily/15-02-2024.md",
-    "daily/14-02-2024.md",
-    "daily/13-02-2024.md",
-    "daily/12-02-2024.md",
-    "daily/09-02-2024.md",
-    "daily/05-02-2024.md",
-    "daily/03-02-2024.md",
-    "daily/02-02-2024.md",
-    "daily/01-02-2024.md",
-    "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría.md",
-    "Estudios UCAM/Odontopediatria/Operatoria Dental en Odontopediatría.md",
-    "daily/26-02-2024.md",
-    "daily/03-03-2024.md",
-    "daily/02-03-2024.md",
-    "general knowledge/Video editing",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240219090257.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240219090155.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215180618.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215152653.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215152031.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215151414.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215151047.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215151026.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240214171434.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240214171200.png",
-    "Estudios UCAM/Odontopediatria/assets",
-    "general knowledge/AI/Red Neuronal.canvas",
-    "general knowledge/AI/assets/script.py",
-    "Estudios UCAM/Odontopediatria",
-    "general knowledge/AI/assets/RAG_paper.pdf",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Tema 9 parte I. Síndromes.pdf",
-    "Sin título.canvas",
-    "Libros/Learning/assets",
-    "Libros/Learning"
+    "Spaces/Home/Parcial de Odontopediatría.md",
+    "daily/03-03-2024.md"
   ]
 }
