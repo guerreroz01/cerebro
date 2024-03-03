@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
 	"name": "Minimal",
 	"version": "7.3.5",
@@ -6,3 +7,13 @@
 	"authorUrl": "https://twitter.com/kepano",
 	"fundingUrl": "https://www.buymeacoffee.com/kepano"
 }
+=======
+{
+	"name": "Minimal",
+	"version": "7.3.5",
+	"minAppVersion": "1.1.9",
+	"author": "@kepano",
+	"authorUrl": "https://twitter.com/kepano",
+	"fundingUrl": "https://www.buymeacoffee.com/kepano"
+}
+>>>>>>> 6266775 (windows)

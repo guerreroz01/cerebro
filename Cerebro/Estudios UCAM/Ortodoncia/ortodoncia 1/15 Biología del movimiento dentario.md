@@ -49,7 +49,11 @@ Además de las fibras de colágeno, en el LP encontramos:
 
 Los principales elementos celulares del LP son células mesenquimales indiferenciadas y su progenie en forma de fibroblastos, cementoblastos y osteoblastos.
 
+<<<<<<< HEAD
 El colágeno del LP se encuentra en contínuo remodelado durante la función normal por la acción de los fibroblastos y fibrocastos.
+=======
+<span style="color:#ff0000">El colágeno del LP se encuentra en contínuo remodelado durante la función normal por la acción de los fibroblastos y fibrocastos.</span>
+>>>>>>> 6266775 (windows)
 
 El remodelado del alveolo óseo y el cemento son reabsorbidos mediante osteoclastos y cementoclastos mientras que los osteoblastos y cementoblastos producen nuevo hueso y cemento.
 
@@ -123,7 +127,11 @@ A medida que la magnitud de la fuerza mantenida se va incrementando, mayor será
 #### Ante una fuerza ligera pero prolongada:
 - El flujo sanguíneo disminuye en el lado de compresión
 - Aumentan los niveles de **AMP cíclico (AMPc)** muy importante para la diferenciación celular después de _4h_ de presión mantenida.
+<<<<<<< HEAD
 - Estas 4h de presión mantenida parecen el humbral para los aparatos ortodóncicos removibles, los cuales se deben llevar al menos de 4 - 6h seguidas para provocar algún efecto ortodóncico.
+=======
+- Estas 4h de presión mantenida parecen el umbral para los aparatos ortodóncicos removibles, los cuales se deben llevar al menos de 4 - 6h seguidas para provocar algún efecto ortodóncico.
+>>>>>>> 6266775 (windows)
 - Aumento del nivel de prostaglandinas que estimulan la actividad osteoclástica y osteoblástica.
 - Aparición de los primeros osteoclastos a partir de los monocitos del espacio periodontal a las 48h, los cuales empiezan a reabsorber la lámina dura de la zona de compresión mediante "reabsorción directa o frontal".
 - Aparición de los osteoblastos que inician la formación y el remodelado óseo en el lado de tensión.
@@ -211,7 +219,11 @@ Vamos a considerar dos supuestos en relación a la duración de las fuerzas:
 
 De este modo, teóricamente las fuerzas ligeras continuas producen los movimientos dentarios más eficaces. Las fuerzas intensas sólo serían aceptables siempre y cuando los niveles de fuerza decaigan de tal modo que permitan un periodo de regeneración del LP antes de la siguiente activación.
 
+<<<<<<< HEAD
 Deberán evitarse pues las fuerzas contínuas intensas pues no dejaría tiempo de reparación del LP.
+=======
+Deberán evitarse pues las fuerzas continua intensas pues no dejaría tiempo de reparación del LP.
+>>>>>>> 6266775 (windows)
 
 Hoy en día se asume la incapacidad clínica de producir movimientos dentarios sólo mediante reabsorción directa, se asume que habrá ciertas áreas de reabsorción secundaria que necesitará in período de 7 - 14 días para completarse. <span style="color:#00b0f0">Por este motivo, los aparatos ortodóncicos no deberían ser activados con una frecuencia superior a intervalos de 3 semanas.</span> Lo más frecuente en ortodoncia son las citas cada 4 semanas, permitiendo 2 semanas para recuperar el LP de las posibles áreas de reabsorción secundaria.
 
@@ -342,7 +354,11 @@ ____
 ### Principios de la modificación del crecimiento
 Las fuerzas aplicadas sobre los dientes pueden irradiarse hacia lugares esqueléticos alejados, pudiendo cambiar el patrón de crecimiento de los maxilares e incluso corregir maloclusiones de origen esquelético.
 
+<<<<<<< HEAD
 Como ya sabemos, el maxilar crece por aposición de nuevo hueso a nivel de las suturas que lo conectan con el resto del cráneo, en respuesta a su traslación secundaria hacia delante debido al alargamiento de la base del cráneo (crecimiento pasivo) así como la propia tracción hacia delante por el crecimiento de los tejidos blandos (crecimiento activo).
+=======
+<span style="color:#ffff00">Como ya sabemos, el maxilar crece por aposición de nuevo hueso a nivel de las suturas que lo conectan con el resto del cráneo, en respuesta a su traslación secundaria hacia delante debido al alargamiento de la base del cráneo (crecimiento pasivo) así como la propia tracción hacia delante por el crecimiento de los tejidos blandos (crecimiento activo).</span>
+>>>>>>> 6266775 (windows)
 
 La mandíbula se ve desplazada hacia delante y hacia abajo por crecimiento de los tejidos blandos. En respuesta, la apófisis crece hacia arriba y atrás para mantener la ATM.
 

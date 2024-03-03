@@ -18,6 +18,10 @@ _links:
   - Estudios UCAM/Odontopediatria/Tema 7 Aislamiento del Campo Operatorio en Odontopediatría.md
   - Estudios UCAM/Odontopediatria/Tema 8 Dolor y Control Farmacológico.md
   - Estudios UCAM/Ortodoncia/ortodoncia 1/16 Maloclusión de Clase I.md
+<<<<<<< HEAD
+=======
+  - Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md
+>>>>>>> 6266775 (windows)
 _sort:
   field: rank
   asc: false

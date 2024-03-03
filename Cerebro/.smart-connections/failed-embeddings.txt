@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 
 Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas
+=======
+
+Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas
+>>>>>>> 6266775 (windows)
 daily/30-10-2023.md

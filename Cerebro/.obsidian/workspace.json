@@ -4,37 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "a17d711d24cb17ac",
+        "id": "461381272849f5c1",
         "type": "tabs",
         "children": [
           {
-            "id": "44bab7cf600a0647",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 5 Consideraciones morfológicas de la dentición temporal.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "c0067b98d44dc9db",
+            "id": "86e89549f664145d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/03-03-2024.md",
+                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,15 +67,23 @@
             }
           },
           {
-            "id": "78a799ad0a002e35",
+            "id": "cad0dfc0675df2a5",
             "type": "leaf",
             "state": {
               "type": "mk-file-view",
               "state": {}
             }
+          },
+          {
+            "id": "9a6340477f24b6b5",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "b62740146de5d4a0",
@@ -133,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/03-03-2024.md",
+                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "daily/03-03-2024.md",
+                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/03-03-2024.md"
+                "file": "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md"
               }
             }
           },
@@ -186,11 +179,11 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 303.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -203,50 +196,52 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "copilot:Copilot Chat": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "media-extended:Open media": false,
+      "copilot:Copilot Chat": false
     }
   },
-  "active": "c0067b98d44dc9db",
+  "active": "86e89549f664145d",
   "lastOpenFiles": [
-    "Estudios UCAM/Odontopediatria/Tema 5 Consideraciones morfológicas de la dentición temporal.md",
+    "daily/30-01-2024.md",
+    "daily/29-01-2024.md",
+    "daily/28-01-2024.md",
+    "daily/27-01-2024.md",
+    "daily/26-01-2024.md",
+    "daily/25-01-2024.md",
+    "daily/24-01-2024.md",
+    "daily/23-01-2024.md",
+    "daily/22-01-2024.md",
+    "daily/21-01-2024.md",
+    "daily/19-02-2024.md",
+    "daily/16-02-2024.md",
+    "daily/15-02-2024.md",
+    "daily/14-02-2024.md",
+    "daily/13-02-2024.md",
+    "daily/12-02-2024.md",
+    "daily/09-02-2024.md",
+    "daily/05-02-2024.md",
+    "daily/03-02-2024.md",
+    "daily/02-02-2024.md",
+    "daily/01-02-2024.md",
+    "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría.md",
+    "Estudios UCAM/Odontopediatria/Operatoria Dental en Odontopediatría.md",
+    "daily/26-02-2024.md",
     "daily/03-03-2024.md",
     "daily/02-03-2024.md",
-    "Estudios UCAM/Odontopediatria/Operatoria Dental en Odontopediatría.md",
+    "general knowledge/Video editing",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240219090257.png",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240219090155.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/16 Maloclusión de Clase I.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/17 Maloclusiones sagitales de Clase II.md",
-    "daily/19-02-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/7 Toma de registros.md",
-    "daily/16-02-2024.md",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215180618.png",
-    "daily/15-02-2024.md",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215152653.png",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215152031.png",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215151414.png",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215151047.png",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240215151026.png",
-    "Excalidraw/longitudes dientes temporales.excalidraw.md",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240214171434.png",
     "Estudios UCAM/Odontopediatria/assets/Pasted image 20240214171200.png",
     "Estudios UCAM/Odontopediatria/assets",
-    "daily/14-02-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase I.md",
-    "Estudios UCAM/Odontopediatria/Tema 4 Preparaciones cavitarias en odontopediatría.md",
-    "Estudios UCAM/Odontopediatria/Tema 6 Operatoria dental.md",
-    "Estudios UCAM/Odontopediatria/Tema 8 Dolor y Control Farmacológico.md",
-    "daily/13-02-2024.md",
-    "Checkboxes.md",
-    "Estudios UCAM/Odontopediatria/Tema 7 Aislamiento del Campo Operatorio en Odontopediatría.md",
-    "daily/12-02-2024.md",
-    "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría.md",
-    "Estudios UCAM/Odontopediatria/Tema 2 Plan de Tratamiento.md",
-    "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
-    "general knowledge/AI/RNN Recursive Neural Network.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Fotografía Dental.md",
-    "daily/09-02-2024.md",
     "general knowledge/AI/Red Neuronal.canvas",
     "general knowledge/AI/assets/script.py",
     "Estudios UCAM/Odontopediatria",
