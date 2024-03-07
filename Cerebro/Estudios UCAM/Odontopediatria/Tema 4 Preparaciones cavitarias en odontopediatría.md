@@ -27,9 +27,9 @@ ___
 	- [ ] Clase I 
 	- [ ] Clase II -> más comunes en niños 
 		- [ ] Importante saber el grado de reabsorción de las raíces antes de decidir restaurar -> rx periapical
-		- [ ] Clase III
-		- [ ] Clase IV
-		- [ ] Clase V -> común en pacientes portadores de brackets 
+		- [ ] Clase III -> <span style="color:#ff0000">NO afectan el ángulo incisal</span>
+		- [ ] Clase IV -> <span style="color:#ffff00">SI afecta el ángulo incisal</span>
+		- [ ] Clase V -> común en pacientes portadores de brackets -> cuellos, gingival
 - [!] Secuencia en la conformación de la cavidad
 	- [f] Apertura de la cavidad
 	- [f] Forma de la superficie
@@ -57,3 +57,5 @@ ___
 	- [ ] Procedimientos mínimo invasivos
 	- [p] Fluoruro deamino de plata -> como funciona? -> desventajas
 	- [f] Restauraciones con composite por capas
+
+32:45

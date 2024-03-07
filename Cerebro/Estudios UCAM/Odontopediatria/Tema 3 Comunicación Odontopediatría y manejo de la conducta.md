@@ -275,3 +275,240 @@ Explique-Enseñe-Ejecute
 >Informar a los padres sobre las técnicas de control ya que aumentamos la aceptación y disminuimos la ansiedad, transmitir confianza y seguridad a los padres, exponiendo problemas y brindando soluciones.
 
 59:37
+
+### Técnicas de modificación de la conducta
+___
+El objetivo siempre va a ser evitar conductas negativas, transformar el comportamiento negativo a un comportamiento ideal.
+
+####  Refuerzo
+> Refuerzo positivo deseable
+> Refuerzo negativo indeseable
+
+#### Desensibilización
+Es la técnica usada con mayor frecuencia por los psicólogos
+- Identificar los procedimientos que más ansiedad provocan.
+- Introducir situaciones que se aproximen cada vez mas al objetivo temido
+- Dar al niño un número determinado de experiencias positivas con el tratamiento dental para ganar su confianza.
+
+Cuando se aplica la desensibilización:
+- Durante la primera visita.
+- Visitas subsiguientes cuando se realizan tratamientos nuevos para el niño.
+- Cuando sean pacientes referidos que no han sido familiarizados con las técnicas odontológicas por su odontólogo.
+
+#### Imitación
+- Especialmente útil para niños sin experiencia previa.
+- Observación de uno o más niños que muestran una conducta adecuada.
+- Natural o mediante películas.
+- Permitirle al paciente que observe uno o más individuos (modelos) que muestren una conducta apropiada.
+- El paciente imitará la conducta
+- Modelo presente (vivo) o filmado (símbólico)
+
+4 funciones básicas:
+- El estímulo para la adquisición de nuevas conductas, para facilitar conductas que están ya en el repertorio del paciente en una manera o momento más apropiado.
+- Para desinhibir conductas evitadas a causa del temor y para suprimir temores.
+
+#### Sugestión o hipnosis:
+Es útil en niños con capacidad para comunicarse o adolescentes. Pueden ser influidos fácil y rápidamente como si se tratase de un juego.
+- El tono de voz debe ser calmante y precisa entrenamiento clínico previo.
+
+### Técnicas de enfoque físico:
+___
+Limitan o controlan los movimientos del niño para su protección al realizar el tratamiento.
+- No son castigo
+- Aplicados debidamente no dañan psicológicamente
+- Intentar despertar sentimientos positivos en el niño hacia el dispositivo.
+- Sólo deben usarse tras agotar técnicas convencionales
+- Considerarlas siempre antes de plantear tratamiento con anestesia general.
+
+>[!tip] La principal finalidad es proteger al paciente
+
+<span style="color:#ffff00">Es importante explicar cómo y porqué a los padres</span>
+
+Explicar al niño con cariño el motivo de su uso
+
+#### Mano sobre boca
+El objetivo es reestablecer la comunicación con un niño que tiene capacidad para comunicarse (prohibida en niños menores de tres años y niños con bajo coeficiente intelectual).
+
+1. Aplicación firme de la mano sobre la boca en pleno ataque.
+2. En voz baja y suave se le dice que retiraremos la mano cuando se calme.
+3. Luego cuando esté calmada se le halaga.
+
+>[!warning] No reflejar nunca actitud de enfado.
+
+<span style="color:#ffff00">Es imprescindible el consentimiento informado</span>
+
+- Niños "normales" momentáneamente histéricos, beligerantes o desafiantes.
+- Es imperativo que sólo se use en niños con suficiente madurez como para comprender las simples órdenes verbales.
+- <span style="color:#ff0000">No en niños muy pequeños, inmaduros, atemorizados, impedidos.</span>
+- El propósito es conseguir la atención del niño y detener su explosión verbal, de modo que se pueda establecer la comunicación.
+
+#### Inmovilización médica por parte del profesional:
+La restricción física es diferente a la inmovilización
+
+- Mantener el control de la cabeza del paciente.
+- En aplicación de anestesia local rodea con el brazo la cabeza del niño.
+- Cuando el personal ya no puede controlar los movimientos se utilizan toallas o sábanas.
+- Pedí-wrap
+- Papoose board.
+
+### Técnicas farmacológicas
+___
+<span style="color:#ff0000">No deben usarse como sustitutivo de las técnicas anteriores.</span>
+1. Sedación ligera (vía oral)
+2. Sedación con óxido nitroso (vía inhalatoria)
+3. Sedación profunda (vía intravenosa, rectal, intramuscular)
+4. Anestesía general
+
+#### Sedación
+1. Sedación consciente (ligera)
+	- Depresión mínima del nivel de conciencia, con conservación de la permeabilidad respiratoria continua e independiente y con capacidad de responder a la estimulación física o las ordenes verbales.
+	- Es un estado de relajación y reposo que permite al niño ser receptivo al tratamiento dental.
+
+<span style="color:#ffff00">El pulsioximetro es imprescindible en cualquier paciente bajo sedación!</span>
+Es el monitor más importante para detectar casos críticos, controla la frecuencia cardíaca con un sensor en el dedo u oreja. Posee una buena calibración de 70-99% es menos fiable por debajo de 70%
+
+#### Agentes Sedantes:
+
+>[!danger] Narcóticos
+>Meperidina (Dolantina) -> No recomendable
+>
+
+>[!tip] Ansiolíticos-Antihistaminicos
+>Hidroxicina (Atarax)
+>Prometacina (Fenegran)
+>Diacepan (Valium)
+>Midazolam (Dormicum)
+
+#### Hidroxicina (Atarax)
+_**Ventajas**_
+- Es sedante
+- Relajación muscular
+- Antiespasmódico
+- Antihemético
+- Antihistamínico
+- Útil en comedicación (NO2, Meperidina, Hidrato de cloral)
+
+_**Inconvenientes**_
+- Somnolencia transitoria
+- Sequedad de boca
+- Actividad motora involuntaria.
+
+_**Dosificación**_
+- Tabletas 10, 25 y 50 mg
+- Jarabe 10 mg/5ml
+- Gran margen de seguridad
+- Dosis relativas:
+	- 2 mg / kg 2 horas antes
+	- 1 mg / kg 20 minutos antes
+
+#### Diacepam (valium)
+_**Ventajas**_
+- Ansiolítico
+- Sedante
+- Relajación muscular
+- Hipnótico
+- Amnésico
+- Anticonvulsionante
+- Antitemblor
+- Antagonista (Anexate)
+
+_**Inconvenientes**_
+- Somnolencia transitoria
+- Sequedad de boca
+- Vértigo- Reacciones paradójicas
+- Sobredosis- depresión del SNC
+- No aconsejable automedicación
+- Lenta recuperación (20 - 70 h)
+
+_**Dosificación**_
+- Vía oral 0.2 - 0.4 mg/kg 1 hora antes
+- Vía rectal recomendada para sedación profunda (Stesolid)
+- <span style="color:#ffff00">Vía parenteral. No recomendada</span>
+- <span style="color:#ff0000">Antídoto "Anexate"</span>
+
+#### Midazolam (Dormicum)
+_**Ventajas**_
+- Ansiolítico
+- Sedante
+- Miorrelajante
+- Hipnóticos
+- Amnesia retrógrada
+- Anticonvulsivante
+- Vida media más corta
+
+_**Inconvenientes**_
+- Somnolencia transitoria
+- Sequedad de boca
+- Sobredosis -> depresión del SNC
+- No aconsejable comedicación
+
+_**Dosificación**_
+- Vía oral - sedación ligera - 0.2 - 0.4 mg/kg 1 hora antes.
+
+#### Sedación por inhalación Oxido nitroso
+_**Ventajas**_
+- Inicio rápido
+- Pronta recuperación
+- Fácil dosificación
+- Ausencia de efectos secundarios graves
+- Aumenta el umbral del dolor
+
+_**Inconvenientes**_
+- Nauseas a dosis altas
+- Excitación
+- Sólo útil en ansiedad leve
+- Falta de aceptación 
+- Incómodo incisivos superiores
+- Toxicidad crónica (profesionales)
+- Equipo es costoso
+- <span style="color:#ff0000">Peligro de comedicación (antidepresivos)</span>
+- Alarga el tiempo de trabajo
+
+_**Dosis**_
+- Niños 3l/min
+- Adultos 5 - 7 l/min
+
+![[Pasted image 20240303130128.png]]
+
+_**Nivel óptimo de psicosedación**_
+- Sensación de hormigueo en las extremidades
+- Mantenimiento de la comunicación verbal
+- Mantenimiento de la boca abierta
+- Sensación de euforia, calor
+- Pupila neurorreactiva
+
+_**Indicaciones**_
+- Niños semicooperativos
+- Disminuidos físicos o mentales
+- Tratamientos largos
+- Comedicación (Hidroxicina, diacepam)
+- Niños en edad escolar.
+
+_**Contraindicaciones**_
+- Preescolares
+- Como sustituto del manejo de conducta
+- Niños que no toleran la mascarilla
+- Obstrucción nasal 
+- Niños con tratamiento antidepresivos
+- Cómo único medio del control del dolor
+
+#### Anestesia General
+_**Indicaciones**_
+- Amplias necesidades restaurativas o quirúrgicas.
+- Múltiples dientes con caries y abscesos en niños muy pequeños.
+- Conducta no controlable
+- Celulitis facial grave
+- Traumatismo facial
+
+_**Contraindicaciones**_
+- Anestesia general de complacencia en niños complicados.
+- Antecedentes familiares de hipertermia maligna
+
+Es una decisión importante, no tomar a la ligera. Se debe estar muy seguro de la decisión.
+
+Existen situaciones en las que es obligado:
+- Múltiples dientes cariados y abscesificados en niños muy pequeños.
+- Celulitis facial grave.
+- Traumatismo facial
+
+varias sesiones rutinarias antes de tomar la decisión, a veces existe frecuente presión de los padres, se deben incluir instrucciones postoperatorias.

@@ -5,11 +5,11 @@ sticker: emoji//1f949
 # Primer parcial
 ___
 - [[Tema 1 Odontopediatría]]
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-04
 - [ ] Lectura
 - [ ] Lectura
 - [[Tema 2 Plan de Tratamiento]]
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-05
 - [ ] Lectura
 - [ ] Lectura
 - [[Tema 3 Comunicación Odontopediatría y manejo de la conducta]]
@@ -17,30 +17,30 @@ ___
 - [ ] Lectura
 - [ ] Lectura
 - [[Tema 4 Preparaciones cavitarias en odontopediatría]]
+- [x] Lectura ✅ 2024-03-05
 - [ ] Lectura
+- [ ] Lectura
+- Restauraciones en dentición temporal 35:10
+- [x] Lectura ✅ 2024-03-05
 - [ ] Lectura
 - [ ] Lectura
 - [[Tema 5 Consideraciones morfológicas de la dentición temporal]]
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-07
 - [ ] Lectura
 - [ ] Lectura
 - [[Tema 6 Operatoria dental]]
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-07
 - [ ] Lectura
 - [ ] Lectura
 - [[Tema 7 Aislamiento del Campo Operatorio en Odontopediatría]]
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-07
 - [ ] Lectura
 - [ ] Lectura
 - [[Tema 8 Dolor y Control Farmacológico]]
-- [ ] Lectura
-- [ ] Lectura
-- [ ] Lectura
-- [[9 Operatoria Dental en Odontopediatría]]
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-03
 - [ ] Lectura
 - [ ] Lectura
 - [[10 Diagnóstico y tratamiento pulpar en dentición temporal]]
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-07
 - [ ] Lectura
 - [ ] Lectura
