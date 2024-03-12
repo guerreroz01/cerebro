@@ -1,6 +1,6 @@
 ---
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
-sticker: emoji//1f949
+sticker: emoji//1f948
 ---
 # Primer parcial
 ___
@@ -14,33 +14,33 @@ ___
 - [ ] Lectura
 - [[Tema 3 Comunicación Odontopediatría y manejo de la conducta]]
 - [x] Lectura ✅ 2024-03-02
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-09
 - [ ] Lectura
 - [[Tema 4 Preparaciones cavitarias en odontopediatría]]
 - [x] Lectura ✅ 2024-03-05
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-09
 - [ ] Lectura
 - Restauraciones en dentición temporal 35:10
 - [x] Lectura ✅ 2024-03-05
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-10
 - [ ] Lectura
 - [[Tema 5 Consideraciones morfológicas de la dentición temporal]]
 - [x] Lectura ✅ 2024-03-07
+- [x] Lectura ✅ 2024-03-10
 - [ ] Lectura
-- [ ] Lectura
-- [[Tema 6 Operatoria dental]]
+- [[Tema 6 Operatoria dental]] 29:00 en el audio
 - [x] Lectura ✅ 2024-03-07
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-10
 - [ ] Lectura
 - [[Tema 7 Aislamiento del Campo Operatorio en Odontopediatría]]
 - [x] Lectura ✅ 2024-03-07
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-10
 - [ ] Lectura
 - [[Tema 8 Dolor y Control Farmacológico]]
 - [x] Lectura ✅ 2024-03-03
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-12
 - [ ] Lectura
 - [[10 Diagnóstico y tratamiento pulpar en dentición temporal]]
 - [x] Lectura ✅ 2024-03-07
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-12
 - [ ] Lectura

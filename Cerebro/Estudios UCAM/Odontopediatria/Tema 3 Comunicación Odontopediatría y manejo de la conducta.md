@@ -57,7 +57,7 @@ Es el basado en sentimientos y actitudes sugeridos por el <span style="color:#ff
 
 ## Ansiedad
 ___
-Es un estado emocional que se origina de fuentes internas como fantasias o expectativas no reales. Es imposible separar el miedo de la ansiedad y acontece en situaciones menos específicas que el miedo.
+Es un estado emocional que se origina de fuentes internas como fantasías o expectativas no reales. Es imposible separar el miedo de la ansiedad y acontece en situaciones menos específicas que el miedo.
 
 ## Tipos de ansiedad
 ___
@@ -274,7 +274,6 @@ Explique-Enseñe-Ejecute
 >[!danger] informar
 >Informar a los padres sobre las técnicas de control ya que aumentamos la aceptación y disminuimos la ansiedad, transmitir confianza y seguridad a los padres, exponiendo problemas y brindando soluciones.
 
-59:37
 
 ### Técnicas de modificación de la conducta
 ___
