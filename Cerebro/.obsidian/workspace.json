@@ -15,26 +15,38 @@
               "type": "markdown",
               "state": {
                 "file": "Spaces/Home/Parcial de Odontopediatría.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "790388403c90e02a",
+            "id": "9acc008b9cef74ae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
+                "file": "daily/15-03-2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "346a3cdc48f02256",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alejandro.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -46,6 +58,7 @@
       {
         "id": "3779faf73066dcbd",
         "type": "tabs",
+        "dimension": 70.63953488372093,
         "children": [
           {
             "id": "8ab49be221d60ad4",
@@ -88,13 +101,26 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
+      },
+      {
+        "id": "32a9500efad79a71",
+        "type": "tabs",
+        "dimension": 29.360465116279073,
+        "children": [
+          {
+            "id": "82d65192df06663a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6e894e1a932d8d71",
@@ -118,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
+                "file": "Alejandro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
+                "file": "Alejandro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,8 +184,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md"
+                "file": "Alejandro.md"
               }
+            }
+          },
+          {
+            "id": "8fce50879a6fd2a5",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {}
             }
           }
         ]
@@ -185,37 +219,47 @@
       "media-extended:Open media": false
     }
   },
-  "active": "790388403c90e02a",
+  "active": "346a3cdc48f02256",
   "lastOpenFiles": [
+    "daily/15-03-2024.md",
+    "Alejandro.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Nota.md",
     "Spaces/Home/Parcial de Odontopediatría.md",
-    "daily/12-03-2024.md",
-    "Estudios UCAM/Odontopediatria/Tema 8 Dolor y Control Farmacológico.md",
-    "Estudios UCAM/Odontopediatria/Tema 4 Preparaciones cavitarias en odontopediatría.md",
-    "daily/11-03-2024.md",
-    "daily/10-03-2024.md",
-    "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
-    "daily/09-03-2024.md",
+    "Checkboxes.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107215345.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107214536.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107214456.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107125449.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231107124010.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231106225802.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231106224221.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20231106222046.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/22 Extracciones terapeuticas.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Cuando se hacen las extracciones en clase II.md",
+    "general knowledge/propelentes nitrocelulósicos.md",
     "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
-    "daily/23-02-2024.md",
-    "daily/07-03-2024.md",
-    "daily/01-03-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Maloclusiones transversales.md",
-    "daily/08-03-2024.md",
-    "Estudios UCAM/Odontopediatria/Tema 6 Operatoria dental.md",
-    "Estudios UCAM/Odontopediatria/Tema 2 Plan de Tratamiento.md",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240305115504.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240305115445.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240305115428.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240305115112.png",
-    "daily/05-03-2024.md",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240304205041.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240304202746.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240304195622.png",
-    "daily/04-03-2024.md",
-    "Estudios UCAM/Odontopediatria/Traumatismos en Odontopediatría.md",
-    "Estudios UCAM/Odontopediatria/9 Operatoria Dental en Odontopediatría.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/2 Aparatología fija a dos bandas, aparatos auxiliares.md",
-    "daily/03-03-2024.md",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240303130128.png"
+    "Libros/Learning/Uncommon Sense Teaching.md",
+    "Libros/Dinero/PDF/The_business_book.pdf",
+    "general knowledge/Arabe/Alfabeto Árabe.md",
+    "daily/09-03-2024.md",
+    "Libros/Dinero/Your Money or Your Life.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
+    "Excalidraw/Drawing 2023-12-14 12.44.33.excalidraw.md",
+    "Excalidraw/Drawing 2023-12-08 18.02.02.excalidraw.md",
+    "Excalidraw/Drawing 2023-11-24 08.29.28.excalidraw.md",
+    "Excalidraw/brote puberal en mujeres.excalidraw.md",
+    "Excalidraw/brote de crecimiento varones.excalidraw.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/1 Placas Removibles.md",
+    "general knowledge/Marketing explicado por salomondrin.md",
+    "general knowledge/Ecuaciones de segundo grado.md",
+    "general knowledge/carbón vegetal.md",
+    "general knowledge/Video editing/Curso de After Effects Skilshare.md",
+    "general knowledge/Arabe/assets/Pasted image 20240315093754.png",
+    "general knowledge/Arabe/assets",
+    "general knowledge/Arabe",
+    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240305115504.png"
   ]
 }

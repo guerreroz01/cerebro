@@ -44,7 +44,7 @@ ___
 
 ## Miedo
 ___
-El miedo es una reacción frente a una amenaza, que tiene un fundamento real, se puede expresar con palabras el objeto temido y que es normal en el desarrollo del individuo pero que sus desencadenantes se modifican con la edad
+El miedo es una reacción frente a una amenaza, <span style="color:#ffff00">que tiene un fundamento real</span>, se puede expresar con palabras el objeto temido y que es normal en el desarrollo del individuo pero que sus desencadenantes se modifican con la edad
 
 >[!tip] El miedo es un mecanismo de defensa
 
@@ -57,7 +57,7 @@ Es el basado en sentimientos y actitudes sugeridos por el <span style="color:#ff
 
 ## Ansiedad
 ___
-Es un estado emocional que se origina de fuentes internas como fantasías o expectativas no reales. Es imposible separar el miedo de la ansiedad y acontece en situaciones menos específicas que el miedo.
+Es un estado emocional que se origina de fuentes internas como fantasías o expectativas no reales. <span style="color:#ffff00">Es imposible separar el miedo de la ansiedad</span> y acontece en situaciones menos específicas que el miedo.
 
 ## Tipos de ansiedad
 ___
