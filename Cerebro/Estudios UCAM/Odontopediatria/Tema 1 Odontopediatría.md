@@ -44,7 +44,7 @@ Es el periodo de desarrollo humano que abarca desde la infancia hasta la adolesc
 	- Técnicas de manejo de la conducta basadas en la experiencia
 	- [ ] Odontopediatría y la universidad en España 
 		- 1901 Se crea el título de odontólogo en España, formación odontopediátrica universitaria. Florestán Aguilar dentista de la reina de Maria Cristina desarrolla la actual ciudad universitaria de Madrid
-		- 1973 Se crea la Sociedad Española de Odontopediatría (SEOP)
+		- <span style="color:#f519e3">1973 Se crea la Sociedad Española de Odontopediatría (SEOP)</span>
 		- 1975 Juan Pedro Moreno Crea la primera cátedra de odontopediatría en España, Universidad Complutense de Madrid
 
 # Historia Clínica

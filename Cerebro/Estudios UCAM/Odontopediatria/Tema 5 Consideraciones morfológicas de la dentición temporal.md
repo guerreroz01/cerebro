@@ -223,7 +223,7 @@ ___
 #### Incisivo central inferior
 - Erupcionan a los 6 meses
 - Existe simetría bilateral respecto a su eje longitudinal visto desde bucal y lingual
-- El borde incisal es recto con ángulos Mesio-incisal y Disto-incisal próximos a 90º
+- <span style="color:#00b0f0"> El borde incisal es recto con ángulos Mesio-incisal y Disto-incisal próximos a 90º</span>
 - La superficie labial es lisa
 - La superficie lingual posee un cíngulo prominente
 - Raíz es casi tres veces el tamaño de la corona, cónica, estrecha, ápice redondeado.
