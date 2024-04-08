@@ -2,7 +2,7 @@
 type: estudios
 tags:
   - estudios/ortodoncia1
-sticker: emoji//1f6a7
+sticker: lucide//check
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 ---
 
@@ -136,4 +136,50 @@ Habrá que tener en cuenta que la distalización molar produce la rotación hora
 
 ![[Pasted image 20240402183649.png]]
 
+### Aumentar la longitud de arcada mediante la protrusión de incisivos:
+Mediante aparatología removible (placas activas con resortes o tornillos de protrusión de incisivos, técnicas con alineadores como invisalign) o fija (lip bumper o aparatología multibrackets) podemos conseguir 2 mm de longitud de arcada por cada mm de desplazamiento anterior de incisivos. La protrusión de incisivos estará limitada por el grosor del hueso vestibular y habrá que tener en cuenta la calidad y cantidad de encía adherida, así como la posición, función y tono muscular de los labios (no estará indicada la protrusión de incisivos en casos de sellado labial incompetente con perfil convexo, y por otro lado, en caso de hipertonicidad labial tendremos un gran riesgo de recidiva).
 
+### Expansión de las arcadas:
+Puede utilizarse mediante aparatología removible (aparatos funcionales, placas activas o alineadores como invisalign) o fija (Quad-hélix, bi-hélix, disyuntor o aparatos multibrackets). 
+- Se considera que con 1 mm de expansión a nivel de caninos conseguimos 1 mm de espacio, 
+- con 1 mm de expansión de premolares obtenemos 0,5 mm de espacio y 
+- con 1 mm de expansión a nivel de molares conseguimos 0,25 mm de espacio extra en la arcada. 
+
+![[Pasted image 20240402212457.png]]
+
+### Disminuir el tamaño mesiodistal de los dientes:
+Mediante el limado de parte del esmalte de las caras interproximales, lo que se conoce como reducción interproximal o stripping, conseguimos una reducción del tamaño mesiodistal de los dientes. Se suelen utilizar tiras o limas de forma manual o mecánica. Habrá que ser conservador en el uso de este procedimiento, no pudiendo conseguir más que unos pocos milímetros; y estará menos indicado en pacientes con elevado riesgo de caries.
+
+![[Pasted image 20240402212740.png]]
+
+### Exodoncias terapéuticas
+En casos en los que el déficit de espacio no pueda ser solucionado por los métodos anteriores, es necesario extraer algún diente, normalmente se realiza la exodoncia de cuatro premolares (uno en cada hemiarcada). Se pueden extraer primeros o segundos premolares, dependiendo de la magnitud de la DOD y de la necesidad de anclaje, aunque también se puede decidir extraer unos u otros por motivos dentales (como caries), de oclusión o estéticos.
+
+También se puede elegir la exodoncia de un incisivo inferior en algunos casos (por ejemplo, en caso de problema periodontal del incisivo a extraer, en una discrepancia de Bolton, etc.) en los que es conveniente realizar un montaje de predeterminación de la oclusión final.
+
+Cuando la DOD negativa supere los 6 mm debemos plantearnos las exodoncias terapéuticas, teniendo en cuenta el patrón de crecimiento y la estética facial y sobre todo, una vez consideradas las vías más conservadoras.
+
+En cuanto al patrón de crecimiento y la estética facial: la exodoncia de premolares en los casos de menor necesidad de anclaje, al mesializar los molares se produce una rotación mandibular antihoraria, por lo que será favorable en pacientes dolicofaciales y desfavorables en los braquifaciales. Además debemos conocer que con la edad la nariz crece hacia abajo y hacia delante y los labios se retruyen, con un efecto más acusado en pacientes braquifaciales debido a la mayor tonicidad labial.
+
+En los casos que decidamos extraer premolares, por cada mm de retrusión de incisivos se reduce dos terceras partes la protrusión del labio superior. El labio inferior sigue los cambios del resalte y la sobremordida.
+
+> Las extracciones en casos de apiñamiento ha sido un tema polémico, muy debatido en los foros ortodóncicos mundiales y la razón más importante la constituye el que la decisión de extraer o no sigue siendo una decisión empírica, influenciada por corrientes de opinión creadas por estudiosos y clínicos, sin el soporte científico correspondiente. En uno de los extremos se sitúan los no extraccionistas, que piensan que cada individuo tiene el potencial de tener 32 dientes en oclusión ideal, por lo que utilizan todos los medios a su alcance para aumentar la longitud de arcada y evitar las extracciones, en el convencimiento de que los huesos maxilares, la musculatura y los tejidos periodontales deben adaptarse a estos cambios. En el otro extremo están los extraccionistas, que piensan que todos los mecanismos para aumentar la longitud de arcada son inestables y a la larga se produce recidiva del apiñamiento. Cita de Asensi Cros. C. Manual de Ortodoncia.
+
+## Clase I con diastemas
+___
+Denominamos diastemas al espacio existente entre dos dientes contiguos que no contactan entre sí. Los diastemas son mucho menos frecuentes que el apiñamiento en dentición permanente, y son más frecuentes en la arcada superior que en la inferior.
+
+![[Pasted image 20240402215706.png]]
+
+En cuanto a la etiología, distinguimos una causa primaria o secundaria:
+### En los de causa primaria:
+Existe una DOD positiva; que puede ser por disminución del número de dientes (en casos de agenesia), del tamaño de los dientes (microdoncia) o por aumento del tamaño de los maxilares (hiperplasia de los maxilares).
+
+### Causa secundaria:
+Como la pérdida de dientes, un frenillo labial superior de inserción transpapilar (frenillo tectolabial), hábitos de succión, una hiperactividad o tamaño excesivo de la lengua (macroglosia), erupción ectópica, patología quística, enfermedad periodontal o determinados síndromes.
+
+Sobre el diastema central superior, al igual que en resto de casos, es preciso realizar un adecuado diagnóstico etiológico. En la práctica diaria, suele realizarse la frenectomía del frenillo labial superior en muchos casos en los que no estaba indicado. Estaría solamente indicada en caso de frenillo tectolabial. En estos casos, el test de isquemia de Graber será positivo: al traccionar del labio superior, aparecerá una zona isquémica en la papila palatina. La frenectomía de un frenillo hipertrófico puede realizarse por motivos estéticos o periodontales, después de la erupción de los caninos superiores y una vez cerrado el diastema.
+
+El tratamiento de la Clase I con diastemas, debido a la etiología múltiple y a la dificultad de reducir considerablemente la longitud de arcada mediante ortodoncia, debe abordarse desde una perspectiva multidisciplinar. Desde el punto de vista ortodóncico, se realizará el cierre de los espacios o la redistribución de los mismos para el posterior tratamiento restaurador. Generalmente será necesario utilizar aparatología fija para tener un mayor control radicular, realizar movimientos en masa y conseguir una adecuada paralelización radicular.
+
+![[Pasted image 20240402220654.png]]
