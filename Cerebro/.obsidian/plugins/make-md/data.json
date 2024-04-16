@@ -25,6 +25,7 @@
   "defaultDateFormat": "MMM dd yyyy",
   "spacesEnabled": true,
   "spacesPerformance": false,
+  "currentWaypoint": 0,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -92,11 +93,14 @@
   "releaseNotesPrompt": 0.9,
   "enableDefaultSpaces": true,
   "enableTagSpaces": true,
-  "enableHomeSpace": true,
   "showSpacePinIcon": true,
   "minimalFix": false,
   "experimental": false,
-  "systemName": "Vault",
+  "systemName": "Cerebro",
+  "defaultSpaceTemplate": "",
+  "selectedKit": "default",
+  "actionMaxSteps": 100,
+  "enableHomeSpace": true,
   "rootSpaces": [
     "Spaces/Home/TODO"
   ]
