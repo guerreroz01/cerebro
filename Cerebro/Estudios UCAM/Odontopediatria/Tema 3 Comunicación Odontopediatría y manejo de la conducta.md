@@ -110,10 +110,10 @@ ___
 - [[#Grado 1 Aceptación con desgana]]
 - [[#Grado 0 No aceptación]]
 
-Observar:
-- Actividad verbal
-- Tensión muscular
-- Expresión ocular
+>[!danger] Observar:
+>- Actividad verbal
+>- Tensión muscular
+>- Expresión ocular
 
 En esta escala existen 4 grados:
 
@@ -211,9 +211,31 @@ Objetivos:
 ___
 Técnicas:
 - [[#Técnicas de comunicación]]
+	- [[#Lenguaje pediátrico]]
+	- [[#Distracción]]
+	- [[#Ludoterapia]]
+	- [[#Control de Voz]]
+	- [[#Técnica de la triple E]]
 - [[#Modificación de la conducta]]
+	- [[#Refuerzo]]
+	- [[#Desensibilización]]
+	- [[#Imitación]]
+	- [[#Sugestión o hipnosis]]
 - [[#Enfoque físico]]
+	- [[#Mano sobre boca]]
+	- [[#Inmovilización médica por parte del profesional]]
 - [[#Técnicas farmacológicas]]
+	- [[#Sedación]]
+		- [[#Hidroxicina (Atarax)]]
+			- 2 mg / kg 2 horas antes
+			- 1 mg / kg 20 minutos antes
+		- [[#Diacepam (valium)]] <- antídoto <span style="color:#ffff00">flumacenil</span> (anexate <span>&#174;</span> )
+			- 0.2 a 0.4 mg/kg 1 hora antes
+		- [[#Midazolam (Dormicum)]] <- menor duración 
+			- 0.2 a 0.4 mg/kg 1 hora antes
+		- [[#Sedación por inhalación Oxido nitroso]]
+			- 50 / 50 Como máximo
+		- [[#Anestesia General]]
 - [[#Otras técnicas]]
 
 ### Técnicas de comunicación:
@@ -233,6 +255,7 @@ La comunicación con el paciente es fundamental!!
 - Pronunciar las palabras despacio, claramente. Utilizar un tono de voz bajo.
 
 #### Distracción:
+<span style="color:#ffff00">Disminuir la probabilidad de percibir una acción como desagradable</span>
 Debe sugerir con naturalidad para desviar la atención del niño.
 
 Objetivo:

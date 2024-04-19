@@ -17,6 +17,8 @@ ___
 - [ ] Indicaciones
 	- [ ] Para solucionar DOD negativa
 - [ ] Generalmente, a partir de los 5 mm de DOD negativa podríamos pensar en hacer exodoncias
+- [ ] Extracciones seriadas
+- [ ] 
 
 
 
