@@ -15,7 +15,7 @@ ___
 - [[Tema 3 Comunicación Odontopediatría y manejo de la conducta]]
 - [x] Lectura ✅ 2024-03-02
 - [x] Lectura ✅ 2024-03-09
-- [ ] Lectura
+- [/] Lectura
 - [[Tema 4 Preparaciones cavitarias en odontopediatría]]
 - [x] Lectura ✅ 2024-03-05
 - [x] Lectura ✅ 2024-03-09
@@ -31,11 +31,11 @@ ___
 - [[Tema 6 Operatoria dental]] 29:00 en el audio
 - [x] Lectura ✅ 2024-03-07
 - [x] Lectura ✅ 2024-03-10
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-14
 - [[Tema 7 Aislamiento del Campo Operatorio en Odontopediatría]]
 - [x] Lectura ✅ 2024-03-07
 - [x] Lectura ✅ 2024-03-10
-- [ ] Lectura
+- [x] Lectura ✅ 2024-03-14
 - [[Tema 8 Dolor y Control Farmacológico]]
 - [x] Lectura ✅ 2024-03-03
 - [x] Lectura ✅ 2024-03-12

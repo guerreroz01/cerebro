@@ -110,6 +110,7 @@ Se mide como la distancia entre el borde incisal del incisivo inferior y el plan
 
 Esta medida describe la posición del Incisivo inferior en el plano sagital. +1 mm con respecto al plano dentario A-Pg está asociada con la estética y la estabilidad y constituye un objetivo de tratamiento.
 
+
 **Indica el límite anterior de la arcada dentaria inferior.**
 ![[Pasted image 20231107125216.png]]
 
