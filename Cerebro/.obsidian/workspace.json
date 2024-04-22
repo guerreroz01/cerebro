@@ -1,36 +1,18 @@
 {
   "main": {
-    "id": "34945541f821d2be",
+    "id": "750000b57b8c8129",
     "type": "split",
     "children": [
       {
-        "id": "fb92a294bdc3de73",
+        "id": "f6c55b260ab2999c",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "9399be5a66ec42d6",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Parcial de Odontopediatría.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true
-=======
-            "id": "8791587c828c5b0d",
+            "id": "b0d3c262a1ed40d4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "daily/19-04-2024.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> 51545e51919f9576c1938c9264d8663acea41404
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -39,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "faa2e86e8a5778ed",
+    "id": "2a11fdf532c30a10",
     "type": "split",
     "children": [
       {
-        "id": "3779faf73066dcbd",
+        "id": "d2e8a11348d7f7ad",
         "type": "tabs",
         "children": [
           {
-            "id": "8ab49be221d60ad4",
+            "id": "88cb054afeca728a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -57,7 +39,7 @@
             }
           },
           {
-            "id": "0166b91798360540",
+            "id": "cd054c62dc726bb0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -72,7 +54,7 @@
             }
           },
           {
-            "id": "c1a9ee2c5065422a",
+            "id": "871ad5a01c741f3b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -80,48 +62,30 @@
             }
           },
           {
-            "id": "a04879d6d74426b0",
+            "id": "198809e8212c2cb7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
               "state": {}
             }
           }
-<<<<<<< HEAD
-=======
         ],
         "currentTab": 3
-      },
-      {
-        "id": "32a9500efad79a71",
-        "type": "tabs",
-        "dimension": 29.360465116279073,
-        "children": [
-          {
-            "id": "82d65192df06663a",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
->>>>>>> 51545e51919f9576c1938c9264d8663acea41404
-        ]
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "6e894e1a932d8d71",
+    "id": "895a0c7d4e3455fe",
     "type": "split",
     "children": [
       {
-        "id": "61e5e62bb74629ac",
+        "id": "4f9c1c92c15be835",
         "type": "tabs",
         "children": [
           {
-            "id": "bac19c39010bb02d",
+            "id": "e339d57f377d7b5a",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -129,16 +93,11 @@
             }
           },
           {
-            "id": "67abab168bbf4676",
+            "id": "93f3427ada3ef6f0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Spaces/Home/Parcial de Odontopediatría.md",
-=======
-                "file": "daily/19-04-2024.md",
->>>>>>> 51545e51919f9576c1938c9264d8663acea41404
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,23 +109,18 @@
             }
           },
           {
-            "id": "72adaf63416e3821",
+            "id": "075291d8c2de527b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "Spaces/Home/Parcial de Odontopediatría.md",
-=======
-                "file": "daily/19-04-2024.md",
->>>>>>> 51545e51919f9576c1938c9264d8663acea41404
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "0066503f844f9dad",
+            "id": "aa7e6c2b6e21f06f",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -177,17 +131,11 @@
             }
           },
           {
-            "id": "747b171e2fbbd69a",
+            "id": "6fcc8b1cbd9a6aad",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-<<<<<<< HEAD
-                "file": "Spaces/Home/Parcial de Odontopediatría.md"
-=======
-                "file": "daily/19-04-2024.md"
->>>>>>> 51545e51919f9576c1938c9264d8663acea41404
-              }
+              "state": {}
             }
           }
         ],
@@ -195,12 +143,14 @@
       }
     ],
     "direction": "horizontal",
-    "width": 420.5,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "copilot:Copilot Chat": false,
+      "media-extended:Open media": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -208,99 +158,30 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
-      "audio-recorder:Start/stop recording": false,
-      "copilot:Copilot Chat": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "media-extended:Open media": false
+      "audio-recorder:Start/stop recording": false
     }
   },
-<<<<<<< HEAD
-  "active": "9399be5a66ec42d6",
+  "active": "b0d3c262a1ed40d4",
   "lastOpenFiles": [
-    "Alejandro.md",
-    "Spaces/Home/Parcial de Odontopediatría.md",
-    "general knowledge/Arabe/assets/Pasted image 20240315093754.png",
-    "general knowledge/Arabe/assets",
-    "general knowledge/Arabe/Alfabeto Árabe.md",
-    "general knowledge/Arabe",
-    "daily/14-03-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Nota.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Cuando se hacen las extracciones en clase II.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/22 Extracciones terapeuticas.md",
-    "daily/15-03-2024.md",
-    "daily/13-03-2024.md",
-    "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
-    "daily/12-03-2024.md",
-    "Estudios UCAM/Odontopediatria/Tema 8 Dolor y Control Farmacológico.md",
-    "Estudios UCAM/Odontopediatria/Tema 4 Preparaciones cavitarias en odontopediatría.md",
-    "daily/11-03-2024.md",
-    "daily/10-03-2024.md",
-    "daily/09-03-2024.md",
-    "Estudios UCAM/Odontopediatria/Tema 1 Odontopediatría.md",
-    "daily/23-02-2024.md",
-    "daily/07-03-2024.md",
-    "daily/01-03-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Maloclusiones transversales.md",
-    "daily/08-03-2024.md",
-    "Estudios UCAM/Odontopediatria/Tema 6 Operatoria dental.md",
-    "Estudios UCAM/Odontopediatria/Tema 2 Plan de Tratamiento.md",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240305115504.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240305115445.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240305115428.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240305115112.png",
-    "daily/05-03-2024.md",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240304205041.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240304202746.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240304195622.png",
-    "Estudios UCAM/Odontopediatria/assets/Pasted image 20240303130128.png"
-=======
-  "active": "8791587c828c5b0d",
-  "lastOpenFiles": [
-    "daily/19-04-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica 2.md",
-    "general knowledge/AI/Clasificación de los números.md",
-    "general knowledge/AI/ChromaDB - Base de datos vectorial.md",
-    "general knowledge/AI/cálculo.md",
-    "general knowledge/AI/Algoritmos de optimización.md",
-    "daily/16-04-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240416151231.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240416151202.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240416150258.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240416145920.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240416143930.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240416143742.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/16 Maloclusión de Clase I.md",
+    "daily/22-04-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/19 Maloclusiones Verticales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420163828.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420163251.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420162834.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420161852.png",
+    "Spaces/Home/Examen de Ortodoncia.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420131219.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md",
-    "daily/15-04-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Tema 9 parte I. Síndromes.pdf",
-    "general knowledge/nitrato de potasio.md",
-    "general knowledge/mezcla deflagrante.md",
-    "general knowledge/Megalocefalia.md",
-    "general knowledge/Marketing explicado por salomondrin.md",
-    "general knowledge/Ecuaciones de segundo grado.md",
-    "general knowledge/Video editing/Curso de After Effects Skilshare.md",
-    "general knowledge/Video editing/11 expressions for animation efficiency in after effects.md",
-    "general knowledge/Video editing/7 cosas sobre periodismo.md",
-    "general knowledge/trading/Estrategia de trading.md",
-    "general knowledge/Blender/Nodos en Blender.md",
-    "general knowledge/Arabe/Alfabeto Árabe.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica I.md",
-    "daily/12-04-2024.md",
-    "general knowledge/Blender/assets/Pasted image 20240408170306.png",
-    "general knowledge/Blender/assets/Pasted image 20240408165735.png",
-    "general knowledge/Blender/assets/Pasted image 20240408165350.png",
-    "general knowledge/Blender/assets/Pasted image 20240408165120.png",
-    "general knowledge/Blender/assets",
-    "general knowledge/Blender",
-    "Libros/Sagrado Quran/es_El_Coran.pdf",
-    "Libros/Sagrado Quran",
-    "Libros/Dinero/PDF/The_business_book.pdf",
-    "Estudios UCAM/Ortodoncia/ortodoncia 2/Ortodoncia II parcial.canvas",
-    "general knowledge/Arabe/assets",
-    "general knowledge/Arabe"
->>>>>>> 51545e51919f9576c1938c9264d8663acea41404
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420130637.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420130617.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420125700.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420125420.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420125338.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica 2.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/17 Maloclusiones sagitales de Clase II.md",
+    "Spaces/Home/Home.md",
+    "Spaces/Home/Para aprender.md",
+    "daily/20-04-2024.md",
+    "daily/19-04-2024.md"
   ]
 }
