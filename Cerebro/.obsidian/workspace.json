@@ -4,18 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "f6c55b260ab2999c",
+        "id": "3a8fbe956ebca723",
         "type": "tabs",
         "children": [
           {
-            "id": "b0d3c262a1ed40d4",
+            "id": "60c5aa44f9e0edfa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Examen de Ortodoncia.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "6b91e8859231b536",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/17 Maloclusiones sagitales de Clase II.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,6 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/17 Maloclusiones sagitales de Clase II.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,6 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/17 Maloclusiones sagitales de Clase II.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +156,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Estudios UCAM/Ortodoncia/ortodoncia 1/17 Maloclusiones sagitales de Clase II.md"
+              }
             }
           }
         ],
@@ -161,24 +184,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b0d3c262a1ed40d4",
+  "active": "6b91e8859231b536",
   "lastOpenFiles": [
-    "daily/22-04-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/19 Maloclusiones Verticales.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420163828.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420163251.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420162834.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420161852.png",
+    "daily/25-04-2024.md",
     "Spaces/Home/Examen de Ortodoncia.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420131219.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420130637.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420130617.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420125700.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420125420.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240420125338.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica 2.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/17 Maloclusiones sagitales de Clase II.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/16 Maloclusión de Clase I.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/VTO y Superposiciones.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Maloclusiones transversales.md",
+    "daily/24-04-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150324.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150257.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150243.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150210.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150123.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423145918.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423145604.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423145412.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423145006.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423144706.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/19 Maloclusiones Verticales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md",
+    "Biologia del movimiento dental.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/22 Extracciones terapeuticas.md",
+    "daily/23-04-2024.md",
+    "daily/22-04-2024.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica 2.md",
     "Spaces/Home/Home.md",
     "Spaces/Home/Para aprender.md",
     "daily/20-04-2024.md",

@@ -1,5 +1,5 @@
 ---
-sticker: emoji//1f6a7
+sticker: lucide//check
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 type: estudios
 tema: "15"

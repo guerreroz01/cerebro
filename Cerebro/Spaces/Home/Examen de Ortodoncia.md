@@ -6,14 +6,14 @@ sticker: emoji//1f949
 ---
 
 # Examen de Ortodoncia
-[[Biologia del movimiento dental]]
-- [ ] lectura
+[[15 Biología del movimiento dentario]]
+- [x] lectura ✅ 2024-04-24
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 [[16 Maloclusión de Clase I]]
-- [ ] lectura
+- [x] lectura ✅ 2024-04-24
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura

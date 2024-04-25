@@ -69,7 +69,9 @@ En los casos con birretrusión es más habitual encontrar apiñamiento, sobre to
 
 ## Clase I con apiñamiento
 ___
-En las maloclusiones de Clase I con apiñamiento observamos una pérdida del correcto alineamiento de los dientes, presentando éstos alteraciones en su posición, inclinación y/o giroversiones. El apiñamiento suele localizarse con mayor frecuencia en la zona anterior de la arcada, aunque también podemos observar un apiñamiento lateral, sobre todo en la zona de premolares inferiores. En la arcada superior, los caninos superiores suelen aparecer elevados o pueden incluso quedar retenidos, debido a su cronología eruptiva.
+En las maloclusiones de Clase I con apiñamiento observamos una pérdida del correcto alineamiento de los dientes, presentando éstos alteraciones en su posición, inclinación y/o giroversiones. 
+
+El apiñamiento suele localizarse con mayor frecuencia en la zona anterior de la arcada, aunque también podemos observar un apiñamiento lateral, sobre todo en la zona de premolares inferiores. En la arcada superior, los caninos superiores suelen aparecer elevados o pueden incluso quedar retenidos, debido a su cronología eruptiva.
 
 ![[Pasted image 20240213130944.png]]
 

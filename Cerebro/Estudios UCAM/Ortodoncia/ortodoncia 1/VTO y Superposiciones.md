@@ -18,4 +18,3 @@ ___
 - [ ] Extracciones de premolares _milímetros_
 - [ ] Reposición del molar _milímetros_
 - [ ] VTO va por fases
-- [ ] 
