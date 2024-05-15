@@ -58,10 +58,10 @@ El crecimiento de la rama, del maxilar y alveolar deben ser proporcionales.
 >[!danger] Es casi imposible que el paciente tenga exceso de longitud facial sin tener problemas en el plano anteroposterior.
 
 Un problema de exceso vertical puede describirse como:
-- Una clase I rotada a clase III
+- Una clase I rotada a clase II
 - Una clase III rotada a clase I
 
-El exceso vertical empeora la deficiencia mandibular y mejora el prognatismo mandibular <---- Ojo preguntar
+El exceso vertical empeora la deficiencia mandibular y mejora el prognatismo mandibular <---- Ojo 
 
 O hay un problema antero-posterior antes del tratamiento, o lo habrá cuando se corrija el exceso vertical.
 

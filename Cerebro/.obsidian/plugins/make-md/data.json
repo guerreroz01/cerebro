@@ -62,7 +62,9 @@
   "spacesFolder": "Spaces",
   "hiddenFiles": [],
   "hiddenExtensions": [
-    ".mdb"
+    ".mdb",
+    "_assets",
+    "_blocks"
   ],
   "inlineBacklinks": false,
   "inlineContext": true,

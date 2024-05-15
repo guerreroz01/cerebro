@@ -91,7 +91,13 @@ Distinguiremos un tratamiento preventivo, interceptivo y correctivo.
 #### Tratamiento preventivo:
 A nivel dentario consistirá en el mantenimiento de la longitud de arcada mediante la prevención o tratamiento de caries o la colocación de mantenedores de espacio en caso necesario. Controlaremos la erupción del primer molar superior permanente, y en caso de erupción ectópica trataremos el problema en caso necesario. Controlaremos también la exfoliación de los molares temporales inferiores de forma que pueda aprovecharse el espacio de deriva, y valoraremos el tallado interproximal o la exodoncia de los molares temporales en caso de retención prolongada de éstos.
 
-Es fundamental el control de hábitos y disfunciones. En caso de succión digital, la motivación para la supresión del hábito o la utilización de guantes o rejillas linguales son importantes para prevenir problemas importantes en el futuro. Cuando existe respiración oral, debemos descartar un problema de obstrucción de la vía aérea refiriendo al paciente al otorrinolaringólogo. Una vez descartado o solucionado, en ocasiones es necesario un tratamiento de la disfunción mediante logopedia y/o estimuloterapia (estimuladores nasales y obturadores bucales). Si se detecta una disminución de la movilidad lingual, habrá que valorar si es necesario un tratamiento quirúrgico del frenillo lingual y/o reeducación de la posición de la lengua.
+Es fundamental el control de hábitos y disfunciones. En caso de succión digital, la motivación para la supresión del hábito o la utilización de guantes o rejillas linguales son importantes para prevenir problemas importantes en el futuro. 
+
+Cuando existe respiración oral, debemos descartar un problema de obstrucción de la vía aérea refiriendo al paciente al otorrinolaringólogo. 
+
+Una vez descartado o solucionado, en ocasiones es necesario un tratamiento de la disfunción mediante logopedia y/o estimuloterapia (estimuladores nasales y obturadores bucales). 
+
+Si se detecta una disminución de la movilidad lingual, habrá que valorar si es necesario un tratamiento quirúrgico del frenillo lingual y/o reeducación de la posición de la lengua.
 
 El tratamiento preventivo y precoz de casos leves sin alteración esqueletal puede evitar que la maloclusión se convierta en esquelética en el futuro.
 

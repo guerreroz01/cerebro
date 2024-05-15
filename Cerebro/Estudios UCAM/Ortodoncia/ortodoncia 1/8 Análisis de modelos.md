@@ -232,7 +232,7 @@ Otros factores a tener en cuenta a la hora de calcular el espacio son: la [[3 Oc
 
 Todos estos factores pueden no considerarse en el cálculo de la discrepancia óseo-dentaria, pero deberán ser incluidos en un momento posterior del estudio del caso, al integrar los datos procedentes de todas las fuentes.
 
-
+esto tiene relacion con las maloclusiones de [[Clase III]]
 ### Índice de Bolton
 En la práctica ortodóncica nos encontramos con algunos casos en los que la desproporción de tamaño entre los dientes superiores e inferiores nos impide conseguir una oclusión ideal. En estos casos, teniendo una relación sagital posterior correcta, observamos un resalte y sobremordida no ideales.
 

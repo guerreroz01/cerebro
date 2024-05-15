@@ -86,10 +86,17 @@ Este proceso continúa durante la vida adulta, aunque en menor medida. Este meca
 Esta estabilización activa implica que exista un umbral de fuerzas ortodóncicas, por lo que fuerzas por debajo de dicho umbral no producirán ningún efecto.
 
 Actualmente se acepta que la estabilización activa puede soportar fuerzas de unos 5 - 10 gr/cm$^2$, como las presiones desequilibradas en reposo sobre los tejidos blandos.
+
 ![[Pasted image 20240124102630.png]]
 
 ## Respuesta del ligamento periodontal y el hueso a las fuerzas ortodóncicas mantenidas
-La diferente respuesta de las estructuras periodontales va a depender de la magnitud de la fuerza mantenida que se aplique. Así pues, ante una fuerza intensa aparecerá dolor, con necrosis de los elementos celulares derivando en el fenómeno de <span style="color:#ff0000">reabsorción basal secundaria</span>. Sin embargo, ante una fuerza ligera, existirá supervivencia celular, ausencia de dolor y un proceso de remodelado mediante <span style="color:#ff0000">reabsorción frontal</span>. Durante los tratamientos de ortodoncia, el objetivo es llevar a cabo el movimiento dental mediante reabsorción frontal, asumiendo que pueden producirse determinadas áreas de necrosis con reabsorción secundaria.
+La diferente respuesta de las estructuras periodontales va a depender de la magnitud de la fuerza mantenida que se aplique. Así pues, 
+
+ante una fuerza intensa aparecerá dolor, con necrosis de los elementos celulares derivando en el fenómeno de <span style="color:#ff0000">reabsorción basal secundaria</span>. 
+
+Sin embargo, ante una fuerza ligera, existirá supervivencia celular, ausencia de dolor y un proceso de remodelado mediante <span style="color:#ff0000">reabsorción frontal</span>. 
+
+Durante los tratamientos de ortodoncia, el objetivo es llevar a cabo el movimiento dental mediante reabsorción frontal, asumiendo que pueden producirse determinadas áreas de necrosis con reabsorción secundaria.
 
 ### Control biológico del movimiento dental
 Actualmente existen dos teorías principales para explicar el movimiento ortodóncico:
@@ -177,14 +184,14 @@ Al igual que sucede con la extrusión, el diente también se inclina durante la 
 
 ### Fuerzas óptimas para la movilización dental ortodóncica
 
-| Tipo de movimiento | Fuerza |
-| ---- | ---- |
-| Inclinación | 35 - 60 gr |
+| Tipo de movimiento        | Fuerza      |
+| ------------------------- | ----------- |
+| Inclinación               | 35 - 60 gr  |
 | En masa (traslación pura) | 70 - 120 gr |
-| Enderezamiento radicular | 50 - 100 gr |
-| Rotación | 35 - 60 gr |
-| Extrusión | 35 - 60 gr |
-| Intrusión | 10 - 20 gr |
+| Enderezamiento radicular  | 50 - 100 gr |
+| Rotación                  | 35 - 60 gr  |
+| Extrusión                 | 35 - 60 gr  |
+| Intrusión                 | 10 - 20 gr  |
 
 ### Efectos según la duración de las fuerzas
 El factor principal para conseguir el movimiento ortodóncico es que la fuerza mantenida actúa durante una parte considerable del tiempo, no tiene que ser una fuerza constante. En los estudios experimentales con animales se ha visto que a cabo de 4 horas de presión mantenida se empieza a generar los "segundos mensajeros" que van a inducir la diferenciación celular.
@@ -194,7 +201,7 @@ A nivel clínico, en relación a la experiencia con los seres humanos, se ha vis
 
 Así pues, las fuerzas contínuas producidas por los <span style="color:#ff0000">aparatos fijos</span> que no dependen de la colaboración del paciente, producen los movimientos dentarios <span style="color:#ff0000">más eficaces</span>. Los aparatos removibles que sean llevados casi todo el tiempo son casi tan eficaces como los fijos, pero no lo son en caso de que sean utilizados durante breve espacio de tiempo. Además, con los aparatos removibles la capacidad de control tridimensional del diente se ve más limitada, por lo que el control del movimiento dental es más difícil.
 
-Otro factor importante a tener en consideración es que, tras la movilización de un diente una cierta distancia al verse sometido a una fuerza, la fuerza liberada por algunos dispositivos (por ejemplo un muelle) puede descender, llegando incluso a cero. Esto lo que se denomina "tasa de disminución". La duración de la fuerza ortodóncica se clasifica según la tasa de disminución en:
+Otro factor importante a tener en consideración es que, tras la movilización de un diente una cierta distancia al verse sometido a una fuerza, la fuerza liberada por algunos dispositivos (por ejemplo un muelle) puede descender, llegando incluso a cero. Esto lo que se denomina "<span style="color:#f519e3">tasa de disminución</span>". La duración de la fuerza ortodóncica se clasifica según la tasa de disminución en:
 - <span style="color:#ffff00">Continua</span>: Fuerza que se mantiene en un porcentaje apreciable de la original entre una visita del paciente y la siguiente.
 - <span style="color:#ffff00">Interrumpida</span>: Los niveles de fuerza disminuyen a cero entre activaciones.
 - <span style="color:#ffff00">Intermitente</span>: Los niveles de fuerza disminuyen bruscamente hasta desaparecer, cuando el paciente se quita el aparato.
@@ -391,7 +398,10 @@ Otro aspecto importante en la dirección de la fuerza que se aplica sobre el có
 
 ![[Pasted image 20240203160404.png]]
 
-El principal efecto con el uso de la mentonera es la redirección del crecimiento hacia abajo y hacia atrás, lo que implica un aumento de la dimensión vertical del paciente. Esto se produce por la dificultad de cargar toda la parte superior del cóndilo, por lo que la línea de fuerza queda por debajo de la posición teóricamente ideal. Así pues, en los pacientes clase III braquifaciales podría ser una buena alternativa, no siéndola en los pacientes clase III dolicofaciales.
+>El principal efecto con el uso de la mentonera es la redirección del crecimiento hacia abajo y hacia atrás, lo que implica un aumento de la dimensión vertical del paciente. 
+
+
+Esto se produce por la dificultad de cargar toda la parte superior del cóndilo, por lo que la línea de fuerza queda por debajo de la posición teóricamente ideal. Así pues, en los pacientes clase III braquifaciales podría ser una buena alternativa, no siéndola en los pacientes clase III dolicofaciales.
 
 A día de hoy, los mejores resultados en cuanto al freno del crecimiento mandibular se están consiguiendo con el uso del anclaje esquelético, donde el paciente lleva unos elásticos de clase III de manera permanente.
 
