@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "f9dd8c7dc97b5e8e",
+        "id": "0118272cbb267c33",
         "type": "tabs",
         "children": [
           {
-            "id": "f1765bbb72518ca3",
+            "id": "3e8eebd02077eac1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -73,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -97,6 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +141,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md"
+              }
             }
           }
         ],
@@ -142,7 +151,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,13 +170,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f1765bbb72518ca3",
+  "active": "3e8eebd02077eac1",
   "lastOpenFiles": [
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608094337.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608094223.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608092802.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608090853.png",
+    "Libros/Odontologia reconstructiva/assets",
+    "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md",
+    "Libros/Odontologia reconstructiva",
+    "Spaces/Home/Examen de Ortodoncia.md",
+    "daily/08-06-2024.md",
     "daily/01-05-2024.md",
     "daily/29-05-2024.md",
     "daily/30-04-2024.md",
     "Spaces/Home/Examen de Odontopediatria.md",
-    "Spaces/Home/Examen de Ortodoncia.md",
     "daily/28-05-2024.md",
     "daily/14-05-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
@@ -185,18 +203,12 @@
     "Estudios UCAM/Odontopediatria/Tema 2 Plan de Tratamiento.md",
     "daily/10-05-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/22 Extracciones terapeuticas.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecanica 3.md",
-    "daily/09-05-2024.md",
-    "daily/07-05-2024.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427153652.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427153616.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427153528.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427153329.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427143046.png",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427143005.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150324.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150257.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150243.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150210.png"
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150324.png"
   ]
 }
