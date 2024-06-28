@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0118272cbb267c33",
+        "id": "d79735a2526cb3de",
         "type": "tabs",
         "children": [
           {
-            "id": "3e8eebd02077eac1",
+            "id": "c9faf3581ba17f2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -165,19 +164,29 @@
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "copilot:Copilot Chat": false,
-      "media-extended:Open media": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e8eebd02077eac1",
+  "active": "c9faf3581ba17f2f",
   "lastOpenFiles": [
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608094337.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608094223.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608092802.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608090853.png",
-    "Libros/Odontologia reconstructiva/assets",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624112958.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624112146.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624112123.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624112038.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624111348.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624111329.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624110306.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624105558.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624105541.png",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624105515.png",
+    "daily/24-06-2024.md",
+    "general knowledge/React Native/React Native with Expo.md",
     "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md",
+    "daily/12-06-2024.md",
+    "general knowledge/React Native",
+    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608094337.png",
+    "Libros/Odontologia reconstructiva/assets",
     "Libros/Odontologia reconstructiva",
     "Spaces/Home/Examen de Ortodoncia.md",
     "daily/08-06-2024.md",
@@ -199,16 +208,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase III.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
-    "Estudios UCAM/Odontopediatria/Tema 2 Plan de Tratamiento.md",
-    "daily/10-05-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/22 Extracciones terapeuticas.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427153652.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427153616.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427153528.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427153329.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427143046.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240427143005.png",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/assets/Pasted image 20240423150324.png"
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md"
   ]
 }
