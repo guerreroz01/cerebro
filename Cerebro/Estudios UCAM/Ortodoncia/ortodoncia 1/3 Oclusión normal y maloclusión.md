@@ -59,7 +59,7 @@ La clase I molar es cuando:
 
 Esta relación requiere que el molar superior presente un grado de inclinación suficiente. 
 
- <span style="color: yellow;">La falta de una inclinación adecuada del molar provoca una alteración de la [[Clase I]] canina que será mayor cuanto más vertical sea la posición del molar.</span>
+  La falta de una inclinación adecuada del molar provoca una alteración de la [[Clase I]] canina que será mayor cuanto más vertical sea la posición del molar.
 
 4. Las cúspides vestibulares de los premolares superiores tienen una relación cúspide-tronera con los premolares inferiores. 
 

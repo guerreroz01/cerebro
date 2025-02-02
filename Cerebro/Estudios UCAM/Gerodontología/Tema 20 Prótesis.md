@@ -1,0 +1,11 @@
+---
+banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
+---
+- [ ] Posiciones de la mandíbula
+	- [ ] Relación céntrica -> independiente de la posición dentaria y dimensión vertical, la relación céntrica es independiente de la oclusión.
+	- [ ] Máxima intercuspidación 
+- [ ] ¿Qué es la oclusión céntrica? -> cuando la máxima y la relación céntrica coincide
+- [ ] Técnicas 
+	- [ ] Láminas de long
+	- [f] Jig de lucia -> arco gótico
+	- [ ] Inducción manual

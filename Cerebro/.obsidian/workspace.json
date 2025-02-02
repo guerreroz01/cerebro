@@ -4,22 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "d79735a2526cb3de",
+        "id": "ad74ab40f52ad1a3",
         "type": "tabs",
         "children": [
           {
-            "id": "c9faf3581ba17f2f",
+            "id": "5d12724cf1ef36a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md",
+                "file": "Estudios UCAM/TOPE/9. Inmunodeficiencias.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "9. Inmunodeficiencias"
+            }
+          },
+          {
+            "id": "a01699ccbf96aa89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spaces/Home/Estudios.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Estudios"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -38,8 +55,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +68,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "altura facial",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,22 +84,27 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
-            "id": "65991297aab8ab3c",
+            "id": "9ab813f6792a53e3",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
-              "state": {}
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 281.5
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -92,7 +119,9 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -101,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md",
+                "file": "Estudios UCAM/TOPE/Machuca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,7 +138,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Machuca"
             }
           },
           {
@@ -118,10 +149,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md",
+                "file": "Estudios UCAM/TOPE/Machuca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Machuca"
             }
           },
           {
@@ -132,7 +165,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -141,16 +176,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md"
-              }
+                "file": "Estudios UCAM/TOPE/2. Riesgo de sangrado.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2. Riesgo de sangrado"
+            }
+          },
+          {
+            "id": "9622c5ff0f2d34cd",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 394.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -163,51 +213,60 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
-      "copilot:Copilot Chat": false,
+      "media-extended:Open media": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "c9faf3581ba17f2f",
+  "active": "a01699ccbf96aa89",
   "lastOpenFiles": [
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624112958.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624112146.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624112123.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624112038.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624111348.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624111329.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624110306.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624105558.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624105541.png",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240624105515.png",
-    "daily/24-06-2024.md",
-    "general knowledge/React Native/React Native with Expo.md",
-    "Libros/Odontologia reconstructiva/Odontología Restauradora Biomimética.md",
-    "daily/12-06-2024.md",
-    "general knowledge/React Native",
-    "Libros/Odontologia reconstructiva/assets/Pasted image 20240608094337.png",
-    "Libros/Odontologia reconstructiva/assets",
-    "Libros/Odontologia reconstructiva",
-    "Spaces/Home/Examen de Ortodoncia.md",
-    "daily/08-06-2024.md",
-    "daily/01-05-2024.md",
-    "daily/29-05-2024.md",
-    "daily/30-04-2024.md",
-    "Spaces/Home/Examen de Odontopediatria.md",
-    "daily/28-05-2024.md",
-    "daily/14-05-2024.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
-    "daily/13-05-2024.md",
-    "daily/12-05-2024.md",
-    "daily/11-05-2024.md",
-    "general knowledge/Megalocefalia.md",
-    "general knowledge/mezcla deflagrante.md",
-    "general knowledge/AI/ChromaDB - Base de datos vectorial.md",
-    "general knowledge/AI/álgebra lineal.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Maloclusiones transversales.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase III.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/8 Análisis de modelos.md",
+    "Estudios UCAM/TOPE/1. El paciente con riesgo médico.md",
+    "Spaces/Home/Estudios.md",
+    "Spaces/Home/Home.md",
+    "Estudios UCAM/TOPE/10. Paciente Oncológico.md",
+    "Estudios UCAM/TOPE/9. Inmunodeficiencias.md",
+    "Estudios UCAM/TOPE/8. Alto Riesgo Infeccioso.md",
+    "Estudios UCAM/TOPE/7. Sistema Digestivo.md",
+    "Estudios UCAM/TOPE/6. Insuficiencia Hepática.md",
+    "Estudios UCAM/TOPE/5. Insuficiencia Renal.md",
+    "Estudios UCAM/TOPE/4. Patología Respiratoria.md",
+    "Estudios UCAM/TOPE/3. Alteraciones Cardiovasculares.md",
+    "Estudios UCAM/TOPE/2. Riesgo de sangrado.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250202150417.png",
+    "daily/02-02-2025.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250131201114.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250131200452.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250131200247.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250131200002.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250131195807.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250131195521.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250131195211.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250131194956.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250131194819.png",
+    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
+    "daily/31-01-2025.md",
+    "Spaces/#ai",
+    "Spaces/#libros",
+    "Spaces/#estudios",
+    "daily/30-01-2025.md",
+    "Checkboxes.md",
+    "daily/29-01-2025.md",
+    "daily/28-01-2025.md",
+    "daily/27-01-2025.md",
+    "daily/23-01-2025.md",
+    "daily/21-01-2025.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 2/Síndromes 2.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/1 Historia de la ortodoncia.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md"
+    "Tema 1 Manifestaciones Orales de Enfermedades Sistémicas Infecciosas.md",
+    "Estudios UCAM/TOPE/Machuca.md",
+    "Estudios UCAM/TOPE/assets",
+    "general knowledge/AI/Red Neuronal.canvas",
+    "Spaces/assets",
+    "Estudios UCAM/TOPE",
+    "Estudios UCAM/Gerodontología",
+    "general knowledge/Warhammer 40k/El elegido del Emperador - Mike Lee.epub",
+    "general knowledge/Warhammer 40k/El gracia del emperador - Nicholas Alexander (3).epub",
+    "general knowledge/Warhammer 40k"
   ]
 }

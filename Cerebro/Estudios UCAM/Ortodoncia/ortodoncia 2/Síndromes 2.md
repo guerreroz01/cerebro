@@ -809,3 +809,9 @@ Se realizan en el periodo de dentición permanente, después de los 16 años y f
 No permiten reparar los defectos óseos que pueden presentar los dientes situados junto a la fisura e incluso pueden propiciar su reabsorción radicular al contactar con la superficie denudada de su raíz.
 
 ![[Pasted image 20231210145923.png]]
+
+
+
+![[Pasted image 20250113192908.png]]
+
+

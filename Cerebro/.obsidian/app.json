@@ -4,9 +4,10 @@
   "alwaysUpdateLinks": true,
   "trashOption": "local",
   "showUnsupportedFiles": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "attachmentFolderPath": "./assets",
   "pdfExportSettings": {
+    "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
     "margin": "0",

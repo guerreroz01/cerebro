@@ -206,7 +206,7 @@ Aunque se reconoce que su etiología es multifactorial, se asocia estrechamente 
 - La parafunción oclusal de [[Clase III]] forzada, en la que el individuo realiza una protrusión mandibular excesiva con el objetivo de mejorar la estabilidad oclusal.
 
 ### Displasias esqueléticas en el Síndrome de Down
-Se ha postulado que el exceso de material genético inherente al SD provoca una alteración del crecimiento craneofacial, siendo responsable del acortamiento de la base craneal y de la hipoplasia del maxilar.
+Se ha postulado que el exceso de material genético inherente al SD provoca una alteración del crecimiento craneofacial, siendo responsable del <span style="color:rgb(255, 255, 0)">acortamiento de la base craneal y de la hipoplasia del maxilar.</span>
 
 Una de sus consecuencias directas es la elevada prevalencia de maloclusiones, concretamente de:
 - Mordida cruzada anterior y posterior
@@ -440,7 +440,7 @@ La etiología de esta condición es incierta, aunque la mayoría de los autores 
 Se relaciona principalmente con la gravedad de la malformación y la presencia o no de crecimiento.
 
 #### Con crecimiento:
-1. Leves y algunos moderados: el lado afectado puede mostrar solo una disminución del crecimiento en las tres dimensiones. El tratamiento es ortopédico no quirúrgico con un dispositivo funcional híbrido más tratamiento de ortodoncia fija.
+1. Leves y algunos moderados: el lado afectado puede mostrar solo una disminución del crecimiento en las tres dimensiones. El tratamiento es ortopédico <span style="color:rgb(255, 255, 0)">no quirúrgico</span> con un dispositivo funcional híbrido más tratamiento de ortodoncia fija.
 
 >[!warning] Intervención Ortopédica
 >La intervención ortopédica adecuada en la edad temprana puede inducir una mejora estética, funcional y psicológica, reduciendo o incluso eliminando la necesidad de osteotomías maxilares y mandibulares en la adolescencia tardía.

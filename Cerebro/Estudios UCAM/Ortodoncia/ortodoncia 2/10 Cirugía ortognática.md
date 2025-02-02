@@ -45,7 +45,7 @@ ___
 - [ ] cirugía de reposición mandibular técnica BSSRO
 - [ ] Que es el Fragmento proximal cuerpo condilar, fragmento distal cuerpo mandibular
 - [ ] El cóndilo debe estar bien posicionado en la fosa para poder fijar la mandíbula, porque si esto no pasa sería catastrófico quedaría la mandíbula en una posición más posterior y se  abriría la mandíbula.
-- [ ] La fijación sólo con tornillos es con tornillos BICORTICALES
+- [f] La fijación sólo con tornillos es con tornillos BICORTICALES
 - [ ] Complicaciones: mala fractura o bad split, condilar SAG el cóndilo se hunde 
 - [ ] Reabsorción condilar, mujeres embarazadas 👀 el riesgo de reabsorción condilar es muy alta.
 - [ ] Lesión del nervio alveolar inferior
@@ -95,7 +95,7 @@ Indicada en hipoplasia maxilar e hipoplasia mandibular sin asimetría.
 Indicada en [[Clase II]] y [[Clase III]] de componente mixto y en asimetrías.
 
 ### Cirugía de segmentación maxilar:
-La segmentación maxilar se emplea para expandir el maxilar en la propia cirugía ortognática.
+La segmentación maxilar se emplea para <span style="color:rgb(255, 0, 0)">expandir el maxilar</span> en la propia cirugía ortognática.
 
 ### Cirugía de impactación maxilar:
 Indicada en casos de hiperplasia vertical del maxilar. El paciente muestra un exceso gingival en sonrisa: Por encima de 4 mm.

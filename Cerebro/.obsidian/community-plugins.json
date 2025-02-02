@@ -1,5 +1,4 @@
 [
-  "copilot",
   "tag-wrangler",
   "obsidian-annotator",
   "obsidian-local-images",
@@ -9,8 +8,11 @@
   "numerals",
   "obsidian-tasks-plugin",
   "obsidian-statusbar-pomo",
-  "make-md",
   "obsidian-excalidraw-plugin",
   "colored-text",
-  "dataview"
+  "dataview",
+  "obsidian-epub-plugin",
+  "obsidian-banners",
+  "make-md",
+  "copilot"
 ]

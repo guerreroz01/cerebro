@@ -124,10 +124,10 @@ Hasta ese momento, los tratamientos de las maloclusiones eran caóticas realizad
 No existía un grado de especialización dental, los términos "Ortodoncia" y "Maloclusión" no existían.
 
 ### Resumen de la época de Fox
-|Autor| Hallazgo| año|
-|------|---------|-------|
-|Joseph Fox| "La banda", Primer dispositivo ideado para levantar la oclusión, también empleó la mentonera con anclaje craneal|1803|
-| ""| Historia natural y enfermedades de los dientes humanos| 1814|
+| Autor      | Hallazgo                                                                                                         | año  |
+| ---------- | ---------------------------------------------------------------------------------------------------------------- | ---- |
+| Joseph Fox | "La banda", Primer dispositivo ideado para levantar la oclusión, también empleó la mentonera con anclaje craneal | 1803 |
+| ""         | Historia natural y enfermedades de los dientes humanos                                                           | 1814 |
 
 ## De Lefoulon hasta Farrar 1839-1875
 Joaquín Lefoulon, fue para su tiempo un ortodoncista notable. 
@@ -238,19 +238,19 @@ Es el primero en estandarizar las imágenes radiográficas (colocando a los suje
 La cefalometría comienza una carrera vertiginosa con la aparición de numerosos análisis.
 
 ### Angle el Dios linea de tiempo
-|  | año |
-| ---- | ---- |
+|                                                                                       | año  |
+| ------------------------------------------------------------------------------------- | ---- |
 | Primera publicación de Angle y comienzo del diseño y aditamentos del arco de canto 📖 | 1887 |
-| Se descubren los Rx por Conrad Rötgen ☠️ | 1895 |
-| Angle publica su Clasificación en la revista COSMO 📰 | 1899 |
-| Angle crea sus primeros cursos 🧑‍🎓 | 1900 |
-| Angle Funda la Sociedad Americana de Ortodoncia 🏠 | 1901 |
-| Case publica el tratado práctico de ortopedia 🥼 | 1908 |
-| Angle aparato pin y tubo 🔧  | 1910 |
-| Angle aparato arco cinta 🔧 | 1915 |
-| Primeros análisis cefalométricos 💀 | 1922 |
-| Angle Bracket 447 🔧 | 1926 |
-| Angle Bracket Edgewise 🔧 | 1928 |
+| Se descubren los Rx por Conrad Rötgen ☠️                                              | 1895 |
+| Angle publica su Clasificación en la revista COSMO 📰                                 | 1899 |
+| Angle crea sus primeros cursos 🧑‍🎓                                                  | 1900 |
+| Angle Funda la Sociedad Americana de Ortodoncia 🏠                                    | 1901 |
+| Case publica el tratado práctico de ortopedia 🥼                                      | 1908 |
+| Angle aparato pin y tubo 🔧                                                           | 1910 |
+| Angle aparato arco cinta 🔧                                                           | 1915 |
+| Primeros análisis cefalométricos 💀                                                   | 1922 |
+| Angle Bracket 447 🔧                                                                  | 1926 |
+| Angle Bracket Edgewise 🔧                                                             | 1928 |
 
 ## Actualidad de 1950 hasta nuestros días:
 En los 60 **Robert M. Ricketts** realizó mejoras en las aleaciones de los alambres y en las técnicas ortodóncicas.
@@ -381,7 +381,7 @@ Es una técnica individualizada, se trabaja mediante software. Requiere conocimi
 ## A destacar:
 - Pierre Fauchard con su aparato el Bandeau
 - Primer libro de odontología en español por Francisco Martínez del Castillo en 1557
-- Llaves de Angle:  
+- Llaves de andrews:  
 	- Llave 1: Relación molar
 	- Llave 2: Inclinación mesio distal _tip_
 	- Llave 3: Inclinación vestibulo lingual _torque_
