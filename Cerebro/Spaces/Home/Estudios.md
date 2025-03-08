@@ -3,49 +3,49 @@ banner: "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png"
 sticker: emoji//1f396-fe0f
 ---
 [[1. El paciente con riesgo médico]]
-- [ ] Lectura
+- [x] Lectura ✅ 2025-02-06
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 
 [[2. Riesgo de sangrado]]
-- [ ] Lectura
+- [x] Lectura ✅ 2025-02-06
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 
 [[3. Alteraciones Cardiovasculares]]
-- [ ] Lectura
+- [x] Lectura ✅ 2025-02-06
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 
 [[4. Patología Respiratoria]]
-- [ ] Lectura
+- [x] Lectura ✅ 2025-02-06
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 
 [[5. Insuficiencia Renal]]
-- [ ] Lectura
+- [x] Lectura ✅ 2025-02-06
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 
 [[6. Insuficiencia Hepática]]
-- [ ] Lectura
+- [x] Lectura ✅ 2025-02-06
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
 
 [[7. Sistema Digestivo]]
-- [ ] Lectura
+- [x] Lectura ✅ 2025-02-06
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura
@@ -66,7 +66,7 @@ sticker: emoji//1f396-fe0f
 - [ ] Lectura
 
 [[10. Paciente Oncológico]]
-- [ ] Lectura
+- [x] Lectura ✅ 2025-02-06
 - [ ] Lectura
 - [ ] Lectura
 - [ ] Lectura

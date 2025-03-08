@@ -1,6 +1,6 @@
 ---
 sticker: emoji//1f6a7
-banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
+banner: "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png"
 author: Virginia Miralles
 tema: "5"
 tags:
@@ -326,7 +326,7 @@ Coronales, radiculares pulpares, histológicos.
 Superficies oclusales más estrechas en sentido Vestibulo-lingual, relación corona-raíz más corta, superficies Vestibular y Lingual más abultadas en Incisivos, y crestas <span style="color:#f519e3">VC</span> más prominentes en Molares, áreas de contacto más amplias.
 
 #### Rasgos radiculares
-Las raíces de los molares temporales carecen de <span style="color:#ffff00">tronco radicular </span> y se arcquean para albergar el germen del diente permanente.
+Las raíces de los molares temporales carecen de <span style="color:#ffff00">tronco radicular </span> y se arquean para albergar el germen del diente permanente.
 
 #### Rasgos pulpares
 Gran tamaño de la cámara pulpar, cuernos pulpares cerca de la superficie externa, conductos radiculares en dientes posteriores irregulares en forma y número.
