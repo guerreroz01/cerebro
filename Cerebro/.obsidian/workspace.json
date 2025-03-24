@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dffa8dfc13b212a1",
+        "id": "641ae1cfa25421c3",
         "type": "tabs",
         "children": [
           {
-            "id": "a099c6aec4fde7fb",
+            "id": "50f9bfb21432a53e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/17-03-2025.md",
+                "file": "daily/23-03-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "17-03-2025"
+              "title": "23-03-2025"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "endocrino",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "9592bbd632e4b330",
+            "id": "18055ba39f7c1354",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -204,23 +204,32 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a099c6aec4fde7fb",
+  "active": "50f9bfb21432a53e",
   "lastOpenFiles": [
-    "Estudios UCAM/TOPE/7. Sistema Digestivo.md",
-    "daily/17-03-2025.md",
-    "Spaces/Home/Estudios.md",
-    "Estudios UCAM/TOPE/6. Insuficiencia Hepática.md",
-    "Estudios UCAM/TOPE/5. Insuficiencia Renal.md",
-    "daily/13-03-2025.md",
-    "Estudios UCAM/TOPE/1. El paciente con riesgo médico.md",
-    "daily/11-03-2025.md",
+    "daily/23-03-2025.md",
     "Estudios UCAM/TOPE/10. Paciente Oncológico.md",
+    "Estudios UCAM/TOPE/6. Insuficiencia Hepática.md",
+    "Estudios UCAM/TOPE/2. Riesgo de sangrado.md",
+    "Estudios UCAM/TOPE/4. Patología Respiratoria.md",
     "Estudios UCAM/TOPE/9. Inmunodeficiencias.md",
     "Estudios UCAM/TOPE/8. Alto Riesgo Infeccioso.md",
-    "daily/10-03-2025.md",
-    "Estudios UCAM/TOPE/4. Patología Respiratoria.md",
+    "Estudios UCAM/TOPE/7. Sistema Digestivo.md",
     "Estudios UCAM/TOPE/3. Alteraciones Cardiovasculares.md",
-    "Estudios UCAM/TOPE/2. Riesgo de sangrado.md",
+    "daily/22-03-2025.md",
+    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
+    "Estudios UCAM/TOPE/5. Insuficiencia Renal.md",
+    "Estudios UCAM/TOPE/1. El paciente con riesgo médico.md",
+    "daily/21-03-2025.md",
+    "daily/20-03-2025.md",
+    "daily/18-03-2025.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250318104650.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250318103918.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250317185621.png",
+    "daily/17-03-2025.md",
+    "Spaces/Home/Estudios.md",
+    "daily/13-03-2025.md",
+    "daily/11-03-2025.md",
+    "daily/10-03-2025.md",
     "general knowledge/Ácido Tranexámico.md",
     "general knowledge/assets/Pasted image 20250308161346.png",
     "daily/08-03-2025.md",
@@ -228,20 +237,11 @@
     "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
     "daily/07-03-2025.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250302190503.png",
-    "daily/02-03-2025.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250301111842.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250301111208.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250301105537.png",
-    "daily/01-03-2025.md",
-    "daily/24-02-2025.md",
-    "daily/14-02-2025.md",
-    "daily/09-02-2025.md",
-    "daily/06-02-2025.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250205185610.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250205185601.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250205185425.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250205185053.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250204191424.png",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",
