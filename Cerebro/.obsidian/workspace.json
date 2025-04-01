@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "641ae1cfa25421c3",
+        "id": "a328b44fa83df216",
         "type": "tabs",
         "children": [
           {
-            "id": "50f9bfb21432a53e",
+            "id": "e7d254d19e353fe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "daily/23-03-2025.md",
+                "file": "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23-03-2025"
+              "title": "12. Patología reumatológica y neuromuscular"
+            }
+          },
+          {
+            "id": "1bfcb208e5991fee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Alteraciones Neurodegenerativas"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "endocrino",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +90,7 @@
             }
           },
           {
-            "id": "18055ba39f7c1354",
+            "id": "b9108576daae1145",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,7 +104,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -99,16 +115,6 @@
         "id": "4f9c1c92c15be835",
         "type": "tabs",
         "children": [
-          {
-            "id": "e339d57f377d7b5a",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
           {
             "id": "93f3427ada3ef6f0",
             "type": "leaf",
@@ -176,12 +182,22 @@
             "state": {
               "type": "copilot-chat-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          },
+          {
+            "id": "b5995c34bc42360b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -204,44 +220,44 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "50f9bfb21432a53e",
+  "active": "1bfcb208e5991fee",
   "lastOpenFiles": [
-    "daily/23-03-2025.md",
+    "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
+    "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401174025.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401173958.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401173937.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401173909.png",
+    "daily/01-04-2025.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401172731.png",
+    "Spaces/Home/Lectura.md",
+    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401112816.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401110143.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401110108.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401110051.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250401110027.png",
+    "Spaces/Home/Home.md",
+    "Spaces/Home/Estudios.md",
+    "daily/28-03-2025.md",
     "Estudios UCAM/TOPE/10. Paciente Oncológico.md",
     "Estudios UCAM/TOPE/6. Insuficiencia Hepática.md",
-    "Estudios UCAM/TOPE/2. Riesgo de sangrado.md",
-    "Estudios UCAM/TOPE/4. Patología Respiratoria.md",
-    "Estudios UCAM/TOPE/9. Inmunodeficiencias.md",
-    "Estudios UCAM/TOPE/8. Alto Riesgo Infeccioso.md",
-    "Estudios UCAM/TOPE/7. Sistema Digestivo.md",
-    "Estudios UCAM/TOPE/3. Alteraciones Cardiovasculares.md",
-    "daily/22-03-2025.md",
-    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
     "Estudios UCAM/TOPE/5. Insuficiencia Renal.md",
+    "Estudios UCAM/TOPE/4. Patología Respiratoria.md",
+    "Estudios UCAM/TOPE/3. Alteraciones Cardiovasculares.md",
+    "Estudios UCAM/TOPE/2. Riesgo de sangrado.md",
     "Estudios UCAM/TOPE/1. El paciente con riesgo médico.md",
+    "daily/27-03-2025.md",
+    "Estudios UCAM/TOPE/7. Sistema Digestivo.md",
+    "daily/26-03-2025.md",
+    "Estudios UCAM/TOPE/8. Alto Riesgo Infeccioso.md",
+    "daily/25-03-2025.md",
+    "daily/24-03-2025.md",
+    "daily/23-03-2025.md",
+    "Estudios UCAM/TOPE/9. Inmunodeficiencias.md",
+    "daily/22-03-2025.md",
     "daily/21-03-2025.md",
     "daily/20-03-2025.md",
-    "daily/18-03-2025.md",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250318104650.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250318103918.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250317185621.png",
-    "daily/17-03-2025.md",
-    "Spaces/Home/Estudios.md",
-    "daily/13-03-2025.md",
-    "daily/11-03-2025.md",
-    "daily/10-03-2025.md",
-    "general knowledge/Ácido Tranexámico.md",
-    "general knowledge/assets/Pasted image 20250308161346.png",
-    "daily/08-03-2025.md",
-    "Estudios UCAM/Odontopediatria/Tema 5 Consideraciones morfológicas de la dentición temporal.md",
-    "Estudios UCAM/Odontopediatria/Tema 3 Comunicación Odontopediatría y manejo de la conducta.md",
-    "daily/07-03-2025.md",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250302190503.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250301111842.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250301111208.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250301105537.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250205185610.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250205185601.png",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",
