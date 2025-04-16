@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "a328b44fa83df216",
+        "id": "81969c8c4dcca49f",
         "type": "tabs",
         "children": [
           {
-            "id": "e7d254d19e353fe1",
+            "id": "8918226d1753dee8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
+                "file": "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12. Patología reumatológica y neuromuscular"
-            }
-          },
-          {
-            "id": "1bfcb208e5991fee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13. Alteraciones Neurodegenerativas"
+              "title": "18. Sedación y Anestesia"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,7 +75,7 @@
             }
           },
           {
-            "id": "b9108576daae1145",
+            "id": "39a37778652d9b37",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -104,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -220,23 +204,37 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "1bfcb208e5991fee",
+  "active": "39a37778652d9b37",
   "lastOpenFiles": [
-    "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
+    "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
+    "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250416115045.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250416115031.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250416104814.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250416103612.png",
+    "daily/16-04-2025.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250415191539.png",
+    "daily/15-04-2025.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica 2.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecanica 3.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica I.md",
+    "daily/11-04-2025.md",
+    "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250411145644.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250411145626.png",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250408105933.png",
+    "daily/08-04-2025.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250403180323.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250403165827.png",
+    "daily/03-04-2025.md",
+    "Spaces/Home/Exámen Final.md",
+    "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
     "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401174025.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401173958.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401173937.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401173909.png",
-    "daily/01-04-2025.md",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401172731.png",
-    "Spaces/Home/Lectura.md",
+    "daily/02-04-2025.md",
     "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401112816.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401110143.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401110108.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401110051.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250401110027.png",
+    "daily/01-04-2025.md",
+    "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
     "Spaces/Home/Home.md",
     "Spaces/Home/Estudios.md",
     "daily/28-03-2025.md",
@@ -244,20 +242,6 @@
     "Estudios UCAM/TOPE/6. Insuficiencia Hepática.md",
     "Estudios UCAM/TOPE/5. Insuficiencia Renal.md",
     "Estudios UCAM/TOPE/4. Patología Respiratoria.md",
-    "Estudios UCAM/TOPE/3. Alteraciones Cardiovasculares.md",
-    "Estudios UCAM/TOPE/2. Riesgo de sangrado.md",
-    "Estudios UCAM/TOPE/1. El paciente con riesgo médico.md",
-    "daily/27-03-2025.md",
-    "Estudios UCAM/TOPE/7. Sistema Digestivo.md",
-    "daily/26-03-2025.md",
-    "Estudios UCAM/TOPE/8. Alto Riesgo Infeccioso.md",
-    "daily/25-03-2025.md",
-    "daily/24-03-2025.md",
-    "daily/23-03-2025.md",
-    "Estudios UCAM/TOPE/9. Inmunodeficiencias.md",
-    "daily/22-03-2025.md",
-    "daily/21-03-2025.md",
-    "daily/20-03-2025.md",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",

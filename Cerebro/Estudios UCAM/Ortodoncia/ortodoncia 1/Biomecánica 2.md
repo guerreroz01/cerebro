@@ -1,5 +1,5 @@
 ---
-banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
+banner: "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png"
 author: Alejandro Zaragoza
 tema: 
 type: estudios

@@ -1,5 +1,5 @@
 ---
-banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
+banner: "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png"
 sticker: emoji//1f6a7
 author: Juan Gallego Martínez
 type: estudios

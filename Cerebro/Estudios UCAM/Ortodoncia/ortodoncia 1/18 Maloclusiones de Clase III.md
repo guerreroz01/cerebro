@@ -4,7 +4,7 @@ tags:
   - estudios/ortodoncia1
 tema: "18"
 author: Berta Martínez
-banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
+banner: "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png"
 sticker: lucide//check
 ---
 # Maloclusiones de Clase III
