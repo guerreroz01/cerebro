@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "81969c8c4dcca49f",
+        "id": "a12de9289948965f",
         "type": "tabs",
         "children": [
           {
-            "id": "8918226d1753dee8",
+            "id": "b085184acdca11e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -75,7 +75,7 @@
             }
           },
           {
-            "id": "39a37778652d9b37",
+            "id": "fac8e2bdef6c0017",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -89,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -204,10 +205,14 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "39a37778652d9b37",
+  "active": "b085184acdca11e6",
   "lastOpenFiles": [
-    "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250417103504.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250417103141.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250417095943.png",
+    "daily/17-04-2025.md",
     "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
+    "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250416115045.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250416115031.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250416104814.png",
@@ -225,8 +230,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250408105933.png",
     "daily/08-04-2025.md",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250403180323.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250403165827.png",
     "daily/03-04-2025.md",
     "Spaces/Home/Exámen Final.md",
     "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
@@ -240,8 +243,6 @@
     "daily/28-03-2025.md",
     "Estudios UCAM/TOPE/10. Paciente Oncológico.md",
     "Estudios UCAM/TOPE/6. Insuficiencia Hepática.md",
-    "Estudios UCAM/TOPE/5. Insuficiencia Renal.md",
-    "Estudios UCAM/TOPE/4. Patología Respiratoria.md",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",
