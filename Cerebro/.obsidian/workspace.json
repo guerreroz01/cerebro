@@ -11,10 +11,14 @@
             "id": "5763d6248f137aea",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "general knowledge/Linux/Lista de comandos imprescindibles.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lista de comandos imprescindibles"
             }
           }
         ]
@@ -72,7 +76,7 @@
             }
           },
           {
-            "id": "127ee11d146412d0",
+            "id": "231bbc00d03cd67e",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -92,10 +96,14 @@
             "id": "cc14f77b5e117e21",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "daily/19-04-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "19-04-2025"
             }
           }
         ]
@@ -206,7 +214,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 394.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,7 +233,7 @@
       "graph:Open graph view": false
     }
   },
-  "active": "cc14f77b5e117e21",
+  "active": "5763d6248f137aea",
   "lastOpenFiles": [
     "daily/19-04-2025.md",
     "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
