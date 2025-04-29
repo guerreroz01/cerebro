@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7d49fbe446bf7c8f",
+        "id": "49160fc057f00a04",
         "type": "tabs",
         "children": [
           {
-            "id": "3301712d4d6d8706",
+            "id": "7e63391fdfe4f494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
+                "file": "Estudios UCAM/TOPE/19. SD, DI y Enfermedades raras.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Parálisis cerebral y Autismo"
+              "title": "19. SD, DI y Enfermedades raras"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "fdc98f856ba4a7ee",
+            "id": "ce4694f79c5d871d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -107,7 +107,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -230,14 +231,22 @@
       "graph:Open graph view": false
     }
   },
-  "active": "3301712d4d6d8706",
+  "active": "7e63391fdfe4f494",
   "lastOpenFiles": [
+    "daily/29-04-2025.md",
     "Estudios UCAM/TOPE/19. SD, DI y Enfermedades raras.md",
-    "daily/27-04-2025.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250429114759.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250429110556.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250429105334.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250429100947.png",
+    "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
+    "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
+    "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
+    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
     "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
+    "daily/27-04-2025.md",
     "Spaces/Home/Home.md",
     "Spaces/Home/Exámen Final.md",
-    "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250422091017.png",
     "daily/22-04-2025.md",
     "daily/20-04-2025.md",
@@ -251,23 +260,14 @@
     "daily/18-04-2025.md",
     "daily/17-04-2025.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250417103504.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250417103141.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250417095943.png",
-    "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250416115045.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250416115031.png",
     "daily/16-04-2025.md",
     "daily/15-04-2025.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica 2.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecanica 3.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica I.md",
     "daily/11-04-2025.md",
-    "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md",
     "daily/08-04-2025.md",
-    "daily/03-04-2025.md",
-    "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
-    "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",
