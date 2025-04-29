@@ -28,3 +28,31 @@ sticker: emoji//1f396-fe0f
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
+
+[[17. Discapacidad física y sensorial]]
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+
+[[18. Sedación y Anestesia]]
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+
+[[19. SD, DI y Enfermedades raras]]
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+
+[[20. Parálisis cerebral y Autismo]]
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
