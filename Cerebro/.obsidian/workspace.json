@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "ce4694f79c5d871d",
+            "id": "ed03f3ec99fc2ee5",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5,
-    "collapsed": true
+    "width": 325.5
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -233,6 +232,10 @@
   },
   "active": "7e63391fdfe4f494",
   "lastOpenFiles": [
+    "daily/30-04-2025.md",
+    "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250430195716.png",
+    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172950.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172933.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172704.png",
@@ -245,13 +248,9 @@
     "Estudios UCAM/TOPE/assets/Pasted image 20250429143519.png",
     "daily/29-04-2025.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429114759.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250429110556.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250429105334.png",
     "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
     "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
     "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
-    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
-    "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
     "daily/27-04-2025.md",
     "Spaces/Home/Home.md",
     "daily/22-04-2025.md",
@@ -268,7 +267,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica I.md",
     "daily/11-04-2025.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md",
-    "daily/08-04-2025.md",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",
