@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "49160fc057f00a04",
+        "id": "7aa03a1469e3dfb7",
         "type": "tabs",
         "children": [
           {
-            "id": "7e63391fdfe4f494",
+            "id": "1bafc050956926b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
-                "mode": "source",
+                "file": "Spaces/Home/Exámen Final.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20. Parálisis cerebral y Autismo"
+              "title": "Exámen Final"
+            }
+          },
+          {
+            "id": "c2f6f1cb2a950d8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "11. Sistema Endocrino"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -76,7 +91,7 @@
             }
           },
           {
-            "id": "ed03f3ec99fc2ee5",
+            "id": "89c84ad8bf06973c",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -116,7 +131,7 @@
       {
         "id": "4f9c1c92c15be835",
         "type": "tabs",
-        "dimension": 65.57213930348259,
+        "dimension": 62.089552238805965,
         "children": [
           {
             "id": "93f3427ada3ef6f0",
@@ -170,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/TOPE/2. Riesgo de sangrado.md",
+                "file": "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2. Riesgo de sangrado"
+              "title": "Outline of 11. Sistema Endocrino"
             }
           },
           {
@@ -190,12 +205,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "9f9c79bd6ccf8412",
         "type": "tabs",
-        "dimension": 34.42786069651741,
+        "dimension": 37.91044776119403,
         "children": [
           {
             "id": "b5995c34bc42360b",
@@ -211,8 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5,
-    "collapsed": true
+    "width": 394.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,19 +244,21 @@
       "graph:Open graph view": false
     }
   },
-  "active": "7e63391fdfe4f494",
+  "active": "c2f6f1cb2a950d8d",
   "lastOpenFiles": [
-    "daily/30-04-2025.md",
+    "Spaces/Home/Exámen Final.md",
+    "daily/01-05-2025.md",
     "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250430195716.png",
+    "daily/01-03-2025.md",
     "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
+    "daily/30-04-2025.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250430195716.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172950.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172933.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172704.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429150321.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429150242.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429145720.png",
-    "Spaces/Home/Exámen Final.md",
     "Estudios UCAM/TOPE/19. SD, DI y Enfermedades raras.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429144010.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429143519.png",
@@ -266,7 +282,6 @@
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecanica 3.md",
     "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica I.md",
     "daily/11-04-2025.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/18 Maloclusiones de Clase III.md",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",
