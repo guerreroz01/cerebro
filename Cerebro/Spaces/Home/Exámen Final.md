@@ -2,20 +2,27 @@
 sticker: emoji//1f396-fe0f
 ---
 [[11. Sistema Endocrino]]
-- [ ] lectura
+- [x] lectura ✅ 2025-05-01
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 
 [[12. Patología reumatológica y neuromuscular]]
-- [ ] lectura
+- [x] lectura ✅ 2025-05-01
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 
 [[13. Alteraciones Neurodegenerativas]]
+- [x] lectura ✅ 2025-05-01
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+
+[[15. Manejo del paciente epiléptico]]
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
@@ -23,7 +30,7 @@ sticker: emoji//1f396-fe0f
 - [ ] lectura
 
 [[16. Discapacidad y Minusvalía]]
-- [ ] lectura
+- [x] lectura ✅ 2025-05-01
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura

@@ -4,35 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "7aa03a1469e3dfb7",
+        "id": "aea60c9d1b1c2b2c",
         "type": "tabs",
         "children": [
           {
-            "id": "1bafc050956926b3",
+            "id": "800eef3c72761aab",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Spaces/Home/Exámen Final.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Exámen Final"
             }
           },
           {
-            "id": "c2f6f1cb2a950d8d",
+            "id": "6fe7c1d10a46ab72",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
-                "mode": "preview",
+                "file": "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11. Sistema Endocrino"
+              "title": "15. Manejo del paciente epiléptico"
             }
           }
         ],
@@ -91,7 +93,7 @@
             }
           },
           {
-            "id": "89c84ad8bf06973c",
+            "id": "26065651d2525e18",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -185,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
+                "file": "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 11. Sistema Endocrino"
+              "title": "Outline of 15. Manejo del paciente epiléptico"
             }
           },
           {
@@ -244,13 +246,19 @@
       "graph:Open graph view": false
     }
   },
-  "active": "c2f6f1cb2a950d8d",
+  "active": "6fe7c1d10a46ab72",
   "lastOpenFiles": [
     "Spaces/Home/Exámen Final.md",
+    "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
+    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
+    "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
+    "daily/02-05-2025.md",
+    "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
+    "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
+    "general knowledge/SOMATOSTATINA..md",
     "daily/01-05-2025.md",
     "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
     "daily/01-03-2025.md",
-    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
     "daily/30-04-2025.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250430195716.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172950.png",
@@ -266,7 +274,6 @@
     "Estudios UCAM/TOPE/assets/Pasted image 20250429114759.png",
     "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
     "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
-    "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
     "daily/27-04-2025.md",
     "Spaces/Home/Home.md",
     "daily/22-04-2025.md",
@@ -277,11 +284,6 @@
     "daily/18-04-2025.md",
     "daily/17-04-2025.md",
     "daily/16-04-2025.md",
-    "daily/15-04-2025.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica 2.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecanica 3.md",
-    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica I.md",
-    "daily/11-04-2025.md",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",
