@@ -3,7 +3,7 @@ sticker: emoji//1f396-fe0f
 ---
 [[11. Sistema Endocrino]]
 - [x] lectura ✅ 2025-05-01
-- [ ] lectura
+- [x] lectura ✅ 2025-05-05
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
@@ -23,7 +23,7 @@ sticker: emoji//1f396-fe0f
 - [ ] lectura
 
 [[15. Manejo del paciente epiléptico]]
-- [ ] lectura
+- [x] lectura ✅ 2025-05-04
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
@@ -31,34 +31,34 @@ sticker: emoji//1f396-fe0f
 
 [[16. Discapacidad y Minusvalía]]
 - [x] lectura ✅ 2025-05-01
-- [ ] lectura
+- [x] lectura ✅ 2025-05-04
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 
 [[17. Discapacidad física y sensorial]]
-- [ ] lectura
+- [x] lectura ✅ 2025-05-04
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 
 [[18. Sedación y Anestesia]]
-- [ ] lectura
+- [x] lectura ✅ 2025-05-04
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 
 [[19. SD, DI y Enfermedades raras]]
-- [ ] lectura
+- [x] lectura ✅ 2025-05-04
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 
 [[20. Parálisis cerebral y Autismo]]
-- [ ] lectura
+- [x] lectura ✅ 2025-05-05
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
