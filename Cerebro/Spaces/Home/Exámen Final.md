@@ -10,21 +10,21 @@ sticker: emoji//1f396-fe0f
 
 [[12. Patología reumatológica y neuromuscular]]
 - [x] lectura ✅ 2025-05-01
-- [ ] lectura
+- [x] lectura ✅ 2025-05-07
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 
 [[13. Alteraciones Neurodegenerativas]]
 - [x] lectura ✅ 2025-05-01
-- [ ] lectura
+- [x] lectura ✅ 2025-05-07
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 
 [[15. Manejo del paciente epiléptico]]
 - [x] lectura ✅ 2025-05-04
-- [ ] lectura
+- [x] lectura ✅ 2025-05-07
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
@@ -38,7 +38,7 @@ sticker: emoji//1f396-fe0f
 
 [[17. Discapacidad física y sensorial]]
 - [x] lectura ✅ 2025-05-04
-- [ ] lectura
+- [x] lectura ✅ 2025-05-07
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
