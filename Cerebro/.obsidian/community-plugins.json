@@ -14,6 +14,6 @@
   "obsidian-epub-plugin",
   "obsidian-banners",
   "make-md",
-  "copilot",
-  "obsidian-relative-line-numbers"
+  "obsidian-relative-line-numbers",
+  "github-copilot"
 ]

@@ -1,0 +1,29 @@
+{
+  "conversations": [
+    {
+      "id": "1746635910808",
+      "title": "estas allí?",
+      "messages": [
+        {
+          "id": "1746635910808",
+          "content": "estas allí?",
+          "role": "user",
+          "timestamp": 1746635910808
+        },
+        {
+          "id": "chatcmpl-BUc4tFcTOhpy9mXy4TLVINKR8Kq9D",
+          "content": "¡Sí, estoy aquí! ¿En qué puedo ayudarte hoy con Obsidian?",
+          "role": "assistant",
+          "timestamp": 1746635911792
+        }
+      ],
+      "createdAt": 1746635910808,
+      "updatedAt": 1746635911792,
+      "model": {
+        "label": "GPT-4o",
+        "value": "gpt-4o-2024-08-06"
+      }
+    }
+  ],
+  "activeConversationId": "1746635910808"
+}
