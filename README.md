@@ -1,4 +1,4 @@
-![logo ucam][Cerebro/Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png]
+![logo ucam][/Cerebro/Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png]
 # Bienvenido a mi cerebro digital
 Estas son las notas que he ido acumulando a lo largo de los años desde que descubri este maravilloso programa
 
