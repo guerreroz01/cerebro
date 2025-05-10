@@ -15,9 +15,17 @@ sticker: emoji//1f396-fe0f
 - [ ] lectura
 - [ ] lectura
 
+
 [[13. Alteraciones Neurodegenerativas]]
 - [x] lectura ✅ 2025-05-01
 - [x] lectura ✅ 2025-05-07
+- [ ] lectura
+- [ ] lectura
+- [ ] lectura
+
+[[14. Trastornos Psiquiátrico]]
+- [ ] lectura
+- [ ] lectura
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura

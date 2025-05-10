@@ -15,10 +15,41 @@
           "content": "¡Sí, estoy aquí! ¿En qué puedo ayudarte hoy con Obsidian?",
           "role": "assistant",
           "timestamp": 1746635911792
+        },
+        {
+          "id": "1746783104400",
+          "content": "[[Ácido Tranexámico]] hablame sobre este tema",
+          "role": "user",
+          "timestamp": 1746783104400,
+          "linkedNotes": [
+            {
+              "path": "general knowledge/Ácido Tranexámico.md",
+              "filename": "Ácido Tranexámico",
+              "content": "![[Pasted image 20250308161346.png]]\n\nEl **ácido tranexámico** (inglés _tranexamic acid_), es una sustancia utilizada en [medicina](https://es.wikipedia.org/wiki/Medicina \"Medicina\") para neutralizar el sistema de [fibrinólisis](https://es.wikipedia.org/wiki/Fibrin%C3%B3lisis \"Fibrinólisis\"). Fue descubierto en 1962 por [Utako Okamoto](https://es.wikipedia.org/wiki/Utako_Okamoto \"Utako Okamoto\").[1](https://es.wikipedia.org/wiki/%C3%81cido_tranex%C3%A1mico#cite_note-Lancet2016-1)​ Su mecanismo de efecto radica en un bloqueo de la formación de plasmina mediante la inhibición de la actividad proteolítica de los activadores de plasminógenos, cosa que en definitiva inhibe la disolución de los coágulos ([fibrinólisis](https://es.wikipedia.org/wiki/Fibrin%C3%B3lisis \"Fibrinólisis\")). Por ello, se denomina [antifibrinolítico](https://es.wikipedia.org/w/index.php?title=Antifibrinol%C3%ADtico&action=edit&redlink=1 \"Antifibrinolítico (aún no redactado)\") (inhibidor de la fibrinólisis)\n\n## Mecanismo de acción:\n___\nEl ácido tranexámico bloquea el punto de enlace de la lisina en la enzima de la fibrinólisis plasmina, esencial para el enlace de la plasmina a la fibrina. De este modo se bloquea el efecto normal de la plasmina, la disolución de coágulos (fibrinólisis). En dosis reducidas, el ácido tranexámico actúa como inhibidor competitivo de la plasmina, en dosis elevadas como inhibidor no competitivo. \n\n## Absorción y biodisponibilidad:\n___\nEl ácido tranexámico tiene una biodisponibilidad de 30 a 50% tras la administración por vía oral. El volumen de distribución oscila entre 9 y 12 L; y el valor del tiempo de vida medio es de 2 [h](https://es.wikipedia.org/wiki/H \"H\").\n\n## Dosis y administración\n### Adultos:\n**Extracción dental en caso de hemofilia.** 10 mg/kg de peso corporal, por dosis individual administrada lentamente por vía intravenosa (o como infusión) antes de la extracción dental. Dosis diaria de 25 mg/kg de peso corporal, administrado por vía oral repartida entre 3 o 4 dosis individuales. Como alternativa un día antes de la extracción dental se pueden administrar por vía oral 25 mg/kg de peso corporal, por dosis individual repartidos en 3 o 4 dosis individuales.\n\nLa dosis estándar en caso de fibrinólisis local es de 1 a 2 ampollas administradas lentamente por vía intravenosa (0,5-1 g de ácido tranexámico) preferiblemente como breve infusión durante 10 minutos o también con 2 o 3 comprimidos recubiertos con película, en dos o tres tomas diarias respectivamente. En caso de fibrinólisis generalizada grave se administra lentamente 1 g (2 ampollas) por vía intravenosa en intervalos de 6 a 8 horas observando la proporción 15 mg/kg de peso corporal.\n\nA causa de la eliminación casi exclusivamente renal de esta sustancia, en caso de insuficiencia renal debe reducirse esta dosis, en especial en tratamientos prolongados, para que el ácido tranexámico no se acumule en el plasma. Dependiendo de la presencia de creatinina en el suero, se reducirá el número de dosis diarias individuales."
+            }
+          ]
+        },
+        {
+          "id": "chatcmpl-BVEMze0R9EAtfjaCWuXWflfKkPyU0",
+          "content": "El ácido tranexámico es un medicamento utilizado principalmente para prevenir y tratar el sangrado excesivo. Su principal función es inhibir la fibrinólisis, el proceso mediante el cual los coágulos de sangre se disuelven. Esto lo convierte en un agente antifibrinolítico.\n\n### Mecanismo de Acción\nEl ácido tranexámico actúa bloqueando el sitio de unión de la lisina en la enzima plasmina, que es crucial para la disolución de coágulos. Al inhibir la actividad de la plasmina, se previene la disolución de los coágulos sanguíneos, lo que ayuda a controlar el sangrado.\n\n### Absorción y Biodisponibilidad\nCuando se administra por vía oral, el ácido tranexámico tiene una biodisponibilidad del 30 al 50%. Su volumen de distribución es de 9 a 12 litros, y su vida media es de aproximadamente 2 horas.\n\n### Dosis y Administración\n- **Adultos:**\n  - **Extracción dental en hemofilia:** Se administra 10 mg/kg de peso corporal por vía intravenosa antes de la extracción dental. La dosis diaria es de 25 mg/kg por vía oral, dividida en 3 o 4 dosis.\n  - **Fibrinólisis local:** Se administra 1 a 2 ampollas (0,5-1 g) por vía intravenosa o 2 a 3 comprimidos al día.\n  - **Fibrinólisis generalizada grave:** Se administra 1 g por vía intravenosa cada 6 a 8 horas.\n\nEn pacientes con insuficiencia renal, es importante ajustar la dosis para evitar la acumulación del medicamento en el plasma, ya que se elimina principalmente por vía renal.\n\nEl ácido tranexámico es una herramienta valiosa en situaciones donde el control del sangrado es crítico, como en cirugías, traumatismos o condiciones médicas que predisponen a sangrados excesivos.",
+          "role": "assistant",
+          "timestamp": 1746783109857
+        },
+        {
+          "id": "1746783290157",
+          "content": "el enantium es un AINE",
+          "role": "user",
+          "timestamp": 1746783290157
+        },
+        {
+          "id": "chatcmpl-BVEPzBUQKhRNv6ul1v1dlOiXa1IAN",
+          "content": "Sí, Enantyum es un medicamento cuyo principio activo es el dexketoprofeno, que es un antiinflamatorio no esteroideo (AINE). Los AINEs son conocidos por sus propiedades analgésicas, antiinflamatorias y antipiréticas. El dexketoprofeno se utiliza para aliviar el dolor de intensidad leve a moderada, como el dolor muscular, el dolor dental, el dolor menstrual y otros tipos de dolor agudo.\n\n### Mecanismo de Acción\nEl dexketoprofeno actúa inhibiendo la enzima ciclooxigenasa (COX), que es responsable de la síntesis de prostaglandinas. Las prostaglandinas son compuestos que contribuyen a la inflamación, el dolor y la fiebre. Al reducir la producción de prostaglandinas, el dexketoprofeno ayuda a disminuir estos síntomas.\n\n### Administración\nEnantyum se puede encontrar en varias formas, como comprimidos, sobres de granulado para solución oral y solución inyectable. La dosis y la forma de administración dependen de la intensidad del dolor y de las características individuales del paciente.\n\n### Consideraciones\nComo con otros AINEs, el uso de Enantyum puede estar asociado con efectos secundarios gastrointestinales, como irritación gástrica, úlceras o sangrado. También puede aumentar el riesgo de eventos cardiovasculares en algunos pacientes. Por lo tanto, es importante usarlo bajo la supervisión de un profesional de la salud y seguir las indicaciones de dosificación recomendadas.",
+          "role": "assistant",
+          "timestamp": 1746783294983
         }
       ],
       "createdAt": 1746635910808,
-      "updatedAt": 1746635911792,
+      "updatedAt": 1746783294983,
       "model": {
         "label": "GPT-4o",
         "value": "gpt-4o-2024-08-06"

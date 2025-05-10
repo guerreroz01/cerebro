@@ -22,8 +22,23 @@
               "icon": "lucide-file",
               "title": "Exámen Final"
             }
+          },
+          {
+            "id": "a05fa0ba15bfb1b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Estudios UCAM/TOPE/14. Trastornos Psiquiátrico.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Trastornos Psiquiátrico"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
             }
           },
           {
-            "id": "068cd1ba77f91136",
+            "id": "d1eafe751862fe4d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -184,9 +199,11 @@
           {
             "id": "df6a86d7c9733bf8",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "github-copilot-chat-view",
               "state": {},
+              "pinned": true,
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
@@ -227,35 +244,39 @@
       "media-extended:Open media": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Open Copilot Chat": false,
       "graph:Open graph view": false
     }
   },
-  "active": "df6a86d7c9733bf8",
+  "active": "a05fa0ba15bfb1b9",
   "lastOpenFiles": [
-    "daily/07-05-2025.md",
-    "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250510201851.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250510193640.png",
     "Spaces/Home/Exámen Final.md",
-    "Spaces/#estudios+tope",
-    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
-    "daily/05-05-2025.md",
+    "daily/10-05-2025.md",
+    "Estudios UCAM/TOPE/14. Trastornos Psiquiátrico.md",
+    "Untitled.md",
+    "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
     "Estudios UCAM/TOPE/19. SD, DI y Enfermedades raras.md",
+    "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
+    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
+    "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
+    "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
+    "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
+    "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
+    "daily/09-05-2025.md",
+    "general knowledge/Ácido Tranexámico.md",
+    "daily/07-05-2025.md",
+    "Spaces/#estudios+tope",
+    "daily/05-05-2025.md",
     "general knowledge/Hidroxicina.md",
     "general knowledge/Ketamina.md",
-    "Benzodiacepinas.md",
+    "general knowledge/Benzodiacepinas 1.md",
     "general knowledge/espasticidad severa.md",
     "daily/02-05-2025.md",
     "daily/04-05-2025.md",
     "daily/03-05-2025.md",
-    "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
-    "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
-    "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
-    "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
     "general knowledge/SOMATOSTATINA..md",
     "daily/01-05-2025.md",
-    "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
-    "daily/01-03-2025.md",
-    "daily/30-04-2025.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250430195716.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172950.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172933.png",
@@ -265,10 +286,6 @@
     "Estudios UCAM/TOPE/assets/Pasted image 20250429145720.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429144010.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429143519.png",
-    "daily/29-04-2025.md",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250429114759.png",
-    "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
-    "daily/27-04-2025.md",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",
