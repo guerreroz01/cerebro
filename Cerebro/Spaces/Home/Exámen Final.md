@@ -11,21 +11,21 @@ sticker: emoji//1f396-fe0f
 [[12. Patología reumatológica y neuromuscular]]
 - [x] lectura ✅ 2025-05-01
 - [x] lectura ✅ 2025-05-07
-- [ ] lectura
-- [ ] lectura
+- [x] lectura ✅ 2025-05-12
+- [x] lectura ✅ 2025-05-12
 - [ ] lectura
 
 
 [[13. Alteraciones Neurodegenerativas]]
 - [x] lectura ✅ 2025-05-01
 - [x] lectura ✅ 2025-05-07
-- [ ] lectura
+- [x] lectura ✅ 2025-05-12
 - [ ] lectura
 - [ ] lectura
 
 [[14. Trastornos Psiquiátrico]]
-- [ ] lectura
-- [ ] lectura
+- [x] lectura ✅ 2025-05-12
+- [x] lectura ✅ 2025-05-12
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
@@ -33,14 +33,14 @@ sticker: emoji//1f396-fe0f
 [[15. Manejo del paciente epiléptico]]
 - [x] lectura ✅ 2025-05-04
 - [x] lectura ✅ 2025-05-07
-- [ ] lectura
+- [x] lectura ✅ 2025-05-12
 - [ ] lectura
 - [ ] lectura
 
 [[16. Discapacidad y Minusvalía]]
 - [x] lectura ✅ 2025-05-01
 - [x] lectura ✅ 2025-05-04
-- [ ] lectura
+- [x] lectura ✅ 2025-05-12
 - [ ] lectura
 - [ ] lectura
 
@@ -53,7 +53,7 @@ sticker: emoji//1f396-fe0f
 
 [[18. Sedación y Anestesia]]
 - [x] lectura ✅ 2025-05-04
-- [ ] lectura
+- [x] lectura ✅ 2025-05-12
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura

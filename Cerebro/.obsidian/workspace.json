@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "a05fa0ba15bfb1b9",
+            "id": "151df41ab6a76dd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Estudios UCAM/TOPE/14. Trastornos Psiquiátrico.md",
+                "file": "general knowledge/Linux/tmux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14. Trastornos Psiquiátrico"
+              "title": "tmux"
             }
           }
         ],
@@ -93,7 +93,7 @@
             }
           },
           {
-            "id": "d1eafe751862fe4d",
+            "id": "ae67bccb6c04d7a7",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -102,8 +102,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "224631011a8ae08c",
@@ -113,9 +112,11 @@
           {
             "id": "cc14f77b5e117e21",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
+              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
@@ -124,7 +125,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -187,13 +189,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spaces/Home/Exámen Final.md",
+                "file": "general knowledge/Linux/tmux.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Exámen Final"
+              "title": "Outline of tmux"
             }
           },
           {
@@ -219,9 +221,11 @@
           {
             "id": "b5995c34bc42360b",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "calendar",
               "state": {},
+              "pinned": true,
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
@@ -230,7 +234,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 394.5
+    "width": 394.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,22 +252,28 @@
       "graph:Open graph view": false
     }
   },
-  "active": "a05fa0ba15bfb1b9",
+  "active": "151df41ab6a76dd1",
   "lastOpenFiles": [
-    "Estudios UCAM/TOPE/assets/Pasted image 20250510201851.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250510193640.png",
     "Spaces/Home/Exámen Final.md",
-    "daily/10-05-2025.md",
-    "Estudios UCAM/TOPE/14. Trastornos Psiquiátrico.md",
-    "Untitled.md",
-    "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
+    "general knowledge/Linux/tmux.md",
+    "daily/12-05-2025.md",
+    "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
     "Estudios UCAM/TOPE/19. SD, DI y Enfermedades raras.md",
-    "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
-    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
     "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
     "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
+    "Estudios UCAM/TOPE/14. Trastornos Psiquiátrico.md",
+    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
     "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
     "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
+    "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
+    "general knowledge/Benzodiacepinas 1.md",
+    "general knowledge/Meshtastic LoRa.md",
+    "daily/11-05-2025.md",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250510201851.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250510193640.png",
+    "daily/10-05-2025.md",
+    "Untitled.md",
+    "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
     "daily/09-05-2025.md",
     "general knowledge/Ácido Tranexámico.md",
     "daily/07-05-2025.md",
@@ -270,13 +281,8 @@
     "daily/05-05-2025.md",
     "general knowledge/Hidroxicina.md",
     "general knowledge/Ketamina.md",
-    "general knowledge/Benzodiacepinas 1.md",
     "general knowledge/espasticidad severa.md",
     "daily/02-05-2025.md",
-    "daily/04-05-2025.md",
-    "daily/03-05-2025.md",
-    "general knowledge/SOMATOSTATINA..md",
-    "daily/01-05-2025.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250430195716.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172950.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429172933.png",
@@ -285,7 +291,6 @@
     "Estudios UCAM/TOPE/assets/Pasted image 20250429150242.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429145720.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250429144010.png",
-    "Estudios UCAM/TOPE/assets/Pasted image 20250429143519.png",
     "Spaces/#ai",
     "Spaces/#libros",
     "Spaces/#estudios",
