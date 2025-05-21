@@ -106,10 +106,22 @@
           "content": "El órgano principal encargado del equilibrio es el **oído interno**, y la parte específica que desempeña un papel crucial en el equilibrio es el **sistema vestibular**. El sistema vestibular está compuesto por varias estructuras dentro del oído interno:\n\n1. **Canales Semicirculares**: Hay tres canales semicirculares (anterior, posterior y lateral) que están orientados en ángulos aproximadamente perpendiculares entre sí. Estos canales detectan la rotación de la cabeza en diferentes planos y son sensibles a los movimientos angulares.\n\n2. **Órgano Otolítico**: Este incluye el **utrículo** y el **sáculo**, que son responsables de detectar la aceleración lineal y la posición de la cabeza en relación con la gravedad. Contienen pequeñas partículas llamadas otolitos que se mueven en respuesta a los cambios de posición, estimulando las células sensoriales.\n\n### Función del Sistema Vestibular\n\nEl sistema vestibular envía información al cerebro sobre el movimiento y la posición de la cabeza. Esta información se integra con las señales visuales y las señales de los músculos y las articulaciones para ayudar a mantener el equilibrio y la postura, así como para coordinar los movimientos de los ojos y la cabeza.\n\n### Importancia\n\nEl correcto funcionamiento del sistema vestibular es esencial para el equilibrio, la orientación espacial y la estabilidad visual. Problemas en el sistema vestibular pueden llevar a síntomas como mareos, vértigo, desequilibrio y náuseas.",
           "role": "assistant",
           "timestamp": 1747154052374
+        },
+        {
+          "id": "1747668128220",
+          "content": "por qué está contraindicada la ketamina en pacientes con patología cardiopulmonar?\n",
+          "role": "user",
+          "timestamp": 1747668128220
+        },
+        {
+          "id": "chatcmpl-BYwbZpbz3bFHVWspDSDqBE1Ee9wEU",
+          "content": "La ketamina es un anestésico disociativo que se utiliza en diversas situaciones médicas debido a sus propiedades analgésicas y sedantes. Sin embargo, su uso está contraindicado o se debe tener precaución en pacientes con patología cardiopulmonar debido a sus efectos sobre el sistema cardiovascular y respiratorio. Aquí te explico por qué:\n\n### Efectos Cardiovasculares\n\n1. **Estimulación Simpática**: La ketamina puede aumentar la actividad del sistema nervioso simpático, lo que lleva a un aumento de la frecuencia cardíaca (taquicardia) y de la presión arterial. En pacientes con enfermedades cardiacas, como insuficiencia cardíaca, hipertensión no controlada o enfermedad coronaria, estos efectos pueden ser perjudiciales y aumentar el riesgo de eventos cardíacos adversos.\n\n2. **Demanda de Oxígeno**: El aumento de la frecuencia cardíaca y la presión arterial puede incrementar la demanda de oxígeno del miocardio, lo que es problemático en pacientes con enfermedad coronaria, ya que puede precipitar isquemia o infarto de miocardio.\n\n### Efectos Respiratorios\n\n1. **Depresión Respiratoria**: Aunque la ketamina es menos depresora del sistema respiratorio que otros anestésicos, en dosis altas o en combinación con otros sedantes, puede causar depresión respiratoria. En pacientes con enfermedades pulmonares, como EPOC o asma, esto puede agravar la insuficiencia respiratoria.\n\n2. **Aumento de Secreciones**: La ketamina puede aumentar las secreciones salivales y bronquiales, lo que puede ser problemático en pacientes con enfermedades respiratorias, ya que puede obstruir las vías aéreas y complicar la ventilación.\n\n### Consideraciones Clínicas\n\nDebido a estos efectos, es importante evaluar cuidadosamente el riesgo-beneficio del uso de ketamina en pacientes con patología cardiopulmonar. En algunos casos, se pueden utilizar medidas para mitigar estos efectos, como la administración concomitante de medicamentos que controlen la presión arterial o la frecuencia cardíaca, pero siempre bajo estricta supervisión médica.",
+          "role": "assistant",
+          "timestamp": 1747668133554
         }
       ],
       "createdAt": 1746635910808,
-      "updatedAt": 1747154052374,
+      "updatedAt": 1747668133554,
       "model": {
         "label": "GPT-4o",
         "value": "gpt-4o-2024-08-06"

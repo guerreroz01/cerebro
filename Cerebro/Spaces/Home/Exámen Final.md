@@ -4,7 +4,7 @@ sticker: emoji//1f396-fe0f
 [[11. Sistema Endocrino]]
 - [x] lectura ✅ 2025-05-01
 - [x] lectura ✅ 2025-05-05
-- [ ] lectura
+- [x] lectura ✅ 2025-05-21
 - [ ] lectura
 - [ ] lectura
 
@@ -34,20 +34,20 @@ sticker: emoji//1f396-fe0f
 - [x] lectura ✅ 2025-05-04
 - [x] lectura ✅ 2025-05-07
 - [x] lectura ✅ 2025-05-12
-- [ ] lectura
+- [x] lectura ✅ 2025-05-20
 - [ ] lectura
 
 [[16. Discapacidad y Minusvalía]]
 - [x] lectura ✅ 2025-05-01
 - [x] lectura ✅ 2025-05-04
 - [x] lectura ✅ 2025-05-12
-- [ ] lectura
+- [x] lectura ✅ 2025-05-20
 - [ ] lectura
 
 [[17. Discapacidad física y sensorial]]
 - [x] lectura ✅ 2025-05-04
 - [x] lectura ✅ 2025-05-07
-- [ ] lectura
+- [x] lectura ✅ 2025-05-19
 - [ ] lectura
 - [ ] lectura
 
@@ -60,14 +60,14 @@ sticker: emoji//1f396-fe0f
 
 [[19. SD, DI y Enfermedades raras]]
 - [x] lectura ✅ 2025-05-04
-- [ ] lectura
+- [x] lectura ✅ 2025-05-19
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
 
 [[20. Parálisis cerebral y Autismo]]
 - [x] lectura ✅ 2025-05-05
-- [ ] lectura
+- [x] lectura ✅ 2025-05-19
 - [ ] lectura
 - [ ] lectura
 - [ ] lectura
