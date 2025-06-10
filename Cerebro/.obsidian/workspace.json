@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "aea60c9d1b1c2b2c",
+        "id": "63d1086b4c02f546",
         "type": "tabs",
         "children": [
           {
-            "id": "800eef3c72761aab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Spaces/Home/Exámen Final.md",
-                "mode": "preview",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Exámen Final"
-            }
-          },
-          {
-            "id": "2939d5b6f5ee6246",
+            "id": "5f197cf12dbdfeb0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "18. Sedación y Anestesia"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +72,7 @@
             }
           },
           {
-            "id": "0925179631be18e7",
+            "id": "9b94a0b421e376d1",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -102,8 +81,7 @@
               "title": "Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "224631011a8ae08c",
@@ -189,13 +167,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 18. Sedación y Anestesia"
+              "title": "Outline"
             }
           },
           {
@@ -206,12 +183,22 @@
               "type": "github-copilot-chat-view",
               "state": {},
               "pinned": true,
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "0b349ba3c211b315",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
               "icon": "bot-message-square",
               "title": "Copilot Chat"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       },
       {
         "id": "9f9c79bd6ccf8412",
@@ -245,17 +232,21 @@
       "command-palette:Open command palette": false,
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
+      "graph:Open graph view": false,
       "media-extended:Open media": false,
       "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "graph:Open graph view": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2939d5b6f5ee6246",
+  "active": "5f197cf12dbdfeb0",
   "lastOpenFiles": [
+    "daily/01-05-2025.md",
+    "Master",
+    "Spaces/Home/Home.md",
     "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
-    "Estudios UCAM/TOPE/14. Trastornos Psiquiátrico.md",
+    "daily/10-06-2025.md",
     "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
+    "Estudios UCAM/TOPE/14. Trastornos Psiquiátrico.md",
     "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
     "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
     "Estudios UCAM/TOPE/19. SD, DI y Enfermedades raras.md",
@@ -268,7 +259,6 @@
     "daily/21-05-2025.md",
     "daily/20-05-2025.md",
     "daily/19-05-2025.md",
-    "daily/01-05-2025.md",
     "daily/01-05-2025.md~",
     "Cerebro.md",
     "Checkboxes.md",
@@ -279,9 +269,6 @@
     "general knowledge/Cofosis.md",
     "daily/13-05-2025.md",
     "general knowledge/Linux/tmux.md",
-    "daily/12-05-2025.md",
-    "general knowledge/Benzodiacepinas 1.md",
-    "general knowledge/Meshtastic LoRa.md",
     "Estudios UCAM/TOPE/assets/Pasted image 20250510201851.png",
     "Estudios UCAM/TOPE/assets/Pasted image 20250510193640.png",
     "Spaces/#estudios+tope",
@@ -298,7 +285,6 @@
     "Spaces/#estudios",
     "Estudios UCAM/TOPE/assets",
     "general knowledge/AI/Red Neuronal.canvas",
-    "Spaces/assets",
-    "Estudios UCAM/TOPE"
+    "Spaces/assets"
   ]
 }
