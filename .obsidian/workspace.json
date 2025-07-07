@@ -1,20 +1,25 @@
+}
 {
   "main": {
-    "id": "18f50fcadd150d3e",
+    "id": "750000b57b8c8129",
     "type": "split",
     "children": [
       {
-        "id": "ac71e79ef09bf236",
+        "id": "475a37644026699a",
         "type": "tabs",
         "children": [
           {
-            "id": "c46972d66511fb9f",
+            "id": "7cc0db6c707f3f6a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Master Cirugía Periodoncia/1. Disponibilidad Ósea.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1. Disponibilidad Ósea"
             }
           }
         ]
@@ -23,15 +28,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f000b51c950fa302",
+    "id": "2a11fdf532c30a10",
     "type": "split",
     "children": [
       {
-        "id": "4857e132c0a09b8e",
+        "id": "d2e8a11348d7f7ad",
         "type": "tabs",
+        "dimension": 63.92931392931393,
         "children": [
           {
-            "id": "450cabf2e3d05289",
+            "id": "88cb054afeca728a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +50,7 @@
             }
           },
           {
-            "id": "149faa8ea467111a",
+            "id": "cd054c62dc726bb0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +67,7 @@
             }
           },
           {
-            "id": "8aca25ba25ea66b9",
+            "id": "871ad5a01c741f3b",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,27 +75,59 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "f6a30f6e36f0cf36",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "layout-grid",
+              "title": "Navigator"
+            }
+          }
+        ]
+      },
+      {
+        "id": "224631011a8ae08c",
+        "type": "tabs",
+        "dimension": 36.07068607068607,
+        "children": [
+          {
+            "id": "cc14f77b5e117e21",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
-    "id": "74b9544943680a18",
+    "id": "895a0c7d4e3455fe",
     "type": "split",
     "children": [
       {
-        "id": "650161be58366c52",
+        "id": "4f9c1c92c15be835",
         "type": "tabs",
+        "dimension": 62.089552238805965,
         "children": [
           {
-            "id": "d0ac925297cdc6d0",
+            "id": "93f3427ada3ef6f0",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Estudios UCAM/TOPE/Machuca.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,39 +137,38 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Machuca"
             }
           },
           {
-            "id": "22217408813fd935",
+            "id": "075291d8c2de527b",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Estudios UCAM/TOPE/Machuca.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Machuca"
             }
           },
           {
-            "id": "8aa8f2148a8482b1",
+            "id": "aa7e6c2b6e21f06f",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
+                "useHierarchy": true
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "f47c6682d4a68ed6",
+            "id": "6fcc8b1cbd9a6aad",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -143,25 +180,129 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "df6a86d7c9733bf8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
+            }
+          },
+          {
+            "id": "0b349ba3c211b315",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "github-copilot-chat-view"
+            }
+          },
+          {
+            "id": "f4840805faf1fa2e",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "9f9c79bd6ccf8412",
+        "type": "tabs",
+        "dimension": 37.91044776119403,
+        "children": [
+          {
+            "id": "b5995c34bc42360b",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 394.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "graph:Open graph view": false,
+      "media-extended:Open media": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c46972d66511fb9f",
-  "lastOpenFiles": []
+  "active": "7cc0db6c707f3f6a",
+  "lastOpenFiles": [
+    "Master Cirugía Periodoncia/assets/Pasted image 20250929142850.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20250929142544.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20250928182029.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20250928180520.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20250928180456.png",
+    "Master Cirugía Periodoncia/assets/jmap_formación.png",
+    "Master Cirugía Periodoncia/1. Disponibilidad Ósea.md",
+    "Master Cirugía Periodoncia/Investigación clínica a largo plazo del tratamiento con implantes.md",
+    "Spaces/Home/Home.md",
+    "general knowledge/Prótesis Removible.md",
+    "Libros/Protesis removible/McCracken_protesis_parcial_removible.pdf",
+    "Libros/Protesis removible",
+    "Libros/Nueva carpeta",
+    "Master Cirugía Periodoncia/assets/Pasted image 20250630130135.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20250630124256.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20250630124055.png",
+    "Master Cirugía Periodoncia/assets",
+    "Estudios UCAM/TOPE/10. Paciente Oncológico.md",
+    "Master/.md",
+    "Master/Untitled",
+    "Master Cirugía Periodoncia",
+    "daily/01-05-2025.md",
+    "Master Cirugía Periodoncia",
+    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
+    "daily/10-06-2025.md",
+    "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
+    "Estudios UCAM/TOPE/14. Trastornos Psiquiátrico.md",
+    "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
+    "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
+    "Estudios UCAM/TOPE/19. SD, DI y Enfermedades raras.md",
+    "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
+    "Spaces/Home/Exámen Final.md",
+    "daily/22-05-2025.md",
+    "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
+    "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
+    "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
+    "daily/21-05-2025.md",
+    "daily/20-05-2025.md",
+    "daily/19-05-2025.md",
+    "daily/01-05-2025.md~",
+    "Cerebro.md",
+    "Checkboxes.md",
+    "general knowledge/Warhammer 40k/El elegido del Emperador - Mike Lee.epub",
+    "general knowledge/ESP32",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250510201851.png",
+    "Estudios UCAM/TOPE/assets/Pasted image 20250510193640.png",
+    "general knowledge/AI/Red Neuronal.canvas"
+  ]
 }
