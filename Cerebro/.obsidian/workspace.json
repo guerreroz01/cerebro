@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "475a37644026699a",
+        "id": "ba2dfcbff548ce3b",
         "type": "tabs",
         "children": [
           {
-            "id": "7cc0db6c707f3f6a",
+            "id": "206f4206316f6bf0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Cirugía Periodoncia/1. Disponibilidad Ósea.md",
+                "file": "Master Cirugía Periodoncia/3. Superficie y Diseño De los Implantes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. Disponibilidad Ósea"
+              "title": "3. Superficie y Diseño De los Implantes"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "367e58d4ad00c6bb",
+            "id": "7eb5121f555aaa1b",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -171,12 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Master Cirugía Periodoncia/3. Superficie y Diseño De los Implantes.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 3. Superficie y Diseño De los Implantes"
             }
           },
           {
@@ -212,7 +213,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       },
       {
         "id": "9f9c79bd6ccf8412",
@@ -227,8 +228,8 @@
               "type": "calendar",
               "state": {},
               "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ]
@@ -240,6 +241,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open external media": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -248,26 +251,26 @@
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "graph:Open graph view": false,
-      "media-extended:Open media": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
   "active": "88cb054afeca728a",
   "lastOpenFiles": [
-    "Master Cirugía Periodoncia/assets/Pasted image 20251003110941.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251003110626.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251003103447.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251003102756.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251003102349.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251003100815.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251003100754.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251003100714.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251003100657.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20250929142850.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20250929142544.png",
-    "Master Cirugía Periodoncia/1. Disponibilidad Ósea.md",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005192409.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005191426.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005191402.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005191344.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005191313.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005190620.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005190602.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005190241.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005185741.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005185328.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251005185307.png",
     "Master Cirugía Periodoncia/Investigación clínica a largo plazo del tratamiento con implantes.md",
+    "Master Cirugía Periodoncia/3. Superficie y Diseño De los Implantes.md",
+    "Master Cirugía Periodoncia/2. Campo Quirurgico.md",
+    "Master Cirugía Periodoncia/1. Disponibilidad Ósea.md",
     "Spaces/Home/Home.md",
     "general knowledge/Prótesis Removible.md",
     "Libros/Protesis removible/McCracken_protesis_parcial_removible.pdf",
@@ -297,8 +300,6 @@
     "daily/20-05-2025.md",
     "daily/19-05-2025.md",
     "daily/01-05-2025.md~",
-    "Cerebro.md",
-    "Checkboxes.md",
     "general knowledge/Warhammer 40k/El elegido del Emperador - Mike Lee.epub",
     "general knowledge/ESP32",
     "general knowledge/AI/Red Neuronal.canvas"
