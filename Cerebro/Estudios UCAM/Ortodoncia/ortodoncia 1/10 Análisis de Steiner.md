@@ -1,4 +1,7 @@
 ---
+banner: "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png"
+---
+---
 type: estudios
 tema: "10"
 tags:

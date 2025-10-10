@@ -1,4 +1,7 @@
 ---
+banner: "Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png"
+---
+---
 banner: Estudios UCAM/Ortodoncia/ortodoncia 2/assets/UCAM.png
 sticker: lucide//check
 type: estudios

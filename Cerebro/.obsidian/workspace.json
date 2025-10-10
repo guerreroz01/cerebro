@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba2dfcbff548ce3b",
+        "id": "b43193cc557a8fee",
         "type": "tabs",
         "children": [
           {
-            "id": "206f4206316f6bf0",
+            "id": "d9712d9bb4f31899",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Master Cirugía Periodoncia/3. Superficie y Diseño De los Implantes.md",
+                "file": "Master Cirugía Periodoncia/4. Fresado.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3. Superficie y Diseño De los Implantes"
+              "title": "4. Fresado"
             }
           }
         ]
@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "7eb5121f555aaa1b",
+            "id": "a9c0125f5bbe9ae6",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -108,7 +108,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 325.5
+    "width": 325.5,
+    "collapsed": true
   },
   "right": {
     "id": "895a0c7d4e3455fe",
@@ -179,38 +180,6 @@
               "icon": "lucide-list",
               "title": "Outline of 3. Superficie y Diseño De los Implantes"
             }
-          },
-          {
-            "id": "df6a86d7c9733bf8",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
-            }
-          },
-          {
-            "id": "0b349ba3c211b315",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "github-copilot-chat-view"
-            }
-          },
-          {
-            "id": "f4840805faf1fa2e",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
           }
         ],
         "currentTab": 3
@@ -254,21 +223,40 @@
       "obsidian-statusbar-pomo:Start pomodoro": false
     }
   },
-  "active": "88cb054afeca728a",
+  "active": "d9712d9bb4f31899",
   "lastOpenFiles": [
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005192409.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005191426.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005191402.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005191344.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005191313.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005190620.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005190602.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005190241.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005185741.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005185328.png",
-    "Master Cirugía Periodoncia/assets/Pasted image 20251005185307.png",
-    "Master Cirugía Periodoncia/Investigación clínica a largo plazo del tratamiento con implantes.md",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010175627.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010175606.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010175524.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010175340.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010174955.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010174758.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010174546.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010174522.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010174306.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010174049.png",
+    "Master Cirugía Periodoncia/assets/Pasted image 20251010173805.png",
     "Master Cirugía Periodoncia/3. Superficie y Diseño De los Implantes.md",
+    "Master Cirugía Periodoncia/4. Fresado.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Nota.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Maloclusiones transversales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Método de Steiner Plan de TTo.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/diploe.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Clase I.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/CBCT tomografía computarizada de haz cónico.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecanica 3.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/Biomecánica 2.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/15 Biología del movimiento dentario.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/14 Análisis de Arnett.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/13 Cefalometría frontal de Ricketts y cbct.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/11 Análisis de Ricketts.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/10 Análisis de Steiner.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/6 Hábitos y disfunciones orales.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/5 Análisis facial.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/4 Desarrollo de la oclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/3 Oclusión normal y maloclusión.md",
+    "Estudios UCAM/Ortodoncia/ortodoncia 1/2 Crecimiento y Desarrollo.md",
+    "Master Cirugía Periodoncia/Investigación clínica a largo plazo del tratamiento con implantes.md",
     "Master Cirugía Periodoncia/2. Campo Quirurgico.md",
     "Master Cirugía Periodoncia/1. Disponibilidad Ósea.md",
     "Spaces/Home/Home.md",
@@ -277,28 +265,9 @@
     "Libros/Protesis removible",
     "Libros/Nueva carpeta",
     "Master Cirugía Periodoncia/assets",
-    "Estudios UCAM/TOPE/10. Paciente Oncológico.md",
-    "Master/.md",
     "Master/Untitled",
     "Master Cirugía Periodoncia",
-    "daily/01-05-2025.md",
     "Master Cirugía Periodoncia",
-    "Estudios UCAM/TOPE/11. Sistema Endocrino.md",
-    "daily/10-06-2025.md",
-    "Estudios UCAM/TOPE/18. Sedación y Anestesia.md",
-    "Estudios UCAM/TOPE/14. Trastornos Psiquiátrico.md",
-    "Estudios UCAM/TOPE/15. Manejo del paciente epiléptico.md",
-    "Estudios UCAM/TOPE/20. Parálisis cerebral y Autismo.md",
-    "Estudios UCAM/TOPE/19. SD, DI y Enfermedades raras.md",
-    "Estudios UCAM/TOPE/13. Alteraciones Neurodegenerativas.md",
-    "Spaces/Home/Exámen Final.md",
-    "daily/22-05-2025.md",
-    "Estudios UCAM/TOPE/12. Patología reumatológica y neuromuscular.md",
-    "Estudios UCAM/TOPE/17. Discapacidad física y sensorial.md",
-    "Estudios UCAM/TOPE/16. Discapacidad y Minusvalía.md",
-    "daily/21-05-2025.md",
-    "daily/20-05-2025.md",
-    "daily/19-05-2025.md",
     "daily/01-05-2025.md~",
     "general knowledge/Warhammer 40k/El elegido del Emperador - Mike Lee.epub",
     "general knowledge/ESP32",
