@@ -76,7 +76,7 @@
             }
           },
           {
-            "id": "c12120221f8c6da3",
+            "id": "4318232edfd3de6d",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -85,7 +85,8 @@
               "title": "Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "224631011a8ae08c",
@@ -179,9 +180,19 @@
               "icon": "lucide-list",
               "title": "Outline of 3. Superficie y Diseño De los Implantes"
             }
+          },
+          {
+            "id": "7383244b15b387e1",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       },
       {
         "id": "9f9c79bd6ccf8412",
@@ -196,8 +207,8 @@
               "type": "calendar",
               "state": {},
               "pinned": true,
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           }
         ]
@@ -209,8 +220,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open external media": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
@@ -219,10 +228,12 @@
       "random-note:Open random note": false,
       "audio-recorder:Start/stop recording": false,
       "graph:Open graph view": false,
-      "obsidian-statusbar-pomo:Start pomodoro": false
+      "media-extended:Open external media": false,
+      "obsidian-statusbar-pomo:Start pomodoro": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d9712d9bb4f31899",
+  "active": "7383244b15b387e1",
   "lastOpenFiles": [
     "Master Cirugía Periodoncia/3. Superficie y Diseño De los Implantes.md",
     "Master Cirugía Periodoncia/2. Campo Quirurgico.md",
